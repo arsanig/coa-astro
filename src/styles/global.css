@@ -1,1 +1,22 @@
-@import 'tailwindcss';
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'noto-serif';
+    src: url('/fonts/noto-serif/noto-serif-latin-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'barlow';
+    src: url('/fonts/barlow/barlow-latin-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@theme {
+    --font-noto: 'noto-serif', 'sans-serif';
+    --font-barlow: 'barlow', 'sans-serif';
+}
