@@ -1,0 +1,13 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "siteName": "Coptic Orthodox Answers",
+    "slogan": "Know, live, and teach your faith.",
+    "homeLabel": "Home",
+    "libraryLabel": "Video Library",
+    "answersLabel": "Apostolic Answers",
+    "diveLabel": "Deep Dive",
+    "podcastsLabel": "Podcasts",
+    "shortsLabel": "Reels & Shorts",
+    "faithLabel": "Our Faith",
+    "contactLabel": "Contact"
+}

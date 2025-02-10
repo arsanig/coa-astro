@@ -1,12 +1,13 @@
 ---
 import Nav from "./Nav.astro";
+import * as m from "../paraglide/messages.js";
 ---
 
 <header>
     <div class="min-h-96 flex flex-col justify-center items-center">
-        <h1 class="font-noto text-7xl">Coptic Orthodox Answers</h1>
+        <h1 class="font-noto text-7xl">{m.siteName()}</h1>
         <h2 class="font-barlow text-5xl mt-8">
-            Know, live, and teach your faith.
+            {m.slogan()}
         </h2>
     </div>
     <nav

@@ -1,12 +1,15 @@
 ---
 import NavLink from "./NavLink.astro";
+import { localizePathname } from "../scripts/linking";
+import { languageTag } from "../paraglide/runtime";
+import * as m from "../paraglide/messages.js";
 ---
 
-<NavLink text="Home" route="/" />
-<NavLink text="Video Library" route="/library" />
-<NavLink text="Apostolic Answers" route="/answers" />
-<NavLink text="Deep Dive" route="/dive" />
-<NavLink text="Podcasts" route="/podcasts" />
-<NavLink text="Reels & Shorts" route="/shorts" />
-<NavLink text="Our Faith" route="/faith" />
-<NavLink text="Contact" route="/contact" />
+<NavLink text={m.homeLabel()} route={localizePathname("/", languageTag())} />
+<NavLink text={m.libraryLabel()} route={localizePathname("/library", languageTag())} />
+<NavLink text={m.answersLabel()} route={localizePathname("/apostolic-answers", languageTag())} />
+<NavLink text={m.diveLabel()} route={localizePathname("/deep-dive", languageTag())} />
+<NavLink text={m.podcastsLabel()} route={localizePathname("/podcasts", languageTag())} />
+<NavLink text={m.shortsLabel()} route={localizePathname("/shorts", languageTag())} />
+<NavLink text={m.faithLabel()} route={localizePathname("/faith", languageTag())} />
+<NavLink text={m.contactLabel()} route={localizePathname("/contact", languageTag())} />
