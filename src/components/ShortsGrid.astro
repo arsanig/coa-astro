@@ -1,26 +1,35 @@
-<!-- ---
-import { getPlaylistItems } from "@scripts/getPlaylistItems";
-const res = getPlaylistItems(8);
-const shortsIds = res?.items?.map((short) => short?.contentDetails?.videoId);
+---
+import { getPlaylistItems } from "@scripts/youtubeApi";
+const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
+const data = await getPlaylistItems(8, shortsPlaylistId);
+const shortsIds = data?.items?.map(
+    (short: {
+        kind: string;
+        etag: string;
+        id: string;
+        contentDetails: {
+            videoId: string;
+            videoPublishedAt: string;
+        };
+    }) => short?.contentDetails?.videoId
+);
 ---
 
-<div class="flex justify-center py-14 lg:w-full lg:py-18">
-    <div class="flex flex-wrap justify-center items-center gap-9 lg:w-[75%]">
-        <iframe
-            width="315"
-            height="560"
-            src={`https://youtube.com/embed/${shortsIds.at(0)}?autoplay=1&mute=1`}
-            allow="autoplay; encrypted-media"
-        >
-        </iframe>
-        {
-            shortsIds.map((shortId: string) => (
-                <iframe
-                    width="315"
-                    height="560"
-                    src={`https://youtube.com/embed/${shortId}`}
-                />
-            ))
-        }
-    </div>
-</div> -->
+<div class="flex flex-wrap justify-center items-center gap-9 lg:w-[75%]">
+    <iframe
+        width="315"
+        height="560"
+        src={`https://youtube.com/embed/${shortsIds?.at(0)}?autoplay=1&mute=1`}
+        allow="autoplay; encrypted-media"
+    >
+    </iframe>
+    {
+        shortsIds?.map((shortId: string) => (
+            <iframe
+                width="315"
+                height="560"
+                src={`https://youtube.com/embed/${shortId}`}
+            />
+        ))
+    }
+</div>
