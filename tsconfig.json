@@ -1,10 +1,20 @@
 {
-  "extends": "astro/tsconfigs/strict",
-  "include": [".astro/types.d.ts", "**/*"],
-  "exclude": ["dist"],
-  // required configs for paraglide-astro
-  "compilerOptions": {
-    "moduleResolution": "bundler",
-    "allowJs": true
-  }
+    "extends": "astro/tsconfigs/strict",
+    "include": [".astro/types.d.ts", "**/*"],
+    "exclude": ["dist"],
+    // required configs for paraglide-astro
+    "compilerOptions": {
+        "baseUrl": "./",
+        "moduleResolution": "bundler",
+        "allowJs": true,
+        "paths": {
+            "@styles/*": ["src/styles/*"],
+            "@assets/*": ["src/assets/*"],
+            "@components/*": ["src/components/*"],
+            "@layouts/*": ["src/layouts/*"],
+            "@scripts/*": ["src/scripts/*"],
+            "@paraglide/*": ["src/paraglide/*"]
+        },
+        "strictNullChecks": true
+    }
 }

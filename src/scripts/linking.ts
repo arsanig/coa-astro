@@ -1,4 +1,4 @@
-import type { AvailableLanguageTag } from "../paraglide/runtime.js";
+import type { AvailableLanguageTag } from "@paraglide/runtime.js";
 
 type AbsolutePathname = `/${string}`;
 

@@ -1,8 +1,8 @@
 ---
 import NavLink from "./NavLink.astro";
-import { localizePathname } from "../scripts/linking";
-import { languageTag } from "../paraglide/runtime";
-import * as m from "../paraglide/messages.js";
+import { localizePathname } from "@scripts/linking.ts";
+import { languageTag } from "@paraglide/runtime";
+import * as m from "@paraglide/messages.js";
 ---
 
 <NavLink text={m.homeLabel()} route={localizePathname("/", languageTag())} />
