@@ -1,18 +1,21 @@
 ---
 import Nav from "./Nav.astro";
 import * as m from "@paraglide/messages.js";
+const church = "../assets/church.jpg";
 ---
 
 <header>
-    <div class="min-h-96 flex flex-col justify-center items-center">
-        <h1 class="font-noto text-7xl">{m.siteName()}</h1>
-        <h2 class="font-barlow text-5xl mt-8">
-            {m.slogan()}
-        </h2>
+    <div class=`bg-no-repeat bg-cover bg-center bg-[url(${church})]`>
+        <div
+            class=`bg-white/50 min-h-96 flex flex-col justify-center items-center`
+        >
+            <h1 class="font-noto text-7xl">{m.siteName()}</h1>
+            <h2 class="font-barlow text-5xl mt-8">
+                {m.slogan()}
+            </h2>
+        </div>
     </div>
-    <nav
-        class="bg-linear-to-t from-black via-black py-4 px-25 flex flex-row justify-between"
-    >
+    <nav class="bg-black py-4 px-25 flex flex-row justify-between">
         <Nav />
     </nav>
 </header>

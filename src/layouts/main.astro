@@ -1,4 +1,5 @@
 ---
+import Head from "@components/Head.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import { languageTag } from "@paraglide/runtime";
@@ -6,14 +7,13 @@ import { languageTag } from "@paraglide/runtime";
 
 <html lang={languageTag()} dir={Astro.locals.paraglide.dir}>
     <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <title>Coptic Orthodox Answers</title>
+        <Head />
     </head>
-    <body>
+    <body class="p-0 m-0 max-w-screen">
         <Header />
-        <slot />
+        <main>
+            <slot />
+        </main>
         <Footer />
     </body>
 </html>
