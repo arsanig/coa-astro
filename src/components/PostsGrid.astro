@@ -1,0 +1,15 @@
+---
+const { posts } = Astro.props;
+---
+
+<div>
+    {
+        posts.map((post) => {
+            return (
+                <a href={`/apostolic-answers/${post.id}/`}>
+                    <h1>{post.data.title}</h1>
+                </a>
+            );
+        })
+    }
+</div>

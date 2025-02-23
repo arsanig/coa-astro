@@ -1,0 +1,10 @@
+---
+import { type CollectionEntry, render } from "astro:content";
+
+type Props = CollectionEntry<"library">;
+const post = Astro.props;
+const { Content } = await render(post);
+---
+
+<h3>{post.data.title}</h3>
+<Content class="text-right" />

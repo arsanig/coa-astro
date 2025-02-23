@@ -1,0 +1,12 @@
+---
+import Main from "@layouts/Main.astro";
+import PostsGrid from "@components/PostsGrid.astro";
+import { getCollection } from "astro:content";
+const aaPosts = (await getCollection("apostolic_answers")).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<Main>
+    <PostsGrid posts={aaPosts} />
+</Main>
