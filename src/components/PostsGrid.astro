@@ -1,13 +1,22 @@
 ---
+import { type InferEntrySchema, type RenderedContent } from "astro:content";
 const { posts } = Astro.props;
+type Post = {
+    id: string;
+    body?: string;
+    collection: "posts";
+    data: InferEntrySchema<"posts">;
+    rendered?: RenderedContent;
+    filePath?: string;
+};
 ---
 
 <div>
     {
-        posts.map((post) => {
+        posts.map((post: Post) => {
             return (
-                <a href={`/apostolic-answers/${post.id}/`}>
-                    <h1>{post.data.title}</h1>
+                <a href={`/${post.id}`}>
+                    <h1>{post.id}</h1>
                 </a>
             );
         })

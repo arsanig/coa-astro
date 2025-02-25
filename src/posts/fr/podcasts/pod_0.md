@@ -1,11 +1,11 @@
 ---
-lang: "en"
+lang: "fr"
 title: "Why hello there"
-description: "First DD post"
+description: "First POD post"
 pubDate: Sun, Feb 23, 2024
-tags: ["dd"]
+tags: ["pod"]
 ---
 
-### First DD post
+### First pod post
 
 lorem ipsum

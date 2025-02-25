@@ -3,6 +3,8 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import Main from "@layouts/Main.astro";
 import Post from "@layouts/Post.astro";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
     const posts = await getCollection("apostolic_answers");
     return posts.map((post) => ({
@@ -11,9 +13,7 @@ export async function getStaticPaths() {
     }));
 }
 
-export const prerender = true;
-
-type Props = CollectionEntry<"library">;
+type Props = CollectionEntry<"posts">;
 const post = Astro.props;
 ---
 

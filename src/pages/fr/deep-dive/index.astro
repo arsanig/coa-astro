@@ -4,11 +4,11 @@ import PostsGrid from "@components/PostsGrid.astro";
 import { getCollection } from "astro:content";
 
 const posts = await getCollection("posts");
-const podEnglishPosts = posts.filter((post) => {
-    return post.data.lang === "en" && post.data.tags?.includes("pod");
+const ddFrenchPosts = posts.filter((post) => {
+    return post.data.lang === "fr" && post.data.tags?.includes("dd");
 });
 ---
 
 <Main>
-    <PostsGrid posts={podEnglishPosts} />
+    <PostsGrid posts={ddFrenchPosts} />
 </Main>

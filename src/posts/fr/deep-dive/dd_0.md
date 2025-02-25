@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "fr"
 title: "Why hello there"
 description: "First DD post"
 pubDate: Sun, Feb 23, 2024

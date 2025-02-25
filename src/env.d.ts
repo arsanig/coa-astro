@@ -9,3 +9,13 @@ declare namespace App {
         };
     }
 }
+
+interface ImportMetaEnv {
+    readonly YOUTUBE_API_KEY: string;
+    readonly COA_CHANNEL_ID: string;
+    readonly COA_SHORTS_PLAYLIST_ID: string;
+}
+
+interface ImportMeta {
+    readonly env: ImportMetaEnv;
+}

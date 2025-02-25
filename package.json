@@ -1,25 +1,25 @@
 {
-  "name": "coa-astro",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "build": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide && astro build",
-    "preview": "astro preview",
-    "astro": "astro",
-    "postinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide"
-  },
-  "dependencies": {
-    "@astrojs/mdx": "^4.0.8",
-    "@inlang/paraglide-astro": "^0.3.5",
-    "@tailwindcss/vite": "^4.0.3",
-    "@types/canvas-confetti": "^1.9.0",
-    "astro": "^5.2.5",
-    "canvas-confetti": "^1.9.3",
-    "googleapis": "^144.0.0",
-    "tailwindcss": "^4.0.3"
-  },
-  "devDependencies": {
-    "@inlang/paraglide-js": "1.11.8"
-  }
+    "name": "coa-astro",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "astro dev",
+        "build": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide && astro build",
+        "preview": "astro preview",
+        "astro": "astro",
+        "postinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide"
+    },
+    "dependencies": {
+        "@astrojs/mdx": "^4.0.8",
+        "@inlang/paraglide-astro": "^0.3.5",
+        "@tailwindcss/vite": "^4.0.3",
+        "@types/canvas-confetti": "^1.9.0",
+        "astro": "^5.2.5",
+        "canvas-confetti": "^1.9.3",
+        "googleapis": "^144.0.0",
+        "tailwindcss": "^4.0.3"
+    },
+    "devDependencies": {
+        "@inlang/paraglide-js": "1.11.8"
+    }
 }
