@@ -1,7 +1,7 @@
 ---
 import { getPlaylistItems } from "@scripts/youtubeApi";
 const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
-const data = await getPlaylistItems(8, shortsPlaylistId);
+const data = await getPlaylistItems(9, shortsPlaylistId);
 const shortsIds = data?.items?.map(
     (short: {
         kind: string;
@@ -15,11 +15,11 @@ const shortsIds = data?.items?.map(
 );
 ---
 
-<div class="flex flex-wrap justify-center items-center gap-9 lg:w-[75%]">
+<div class="bg-black grid grid-cols-3 place-items-center p-21 gap-9">
     <iframe
         width="315"
         height="560"
-        src={`https://youtube.com/embed/${shortsIds?.at(0)}?autoplay=1&mute=1`}
+        src={`https://youtube.com/embed/${shortsIds?.shift()}?autoplay=1&mute=1`}
         allow="autoplay; encrypted-media"
     >
     </iframe>

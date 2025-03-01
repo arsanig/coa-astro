@@ -1,13 +1,19 @@
-# Astro with Tailwind
+## Coptic Orthodox Answers (COA)
 
-```sh
-npm create astro@latest -- --template with-tailwindcss
-```
+### What is this?
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/with-tailwindcss/devcontainer.json)
+A rework of the website [copticorthodoxanswers.org](https://copticorthodoxanswers.org/), using the [Astro.build](https://astro.build/) framework. Astro's focus as a framework is fast content driven websites with awesome SEO. Exactly what's needed for COA.
 
-Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
+### Most Wanted Features
 
-For complete setup instructions, please see our [Tailwind Integration Guide](https://docs.astro.build/en/guides/integrations-guide/tailwind).
+-   [x] More cost effective solution (static site hosting is generally free)
+-   [x] Locale supports for English and French strings, including post content (working currently via [Paraglide-Astro](https://inlang.com/m/iljlwzfs/paraglide-astro-i18n) and Astro's content collections)
+    -   Example - `/post-type/:id` vs `/fr/post-type/:id`
+-   [x] Dynamically pull the latest shorts on the shorts page as soon as they go live (working currently via Youtube's APIs in the googleapi package)
+-   [] Searchable (will be adding [Pagefind](https://pagefind.app/docs/resources/#using-pagefind-with-a-specific-ssg))
+
+### 🤔 Exploring Ideas
+
+-   [ ] Integration with WordPress APIs to pull the content from the original site which would allow editors to just keep using Wordpress CMS
+-   [ ] Tag filtering
+-   [ ] Archives page

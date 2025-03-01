@@ -3,13 +3,55 @@ import NavLink from "./NavLink.astro";
 import { localizePathname } from "@scripts/linking.ts";
 import { languageTag } from "@paraglide/runtime";
 import * as m from "@paraglide/messages.js";
+const pathname = new URL(Astro.request.url).pathname;
+
+const homeLocalized = localizePathname("/", languageTag());
+const libLocalized = localizePathname("/library", languageTag());
+const aaLocalized = localizePathname("/apostolic-answers", languageTag());
+const ddLocalized = localizePathname("/deep-dive", languageTag());
+const podLocalized = localizePathname("/podcasts", languageTag());
+const shortsLocalized = localizePathname("/shorts", languageTag());
+const faithLocalized = localizePathname("/faith", languageTag());
+const contactLocalized = localizePathname("/contact", languageTag());
 ---
 
-<NavLink text={m.homeLabel()} route={localizePathname("/", languageTag())} />
-<NavLink text={m.libraryLabel()} route={localizePathname("/library", languageTag())} />
-<NavLink text={m.answersLabel()} route={localizePathname("/apostolic-answers", languageTag())} />
-<NavLink text={m.diveLabel()} route={localizePathname("/deep-dive", languageTag())} />
-<NavLink text={m.podcastsLabel()} route={localizePathname("/podcasts", languageTag())} />
-<NavLink text={m.shortsLabel()} route={localizePathname("/shorts", languageTag())} />
-<NavLink text={m.faithLabel()} route={localizePathname("/faith", languageTag())} />
-<NavLink text={m.contactLabel()} route={localizePathname("/contact", languageTag())} />
+<NavLink
+    active={pathname === homeLocalized ? true : false}
+    text={m.homeLabel()}
+    route={homeLocalized}
+/>
+<NavLink
+    active={pathname === libLocalized ? true : false}
+    text={m.libraryLabel()}
+    route={libLocalized}
+/>
+<NavLink
+    active={pathname === aaLocalized ? true : false}
+    text={m.answersLabel()}
+    route={aaLocalized}
+/>
+<NavLink
+    active={pathname === ddLocalized ? true : false}
+    text={m.diveLabel()}
+    route={ddLocalized}
+/>
+<NavLink
+    active={pathname === podLocalized ? true : false}
+    text={m.podcastsLabel()}
+    route={podLocalized}
+/>
+<NavLink
+    active={pathname === shortsLocalized ? true : false}
+    text={m.shortsLabel()}
+    route={shortsLocalized}
+/>
+<NavLink
+    active={pathname === faithLocalized ? true : false}
+    text={m.faithLabel()}
+    route={faithLocalized}
+/>
+<NavLink
+    active={pathname === contactLocalized ? true : false}
+    text={m.contactLabel()}
+    route={contactLocalized}
+/>

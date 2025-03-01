@@ -1,5 +1,13 @@
 ---
-const { text, route } = Astro.props;
+const { active, text, route } = Astro.props;
+const activeRoute = active
+    ? "text-madder underline underline-offset-8"
+    : "text-black";
 ---
 
-<a href={route} class="font-barlow text-white">{text}</a>
+<a
+    href={route}
+    class=`${activeRoute} font-barlow text-center pt-3 pb-5 w-full bg-pearl hover:bg-madder hover:text-white hover:no-underline text-xl`
+>
+    {text}
+</a>

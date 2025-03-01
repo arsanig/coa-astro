@@ -1,7 +1,7 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "siteName": "Coptic Orthodox Answers",
-    "slogan": "Know, live, and teach your faith.",
+    "slogan": "Know. Live. Teach. Your faith.",
     "homeLabel": "Home",
     "libraryLabel": "Video Library",
     "answersLabel": "Apostolic Answers",
@@ -9,5 +9,11 @@
     "podcastsLabel": "Podcasts",
     "shortsLabel": "Reels & Shorts",
     "faithLabel": "Our Faith",
-    "contactLabel": "Contact"
+    "contactLabel": "Contact",
+    "sgsj": "St. George and St. Joseph Coptic Orthodox Church",
+    "sgsa": "St. George and St. Anthony Coptic Orthodox Church",
+    "joint_message_one": "Coptic Orthodox Answers is a joint initiative between ",
+    "joint_message_two": " in Montreal and ",
+    "joint_message_three": " in Ottawa.",
+    "copyright": "© 2024 Coptic Orthodox Answers. All Rights Reserved."
 }

@@ -19,4 +19,8 @@
 @theme {
     --font-noto: 'noto-serif', 'sans-serif';
     --font-barlow: 'barlow', 'sans-serif';
+    --color-pearl: #E6DECA;
+    --color-jonquil: #FFCF00;
+    --color-madder: #A31621;
+    --color-gray: #6F686D;
 }

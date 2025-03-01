@@ -2,7 +2,34 @@
 import * as m from "@paraglide/messages.js";
 ---
 
-<div class="">
-    <h1>{m.siteName()}</h1>
-    <h2>{m.slogan()}</h2>
+<div class="flex flex-col min-h-100 bg-gray px-21 justify-evenly">
+    <div class="flex flex-col">
+        <span class="font-noto text-pearl text-3xl">{m.siteName()}</span>
+        <span class="font-barlow text-jonquil text-xl">{m.slogan()}</span>
+    </div>
+    <div>
+        <p class="text-pearl text-xs font-barlow w-[33%]">
+            {m.joint_message_one()}
+            <a
+                href="https://www.stgeorgestjoseph.ca/"
+                target="_blank"
+                class="text-pearl hover:underline hover:underline-offset-2"
+            >
+                {m.sgsj()}
+            </a>
+            {m.joint_message_two()}
+            <a
+                href="https://orthodoxy.ca"
+                target="_blank"
+                class="text-pearl hover:underline hover:underline-offset-2"
+            >
+                {m.sgsa()}
+            </a>
+            {m.joint_message_three()}
+        </p>
+        <hr class="text-pearl bottom-21 w-[40%] mt-4 mb-0.5" />
+        <span class="text-pearl text-xs font-barlow">
+            {m.copyright()}
+        </span>
+    </div>
 </div>

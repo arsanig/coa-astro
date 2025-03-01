@@ -1,8 +1,9 @@
 ---
-lang: "en"
-title: "Why hello there"
-description: "First DD post"
-pubDate: Sun, Feb 23, 2024
+lang: en
+imgSrc: /assets/images/thumbnails/image.jpg
+title: Why hello there
+description: First DD post
+pubDate: 2024-02-28
 tags: ["dd"]
 ---
 

@@ -11,12 +11,32 @@ type Post = {
 };
 ---
 
-<div>
+<!-- Need to dynamically change bg color depending on content route -->
+<div class="bg-black grid grid-cols-3 gap-14 p-21">
     {
         posts.map((post: Post) => {
             return (
-                <a href={`/${post.id}`}>
-                    <h1>{post.id}</h1>
+                <a class="group" href={`/${post.id}`}>
+                    <img src={post.data.imgSrc} />
+                    <div class="flex flex-col">
+                        <div class="flex flex-row justify-between content-center">
+                            <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-xl text-pearl">
+                                {post.data.title}
+                            </span>
+                            {post.data.tags?.map((tag) => {
+                                return (
+                                    <span class="px-2 py-1 rounded-lg bg-madder text-white text-sm">{`#${tag}`}</span>
+                                );
+                            })}
+                        </div>
+                        <span class="font-barlow text-xs text-pearl">
+                            {post.data.pubDate
+                                .toDateString()
+                                .split(" ")
+                                .slice(0, 4)
+                                .join(" ")}
+                        </span>
+                    </div>
                 </a>
             );
         })

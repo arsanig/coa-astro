@@ -1,8 +1,9 @@
 ---
-lang: "en"
+lang: en
+imgSrc: /assets/images/thumbnails/image.jpg
 title: Why hello there
 description: First AA post
-pubDate: Sun, Feb 23, 2024
+pubDate: 2024-02-28
 tags: ["aa"]
 ---
 

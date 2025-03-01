@@ -2,7 +2,7 @@
 lang: "en"
 title: "Why hello there"
 description: "First POD post"
-pubDate: Sun, Feb 23, 2024
+pubDate: 2024-02-28
 tags: ["pod"]
 ---
 
