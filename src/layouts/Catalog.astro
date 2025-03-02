@@ -1,0 +1,14 @@
+---
+import Main from "@layouts/Main.astro";
+import PostsGrid from "@components/PostsGrid.astro";
+import Pagination from "@components/Pagination.astro";
+
+const { posts, page } = Astro.props;
+---
+
+<Main>
+    <div class="bg-gray">
+        <PostsGrid posts={posts} />
+        <Pagination page={page} />
+    </div>
+</Main>

@@ -3,9 +3,11 @@ import { glob } from "astro/loaders";
 
 const PostsCollectionSchema = z.object({
     lang: z.enum(["en", "fr"]),
+    wp_id: z.number().optional(),
+    imgId: z.number().optional(),
     imgSrc: z.string().optional(),
     title: z.string(),
-    description: z.string(),
+    description: z.string().optional(),
     // Transform string to Date object
     pubDate: z.coerce.date(),
     updatedDate: z.date().optional(),

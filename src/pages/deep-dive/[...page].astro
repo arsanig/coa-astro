@@ -1,0 +1,19 @@
+---
+import Main from "@layouts/Main.astro";
+import PostsGrid from "@components/PostsGrid.astro";
+import { getCollection } from "astro:content";
+import type { GetStaticPathsOptions } from "astro";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const posts = await getCollection("posts");
+    const aaEnglishPosts = posts.filter((post) => {
+        return post.data.lang === "en" && post.data.tags?.includes("dd");
+    });
+    return paginate(aaEnglishPosts, { pageSize: 9 });
+}
+const { page } = Astro.props;
+---
+
+<Main>
+    <PostsGrid posts={page.data} />
+</Main>

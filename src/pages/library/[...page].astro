@@ -1,0 +1,16 @@
+---
+import Catalog from "@layouts/Catalog.astro";
+import { getCollection } from "astro:content";
+import type { GetStaticPathsOptions } from "astro";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const posts = await getCollection("posts");
+    const englishPosts = posts.filter((post) => {
+        return post.data.lang === "en";
+    });
+    return paginate(englishPosts, { pageSize: 9 });
+}
+const { page } = Astro.props;
+---
+
+<Catalog posts={page.data} page={page} />
