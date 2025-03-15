@@ -1,3 +1,8 @@
 ---
 const { page } = Astro.props;
 ---
+
+{page.url.first ? <a href={page.url.first}>{"<< First"}</a> : <span>{"<< First"}</span>}
+{page.url.prev ? <a href={page.url.prev}>{"< Prev"}</a> : <span>{"< Prev"}</span>}
+{page.url.next ? <a href={page.url.next}>{"Next >"}</a> : <span>{"Next >"}</span>}
+{page.url.last ? <a href={page.url.last}>{"Last >>"}</a> : <span>{"Last >>"}</span>}

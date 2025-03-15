@@ -15,43 +15,12 @@ const faithLocalized = localizePathname("/faith", languageTag());
 const contactLocalized = localizePathname("/contact", languageTag());
 ---
 
-<NavLink
-    active={pathname === homeLocalized ? true : false}
-    text={m.homeLabel()}
-    route={homeLocalized}
-/>
-<NavLink
-    active={pathname === libLocalized ? true : false}
-    text={m.libraryLabel()}
-    route={libLocalized}
-/>
-<NavLink
-    active={pathname === aaLocalized ? true : false}
-    text={m.answersLabel()}
-    route={aaLocalized}
-/>
-<NavLink
-    active={pathname === ddLocalized ? true : false}
-    text={m.diveLabel()}
-    route={ddLocalized}
-/>
-<NavLink
-    active={pathname === podLocalized ? true : false}
-    text={m.podcastsLabel()}
-    route={podLocalized}
-/>
-<NavLink
-    active={pathname === shortsLocalized ? true : false}
-    text={m.shortsLabel()}
-    route={shortsLocalized}
-/>
-<NavLink
-    active={pathname === faithLocalized ? true : false}
-    text={m.faithLabel()}
-    route={faithLocalized}
-/>
-<NavLink
-    active={pathname === contactLocalized ? true : false}
-    text={m.contactLabel()}
-    route={contactLocalized}
-/>
+<!-- .includes is used instead for paginated routes -->
+<NavLink active={pathname === homeLocalized ? true : false} text={m.homeLabel()} route={homeLocalized} />
+<NavLink active={pathname.includes(libLocalized)} text={m.libraryLabel()} route={libLocalized} />
+<NavLink active={pathname.includes(aaLocalized)} text={m.answersLabel()} route={aaLocalized} />
+<NavLink active={pathname.includes(ddLocalized)} text={m.diveLabel()} route={ddLocalized} />
+<NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
+<NavLink active={pathname === shortsLocalized ? true : false} text={m.shortsLabel()} route={shortsLocalized} />
+<NavLink active={pathname === faithLocalized ? true : false} text={m.faithLabel()} route={faithLocalized} />
+<NavLink active={pathname === contactLocalized ? true : false} text={m.contactLabel()} route={contactLocalized} />
