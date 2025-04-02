@@ -1,0 +1,28 @@
+---
+import { getPlaylistItems } from "@scripts/youtubeApi";
+const fullPodPlaylistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
+
+type Podcast = {
+    kind: string;
+    etag: string;
+    id: string;
+    contentDetails: {
+        videoId: string;
+        videoPublishedAt: string;
+    };
+};
+
+const data = await getPlaylistItems(3, fullPodPlaylistId);
+const podcastIds = data?.items?.map((pod: Podcast) => pod?.contentDetails?.videoId);
+---
+
+<div class="bg-black grid grid-cols-1 place-items-center p-21 gap-9">
+    <iframe
+        width="960"
+        height="540"
+        src={`https://youtube.com/embed/${podcastIds?.shift()}?autoplay=1&mute=1`}
+        allow="autoplay; encrypted-media"
+    >
+    </iframe>
+    {podcastIds?.map((podId: string) => <iframe width="960" height="540" src={`https://youtube.com/embed/${podId}`} />)}
+</div>
