@@ -1,8 +1,45 @@
 ---
 const { page } = Astro.props;
+
+const inactive = "text-gray p-10 mx-7";
+const active = "text-white p-10 mx-7";
 ---
 
-{page.url.first ? <a href={page.url.first}>{"<< First"}</a> : <span>{"<< First"}</span>}
-{page.url.prev ? <a href={page.url.prev}>{"< Prev"}</a> : <span>{"< Prev"}</span>}
-{page.url.next ? <a href={page.url.next}>{"Next >"}</a> : <span>{"Next >"}</span>}
-{page.url.last ? <a href={page.url.last}>{"Last >>"}</a> : <span>{"Last >>"}</span>}
+<div class="flex flex-row content-around justify-center pb-10">
+    {
+        page.url.first ? (
+            <a href={page.url.first} class={active}>
+                {"<< First"}
+            </a>
+        ) : (
+            <span class={inactive}>{"<< First"}</span>
+        )
+    }
+    {
+        page.url.prev ? (
+            <a href={page.url.prev} class={active}>
+                {"<"}
+            </a>
+        ) : (
+            <span class={inactive}>{"<"}</span>
+        )
+    }
+    {
+        page.url.next ? (
+            <a href={page.url.next} class={active}>
+                {">"}
+            </a>
+        ) : (
+            <span class={inactive}>{">"}</span>
+        )
+    }
+    {
+        page.url.last ? (
+            <a href={page.url.last} class={active}>
+                {"Last >>"}
+            </a>
+        ) : (
+            <span class={inactive}>{"Last >>"}</span>
+        )
+    }
+</div>

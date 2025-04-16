@@ -13,12 +13,10 @@ type Short = {
 };
 
 const data = await getPlaylistItems(9, shortsPlaylistId);
-const shortsIds = data?.items?.map(
-    (short: Short) => short?.contentDetails?.videoId
-);
+const shortsIds = data?.items?.map((short: Short) => short?.contentDetails?.videoId);
 ---
 
-<div class="bg-black grid grid-cols-3 place-items-center p-21 gap-9">
+<div class="bg-gray grid grid-cols-3 place-items-center p-21 gap-9">
     <iframe
         width="315"
         height="560"
@@ -28,11 +26,7 @@ const shortsIds = data?.items?.map(
     </iframe>
     {
         shortsIds?.map((shortId: string) => (
-            <iframe
-                width="315"
-                height="560"
-                src={`https://youtube.com/embed/${shortId}`}
-            />
+            <iframe width="315" height="560" src={`https://youtube.com/embed/${shortId}`} />
         ))
     }
 </div>

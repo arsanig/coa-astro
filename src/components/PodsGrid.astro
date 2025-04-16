@@ -16,7 +16,7 @@ const data = await getPlaylistItems(3, fullPodPlaylistId);
 const podcastIds = data?.items?.map((pod: Podcast) => pod?.contentDetails?.videoId);
 ---
 
-<div class="bg-black grid grid-cols-1 place-items-center p-21 gap-9">
+<div class="bg-gray grid grid-cols-1 place-items-center p-21 gap-9">
     <iframe
         width="960"
         height="540"

@@ -51,28 +51,10 @@ const deep_dive_fr = defineCollection({
     schema: PostsCollectionSchema,
 });
 
-const podcasts = defineCollection({
-    loader: glob({
-        base: "./src/posts/podcasts",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const podcasts_fr = defineCollection({
-    loader: glob({
-        base: "./src/posts/fr/podcasts",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
 export const collections = {
     posts,
     apostolic_answers,
     apostolic_answers_fr,
     deep_dive,
     deep_dive_fr,
-    podcasts,
-    podcasts_fr,
 };

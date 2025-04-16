@@ -1,6 +1,5 @@
 ---
-import Main from "@layouts/Main.astro";
-import PostsGrid from "@components/PostsGrid.astro";
+import Catalog from "@layouts/Catalog.astro";
 import { getCollection } from "astro:content";
 import type { GetStaticPathsOptions } from "astro";
 
@@ -14,6 +13,4 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<Main>
-    <PostsGrid posts={page.data} />
-</Main>
+<Catalog posts={page.data} page={page} />
