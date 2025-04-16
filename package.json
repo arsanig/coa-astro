@@ -4,10 +4,10 @@
     "version": "0.0.1",
     "scripts": {
         "dev": "astro dev",
-        "build": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide && astro build",
+        "build": "npm run preinstall && astro build",
         "preview": "astro preview",
         "astro": "astro",
-        "postinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide"
+        "preinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide"
     },
     "dependencies": {
         "@astrojs/mdx": "^4.0.8",

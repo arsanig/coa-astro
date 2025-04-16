@@ -6,13 +6,81 @@ import * as m from "@paraglide/messages.js";
 <header>
     <div class="bg-no-repeat bg-cover bg-center bg-[url(/assets/images/church.jpg)]">
         <div class=`bg-black/85 min-h-96 flex flex-col justify-center items-center`>
-            <h1 class="font-noto text-7xl text-pearl">{m.siteName()}</h1>
-            <h2 class="font-barlow text-5xl mt-8 text-jonquil">
+            <h1 class="font-noto text-4xl md:text-5xl lg:text-7xl text-pearl text-center px-4">{m.siteName()}</h1>
+            <h2 class="font-barlow text-2xl md:text-3xl lg:text-5xl mt-4 md:mt-6 lg:mt-8 text-jonquil text-center px-4">
                 {m.slogan()}
             </h2>
+            <div class="mt-4 md:mt-6 lg:mt-8 w-full max-w-2xl px-4 relative flex justify-center">
+                <input
+                    id="search"
+                    type="text"
+                    placeholder="Get answers from an apostolic faith"
+                    class="w-3/4 sm:w-4/5 md:w-2/3 px-3 sm:px-4 py-2 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-sm sm:text-base"
+                />
+                <div id="results" class="fixed inset-0 hidden">
+                    <div
+                        class="absolute w-3/4 sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60vh] overflow-y-auto bg-white rounded-lg shadow-xl p-4"
+                    >
+                        <div class="space-y-4"></div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <nav class="bg-pearl flex flex-row justify-around w-full">
         <Nav />
     </nav>
 </header>
+
+<script is:inline>
+    document.querySelector("#search")?.addEventListener("input", async (e) => {
+        const resultsContainer = document.querySelector("#results");
+        const resultsContent = resultsContainer.querySelector(".space-y-4");
+        const searchBox = document.querySelector("#search");
+
+        // Show/hide results container based on input
+        if (e.target.value.length > 0) {
+            resultsContainer.classList.remove("hidden");
+            document.body.classList.add("overflow-hidden");
+
+            // Position results below search box
+            const searchRect = searchBox.getBoundingClientRect();
+            const resultsDiv = resultsContainer.querySelector("div");
+            resultsDiv.style.top = `${searchRect.bottom + 8}px`;
+        } else {
+            resultsContainer.classList.add("hidden");
+            document.body.classList.remove("overflow-hidden");
+        }
+
+        // only load the pagefind script once
+        if (e.target.dataset.loaded !== "true") {
+            e.target.dataset.loaded = "true";
+            // load the pagefind script
+            window.pagefind = await import("/pagefind/pagefind.js");
+        }
+
+        // search the index using the input value
+        const search = await window.pagefind.search(e.target.value);
+
+        // clear the old results
+        resultsContent.innerHTML = "";
+
+        // add the new results
+        for (const result of search.results) {
+            const data = await result.data();
+            resultsContent.innerHTML += `
+                <a href="${data.url}" class="block p-4 hover:bg-gray-50 rounded-lg">
+                    <h3 class="text-lg font-semibold text-gray-900">${data.meta.title}</h3>
+                    <p class="text-gray-600 mt-1">${data.excerpt}</p>
+                </a>`;
+        }
+    });
+
+    // Close results when clicking outside
+    document.querySelector("#results")?.addEventListener("click", (e) => {
+        if (e.target === e.currentTarget) {
+            e.currentTarget.classList.add("hidden");
+            document.body.classList.remove("overflow-hidden");
+        }
+    });
+</script>
