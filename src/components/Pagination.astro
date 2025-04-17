@@ -20,12 +20,12 @@ if (totalPages > maxVisiblePages) {
 }
 ---
 
-<div class="flex justify-center items-center gap-1 sm:gap-2 p-8 sm:p-14">
+<div class="flex justify-center items-center gap-0.5 sm:gap-2 p-8 sm:p-14">
     {
         currentPage > 1 && (
             <a
                 href={getPageUrl(currentPage - 1)}
-                class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                class="px-2 py-0.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-xs sm:text-base"
                 aria-label="Previous page"
             >
                 ←
@@ -37,11 +37,11 @@ if (totalPages > maxVisiblePages) {
             <>
                 <a
                     href={getPageUrl(1)}
-                    class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                    class="px-2 py-0.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-xs sm:text-base"
                 >
                     1
                 </a>
-                {visiblePages[0] > 2 && <span class="text-pearl text-sm sm:text-base">...</span>}
+                {visiblePages[0] > 2 && <span class="text-pearl text-xs sm:text-base">...</span>}
             </>
         )
     }
@@ -49,7 +49,7 @@ if (totalPages > maxVisiblePages) {
         visiblePages.map((page) => (
             <a
                 href={getPageUrl(page)}
-                class={`px-3 py-1.5 sm:px-4 sm:py-2 rounded-md transition-colors text-sm sm:text-base ${
+                class={`px-2 py-0.5 sm:px-4 sm:py-2 rounded-md transition-colors text-xs sm:text-base ${
                     page === currentPage
                         ? "bg-madder text-white"
                         : "bg-pearl text-black hover:bg-madder hover:text-white"
@@ -63,11 +63,11 @@ if (totalPages > maxVisiblePages) {
         visiblePages[visiblePages.length - 1] < totalPages && (
             <>
                 {visiblePages[visiblePages.length - 1] < totalPages - 1 && (
-                    <span class="text-pearl text-sm sm:text-base">...</span>
+                    <span class="text-pearl text-xs sm:text-base">...</span>
                 )}
                 <a
                     href={getPageUrl(totalPages)}
-                    class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                    class="px-2 py-0.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-xs sm:text-base"
                 >
                     {totalPages}
                 </a>
@@ -78,7 +78,7 @@ if (totalPages > maxVisiblePages) {
         currentPage < totalPages && (
             <a
                 href={getPageUrl(currentPage + 1)}
-                class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                class="px-2 py-0.5 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-xs sm:text-base"
                 aria-label="Next page"
             >
                 →
