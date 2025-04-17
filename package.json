@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "scripts": {
         "dev": "astro dev",
-        "build": "npm run preinstall && astro build && pagefind --site /opt/buildhome/repo",
+        "build": "npm run preinstall && astro build && npm run postinstall",
         "preview": "astro preview",
         "astro": "astro",
         "preinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide",
