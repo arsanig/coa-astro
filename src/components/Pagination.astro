@@ -4,6 +4,9 @@ const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
 const maxVisiblePages = 5;
 let visiblePages = pages;
 
+// Clean the baseUrl by removing .html if present
+const cleanBaseUrl = baseUrl.replace(/\.html$/, "");
+
 if (totalPages > maxVisiblePages) {
     const start = Math.max(1, Math.min(currentPage - 2, totalPages - maxVisiblePages + 1));
     const end = Math.min(totalPages, start + maxVisiblePages - 1);
@@ -15,7 +18,7 @@ if (totalPages > maxVisiblePages) {
     {
         currentPage > 1 && (
             <a
-                href={currentPage === 2 ? baseUrl : `${baseUrl}/${currentPage - 1}`}
+                href={currentPage === 2 ? cleanBaseUrl : `${cleanBaseUrl}/${currentPage - 1}`}
                 class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 aria-label="Previous page"
             >
@@ -27,7 +30,7 @@ if (totalPages > maxVisiblePages) {
         visiblePages[0] > 1 && (
             <>
                 <a
-                    href={baseUrl}
+                    href={cleanBaseUrl}
                     class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 >
                     1
@@ -39,7 +42,7 @@ if (totalPages > maxVisiblePages) {
     {
         visiblePages.map((page) => (
             <a
-                href={page === 1 ? baseUrl : `${baseUrl}/${page}`}
+                href={page === 1 ? cleanBaseUrl : `${cleanBaseUrl}/${page}`}
                 class={`px-3 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-sm sm:text-base ${
                     page === currentPage
                         ? "bg-madder text-white"
@@ -57,7 +60,7 @@ if (totalPages > maxVisiblePages) {
                     <span class="text-pearl text-sm sm:text-base">...</span>
                 )}
                 <a
-                    href={`${baseUrl}/${totalPages}`}
+                    href={`${cleanBaseUrl}/${totalPages}`}
                     class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 >
                     {totalPages}
@@ -68,7 +71,7 @@ if (totalPages > maxVisiblePages) {
     {
         currentPage < totalPages && (
             <a
-                href={`${baseUrl}/${currentPage + 1}`}
+                href={`${cleanBaseUrl}/${currentPage + 1}`}
                 class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 aria-label="Next page"
             >
