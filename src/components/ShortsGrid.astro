@@ -16,17 +16,108 @@ const data = await getPlaylistItems(9, shortsPlaylistId);
 const shortsIds = data?.items?.map((short: Short) => short?.contentDetails?.videoId);
 ---
 
-<div class="bg-gray grid grid-cols-3 place-items-center p-21 gap-9">
-    <iframe
-        width="315"
-        height="560"
-        src={`https://youtube.com/embed/${shortsIds?.shift()}?autoplay=1&mute=1`}
-        allow="autoplay; encrypted-media"
-    >
-    </iframe>
-    {
-        shortsIds?.map((shortId: string) => (
-            <iframe width="315" height="560" src={`https://youtube.com/embed/${shortId}`} />
-        ))
-    }
+<div class="bg-gray p-4 sm:p-8 lg:p-21">
+    <div class="max-w-7xl mx-auto relative">
+        <div class="overflow-hidden">
+            <div class="flex transition-transform duration-300 ease-in-out" id="carousel-track">
+                {
+                    shortsIds?.map((shortId: string, index: number) => (
+                        <div class="min-w-full sm:min-w-[50%] lg:min-w-[33.333%] px-2 sm:px-4">
+                            <div class="aspect-[9/16] w-full max-w-sm mx-auto">
+                                <iframe
+                                    class="w-full h-full rounded-lg"
+                                    src={`https://youtube.com/embed/${shortId}${index === 0 ? "?autoplay=1&mute=1" : ""}`}
+                                    allow="autoplay; encrypted-media"
+                                    loading="lazy"
+                                />
+                            </div>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+        <button
+            class="carousel-button prev absolute left-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors"
+            id="prev-button"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-6 w-6"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+            >
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+            </svg>
+        </button>
+        <button
+            class="carousel-button next absolute right-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors"
+            id="next-button"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-6 w-6"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+            >
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+        </button>
+    </div>
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const track = document.getElementById("carousel-track");
+        const slides = document.querySelectorAll(".min-w-full, .min-w-\\[50\\%\\], .min-w-\\[33\\.333\\%\\]");
+        const prevButton = document.getElementById("prev-button");
+        const nextButton = document.getElementById("next-button");
+
+        if (!track || !prevButton || !nextButton) return;
+
+        let currentIndex = 0;
+        const slideCount = slides.length;
+        let slidesPerView = 1;
+
+        function updateSlidesPerView() {
+            if (window.innerWidth >= 1024) {
+                slidesPerView = 3;
+            } else if (window.innerWidth >= 640) {
+                slidesPerView = 2;
+            } else {
+                slidesPerView = 1;
+            }
+        }
+
+        function updateCarousel() {
+            if (track instanceof HTMLElement) {
+                const slideWidth = slides[0].getBoundingClientRect().width;
+                const maxIndex = slideCount - slidesPerView;
+                currentIndex = Math.min(currentIndex, maxIndex);
+                track.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+            }
+        }
+
+        prevButton.addEventListener("click", () => {
+            currentIndex = Math.max(0, currentIndex - 1);
+            updateCarousel();
+        });
+
+        nextButton.addEventListener("click", () => {
+            const maxIndex = slideCount - slidesPerView;
+            currentIndex = Math.min(maxIndex, currentIndex + 1);
+            updateCarousel();
+        });
+
+        // Initialize
+        updateSlidesPerView();
+        updateCarousel();
+
+        // Handle window resize
+        window.addEventListener("resize", () => {
+            updateSlidesPerView();
+            updateCarousel();
+        });
+    });
+</script>

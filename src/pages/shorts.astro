@@ -1,8 +1,9 @@
 ---
 import Main from "@layouts/Main.astro";
 import ShortsGrid from "@components/ShortsGrid.astro";
+import * as m from "@paraglide/messages.js";
 ---
 
-<Main>
+<Main title={`${m.shortsLabel()} | ${m.siteName()}`}>
     <ShortsGrid />
 </Main>

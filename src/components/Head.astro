@@ -1,12 +1,13 @@
 ---
 import "@styles/global.css";
-import { ClientRouter } from "astro:transitions";
+
+const { title } = Astro.props;
 ---
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Coptic Orthodox Answers</title>
+<title data-pagefind-meta="title">{title}</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
 <!-- Font preloads -->
@@ -18,4 +19,3 @@ import { ClientRouter } from "astro:transitions";
     type="font/woff2"
     crossorigin
 />
-<ClientRouter />

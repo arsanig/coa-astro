@@ -1,8 +1,9 @@
 ---
 import Main from "@layouts/Main.astro";
 import PodsGrid from "@components/PodsGrid.astro";
+import * as m from "@paraglide/messages.js";
 ---
 
-<Main>
+<Main title={`${m.podcastsLabel()} | ${m.siteName()}`}>
     <PodsGrid />
 </Main>

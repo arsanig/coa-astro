@@ -1,45 +1,79 @@
 ---
-const { page } = Astro.props;
+const { currentPage, totalPages, baseUrl } = Astro.props;
+const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+const maxVisiblePages = 5;
+let visiblePages = pages;
 
-const inactive = "text-gray p-10 mx-7";
-const active = "text-white p-10 mx-7";
+if (totalPages > maxVisiblePages) {
+    const start = Math.max(1, Math.min(currentPage - 2, totalPages - maxVisiblePages + 1));
+    const end = Math.min(totalPages, start + maxVisiblePages - 1);
+    visiblePages = pages.slice(start - 1, end);
+}
 ---
 
-<div class="flex flex-row content-around justify-center pb-10">
+<div class="flex justify-center items-center gap-1 sm:gap-2 pb-14">
     {
-        page.url.first ? (
-            <a href={page.url.first} class={active}>
-                {"<< First"}
+        currentPage > 1 && (
+            <a
+                href={currentPage === 2 ? baseUrl : `${baseUrl}/${currentPage - 1}`}
+                class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                aria-label="Previous page"
+            >
+                ←
             </a>
-        ) : (
-            <span class={inactive}>{"<< First"}</span>
         )
     }
     {
-        page.url.prev ? (
-            <a href={page.url.prev} class={active}>
-                {"<"}
-            </a>
-        ) : (
-            <span class={inactive}>{"<"}</span>
+        visiblePages[0] > 1 && (
+            <>
+                <a
+                    href={baseUrl}
+                    class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                >
+                    1
+                </a>
+                {visiblePages[0] > 2 && <span class="text-pearl text-sm sm:text-base">...</span>}
+            </>
         )
     }
     {
-        page.url.next ? (
-            <a href={page.url.next} class={active}>
-                {">"}
+        visiblePages.map((page) => (
+            <a
+                href={page === 1 ? baseUrl : `${baseUrl}/${page}`}
+                class={`px-3 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-sm sm:text-base ${
+                    page === currentPage
+                        ? "bg-madder text-white"
+                        : "bg-pearl text-black hover:bg-madder hover:text-white"
+                }`}
+            >
+                {page}
             </a>
-        ) : (
-            <span class={inactive}>{">"}</span>
+        ))
+    }
+    {
+        visiblePages[visiblePages.length - 1] < totalPages && (
+            <>
+                {visiblePages[visiblePages.length - 1] < totalPages - 1 && (
+                    <span class="text-pearl text-sm sm:text-base">...</span>
+                )}
+                <a
+                    href={`${baseUrl}/${totalPages}`}
+                    class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                >
+                    {totalPages}
+                </a>
+            </>
         )
     }
     {
-        page.url.last ? (
-            <a href={page.url.last} class={active}>
-                {"Last >>"}
+        currentPage < totalPages && (
+            <a
+                href={`${baseUrl}/${currentPage + 1}`}
+                class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
+                aria-label="Next page"
+            >
+                →
             </a>
-        ) : (
-            <span class={inactive}>{"Last >>"}</span>
         )
     }
 </div>

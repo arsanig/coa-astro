@@ -1,0 +1,31 @@
+---
+import { languageTag } from "@paraglide/runtime";
+
+const currentLang = languageTag();
+const otherLang = currentLang === "en" ? "fr" : "en";
+const currentPath = new URL(Astro.request.url).pathname;
+// For English, remove /fr prefix, for French add /fr prefix
+const otherLangPath = otherLang === "en" ? currentPath.replace(/^\/fr/, "") || "/" : `/fr${currentPath}`;
+---
+
+<div class="flex items-center gap-2">
+    <a
+        href={otherLangPath}
+        class="flex items-center gap-1 p-2 rounded-md text-pearl transition-colors"
+        aria-label={`Switch to ${otherLang === "en" ? "English" : "French"}`}
+    >
+        {
+            otherLang === "en" ? (
+                <>
+                    <img src="/assets/flags/en.svg" alt="English" class="w-6 h-4" />
+                    <span class="text-sm font-barlow">EN</span>
+                </>
+            ) : (
+                <>
+                    <img src="/assets/flags/fr.svg" alt="Français" class="w-6 h-4" />
+                    <span class="text-sm font-barlow">FR</span>
+                </>
+            )
+        }
+    </a>
+</div>

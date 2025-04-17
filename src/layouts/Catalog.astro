@@ -3,12 +3,15 @@ import Main from "@layouts/Main.astro";
 import PostsGrid from "@components/PostsGrid.astro";
 import Pagination from "@components/Pagination.astro";
 
-const { posts, page } = Astro.props;
+const { posts, page, title } = Astro.props;
+const currentPath = new URL(Astro.request.url).pathname;
+// Remove any page numbers from the path
+const baseUrl = currentPath.replace(/\/\d+$/, "");
 ---
 
-<Main>
+<Main title={title}>
     <div class="bg-gray">
         <PostsGrid posts={posts} />
-        <Pagination page={page} />
+        <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />
     </div>
 </Main>

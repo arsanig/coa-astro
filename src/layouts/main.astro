@@ -3,11 +3,13 @@ import Head from "@components/Head.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import { languageTag } from "../paraglide/runtime";
+
+const { title } = Astro.props;
 ---
 
 <html lang={languageTag()} dir={Astro.locals.paraglide.dir} class="bg-black">
     <head>
-        <Head />
+        <Head title={title} />
     </head>
     <body class="p-0 m-0 max-w-screen">
         <Header />

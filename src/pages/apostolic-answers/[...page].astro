@@ -2,7 +2,7 @@
 import Catalog from "@layouts/Catalog.astro";
 import { getCollection } from "astro:content";
 import { type GetStaticPathsOptions } from "astro";
-
+import * as m from "@paraglide/messages.js";
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = await getCollection("posts");
     const aaEnglishPosts = posts.filter((post) => {
@@ -13,4 +13,4 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<Catalog posts={page.data} page={page} />
+<Catalog posts={page.data} page={page} title={`${m.answersLabel()} | ${m.siteName()}`} />
