@@ -11,14 +11,14 @@ type Post = {
 };
 ---
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-14 p-8 lg:p-21">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 p-8 md:p-8 lg:p-12 xl:p-19">
     {
         posts.map((post: Post, index: number) => {
             const isLastItem = index === posts.length - 1;
             const isOddItems = posts.length % 2 === 1;
             return (
                 <a
-                    class={`group block ${isLastItem && isOddItems ? "sm:col-span-2 sm:max-w-[50%] sm:mx-auto" : ""}`}
+                    class={`group block ${isLastItem && isOddItems ? "sm:justify-self-center lg:justify-self-center" : ""}`}
                     href={`/${post.id}`}
                 >
                     <div class="aspect-video overflow-hidden rounded-lg">
