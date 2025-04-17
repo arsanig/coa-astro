@@ -11,11 +11,16 @@ type Post = {
 };
 ---
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-14 p-4 sm:p-8 lg:p-21">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-14 p-8 lg:p-21">
     {
-        posts.map((post: Post) => {
+        posts.map((post: Post, index: number) => {
+            const isLastItem = index === posts.length - 1;
+            const isOddItems = posts.length % 2 === 1;
             return (
-                <a class="group block" href={`/${post.id}`}>
+                <a
+                    class={`group block ${isLastItem && isOddItems ? "sm:col-span-2 sm:max-w-[50%] sm:mx-auto" : ""}`}
+                    href={`/${post.id}`}
+                >
                     <div class="aspect-video overflow-hidden rounded-lg">
                         <img
                             src={post.data.imgSrc}
