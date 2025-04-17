@@ -1,12 +1,14 @@
 ---
 wp_id: 1987
 imgId: 1988
+videoId: ""
 imgSrc: /assets/thumbnails/1988.png
 lang: en
 title: "Back to Basics: How do I offer repentance daily?"
 pubDate: 2020-02-05T12:00:29
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. What is daily repentance and how do I offer it? My beloved, we have heard many times over in our life of the importance of repentance and confession. We here at Coptic Orthodox Answers have even done several videos explaining the mystery of Repentance and Confession and we urge you to watch those videos if you want to take a deeper look. However, for today, we want to address the significance of daily repentance and how its an critical building block of the Christian life. Essentially, we want to understand what it means to offer daily repentance and how we can practically do this.</p>

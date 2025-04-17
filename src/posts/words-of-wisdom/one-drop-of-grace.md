@@ -1,12 +1,14 @@
 ---
 wp_id: 3767
 imgId: 3768
+videoId: ""
 imgSrc: /assets/thumbnails/3768.png
 lang: en
 title: "One Drop of Grace"
 pubDate: 2023-02-10T00:30:45
 tags: ["aa", "wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Obedience: Fruit of the Living Faith</p>

@@ -1,12 +1,14 @@
 ---
 wp_id: 1114
 imgId: 1120
+videoId: "IPbf1rzN0PY"
 imgSrc: /assets/thumbnails/1120.jpg
 lang: en
 title: "Are Depression, Anxiety, and other Mental Illnesses forms of Spiritual problems?"
 pubDate: 2018-04-11T22:43:52
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>We speak of depression, anxiety, and all other mental health issues, and we ask the question, are they only spiritual problems? Some people would suggest that mental illnesses, such as anxiety disorders, depression, bipolar disorder, and many others like these can all be cured by simply adopting a more rigorous spiritual canon where a person prays and fasts more, reads the bible more often and goes to church more frequently. Well, those who would make such claims are in fact very mistaken! Such claims demonstrate that within our communities, our homes, and sadly our churches, there are still negative perceptions and stigmas surrounding the subject of mental illness that requires our immediate attention. Hopefully, the following text can be a first step to clarifying a few things surrounding the role of the Christian Spiritual life and how it relates to one’s mental health.</p>

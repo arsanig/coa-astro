@@ -1,12 +1,14 @@
 ---
 wp_id: 1829
 imgId: 1830
+videoId: ""
 imgSrc: /assets/thumbnails/1830.png
 lang: en
 title: "Back to Basics: How do I kick-start my Prayer Life? by Fr. Anthony Mourad"
 pubDate: 2019-11-13T12:00:58
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

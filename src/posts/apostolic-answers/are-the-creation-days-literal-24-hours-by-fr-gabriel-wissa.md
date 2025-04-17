@@ -1,12 +1,14 @@
 ---
 wp_id: 2006
 imgId: 2007
+videoId: ""
 imgSrc: /assets/thumbnails/2007.png
 lang: en
 title: "Are the creation days literal 24 hours?  by Fr. Gabriel Wissa"
 pubDate: 2020-02-12T12:00:22
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. Many viewers requested a video on the literality of the creation days in Genesis 1. But, to be completely honest, I am making this video as a concession as I understand that this is a standard follow-up question to the video we have recently done on the Big Bang theory; however, I strongly believe that a scientific approach to Genesis 1 is an oversight of the fundamental message conveyed by the author. The language in the first chapters of Genesis is semi-poetic in nature. And, it is not meant to be read through a scientific lens. So, I will present in a future video, how a Christian ought to properly approach Genesis 1; but in the meantime, I will answer the question of the literality of the days for the sake of those who need an answer.</p>

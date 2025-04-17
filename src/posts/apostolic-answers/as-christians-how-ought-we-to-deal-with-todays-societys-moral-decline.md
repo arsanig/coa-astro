@@ -1,12 +1,14 @@
 ---
 wp_id: 1104
 imgId: 1082
+videoId: ""
 imgSrc: /assets/thumbnails/1082.png
 lang: en
 title: "As Christians, how ought we to deal with today’s society’s moral decline?"
 pubDate: 2018-03-14T11:19:02
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>As Christians, how ought we to deal with today’s society’s moral decline?</strong></p>

@@ -1,12 +1,14 @@
 ---
 wp_id: 4302
 imgId: 4303
+videoId: ""
 imgSrc: /assets/thumbnails/4303.png
 lang: en
 title: "He is the Truth"
 pubDate: 2023-12-29T12:00:27
 tags: ["aa", "wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/35FGe1i2Dfg?si=_iaYX_IRY_gsSG4p" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
