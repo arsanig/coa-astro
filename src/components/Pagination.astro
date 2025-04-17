@@ -4,8 +4,14 @@ const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
 const maxVisiblePages = 5;
 let visiblePages = pages;
 
-// Clean the baseUrl by removing .html if present
-const cleanBaseUrl = baseUrl.replace(/\.html$/, "");
+// Clean the baseUrl by removing .html and any existing page numbers
+const cleanBaseUrl = baseUrl.replace(/\.html$/, "").replace(/\/\d+$/, "");
+
+// Function to generate the correct URL for a page
+const getPageUrl = (page: number) => {
+    if (page === 1) return cleanBaseUrl;
+    return `${cleanBaseUrl}/${page}`;
+};
 
 if (totalPages > maxVisiblePages) {
     const start = Math.max(1, Math.min(currentPage - 2, totalPages - maxVisiblePages + 1));
@@ -18,7 +24,7 @@ if (totalPages > maxVisiblePages) {
     {
         currentPage > 1 && (
             <a
-                href={currentPage === 2 ? cleanBaseUrl : `${cleanBaseUrl}/${currentPage - 1}`}
+                href={getPageUrl(currentPage - 1)}
                 class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 aria-label="Previous page"
             >
@@ -30,7 +36,7 @@ if (totalPages > maxVisiblePages) {
         visiblePages[0] > 1 && (
             <>
                 <a
-                    href={cleanBaseUrl}
+                    href={getPageUrl(1)}
                     class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 >
                     1
@@ -42,7 +48,7 @@ if (totalPages > maxVisiblePages) {
     {
         visiblePages.map((page) => (
             <a
-                href={page === 1 ? cleanBaseUrl : `${cleanBaseUrl}/${page}`}
+                href={getPageUrl(page)}
                 class={`px-3 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-sm sm:text-base ${
                     page === currentPage
                         ? "bg-madder text-white"
@@ -60,7 +66,7 @@ if (totalPages > maxVisiblePages) {
                     <span class="text-pearl text-sm sm:text-base">...</span>
                 )}
                 <a
-                    href={`${cleanBaseUrl}/${totalPages}`}
+                    href={getPageUrl(totalPages)}
                     class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 >
                     {totalPages}
@@ -71,7 +77,7 @@ if (totalPages > maxVisiblePages) {
     {
         currentPage < totalPages && (
             <a
-                href={`${cleanBaseUrl}/${currentPage + 1}`}
+                href={getPageUrl(currentPage + 1)}
                 class="px-3 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-sm sm:text-base"
                 aria-label="Next page"
             >
