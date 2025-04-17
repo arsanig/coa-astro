@@ -4,11 +4,9 @@
     "version": "0.0.1",
     "scripts": {
         "dev": "astro dev",
-        "build": "npm run preinstall && astro build && npm run postinstall",
+        "build": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide && astro build && pagefind --site dist",
         "preview": "astro preview",
-        "astro": "astro",
-        "preinstall": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide",
-        "postinstall": "pagefind --site dist"
+        "astro": "astro"
     },
     "dependencies": {
         "@astrojs/mdx": "^4.0.8",
