@@ -1,7 +1,7 @@
 ---
 wp_id: 2741
 imgId: 2743
-imgSrc: /assets/thumbnails/2743.png
+imgSrc: /assets/thumbnails/2743.webp
 lang: en
 title: "What is prayer?"
 pubDate: 2021-03-18T20:33:48

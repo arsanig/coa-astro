@@ -2,7 +2,7 @@
 wp_id: 4223
 imgId: 4224
 videoId: ""
-imgSrc: /assets/thumbnails/4224.jpg
+imgSrc: /assets/thumbnails/4224.webp
 lang: en
 title: "God&#8217;s will"
 pubDate: 2023-12-01T12:00:45

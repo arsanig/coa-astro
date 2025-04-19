@@ -1,7 +1,7 @@
 ---
 wp_id: 4015
 imgId: 4016
-imgSrc: /assets/thumbnails/4016.png
+imgSrc: /assets/thumbnails/4016.webp
 lang: en
 title: "Rise again after failure"
 pubDate: 2023-08-23T12:00:00

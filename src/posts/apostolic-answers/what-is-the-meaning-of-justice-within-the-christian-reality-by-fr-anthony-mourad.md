@@ -1,12 +1,13 @@
 ---
 wp_id: 2905
 imgId: 2907
-imgSrc: /assets/thumbnails/2907.png
+imgSrc: /assets/thumbnails/2907.webp
 lang: en
 title: "What is the meaning of Justice within the Christian reality? by Fr. Anthony Mourad"
 pubDate: 2021-06-09T00:28:50
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">More than ever in today’s world we are facing social dilemmas where people are accusing others of great offense, inequality, oppression, or social injustice. We are constantly bombarded of news of yet another scandal, or another tragedy, or simply more and more examples of how we as human beings have failed to live out our calling as people created in God’s Image and likeness. What should be our response to all this social injustice? Is there even such a thing within the understanding of Orthodox Christianity? In this short series, we will take a look at all this and discuss it together. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

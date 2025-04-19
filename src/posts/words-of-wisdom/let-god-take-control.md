@@ -1,7 +1,7 @@
 ---
 wp_id: 2658
 imgId: 2660
-imgSrc: /assets/thumbnails/2660.png
+imgSrc: /assets/thumbnails/2660.webp
 lang: en
 title: "Let God take control"
 pubDate: 2021-02-18T23:37:16

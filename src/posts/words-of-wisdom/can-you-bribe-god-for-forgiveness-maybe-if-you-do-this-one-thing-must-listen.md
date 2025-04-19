@@ -1,7 +1,7 @@
 ---
 wp_id: 2308
 imgId: 2309
-imgSrc: /assets/thumbnails/2309.png
+imgSrc: /assets/thumbnails/2309.webp
 lang: en
 title: "Can you ‘bribe’ God for forgiveness? Maybe if you do this one thing… (must listen)"
 pubDate: 2020-07-15T12:00:54

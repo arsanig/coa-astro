@@ -1,7 +1,7 @@
 ---
 wp_id: 3225
 imgId: 3226
-imgSrc: /assets/thumbnails/3226.png
+imgSrc: /assets/thumbnails/3226.webp
 lang: en
 title: "Taking the properties of His fire"
 pubDate: 2021-12-15T10:16:33

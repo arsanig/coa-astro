@@ -1,12 +1,13 @@
 ---
 wp_id: 1759
 imgId: 1760
-imgSrc: /assets/thumbnails/1760.png
+imgSrc: /assets/thumbnails/1760.webp
 lang: en
 title: "Discover the beautiful hidden meaning behind the wedding of Cana of Galilee. by Fr. Gabriel Wissa"
 pubDate: 2019-10-14T11:24:43
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>Discover the beautiful hidden meaning behind the wedding of Cana of Galilee.</p>

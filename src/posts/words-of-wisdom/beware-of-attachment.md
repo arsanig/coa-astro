@@ -2,7 +2,7 @@
 wp_id: 3421
 imgId: 3422
 videoId: ""
-imgSrc: /assets/thumbnails/3422.png
+imgSrc: /assets/thumbnails/3422.webp
 lang: en
 title: "Beware of attachment"
 pubDate: 2022-04-20T10:16:05

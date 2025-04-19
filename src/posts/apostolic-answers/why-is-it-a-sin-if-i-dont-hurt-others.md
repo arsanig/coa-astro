@@ -1,12 +1,13 @@
 ---
 wp_id: 3691
 imgId: 3692
-imgSrc: /assets/thumbnails/3692.png
+imgSrc: /assets/thumbnails/3692.webp
 lang: en
 title: "WHY is it a SIN if I don’t HURT OTHERS?"
 pubDate: 2022-11-29T12:32:26
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

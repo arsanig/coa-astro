@@ -1,7 +1,7 @@
 ---
 wp_id: 1677
 imgId: 1689
-imgSrc: /assets/thumbnails/1689.jpg
+imgSrc: /assets/thumbnails/1689.webp
 lang: en
 title: "What is COA Deep Dive? by Fr. Gabriel Wissa"
 pubDate: 2019-09-02T12:00:36

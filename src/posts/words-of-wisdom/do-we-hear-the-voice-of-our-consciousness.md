@@ -1,7 +1,7 @@
 ---
 wp_id: 2884
 imgId: 2886
-imgSrc: /assets/thumbnails/2886.png
+imgSrc: /assets/thumbnails/2886.webp
 lang: en
 title: "Do we hear the voice of our consciousness?"
 pubDate: 2021-05-28T00:41:38

@@ -1,7 +1,7 @@
 ---
 wp_id: 2402
 imgId: 2404
-imgSrc: /assets/thumbnails/2404.png
+imgSrc: /assets/thumbnails/2404.webp
 lang: en
 title: "We Fear All The Wrong Things!"
 pubDate: 2020-10-25T23:33:38

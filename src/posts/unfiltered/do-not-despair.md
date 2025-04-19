@@ -1,7 +1,7 @@
 ---
 wp_id: 3316
 imgId: 3317
-imgSrc: /assets/thumbnails/3317.png
+imgSrc: /assets/thumbnails/3317.webp
 lang: en
 title: "Do not despair"
 pubDate: 2022-02-18T11:07:20

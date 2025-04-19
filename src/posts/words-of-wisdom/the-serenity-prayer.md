@@ -1,7 +1,7 @@
 ---
 wp_id: 2875
 imgId: 2877
-imgSrc: /assets/thumbnails/2877.png
+imgSrc: /assets/thumbnails/2877.webp
 lang: en
 title: "The Serenity Prayer"
 pubDate: 2021-05-20T23:42:49

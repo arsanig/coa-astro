@@ -1,7 +1,7 @@
 ---
 wp_id: 3253
 imgId: 3256
-imgSrc: /assets/thumbnails/3256.png
+imgSrc: /assets/thumbnails/3256.webp
 lang: en
 title: "Let&#8217;s be a dwelling place for Christ"
 pubDate: 2022-01-04T23:47:47

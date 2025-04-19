@@ -1,7 +1,7 @@
 ---
 wp_id: 3358
 imgId: 3359
-imgSrc: /assets/thumbnails/3359.png
+imgSrc: /assets/thumbnails/3359.webp
 lang: en
 title: "I renounce the world"
 pubDate: 2022-03-25T10:25:57

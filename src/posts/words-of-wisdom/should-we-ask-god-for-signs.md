@@ -1,7 +1,7 @@
 ---
 wp_id: 2422
 imgId: 2424
-imgSrc: /assets/thumbnails/2424.png
+imgSrc: /assets/thumbnails/2424.webp
 lang: en
 title: "Should we ask God for signs?"
 pubDate: 2020-10-26T00:01:42

@@ -1,7 +1,7 @@
 ---
 wp_id: 1174
 imgId: 1175
-imgSrc: /assets/thumbnails/1175.png
+imgSrc: /assets/thumbnails/1175.webp
 lang: en
 title: "What is my role in being saved?"
 pubDate: 2018-11-07T12:39:32

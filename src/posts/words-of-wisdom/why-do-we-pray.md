@@ -1,7 +1,7 @@
 ---
 wp_id: 2856
 imgId: 2858
-imgSrc: /assets/thumbnails/2858.png
+imgSrc: /assets/thumbnails/2858.webp
 lang: en
 title: "Why do we pray?"
 pubDate: 2021-05-11T21:53:53

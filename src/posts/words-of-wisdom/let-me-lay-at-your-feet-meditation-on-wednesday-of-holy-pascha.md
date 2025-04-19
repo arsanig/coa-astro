@@ -1,7 +1,7 @@
 ---
 wp_id: 3859
 imgId: 3860
-imgSrc: /assets/thumbnails/3860.png
+imgSrc: /assets/thumbnails/3860.webp
 lang: en
 title: "Let me lay at your feet Meditation on Wednesday of Holy Pascha"
 pubDate: 2023-04-11T02:49:12

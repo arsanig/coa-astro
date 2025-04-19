@@ -1,12 +1,13 @@
 ---
 wp_id: 2508
 imgId: 2510
-imgSrc: /assets/thumbnails/2510.png
+imgSrc: /assets/thumbnails/2510.webp
 lang: en
 title: "St Cyril and the Eucharist: Created for Life and Immortality by Father Anthony Mourad"
 pubDate: 2020-11-30T04:29:17
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

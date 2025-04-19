@@ -1,7 +1,7 @@
 ---
 wp_id: 1538
 imgId: 1539
-imgSrc: /assets/thumbnails/1539.png
+imgSrc: /assets/thumbnails/1539.webp
 lang: en
 title: "What is the most important characteristic of a leader?"
 pubDate: 2019-05-17T10:57:14

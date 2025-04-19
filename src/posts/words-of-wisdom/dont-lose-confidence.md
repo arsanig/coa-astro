@@ -1,7 +1,7 @@
 ---
 wp_id: 3166
 imgId: 3167
-imgSrc: /assets/thumbnails/3167.png
+imgSrc: /assets/thumbnails/3167.webp
 lang: en
 title: "Don&#8217;t lose confidence"
 pubDate: 2021-11-02T22:42:05

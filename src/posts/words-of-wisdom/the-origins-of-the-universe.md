@@ -1,7 +1,7 @@
 ---
 wp_id: 2954
 imgId: 2956
-imgSrc: /assets/thumbnails/2956.png
+imgSrc: /assets/thumbnails/2956.webp
 lang: en
 title: "The Origins of the Universe!"
 pubDate: 2021-07-06T23:55:34

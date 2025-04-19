@@ -1,7 +1,7 @@
 ---
 wp_id: 1904
 imgId: 1905
-imgSrc: /assets/thumbnails/1905.png
+imgSrc: /assets/thumbnails/1905.webp
 lang: en
 title: "Praying for Chalcedonian and non-Chalcedonian unity!"
 pubDate: 2019-12-13T12:02:54

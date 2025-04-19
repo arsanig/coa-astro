@@ -1,12 +1,13 @@
 ---
 wp_id: 1009
 imgId: 681
-imgSrc: /assets/thumbnails/681.png
+imgSrc: /assets/thumbnails/681.webp
 lang: en
 title: "How can I be a faithful Christian in such a “politically correct” society?"
 pubDate: 2017-11-15T13:47:10
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How can I be a faithful Christian in such a “politically correct” society?</strong></p>

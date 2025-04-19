@@ -1,7 +1,7 @@
 ---
 wp_id: 4116
 imgId: 4117
-imgSrc: /assets/thumbnails/4117.png
+imgSrc: /assets/thumbnails/4117.webp
 lang: en
 title: "Discerning God&#8217;s Will"
 pubDate: 2023-10-13T12:00:46

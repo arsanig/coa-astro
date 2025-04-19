@@ -1,7 +1,7 @@
 ---
 wp_id: 4383
 imgId: 4384
-imgSrc: /assets/thumbnails/4384.png
+imgSrc: /assets/thumbnails/4384.webp
 lang: en
 title: "Pray Together"
 pubDate: 2024-02-07T12:00:40

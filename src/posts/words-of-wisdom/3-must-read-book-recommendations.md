@@ -2,7 +2,7 @@
 wp_id: 3391
 imgId: 3392
 videoId: ""
-imgSrc: /assets/thumbnails/3392.png
+imgSrc: /assets/thumbnails/3392.webp
 lang: en
 title: "3 must-read book recommendations!"
 pubDate: 2022-04-13T09:33:14

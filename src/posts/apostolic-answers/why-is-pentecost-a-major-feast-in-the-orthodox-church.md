@@ -1,12 +1,13 @@
 ---
 wp_id: 1571
 imgId: 1572
-imgSrc: /assets/thumbnails/1572.png
+imgSrc: /assets/thumbnails/1572.webp
 lang: en
 title: "Why is Pentecost a major feast in the Orthodox Church?"
 pubDate: 2019-06-12T12:00:24
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

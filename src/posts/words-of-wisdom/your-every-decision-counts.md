@@ -2,7 +2,7 @@
 wp_id: 1801
 imgId: 1802
 videoId: ""
-imgSrc: /assets/thumbnails/1802.png
+imgSrc: /assets/thumbnails/1802.webp
 lang: en
 title: "Your every decision counts!"
 pubDate: 2019-11-01T12:00:05

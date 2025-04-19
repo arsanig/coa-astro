@@ -2,7 +2,7 @@
 wp_id: 3374
 imgId: 3375
 videoId: ""
-imgSrc: /assets/thumbnails/3375.png
+imgSrc: /assets/thumbnails/3375.webp
 lang: en
 title: "Are saints alive? Can they be in two places at once? Can they hear us? by Fr. Gabriel Wissa"
 pubDate: 2022-04-06T09:39:40

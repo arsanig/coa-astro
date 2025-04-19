@@ -1,12 +1,13 @@
 ---
 wp_id: 762
 imgId: 684
-imgSrc: /assets/thumbnails/684.png
+imgSrc: /assets/thumbnails/684.webp
 lang: en
 title: "Who are the heroes of Orthodoxy? &#8211; St. Athanasius of Alexandria"
 pubDate: 2017-03-01T11:51:55
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <h4 style="text-align: center;"> <strong>Who are the heroes of Orthodoxy? &#8211; St. Athanasius of Alexandria</strong></h4>

@@ -1,7 +1,7 @@
 ---
 wp_id: 1676
 imgId: 1680
-imgSrc: /assets/thumbnails/1680.png
+imgSrc: /assets/thumbnails/1680.webp
 lang: en
 title: "What is the background & context of the gospel according to John? by Fr. Gabriel Wissa"
 pubDate: 2019-09-03T12:00:03

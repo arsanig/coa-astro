@@ -1,7 +1,7 @@
 ---
 wp_id: 3763
 imgId: 3764
-imgSrc: /assets/thumbnails/3764.png
+imgSrc: /assets/thumbnails/3764.webp
 lang: en
 title: "Is there anything too precious to offer for Christ"
 pubDate: 2023-02-07T23:00:43

@@ -1,12 +1,13 @@
 ---
 wp_id: 2778
 imgId: 2783
-imgSrc: /assets/thumbnails/2783.png
+imgSrc: /assets/thumbnails/2783.webp
 lang: en
 title: "How to keep one’s self pure in this sinful world? by Fr. Gabriel Wissa"
 pubDate: 2021-03-30T18:38:52
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How to keep one’s self pure in this sinful world?</strong></p>

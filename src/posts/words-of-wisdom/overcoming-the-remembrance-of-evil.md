@@ -1,7 +1,7 @@
 ---
 wp_id: 3395
 imgId: 3396
-imgSrc: /assets/thumbnails/3396.png
+imgSrc: /assets/thumbnails/3396.webp
 lang: en
 title: "Overcoming the remembrance of evil"
 pubDate: 2022-04-15T11:04:56

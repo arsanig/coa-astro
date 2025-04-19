@@ -1,7 +1,7 @@
 ---
 wp_id: 4187
 imgId: 4188
-imgSrc: /assets/thumbnails/4188.jpg
+imgSrc: /assets/thumbnails/4188.webp
 lang: en
 title: "Standing up for the Truth"
 pubDate: 2023-11-15T12:00:15

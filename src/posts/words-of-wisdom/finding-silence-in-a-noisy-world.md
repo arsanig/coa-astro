@@ -1,7 +1,7 @@
 ---
 wp_id: 2476
 imgId: 2479
-imgSrc: /assets/thumbnails/2479.png
+imgSrc: /assets/thumbnails/2479.webp
 lang: en
 title: "Finding silence in a noisy world"
 pubDate: 2020-11-12T20:59:46

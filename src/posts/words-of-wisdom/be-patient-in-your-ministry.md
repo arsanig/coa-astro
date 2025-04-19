@@ -1,7 +1,7 @@
 ---
 wp_id: 2512
 imgId: 2515
-imgSrc: /assets/thumbnails/2515.png
+imgSrc: /assets/thumbnails/2515.webp
 lang: en
 title: "Be patient in your ministry&#8230;"
 pubDate: 2020-12-01T21:24:18

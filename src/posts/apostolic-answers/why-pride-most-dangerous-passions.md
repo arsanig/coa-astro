@@ -1,12 +1,13 @@
 ---
 wp_id: 1147
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "Why is Pride the most dangerous of all passions?(Passions- Part 6)"
 pubDate: 2018-09-29T14:11:19
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913">Why is </span></span><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913">Pride</span></span><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913"> the most dangerous of all passions?</span></span>(Passions- Part 6)</strong></p>

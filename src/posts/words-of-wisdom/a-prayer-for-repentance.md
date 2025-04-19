@@ -1,7 +1,7 @@
 ---
 wp_id: 3515
 imgId: 3516
-imgSrc: /assets/thumbnails/3516.png
+imgSrc: /assets/thumbnails/3516.webp
 lang: en
 title: "A prayer for Repentance"
 pubDate: 2022-07-22T01:07:03

@@ -1,7 +1,7 @@
 ---
 wp_id: 2785
 imgId: 2788
-imgSrc: /assets/thumbnails/2788.png
+imgSrc: /assets/thumbnails/2788.webp
 lang: en
 title: "Bend your knees!"
 pubDate: 2021-04-01T23:33:00

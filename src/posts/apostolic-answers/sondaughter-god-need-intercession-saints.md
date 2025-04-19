@@ -1,12 +1,13 @@
 ---
 wp_id: 937
 imgId: 554
-imgSrc: /assets/thumbnails/554.jpg
+imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "If I am the son/daughter of God, why do I need the intercession of the saints?"
 pubDate: 2017-07-19T11:43:46
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>If I am the son/daughter of God, why do I need the intercession of the saints?</strong></p>

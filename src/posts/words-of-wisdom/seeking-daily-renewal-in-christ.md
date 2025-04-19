@@ -1,7 +1,7 @@
 ---
 wp_id: 2407
 imgId: 2409
-imgSrc: /assets/thumbnails/2409.png
+imgSrc: /assets/thumbnails/2409.webp
 lang: en
 title: "Seeking daily renewal in Christ!"
 pubDate: 2020-10-25T23:47:28

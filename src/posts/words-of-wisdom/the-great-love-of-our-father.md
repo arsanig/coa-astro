@@ -1,7 +1,7 @@
 ---
 wp_id: 2588
 imgId: 2590
-imgSrc: /assets/thumbnails/2590.png
+imgSrc: /assets/thumbnails/2590.webp
 lang: en
 title: "The Great Love of Our Father!"
 pubDate: 2021-01-14T20:30:20

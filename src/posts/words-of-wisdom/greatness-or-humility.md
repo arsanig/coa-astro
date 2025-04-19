@@ -1,7 +1,7 @@
 ---
 wp_id: 3276
 imgId: 3277
-imgSrc: /assets/thumbnails/3277.png
+imgSrc: /assets/thumbnails/3277.webp
 lang: en
 title: "Greatness or Humility?"
 pubDate: 2022-01-20T22:09:24

@@ -1,12 +1,13 @@
 ---
 wp_id: 927
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is confession? &#8211; Part 2"
 pubDate: 2017-07-05T00:10:10
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son and the Holy Spirit, One God. Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

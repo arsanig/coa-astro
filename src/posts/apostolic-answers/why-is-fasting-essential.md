@@ -1,12 +1,13 @@
 ---
 wp_id: 673
 imgId: 681
-imgSrc: /assets/thumbnails/681.png
+imgSrc: /assets/thumbnails/681.webp
 lang: en
 title: "Why is fasting essential?"
 pubDate: 2017-02-14T21:46:30
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why is fasting essential?</strong></p>

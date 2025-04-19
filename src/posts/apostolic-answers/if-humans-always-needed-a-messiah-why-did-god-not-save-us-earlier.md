@@ -1,12 +1,13 @@
 ---
 wp_id: 1763
 imgId: 1764
-imgSrc: /assets/thumbnails/1764.png
+imgSrc: /assets/thumbnails/1764.webp
 lang: en
 title: "If humans always needed a Messiah, why did God not save us earlier?"
 pubDate: 2019-10-16T12:00:14
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

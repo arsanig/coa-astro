@@ -1,7 +1,7 @@
 ---
 wp_id: 3900
 imgId: 3901
-imgSrc: /assets/thumbnails/3901.jpg
+imgSrc: /assets/thumbnails/3901.webp
 lang: en
 title: "Wisdom of the Desert Fathers"
 pubDate: 2023-05-10T01:15:25

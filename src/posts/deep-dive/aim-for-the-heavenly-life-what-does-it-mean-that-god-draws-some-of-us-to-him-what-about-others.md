@@ -1,7 +1,7 @@
 ---
 wp_id: 2117
 imgId: 2118
-imgSrc: /assets/thumbnails/2118.png
+imgSrc: /assets/thumbnails/2118.webp
 lang: en
 title: "Aim for the heavenly life. What does it mean that God draws some of us to Him? What about others?"
 pubDate: 2020-05-15T13:05:57

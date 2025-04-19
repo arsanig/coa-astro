@@ -1,12 +1,13 @@
 ---
 wp_id: 2838
 imgId: 2840
-imgSrc: /assets/thumbnails/2840.png
+imgSrc: /assets/thumbnails/2840.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as Life Giving. by Fr. Anthony Mourad"
 pubDate: 2021-04-26T08:29:04
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

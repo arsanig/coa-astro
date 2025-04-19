@@ -1,7 +1,7 @@
 ---
 wp_id: 4085
 imgId: 4086
-imgSrc: /assets/thumbnails/4086.png
+imgSrc: /assets/thumbnails/4086.webp
 lang: en
 title: "Signs of a Sleeping Christian"
 pubDate: 2023-10-04T12:00:50

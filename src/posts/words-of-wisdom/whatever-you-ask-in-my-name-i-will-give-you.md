@@ -1,7 +1,7 @@
 ---
 wp_id: 2545
 imgId: 2547
-imgSrc: /assets/thumbnails/2547.png
+imgSrc: /assets/thumbnails/2547.webp
 lang: en
 title: "Whatever you ask in my name, I will give you"
 pubDate: 2020-12-18T12:14:06

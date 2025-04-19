@@ -1,7 +1,7 @@
 ---
 wp_id: 4398
 imgId: 4399
-imgSrc: /assets/thumbnails/4399.png
+imgSrc: /assets/thumbnails/4399.webp
 lang: en
 title: "Finding Christ in Liturgy"
 pubDate: 2024-02-16T12:00:20

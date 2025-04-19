@@ -1,7 +1,7 @@
 ---
 wp_id: 2159
 imgId: 2160
-imgSrc: /assets/thumbnails/2160.png
+imgSrc: /assets/thumbnails/2160.webp
 lang: en
 title: "How to Attain Perfect Christian Love?"
 pubDate: 2020-05-06T14:45:38

@@ -1,12 +1,13 @@
 ---
 wp_id: 669
 imgId: 683
-imgSrc: /assets/thumbnails/683.png
+imgSrc: /assets/thumbnails/683.webp
 lang: en
 title: "How did monasticism come to be?"
 pubDate: 2017-02-14T21:31:14
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How did monasticism come to be?</strong></p>

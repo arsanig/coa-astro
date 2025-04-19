@@ -1,7 +1,7 @@
 ---
 wp_id: 3258
 imgId: 3260
-imgSrc: /assets/thumbnails/3260.png
+imgSrc: /assets/thumbnails/3260.webp
 lang: en
 title: "Search for Christ in everything you do!"
 pubDate: 2022-01-07T03:51:29

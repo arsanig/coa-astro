@@ -1,7 +1,7 @@
 ---
 wp_id: 4031
 imgId: 4033
-imgSrc: /assets/thumbnails/4033.jpg
+imgSrc: /assets/thumbnails/4033.webp
 lang: en
 title: "Is the belief in the Holy Trinity POLYTHEISM?"
 pubDate: 2023-09-06T12:00:31

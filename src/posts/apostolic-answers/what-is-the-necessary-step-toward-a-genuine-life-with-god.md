@@ -1,12 +1,13 @@
 ---
 wp_id: 1139
 imgId: 1082
-imgSrc: /assets/thumbnails/1082.png
+imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "What is the Necessary Step Toward a Genuine Life With God?"
 pubDate: 2018-06-11T22:07:00
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the necessary step toward a genuine life with God?</strong></p>

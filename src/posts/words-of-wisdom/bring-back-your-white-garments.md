@@ -1,7 +1,7 @@
 ---
 wp_id: 3345
 imgId: 3346
-imgSrc: /assets/thumbnails/3346.png
+imgSrc: /assets/thumbnails/3346.webp
 lang: en
 title: "Bring back your white garments"
 pubDate: 2022-03-16T02:20:55

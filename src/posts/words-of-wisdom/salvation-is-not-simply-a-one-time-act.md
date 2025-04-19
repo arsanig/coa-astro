@@ -1,7 +1,7 @@
 ---
 wp_id: 2130
 imgId: 2132
-imgSrc: /assets/thumbnails/2132.png
+imgSrc: /assets/thumbnails/2132.webp
 lang: en
 title: "Salvation is not simply a one time act!"
 pubDate: 2020-05-19T14:21:44

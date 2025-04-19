@@ -1,12 +1,13 @@
 ---
 wp_id: 2889
 imgId: 2893
-imgSrc: /assets/thumbnails/2893.png
+imgSrc: /assets/thumbnails/2893.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Bread of Life by Fr. Anthony Mourad"
 pubDate: 2021-05-30T23:31:52
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

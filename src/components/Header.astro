@@ -2,6 +2,7 @@
 import Nav from "./Nav.astro";
 import LanguageToggle from "./LanguageToggle.astro";
 import * as m from "@paraglide/messages.js";
+import SearchIcon from "./SearchIcon.astro";
 ---
 
 <header>
@@ -10,17 +11,26 @@ import * as m from "@paraglide/messages.js";
     </div>
     <div class="bg-no-repeat bg-cover bg-center bg-[url(/assets/images/church.jpg)]">
         <div class="bg-black/85 min-h-96 flex flex-col justify-center items-center">
-            <h1 class="font-noto text-4xl md:text-5xl lg:text-7xl text-pearl text-center px-4">{m.siteName()}</h1>
-            <h2 class="font-barlow text-2xl md:text-3xl lg:text-5xl mt-4 md:mt-6 lg:mt-8 text-jonquil text-center px-4">
-                {m.slogan()}
-            </h2>
+            <a href="/">
+                <h1 class="font-noto text-4xl md:text-5xl lg:text-7xl text-pearl text-center px-4">{m.siteName()}</h1>
+                <h2
+                    class="font-barlow text-2xl md:text-3xl lg:text-5xl mt-4 md:mt-6 lg:mt-8 text-jonquil text-center px-4"
+                >
+                    {m.slogan()}
+                </h2>
+            </a>
             <div class="mt-4 md:mt-6 lg:mt-8 w-full max-w-2xl px-4 relative flex justify-center">
-                <input
-                    id="search"
-                    type="text"
-                    placeholder="Get answers from an apostolic faith"
-                    class="w-3/4 sm:w-4/5 md:w-2/3 px-3 sm:px-4 py-2 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-sm sm:text-base"
-                />
+                <div class="relative w-3/4 sm:w-4/5 md:w-2/3">
+                    <input
+                        id="search"
+                        type="text"
+                        placeholder="Get answers from an apostolic faith"
+                        class="w-full px-10 sm:px-12 py-2 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-sm sm:text-base [&:focus::placeholder]:opacity-0"
+                    />
+                    <div class="absolute left-3 sm:left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">
+                        <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
+                    </div>
+                </div>
                 <div id="results" class="fixed inset-0 hidden z-100">
                     <div
                         class="absolute w-3/4 sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60vh] overflow-y-auto bg-white rounded-lg shadow-xl p-4"

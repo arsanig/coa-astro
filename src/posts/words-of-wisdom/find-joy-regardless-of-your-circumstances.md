@@ -1,7 +1,7 @@
 ---
 wp_id: 1598
 imgId: 1599
-imgSrc: /assets/thumbnails/1599.png
+imgSrc: /assets/thumbnails/1599.webp
 lang: en
 title: "Find joy regardless of your circumstances"
 pubDate: 2019-06-19T11:53:47

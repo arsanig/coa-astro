@@ -1,7 +1,7 @@
 ---
 wp_id: 3289
 imgId: 3290
-imgSrc: /assets/thumbnails/3290.png
+imgSrc: /assets/thumbnails/3290.webp
 lang: en
 title: "You store the word of God!"
 pubDate: 2022-02-02T00:22:45

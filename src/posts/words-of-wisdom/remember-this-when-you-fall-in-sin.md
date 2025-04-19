@@ -1,7 +1,7 @@
 ---
 wp_id: 1963
 imgId: 1964
-imgSrc: /assets/thumbnails/1964.png
+imgSrc: /assets/thumbnails/1964.webp
 lang: en
 title: "Remember This When You Fall In Sin!"
 pubDate: 2020-01-24T12:00:10

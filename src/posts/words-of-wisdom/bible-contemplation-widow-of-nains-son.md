@@ -1,7 +1,7 @@
 ---
 wp_id: 2334
 imgId: 2335
-imgSrc: /assets/thumbnails/2335.png
+imgSrc: /assets/thumbnails/2335.webp
 lang: en
 title: "Bible Contemplations: Widow of Nain’s Son"
 pubDate: 2020-10-14T09:11:34

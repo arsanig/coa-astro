@@ -1,7 +1,7 @@
 ---
 wp_id: 962
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is the passion of Greed & Avarice?(Passions- Part 4)"
 pubDate: 2017-08-23T14:11:20

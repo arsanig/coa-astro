@@ -1,12 +1,13 @@
 ---
 wp_id: 896
 imgId: 401
-imgSrc: /assets/thumbnails/401.jpg
+imgSrc: /assets/thumbnails/401.webp
 lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-2"
 pubDate: 2017-05-31T09:11:11
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Is Christ’s Resurrection a REAL fact? Part-2</strong></p>

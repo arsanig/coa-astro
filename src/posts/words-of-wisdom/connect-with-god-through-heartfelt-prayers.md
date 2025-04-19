@@ -1,7 +1,7 @@
 ---
 wp_id: 3993
 imgId: 3994
-imgSrc: /assets/thumbnails/3994.png
+imgSrc: /assets/thumbnails/3994.webp
 lang: en
 title: "Connect with God through Heartfelt prayers"
 pubDate: 2023-07-14T18:41:11

@@ -1,7 +1,7 @@
 ---
 wp_id: 3745
 imgId: 3746
-imgSrc: /assets/thumbnails/3746.png
+imgSrc: /assets/thumbnails/3746.webp
 lang: en
 title: "COA live Q&A January. 18. 2023 by Fr. Anthony Mourad"
 pubDate: 2023-01-20T11:41:50

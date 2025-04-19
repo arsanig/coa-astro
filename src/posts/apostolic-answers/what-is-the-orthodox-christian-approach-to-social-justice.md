@@ -1,12 +1,13 @@
 ---
 wp_id: 2752
 imgId: 2753
-imgSrc: /assets/thumbnails/2753.png
+imgSrc: /assets/thumbnails/2753.webp
 lang: en
 title: "What is the Orthodox Christian Approach to Social Justice?"
 pubDate: 2021-03-24T11:00:45
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>More than ever in today’s world we are facing social dilemmas where people are accusing others of great offense, inequality, oppression, or social injustice. We are constantly bombarded of news of yet another scandal, or another tragedy, or simply more and more examples of how we as human beings have failed to live out our calling as people created in God’s Image and likeness. What should be our response to all this social injustice? Is there even such a thing within the understanding of Orthodox Christianity? In this short series, we will take a look at all this and discuss it together.</p>

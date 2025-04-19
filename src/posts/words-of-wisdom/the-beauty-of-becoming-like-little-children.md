@@ -1,7 +1,7 @@
 ---
 wp_id: 1982
 imgId: 1983
-imgSrc: /assets/thumbnails/1983.png
+imgSrc: /assets/thumbnails/1983.webp
 lang: en
 title: "The beauty of becoming like little children!"
 pubDate: 2020-01-31T12:00:32

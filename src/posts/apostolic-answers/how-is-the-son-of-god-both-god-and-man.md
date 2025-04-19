@@ -1,12 +1,13 @@
 ---
 wp_id: 1709
 imgId: 1711
-imgSrc: /assets/thumbnails/1711.png
+imgSrc: /assets/thumbnails/1711.webp
 lang: en
 title: "How is the Son of God both God and man?"
 pubDate: 2019-09-11T20:56:27
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

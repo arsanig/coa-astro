@@ -1,7 +1,7 @@
 ---
 wp_id: 2352
 imgId: 2353
-imgSrc: /assets/thumbnails/2353.png
+imgSrc: /assets/thumbnails/2353.webp
 lang: en
 title: "Explore the hidden message behind the healing of the man born blind. Why Christ spit on the ground?"
 pubDate: 2020-10-22T00:20:33

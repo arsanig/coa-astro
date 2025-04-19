@@ -1,7 +1,7 @@
 ---
 wp_id: 3882
 imgId: 3883
-imgSrc: /assets/thumbnails/3883.png
+imgSrc: /assets/thumbnails/3883.webp
 lang: en
 title: "Be bold"
 pubDate: 2023-04-21T00:19:55

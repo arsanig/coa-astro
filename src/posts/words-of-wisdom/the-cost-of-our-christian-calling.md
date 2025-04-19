@@ -1,7 +1,7 @@
 ---
 wp_id: 1750
 imgId: 1753
-imgSrc: /assets/thumbnails/1753.png
+imgSrc: /assets/thumbnails/1753.webp
 lang: en
 title: "The Cost of our Christian Calling!"
 pubDate: 2019-10-09T12:00:48

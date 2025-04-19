@@ -1,7 +1,7 @@
 ---
 wp_id: 3886
 imgId: 3887
-imgSrc: /assets/thumbnails/3887.png
+imgSrc: /assets/thumbnails/3887.webp
 lang: en
 title: "He must increase, I must decrease"
 pubDate: 2023-04-28T11:36:09

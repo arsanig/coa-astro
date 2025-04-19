@@ -1,7 +1,7 @@
 ---
 wp_id: 3229
 imgId: 3231
-imgSrc: /assets/thumbnails/3231.png
+imgSrc: /assets/thumbnails/3231.webp
 lang: en
 title: "Driving away procrastination"
 pubDate: 2021-12-17T01:10:59

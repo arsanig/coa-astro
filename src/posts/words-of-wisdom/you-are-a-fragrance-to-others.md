@@ -1,7 +1,7 @@
 ---
 wp_id: 3708
 imgId: 3709
-imgSrc: /assets/thumbnails/3709.png
+imgSrc: /assets/thumbnails/3709.webp
 lang: en
 title: "You are a fragrance to others"
 pubDate: 2022-12-13T23:42:57

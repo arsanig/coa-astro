@@ -1,12 +1,13 @@
 ---
 wp_id: 796
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What are the passions and how do I fight them?"
 pubDate: 2017-03-15T11:04:33
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <h3 style="text-align: center;"><strong>What are the Passions and How to Fight Them?</strong></h3>

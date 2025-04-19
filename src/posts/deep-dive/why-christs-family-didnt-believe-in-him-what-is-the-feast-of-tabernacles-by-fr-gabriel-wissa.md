@@ -1,7 +1,7 @@
 ---
 wp_id: 2238
 imgId: 2239
-imgSrc: /assets/thumbnails/2239.png
+imgSrc: /assets/thumbnails/2239.webp
 lang: en
 title: "Why Christ’s family didn’t believe in Him? What is the feast of Tabernacles? by Fr. Gabriel Wissa"
 pubDate: 2020-06-04T21:38:21

@@ -1,12 +1,13 @@
 ---
 wp_id: 748
 imgId: 447
-imgSrc: /assets/thumbnails/447.jpg
+imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "Should I use Psalms in prayer?"
 pubDate: 2017-02-22T11:14:36
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <h4 style="text-align: center;"> Should I use Psalms in prayer?</h4>

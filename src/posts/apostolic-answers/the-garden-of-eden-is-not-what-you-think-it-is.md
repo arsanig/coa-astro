@@ -1,12 +1,13 @@
 ---
 wp_id: 4421
 imgId: 4422
-imgSrc: /assets/thumbnails/4422.png
+imgSrc: /assets/thumbnails/4422.webp
 lang: en
 title: "The Garden of Eden is NOT What You Think It is"
 pubDate: 2024-03-06T12:00:46
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/BU_1693pSUo" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>

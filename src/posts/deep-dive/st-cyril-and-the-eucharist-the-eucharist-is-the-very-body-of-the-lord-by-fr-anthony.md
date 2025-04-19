@@ -1,12 +1,13 @@
 ---
 wp_id: 2684
 imgId: 2685
-imgSrc: /assets/thumbnails/2685.png
+imgSrc: /assets/thumbnails/2685.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Very Body of the Lord. by Fr. Anthony"
 pubDate: 2021-02-28T20:55:43
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

@@ -1,7 +1,7 @@
 ---
 wp_id: 4139
 imgId: 4140
-imgSrc: /assets/thumbnails/4140.png
+imgSrc: /assets/thumbnails/4140.webp
 lang: en
 title: "An honor to call Him Father"
 pubDate: 2023-10-20T12:00:53

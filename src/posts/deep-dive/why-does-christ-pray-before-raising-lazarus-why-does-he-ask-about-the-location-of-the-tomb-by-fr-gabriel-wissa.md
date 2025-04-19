@@ -1,7 +1,7 @@
 ---
 wp_id: 2550
 imgId: 2553
-imgSrc: /assets/thumbnails/2553.png
+imgSrc: /assets/thumbnails/2553.webp
 lang: en
 title: "Why does Christ pray before raising Lazarus? Why does He ask about the location of the tomb? by Fr. Gabriel Wissa"
 pubDate: 2020-12-21T14:08:43

@@ -1,7 +1,7 @@
 ---
 wp_id: 3840
 imgId: 3841
-imgSrc: /assets/thumbnails/3841.png
+imgSrc: /assets/thumbnails/3841.webp
 lang: en
 title: "Entering into the heart of Christ during Pascha!"
 pubDate: 2023-04-04T14:36:22

@@ -1,12 +1,13 @@
 ---
 wp_id: 3927
 imgId: 3928
-imgSrc: /assets/thumbnails/3928.png
+imgSrc: /assets/thumbnails/3928.webp
 lang: en
 title: "What Is The Spiritual Passion Of Despondency?"
 pubDate: 2023-05-31T10:34:39
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>Have you ever experienced a certain heaviness when attempting to pray or read your bible? Has laziness or fatigue prevented you from fulfilling your spiritual tasks and services? Well these kinds of descriptions usually mean one thing – you’re being tempted by the demon of acedia or despondency. Stay tuned to learn more.</p>

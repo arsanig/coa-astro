@@ -1,7 +1,7 @@
 ---
 wp_id: 3157
 imgId: 3159
-imgSrc: /assets/thumbnails/3159.png
+imgSrc: /assets/thumbnails/3159.webp
 lang: en
 title: "Union with God"
 pubDate: 2021-10-26T23:22:58

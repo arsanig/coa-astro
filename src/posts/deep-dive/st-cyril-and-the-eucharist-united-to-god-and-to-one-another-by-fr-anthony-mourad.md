@@ -1,12 +1,13 @@
 ---
 wp_id: 2964
 imgId: 2969
-imgSrc: /assets/thumbnails/2969.png
+imgSrc: /assets/thumbnails/2969.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God and to One Another by Fr. Anthony Mourad"
 pubDate: 2021-07-12T00:00:36
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

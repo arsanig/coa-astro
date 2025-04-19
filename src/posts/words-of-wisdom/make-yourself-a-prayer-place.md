@@ -1,7 +1,7 @@
 ---
 wp_id: 3272
 imgId: 3273
-imgSrc: /assets/thumbnails/3273.png
+imgSrc: /assets/thumbnails/3273.webp
 lang: en
 title: "Make yourself a prayer place"
 pubDate: 2022-01-19T09:56:24

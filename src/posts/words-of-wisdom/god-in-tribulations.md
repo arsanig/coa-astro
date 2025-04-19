@@ -1,7 +1,7 @@
 ---
 wp_id: 3484
 imgId: 3485
-imgSrc: /assets/thumbnails/3485.png
+imgSrc: /assets/thumbnails/3485.webp
 lang: en
 title: "God in tribulations"
 pubDate: 2022-06-24T12:44:55

@@ -2,7 +2,7 @@
 wp_id: 3660
 imgId: 3661
 videoId: ""
-imgSrc: /assets/thumbnails/3661.png
+imgSrc: /assets/thumbnails/3661.webp
 lang: en
 title: "Be anxious for nothing"
 pubDate: 2022-11-10T23:42:55

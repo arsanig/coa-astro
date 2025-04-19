@@ -1,7 +1,7 @@
 ---
 wp_id: 4410
 imgId: 4411
-imgSrc: /assets/thumbnails/4411.jpg
+imgSrc: /assets/thumbnails/4411.webp
 lang: en
 title: "God can use your sinful past for the glory of His Name!"
 pubDate: 2024-03-01T12:00:32

@@ -1,7 +1,7 @@
 ---
 wp_id: 3519
 imgId: 3520
-imgSrc: /assets/thumbnails/3520.png
+imgSrc: /assets/thumbnails/3520.webp
 lang: en
 title: "Become upright in heart"
 pubDate: 2022-07-28T23:59:48

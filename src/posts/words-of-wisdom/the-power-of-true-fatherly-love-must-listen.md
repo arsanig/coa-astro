@@ -1,7 +1,7 @@
 ---
 wp_id: 1950
 imgId: 1952
-imgSrc: /assets/thumbnails/1952.png
+imgSrc: /assets/thumbnails/1952.webp
 lang: en
 title: "The power of true fatherly love! (must listen)"
 pubDate: 2020-01-17T12:00:33

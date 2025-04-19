@@ -1,7 +1,7 @@
 ---
 wp_id: 3612
 imgId: 3613
-imgSrc: /assets/thumbnails/3613.png
+imgSrc: /assets/thumbnails/3613.webp
 lang: en
 title: "Detachment"
 pubDate: 2022-09-29T11:27:54

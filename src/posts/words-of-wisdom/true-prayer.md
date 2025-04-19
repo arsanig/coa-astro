@@ -1,7 +1,7 @@
 ---
 wp_id: 3836
 imgId: 3837
-imgSrc: /assets/thumbnails/3837.png
+imgSrc: /assets/thumbnails/3837.webp
 lang: en
 title: "True prayer"
 pubDate: 2023-03-31T01:03:08

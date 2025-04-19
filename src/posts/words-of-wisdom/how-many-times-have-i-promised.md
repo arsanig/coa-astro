@@ -1,7 +1,7 @@
 ---
 wp_id: 2988
 imgId: 2989
-imgSrc: /assets/thumbnails/2989.png
+imgSrc: /assets/thumbnails/2989.webp
 lang: en
 title: "How Many Times Have I Promised?"
 pubDate: 2021-07-23T12:00:40

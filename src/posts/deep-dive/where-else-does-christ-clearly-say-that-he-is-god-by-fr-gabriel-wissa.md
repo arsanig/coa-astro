@@ -1,7 +1,7 @@
 ---
 wp_id: 2303
 imgId: 2305
-imgSrc: /assets/thumbnails/2305.png
+imgSrc: /assets/thumbnails/2305.webp
 lang: en
 title: "Where else does Christ CLEARLY say that HE IS GOD? by Fr. Gabriel Wissa"
 pubDate: 2020-07-10T12:00:44

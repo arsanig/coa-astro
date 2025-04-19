@@ -2,7 +2,7 @@
 wp_id: 3637
 imgId: 3638
 videoId: ""
-imgSrc: /assets/thumbnails/3638.png
+imgSrc: /assets/thumbnails/3638.webp
 lang: en
 title: "God has questions"
 pubDate: 2022-10-20T23:11:05

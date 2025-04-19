@@ -2,7 +2,7 @@
 wp_id: 3307
 imgId: 3308
 videoId: ""
-imgSrc: /assets/thumbnails/3308.png
+imgSrc: /assets/thumbnails/3308.webp
 lang: en
 title: "Carrying the Cross is a lifelong process"
 pubDate: 2022-02-11T02:01:48

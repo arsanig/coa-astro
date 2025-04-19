@@ -1,7 +1,7 @@
 ---
 wp_id: 3916
 imgId: 3917
-imgSrc: /assets/thumbnails/3917.png
+imgSrc: /assets/thumbnails/3917.webp
 lang: en
 title: "Take a Break from Social Media"
 pubDate: 2023-05-19T14:36:53

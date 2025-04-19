@@ -1,12 +1,13 @@
 ---
 wp_id: 2866
 imgId: 2869
-imgSrc: /assets/thumbnails/2869.png
+imgSrc: /assets/thumbnails/2869.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body and Blood give us Life. by Fr. Anthony Mourad"
 pubDate: 2021-05-16T23:24:59
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

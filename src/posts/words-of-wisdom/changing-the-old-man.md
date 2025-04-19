@@ -1,7 +1,7 @@
 ---
 wp_id: 3337
 imgId: 3338
-imgSrc: /assets/thumbnails/3338.png
+imgSrc: /assets/thumbnails/3338.webp
 lang: en
 title: "Changing the old man"
 pubDate: 2022-03-11T10:30:10

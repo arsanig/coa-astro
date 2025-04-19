@@ -1,7 +1,7 @@
 ---
 wp_id: 3670
 imgId: 3671
-imgSrc: /assets/thumbnails/3671.png
+imgSrc: /assets/thumbnails/3671.webp
 lang: en
 title: "The virtue of patience"
 pubDate: 2022-11-18T00:00:37

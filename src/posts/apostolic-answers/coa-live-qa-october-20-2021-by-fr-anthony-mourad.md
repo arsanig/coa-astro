@@ -1,7 +1,7 @@
 ---
 wp_id: 3152
 imgId: 3153
-imgSrc: /assets/thumbnails/3153.png
+imgSrc: /assets/thumbnails/3153.webp
 lang: en
 title: "COA live Q&A October. 20. 2021 by Fr. Anthony Mourad"
 pubDate: 2021-10-24T07:46:06

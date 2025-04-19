@@ -1,7 +1,7 @@
 ---
 wp_id: 4361
 imgId: 4366
-imgSrc: /assets/thumbnails/4366.png
+imgSrc: /assets/thumbnails/4366.webp
 lang: en
 title: "What is Faith?"
 pubDate: 2024-01-19T12:00:29

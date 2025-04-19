@@ -1,12 +1,13 @@
 ---
 wp_id: 2649
 imgId: 2651
-imgSrc: /assets/thumbnails/2651.png
+imgSrc: /assets/thumbnails/2651.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body is the Body of the Incarnate Word. by Fr. Anthony"
 pubDate: 2021-02-15T11:21:57
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

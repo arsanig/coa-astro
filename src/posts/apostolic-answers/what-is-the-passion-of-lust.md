@@ -1,12 +1,13 @@
 ---
 wp_id: 822
 imgId: 683
-imgSrc: /assets/thumbnails/683.png
+imgSrc: /assets/thumbnails/683.webp
 lang: en
 title: "What is the passion of Lust?"
 pubDate: 2017-03-28T19:21:20
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What are the Passions and how to fight them ? &#8211; Lust &#8211; Part 2<br />

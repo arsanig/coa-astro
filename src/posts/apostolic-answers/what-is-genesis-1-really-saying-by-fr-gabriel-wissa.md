@@ -1,12 +1,13 @@
 ---
 wp_id: 2035
 imgId: 2036
-imgSrc: /assets/thumbnails/2036.png
+imgSrc: /assets/thumbnails/2036.webp
 lang: en
 title: "What is Genesis 1 REALLY saying?  by Fr. Gabriel Wissa"
 pubDate: 2020-02-26T12:00:30
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

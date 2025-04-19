@@ -1,7 +1,7 @@
 ---
 wp_id: 3957
 imgId: 3958
-imgSrc: /assets/thumbnails/3958.png
+imgSrc: /assets/thumbnails/3958.webp
 lang: en
 title: "5 tips to enhance Bible studying"
 pubDate: 2023-06-09T12:00:02

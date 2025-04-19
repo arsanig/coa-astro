@@ -1,7 +1,7 @@
 ---
 wp_id: 2566
 imgId: 2568
-imgSrc: /assets/thumbnails/2568.png
+imgSrc: /assets/thumbnails/2568.webp
 lang: en
 title: "How to control your thoughts during Liturgy?"
 pubDate: 2020-12-30T09:50:04

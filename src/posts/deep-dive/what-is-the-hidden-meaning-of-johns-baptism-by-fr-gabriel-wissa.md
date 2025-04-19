@@ -1,7 +1,7 @@
 ---
 wp_id: 1926
 imgId: 1928
-imgSrc: /assets/thumbnails/1928.png
+imgSrc: /assets/thumbnails/1928.webp
 lang: en
 title: "What is the hidden meaning of John’s baptism? by Fr. Gabriel Wissa"
 pubDate: 2019-09-23T18:42:51

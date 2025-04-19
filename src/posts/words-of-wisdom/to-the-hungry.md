@@ -2,7 +2,7 @@
 wp_id: 3092
 imgId: 3094
 videoId: ""
-imgSrc: /assets/thumbnails/3094.png
+imgSrc: /assets/thumbnails/3094.webp
 lang: en
 title: "To The Hungry!"
 pubDate: 2021-09-16T21:56:45

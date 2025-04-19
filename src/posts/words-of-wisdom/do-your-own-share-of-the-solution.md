@@ -1,7 +1,7 @@
 ---
 wp_id: 2861
 imgId: 2863
-imgSrc: /assets/thumbnails/2863.png
+imgSrc: /assets/thumbnails/2863.webp
 lang: en
 title: "Do your own share of the solution"
 pubDate: 2021-05-13T19:00:54

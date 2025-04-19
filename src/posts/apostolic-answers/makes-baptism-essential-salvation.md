@@ -1,12 +1,13 @@
 ---
 wp_id: 920
 imgId: 554
-imgSrc: /assets/thumbnails/554.jpg
+imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "What makes Baptism so essential for my salvation?"
 pubDate: 2017-06-27T23:32:52
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What makes Baptism so essential for my salvation? </strong></p>

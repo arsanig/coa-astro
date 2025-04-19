@@ -1,7 +1,7 @@
 ---
 wp_id: 3805
 imgId: 3806
-imgSrc: /assets/thumbnails/3806.png
+imgSrc: /assets/thumbnails/3806.webp
 lang: en
 title: "God restores us"
 pubDate: 2023-03-16T20:53:42

@@ -2,7 +2,7 @@
 wp_id: 4316
 imgId: 4317
 videoId: ""
-imgSrc: /assets/thumbnails/4317.png
+imgSrc: /assets/thumbnails/4317.webp
 lang: en
 title: "Live a Life of Contentment"
 pubDate: 2024-01-10T12:00:23

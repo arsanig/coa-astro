@@ -1,12 +1,13 @@
 ---
 wp_id: 597
 imgId: 547
-imgSrc: /assets/thumbnails/547.jpg
+imgSrc: /assets/thumbnails/547.webp
 lang: en
 title: "What’s wrong with Abortion?"
 pubDate: 2017-02-05T12:58:57
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What’s wrong with Abortion?</strong></p>

@@ -1,12 +1,13 @@
 ---
 wp_id: 2653
 imgId: 2695
-imgSrc: /assets/thumbnails/2695.png
+imgSrc: /assets/thumbnails/2695.webp
 lang: en
 title: "How FATHERS approached Science? by Fr. Gabriel Wissa"
 pubDate: 2021-02-17T05:56:17
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

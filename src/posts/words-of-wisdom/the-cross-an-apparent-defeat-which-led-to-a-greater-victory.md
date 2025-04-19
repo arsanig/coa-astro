@@ -1,7 +1,7 @@
 ---
 wp_id: 2151
 imgId: 2152
-imgSrc: /assets/thumbnails/2152.png
+imgSrc: /assets/thumbnails/2152.webp
 lang: en
 title: "The cross: an apparent defeat which led to a greater victory"
 pubDate: 2020-04-04T14:31:15

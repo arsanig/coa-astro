@@ -1,7 +1,7 @@
 ---
 wp_id: 4194
 imgId: 4199
-imgSrc: /assets/thumbnails/4199.jpg
+imgSrc: /assets/thumbnails/4199.webp
 lang: en
 title: "Going about helping the homeless"
 pubDate: 2023-11-17T12:00:24

@@ -1,12 +1,13 @@
 ---
 wp_id: 2165
 imgId: 2167
-imgSrc: /assets/thumbnails/2167.png
+imgSrc: /assets/thumbnails/2167.webp
 lang: en
 title: "What is the meaning of Christ walking on water? How to find hope in Christ? by Fr. Gabriel Wissa"
 pubDate: 2020-05-08T15:26:20
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

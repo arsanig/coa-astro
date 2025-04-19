@@ -1,12 +1,13 @@
 ---
 wp_id: 1252
 imgId: 1225
-imgSrc: /assets/thumbnails/1225.png
+imgSrc: /assets/thumbnails/1225.webp
 lang: en
 title: "Why women cannot become priests? Is the Church sexist?"
 pubDate: 2019-01-24T16:23:52
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>All Apostolic churches, namely all Orthodox and Catholic churches have been only ordaining males to the Priesthood since the birth of the Church in the first century. Is this simply due to the Patriarchal societies of the time? In other words, is it about historical cultural customs that need to be adjusted for our modern needs? Or is there more to it than that? Before tackling this question, <b>it has to be made absolutely clear that males and females are equal in Christianity</b>. Both genders are created in the image of God, are asked to love and respect the other, and are essential to the survival of the other. As St. Paul puts it: <i>“For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus.”</i> <b>This verse emphasizes the equality of the members of the body of Christ regardless of their gender, nationality or social status.</b> <b>However, this verse does not cancel the gender. The female remains a female and the male, a male. It rather puts everyone on the same pedestal.</b> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559731&quot;:720,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

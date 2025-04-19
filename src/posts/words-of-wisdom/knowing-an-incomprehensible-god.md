@@ -1,7 +1,7 @@
 ---
 wp_id: 3280
 imgId: 3281
-imgSrc: /assets/thumbnails/3281.png
+imgSrc: /assets/thumbnails/3281.webp
 lang: en
 title: "Knowing an incomprehensible God"
 pubDate: 2022-01-25T22:46:09

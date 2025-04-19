@@ -1,12 +1,13 @@
 ---
 wp_id: 3814
 imgId: 3815
-imgSrc: /assets/thumbnails/3815.png
+imgSrc: /assets/thumbnails/3815.webp
 lang: en
 title: "Why is ADAM created from DUST? Is humanity meant to ABUSE NATURE?"
 pubDate: 2023-03-24T11:13:13
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

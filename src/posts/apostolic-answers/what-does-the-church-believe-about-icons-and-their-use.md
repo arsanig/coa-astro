@@ -1,12 +1,13 @@
 ---
 wp_id: 1543
 imgId: 1544
-imgSrc: /assets/thumbnails/1544.png
+imgSrc: /assets/thumbnails/1544.webp
 lang: en
 title: "What does the Church believe about icons and their use?"
 pubDate: 2019-05-22T10:27:18
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">Let’s</span><span data-contrast="auto"> talk about icons again! Have you ever noticed the faithful walking up to icons, kissing them, lighting a candle in front of them, or even the priest censing them? Are we worshiping those man-made images? What does it all mean? </span><span data-contrast="auto">Lets</span><span data-contrast="auto"> take a </span><span data-contrast="auto">closer look as to purpose and meaning behind icons. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

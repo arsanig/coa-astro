@@ -1,12 +1,13 @@
 ---
 wp_id: 1615
 imgId: 1616
-imgSrc: /assets/thumbnails/1616.png
+imgSrc: /assets/thumbnails/1616.webp
 lang: en
 title: "The Absence of God: Where is God in times of trouble?"
 pubDate: 2019-07-10T11:10:20
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

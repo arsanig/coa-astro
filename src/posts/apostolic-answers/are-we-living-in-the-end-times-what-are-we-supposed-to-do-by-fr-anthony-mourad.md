@@ -2,7 +2,7 @@
 wp_id: 3297
 imgId: 3298
 videoId: ""
-imgSrc: /assets/thumbnails/3298.png
+imgSrc: /assets/thumbnails/3298.webp
 lang: en
 title: "Are we living in the end times? What are we supposed to do? by Fr. Anthony Mourad"
 pubDate: 2022-02-09T00:43:08

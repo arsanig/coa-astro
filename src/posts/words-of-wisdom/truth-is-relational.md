@@ -1,7 +1,7 @@
 ---
 wp_id: 3776
 imgId: 3777
-imgSrc: /assets/thumbnails/3777.png
+imgSrc: /assets/thumbnails/3777.webp
 lang: en
 title: "Truth is relational"
 pubDate: 2023-02-16T22:24:29

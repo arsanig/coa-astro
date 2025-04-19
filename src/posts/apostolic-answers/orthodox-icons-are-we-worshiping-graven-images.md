@@ -1,12 +1,13 @@
 ---
 wp_id: 1509
 imgId: 1510
-imgSrc: /assets/thumbnails/1510.png
+imgSrc: /assets/thumbnails/1510.webp
 lang: en
 title: "Orthodox Icons: Are we worshiping graven images?"
 pubDate: 2019-05-08T11:44:20
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

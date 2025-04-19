@@ -1,12 +1,13 @@
 ---
 wp_id: 2594
 imgId: 2597
-imgSrc: /assets/thumbnails/2597.png
+imgSrc: /assets/thumbnails/2597.webp
 lang: en
 title: "St Cyril and the Eucharist: The Dilemma and the Solution by Fr. Anthony Mourad"
 pubDate: 2021-01-18T09:14:48
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

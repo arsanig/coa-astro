@@ -1,7 +1,7 @@
 ---
 wp_id: 3704
 imgId: 3705
-imgSrc: /assets/thumbnails/3705.png
+imgSrc: /assets/thumbnails/3705.webp
 lang: en
 title: "Nativity Series Christ is baptized for my sake"
 pubDate: 2022-12-09T11:30:50

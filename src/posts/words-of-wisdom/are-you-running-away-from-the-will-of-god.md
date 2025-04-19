@@ -1,7 +1,7 @@
 ---
 wp_id: 2809
 imgId: 2811
-imgSrc: /assets/thumbnails/2811.png
+imgSrc: /assets/thumbnails/2811.webp
 lang: en
 title: "Are you running away from the will of God?"
 pubDate: 2021-04-13T03:01:09

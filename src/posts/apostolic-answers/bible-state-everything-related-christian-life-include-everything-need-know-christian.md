@@ -1,12 +1,13 @@
 ---
 wp_id: 981
 imgId: 447
-imgSrc: /assets/thumbnails/447.jpg
+imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "Does the Bible state everything that is related to Christian Life? Does it include everything I need to  know as a Christian?"
 pubDate: 2017-09-27T12:21:52
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Does the Bible state everything that is related to Christian Life? Does it include everything I need to  know as a Christian?</strong></p>

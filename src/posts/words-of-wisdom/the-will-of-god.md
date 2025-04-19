@@ -1,7 +1,7 @@
 ---
 wp_id: 3123
 imgId: 3126
-imgSrc: /assets/thumbnails/3126.png
+imgSrc: /assets/thumbnails/3126.webp
 lang: en
 title: "The will of God"
 pubDate: 2021-09-30T22:30:51

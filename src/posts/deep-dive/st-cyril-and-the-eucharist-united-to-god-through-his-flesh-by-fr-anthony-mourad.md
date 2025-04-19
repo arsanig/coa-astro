@@ -1,12 +1,13 @@
 ---
 wp_id: 2936
 imgId: 2939
-imgSrc: /assets/thumbnails/2939.png
+imgSrc: /assets/thumbnails/2939.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God through His Flesh by Fr. Anthony Mourad"
 pubDate: 2021-06-28T02:17:58
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

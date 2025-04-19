@@ -1,12 +1,13 @@
 ---
 wp_id: 1738
 imgId: 1
-imgSrc: /assets/thumbnails/1.png
+imgSrc: /assets/thumbnails/1.webp
 lang: en
 title: "How are we supposed to deal with the sins of others?"
 pubDate: 2019-10-02T11:10:15
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen.</p>

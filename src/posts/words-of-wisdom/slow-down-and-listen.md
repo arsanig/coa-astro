@@ -1,7 +1,7 @@
 ---
 wp_id: 3603
 imgId: 3604
-imgSrc: /assets/thumbnails/3604.png
+imgSrc: /assets/thumbnails/3604.webp
 lang: en
 title: "Slow down and listen"
 pubDate: 2022-09-23T01:26:48

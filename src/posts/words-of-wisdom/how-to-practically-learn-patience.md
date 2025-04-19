@@ -1,7 +1,7 @@
 ---
 wp_id: 1640
 imgId: 1641
-imgSrc: /assets/thumbnails/1641.png
+imgSrc: /assets/thumbnails/1641.webp
 lang: en
 title: "How to practically learn patience?"
 pubDate: 2019-07-19T11:45:52

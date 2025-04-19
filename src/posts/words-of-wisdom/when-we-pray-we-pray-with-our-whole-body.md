@@ -1,7 +1,7 @@
 ---
 wp_id: 3133
 imgId: 3134
-imgSrc: /assets/thumbnails/3134.png
+imgSrc: /assets/thumbnails/3134.webp
 lang: en
 title: "When we pray, we pray with our whole body"
 pubDate: 2021-10-08T11:07:56

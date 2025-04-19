@@ -1,7 +1,7 @@
 ---
 wp_id: 2632
 imgId: 2634
-imgSrc: /assets/thumbnails/2634.png
+imgSrc: /assets/thumbnails/2634.webp
 lang: en
 title: "COA Milestone: Celebrating 10K+subscribers together!"
 pubDate: 2021-02-04T01:55:17

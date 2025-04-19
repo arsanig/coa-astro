@@ -1,7 +1,7 @@
 ---
 wp_id: 1820
 imgId: 1821
-imgSrc: /assets/thumbnails/1821.png
+imgSrc: /assets/thumbnails/1821.webp
 lang: en
 title: "Don&#8217;t pray! Be the prayer!"
 pubDate: 2019-11-08T12:00:25

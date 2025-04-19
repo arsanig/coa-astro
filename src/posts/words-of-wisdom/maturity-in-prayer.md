@@ -1,7 +1,7 @@
 ---
 wp_id: 3891
 imgId: 3892
-imgSrc: /assets/thumbnails/3892.png
+imgSrc: /assets/thumbnails/3892.webp
 lang: en
 title: "Maturity in prayer"
 pubDate: 2023-05-05T02:22:19

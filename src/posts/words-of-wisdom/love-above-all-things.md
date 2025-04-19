@@ -1,7 +1,7 @@
 ---
 wp_id: 3688
 imgId: 3689
-imgSrc: /assets/thumbnails/3689.png
+imgSrc: /assets/thumbnails/3689.webp
 lang: en
 title: "Love above all things"
 pubDate: 2022-11-25T11:17:08

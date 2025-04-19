@@ -1,12 +1,13 @@
 ---
 wp_id: 976
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is the Church’s stance on Euthanasia and Physician Assisted Suicide?"
 pubDate: 2017-09-20T02:03:08
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the Church’s stance on Euthanasia and Physician Assisted Suicide?</strong></p>

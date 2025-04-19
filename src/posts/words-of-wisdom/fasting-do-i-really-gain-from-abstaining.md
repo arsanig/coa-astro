@@ -1,7 +1,7 @@
 ---
 wp_id: 3544
 imgId: 3545
-imgSrc: /assets/thumbnails/3545.png
+imgSrc: /assets/thumbnails/3545.webp
 lang: en
 title: "Fasting &#8211; Do I Really Gain from Abstaining?"
 pubDate: 2022-08-26T00:13:33

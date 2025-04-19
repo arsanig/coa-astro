@@ -1,12 +1,13 @@
 ---
 wp_id: 3593
 imgId: 3594
-imgSrc: /assets/thumbnails/3594.png
+imgSrc: /assets/thumbnails/3594.webp
 lang: en
 title: "What is keeping me from EXPERIENCING God? by Fr. Gabriel Wissa"
 pubDate: 2022-09-20T22:46:00
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>

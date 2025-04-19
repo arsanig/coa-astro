@@ -1,7 +1,7 @@
 ---
 wp_id: 1646
 imgId: 1647
-imgSrc: /assets/thumbnails/1647.png
+imgSrc: /assets/thumbnails/1647.webp
 lang: en
 title: "Get Up & Face Your Giants!"
 pubDate: 2019-07-25T10:15:52

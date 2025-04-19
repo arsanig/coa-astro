@@ -1,7 +1,7 @@
 ---
 wp_id: 2982
 imgId: 2983
-imgSrc: /assets/thumbnails/2983.png
+imgSrc: /assets/thumbnails/2983.webp
 lang: en
 title: "Distractions in Prayer"
 pubDate: 2021-07-21T12:00:23

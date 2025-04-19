@@ -2,7 +2,7 @@
 wp_id: 3443
 imgId: 3444
 videoId: ""
-imgSrc: /assets/thumbnails/3444.png
+imgSrc: /assets/thumbnails/3444.webp
 lang: en
 title: "We are His children"
 pubDate: 2022-05-13T10:42:03

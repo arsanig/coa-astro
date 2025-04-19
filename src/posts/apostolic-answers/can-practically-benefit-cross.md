@@ -1,12 +1,13 @@
 ---
 wp_id: 832
 imgId: 447
-imgSrc: /assets/thumbnails/447.jpg
+imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "How Can I Practically Benefit From The Cross?"
 pubDate: 2017-04-11T20:25:15
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How Can I Practically Benefit From The Cross?</strong></p>

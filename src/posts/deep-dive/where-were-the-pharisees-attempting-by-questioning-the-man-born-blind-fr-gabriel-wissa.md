@@ -1,7 +1,7 @@
 ---
 wp_id: 2314
 imgId: 2315
-imgSrc: /assets/thumbnails/2315.png
+imgSrc: /assets/thumbnails/2315.webp
 lang: en
 title: "What were the Pharisees attempting by questioning the man born blind? Why were his parents afraid? by Fr. Gabriel Wissa"
 pubDate: 2020-10-04T21:14:54

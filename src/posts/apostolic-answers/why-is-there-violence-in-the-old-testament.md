@@ -1,12 +1,13 @@
 ---
 wp_id: 666
 imgId: 548
-imgSrc: /assets/thumbnails/548.jpg
+imgSrc: /assets/thumbnails/548.webp
 lang: en
 title: "Why is there violence in the Old Testament? (Violence in the OT &#8211; Part 1)"
 pubDate: 2017-02-14T21:23:16
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why is there violence in the Old Testament? (Violence in the OT &#8211; part 1)</strong></p>

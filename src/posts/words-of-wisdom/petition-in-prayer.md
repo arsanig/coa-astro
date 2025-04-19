@@ -1,7 +1,7 @@
 ---
 wp_id: 3204
 imgId: 3206
-imgSrc: /assets/thumbnails/3206.png
+imgSrc: /assets/thumbnails/3206.webp
 lang: en
 title: "Petition in prayer"
 pubDate: 2021-11-30T14:25:13

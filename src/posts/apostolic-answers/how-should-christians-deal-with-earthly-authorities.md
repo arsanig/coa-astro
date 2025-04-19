@@ -1,12 +1,13 @@
 ---
 wp_id: 3566
 imgId: 3567
-imgSrc: /assets/thumbnails/3567.png
+imgSrc: /assets/thumbnails/3567.webp
 lang: en
 title: "How Should Christians Deal with Earthly Authorities?"
 pubDate: 2022-09-07T10:49:36
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

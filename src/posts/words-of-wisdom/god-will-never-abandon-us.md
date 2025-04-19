@@ -1,7 +1,7 @@
 ---
 wp_id: 3531
 imgId: 3532
-imgSrc: /assets/thumbnails/3532.png
+imgSrc: /assets/thumbnails/3532.webp
 lang: en
 title: "God will never abandon us"
 pubDate: 2022-08-09T23:25:09

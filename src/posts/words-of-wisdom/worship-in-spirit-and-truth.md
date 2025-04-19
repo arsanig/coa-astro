@@ -1,7 +1,7 @@
 ---
 wp_id: 1611
 imgId: 1612
-imgSrc: /assets/thumbnails/1612.png
+imgSrc: /assets/thumbnails/1612.webp
 lang: en
 title: "Worship in Spirit and TRUTH!"
 pubDate: 2019-07-05T11:30:25

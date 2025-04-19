@@ -1,7 +1,7 @@
 ---
 wp_id: 3148
 imgId: 3149
-imgSrc: /assets/thumbnails/3149.png
+imgSrc: /assets/thumbnails/3149.webp
 lang: en
 title: "Sin, The True Virus"
 pubDate: 2021-10-22T10:55:54

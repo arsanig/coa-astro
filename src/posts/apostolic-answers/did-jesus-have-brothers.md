@@ -2,7 +2,7 @@
 wp_id: 4324
 imgId: 4326
 videoId: "aARWunaXdtE"
-imgSrc: /assets/thumbnails/4326.png
+imgSrc: /assets/thumbnails/4326.webp
 lang: en
 title: "Did Jesus have brothers?"
 pubDate: 2024-01-17T12:00:31

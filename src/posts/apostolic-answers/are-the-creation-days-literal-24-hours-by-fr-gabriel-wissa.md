@@ -2,7 +2,7 @@
 wp_id: 2006
 imgId: 2007
 videoId: ""
-imgSrc: /assets/thumbnails/2007.png
+imgSrc: /assets/thumbnails/2007.webp
 lang: en
 title: "Are the creation days literal 24 hours?  by Fr. Gabriel Wissa"
 pubDate: 2020-02-12T12:00:22

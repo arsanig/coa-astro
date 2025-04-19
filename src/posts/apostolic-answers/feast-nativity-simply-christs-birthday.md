@@ -1,12 +1,13 @@
 ---
 wp_id: 1020
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "Is the feast of Nativity simply Christ’s birthday?"
 pubDate: 2017-12-13T01:40:04
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong><u>Is the feast of Nativity simply Christ’s birthday?</u></strong></p>

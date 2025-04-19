@@ -1,7 +1,7 @@
 ---
 wp_id: 2557
 imgId: 2559
-imgSrc: /assets/thumbnails/2559.png
+imgSrc: /assets/thumbnails/2559.webp
 lang: en
 title: "Our relationship patterns with God"
 pubDate: 2020-12-24T23:56:17

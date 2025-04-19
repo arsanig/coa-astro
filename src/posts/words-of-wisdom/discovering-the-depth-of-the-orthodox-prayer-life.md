@@ -1,7 +1,7 @@
 ---
 wp_id: 1386
 imgId: 1387
-imgSrc: /assets/thumbnails/1387.jpg
+imgSrc: /assets/thumbnails/1387.webp
 lang: en
 title: "Discovering the Depth of the Orthodox Prayer Life"
 pubDate: 2019-03-06T15:06:20

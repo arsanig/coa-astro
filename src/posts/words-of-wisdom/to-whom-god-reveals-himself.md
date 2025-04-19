@@ -1,7 +1,7 @@
 ---
 wp_id: 3906
 imgId: 3910
-imgSrc: /assets/thumbnails/3910.png
+imgSrc: /assets/thumbnails/3910.webp
 lang: en
 title: "To Whom God Reveals Himself"
 pubDate: 2023-05-12T08:10:54

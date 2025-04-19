@@ -1,7 +1,7 @@
 ---
 wp_id: 2088
 imgId: 2089
-imgSrc: /assets/thumbnails/2089.png
+imgSrc: /assets/thumbnails/2089.webp
 lang: en
 title: "How to live righteously?"
 pubDate: 2020-03-18T10:51:03

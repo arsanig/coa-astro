@@ -1,12 +1,13 @@
 ---
 wp_id: 2737
 imgId: 2739
-imgSrc: /assets/thumbnails/2739.png
+imgSrc: /assets/thumbnails/2739.webp
 lang: en
 title: "St Cyril and the Eucharist: Humanity&#8217;s State of Corruption. by Fr. Anthony Mourad"
 pubDate: 2021-03-16T21:37:37
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

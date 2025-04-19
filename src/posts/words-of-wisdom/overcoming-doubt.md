@@ -1,7 +1,7 @@
 ---
 wp_id: 3466
 imgId: 3467
-imgSrc: /assets/thumbnails/3467.png
+imgSrc: /assets/thumbnails/3467.webp
 lang: en
 title: "Overcoming Doubt"
 pubDate: 2022-06-03T10:39:22

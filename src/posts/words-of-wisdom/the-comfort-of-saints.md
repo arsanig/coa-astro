@@ -1,7 +1,7 @@
 ---
 wp_id: 3102
 imgId: 3103
-imgSrc: /assets/thumbnails/3103.png
+imgSrc: /assets/thumbnails/3103.webp
 lang: en
 title: "The Comfort of Saints"
 pubDate: 2021-09-23T20:34:27

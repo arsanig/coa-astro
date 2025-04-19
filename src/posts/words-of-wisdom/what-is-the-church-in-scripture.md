@@ -1,7 +1,7 @@
 ---
 wp_id: 2606
 imgId: 2610
-imgSrc: /assets/thumbnails/2610.png
+imgSrc: /assets/thumbnails/2610.webp
 lang: en
 title: "What is the Church in scripture?"
 pubDate: 2021-01-21T21:04:04

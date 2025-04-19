@@ -1,7 +1,7 @@
 ---
 wp_id: 3713
 imgId: 3714
-imgSrc: /assets/thumbnails/3714.png
+imgSrc: /assets/thumbnails/3714.webp
 lang: en
 title: "Nativity Series &#8211; God Sympathizes with my weakness and seeks my healing"
 pubDate: 2022-12-16T01:01:00

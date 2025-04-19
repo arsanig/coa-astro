@@ -1,7 +1,7 @@
 ---
 wp_id: 2026
 imgId: 2027
-imgSrc: /assets/thumbnails/2027.png
+imgSrc: /assets/thumbnails/2027.webp
 lang: en
 title: "Remember God&#8217;s work in your life. Build your faith on them."
 pubDate: 2020-02-21T12:03:57

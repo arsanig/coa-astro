@@ -1,7 +1,7 @@
 ---
 wp_id: 3736
 imgId: 3737
-imgSrc: /assets/thumbnails/3737.png
+imgSrc: /assets/thumbnails/3737.webp
 lang: en
 title: "Obedience: Fruit of the Living Faith"
 pubDate: 2023-01-13T11:34:40

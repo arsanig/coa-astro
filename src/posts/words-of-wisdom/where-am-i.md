@@ -1,7 +1,7 @@
 ---
 wp_id: 3248
 imgId: 3249
-imgSrc: /assets/thumbnails/3249.png
+imgSrc: /assets/thumbnails/3249.webp
 lang: en
 title: "Where am I?"
 pubDate: 2021-12-29T04:08:28

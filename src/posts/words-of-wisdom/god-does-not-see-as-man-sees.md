@@ -1,7 +1,7 @@
 ---
 wp_id: 4370
 imgId: 4371
-imgSrc: /assets/thumbnails/4371.png
+imgSrc: /assets/thumbnails/4371.webp
 lang: en
 title: "God Does Not See as Man Sees"
 pubDate: 2024-01-26T12:00:32

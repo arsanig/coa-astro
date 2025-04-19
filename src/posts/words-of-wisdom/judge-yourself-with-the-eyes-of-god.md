@@ -1,7 +1,7 @@
 ---
 wp_id: 3425
 imgId: 3426
-imgSrc: /assets/thumbnails/3426.png
+imgSrc: /assets/thumbnails/3426.webp
 lang: en
 title: "Judge yourself with the eyes of God"
 pubDate: 2022-04-29T00:11:05

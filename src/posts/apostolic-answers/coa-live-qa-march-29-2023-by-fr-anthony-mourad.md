@@ -1,7 +1,7 @@
 ---
 wp_id: 3832
 imgId: 3833
-imgSrc: /assets/thumbnails/3833.png
+imgSrc: /assets/thumbnails/3833.webp
 lang: en
 title: "COA live Q&A March. 29. 2023 by Fr. Anthony Mourad"
 pubDate: 2023-03-31T00:58:18

@@ -1,7 +1,7 @@
 ---
 wp_id: 3634
 imgId: 3635
-imgSrc: /assets/thumbnails/3635.png
+imgSrc: /assets/thumbnails/3635.webp
 lang: en
 title: "Are you living a fearless life?"
 pubDate: 2022-10-18T21:38:07

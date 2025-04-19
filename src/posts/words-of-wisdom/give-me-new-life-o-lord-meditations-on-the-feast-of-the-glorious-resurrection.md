@@ -1,7 +1,7 @@
 ---
 wp_id: 3875
 imgId: 3876
-imgSrc: /assets/thumbnails/3876.png
+imgSrc: /assets/thumbnails/3876.webp
 lang: en
 title: "Give me new life, O Lord: Meditations on the feast of the Glorious Resurrection"
 pubDate: 2023-04-15T19:19:43

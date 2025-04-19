@@ -1,12 +1,13 @@
 ---
 wp_id: 2062
 imgId: 2063
-imgSrc: /assets/thumbnails/2063.png
+imgSrc: /assets/thumbnails/2063.webp
 lang: en
 title: "Why is Gen. 1 divided into 7 days? Why God rests on the 7th day? by Fr. Gabriel Wissa"
 pubDate: 2020-03-05T10:00:51
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>

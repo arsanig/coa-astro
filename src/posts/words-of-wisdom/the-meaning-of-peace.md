@@ -1,7 +1,7 @@
 ---
 wp_id: 3458
 imgId: 3459
-imgSrc: /assets/thumbnails/3459.png
+imgSrc: /assets/thumbnails/3459.webp
 lang: en
 title: "The meaning of peace"
 pubDate: 2022-05-26T14:02:49

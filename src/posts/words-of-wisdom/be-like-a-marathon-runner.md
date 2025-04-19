@@ -1,7 +1,7 @@
 ---
 wp_id: 4163
 imgId: 3325
-imgSrc: /assets/thumbnails/3325.png
+imgSrc: /assets/thumbnails/3325.webp
 lang: en
 title: "Be like a marathon runner"
 pubDate: 2022-02-25T19:22:33

@@ -1,7 +1,7 @@
 ---
 wp_id: 2268
 imgId: 2269
-imgSrc: /assets/thumbnails/2269.png
+imgSrc: /assets/thumbnails/2269.webp
 lang: en
 title: "Why does St. Paul ask women to learn in silence & submission? Is he a Misogynist? Fr. Gabriel Wissa"
 pubDate: 2020-06-17T16:44:07

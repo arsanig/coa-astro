@@ -1,7 +1,7 @@
 ---
 wp_id: 3067
 imgId: 3068
-imgSrc: /assets/thumbnails/3068.png
+imgSrc: /assets/thumbnails/3068.webp
 lang: en
 title: "Life, death and neighbour"
 pubDate: 2021-09-03T12:00:52

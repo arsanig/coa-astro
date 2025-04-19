@@ -1,12 +1,13 @@
 ---
 wp_id: 1781
 imgId: 1782
-imgSrc: /assets/thumbnails/1782.png
+imgSrc: /assets/thumbnails/1782.webp
 lang: en
 title: "Where did Jesus say “I am God”?  by Fr. Anthony Mourad"
 pubDate: 2019-10-23T12:00:34
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

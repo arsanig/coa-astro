@@ -1,7 +1,7 @@
 ---
 wp_id: 3311
 imgId: 3312
-imgSrc: /assets/thumbnails/3312.png
+imgSrc: /assets/thumbnails/3312.webp
 lang: en
 title: "What is love?"
 pubDate: 2022-02-16T08:53:50

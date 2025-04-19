@@ -1,12 +1,13 @@
 ---
 wp_id: 2769
 imgId: 2771
-imgSrc: /assets/thumbnails/2771.png
+imgSrc: /assets/thumbnails/2771.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as a Means of Healing. by Fr. Anthony"
 pubDate: 2021-03-28T22:36:12
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

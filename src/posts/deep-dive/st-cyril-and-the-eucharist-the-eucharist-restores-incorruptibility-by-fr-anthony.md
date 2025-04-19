@@ -1,12 +1,13 @@
 ---
 wp_id: 2806
 imgId: 2808
-imgSrc: /assets/thumbnails/2808.png
+imgSrc: /assets/thumbnails/2808.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist Restores Incorruptibility. by Fr. Anthony"
 pubDate: 2021-04-11T21:35:23
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

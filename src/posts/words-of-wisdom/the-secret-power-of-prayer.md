@@ -1,7 +1,7 @@
 ---
 wp_id: 2417
 imgId: 2418
-imgSrc: /assets/thumbnails/2418.png
+imgSrc: /assets/thumbnails/2418.webp
 lang: en
 title: "The secret power of prayer!"
 pubDate: 2020-10-25T23:56:31

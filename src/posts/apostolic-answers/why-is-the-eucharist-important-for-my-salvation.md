@@ -1,12 +1,13 @@
 ---
 wp_id: 664
 imgId: 364
-imgSrc: /assets/thumbnails/364.jpg
+imgSrc: /assets/thumbnails/364.webp
 lang: en
 title: "Why is the Eucharist important for my salvation?"
 pubDate: 2017-02-14T21:12:57
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why is the Eucharist important for my salvation?</strong></p>

@@ -1,7 +1,7 @@
 ---
 wp_id: 2679
 imgId: 2680
-imgSrc: /assets/thumbnails/2680.png
+imgSrc: /assets/thumbnails/2680.webp
 lang: en
 title: "The letter from the King of kings!"
 pubDate: 2021-02-26T00:54:05

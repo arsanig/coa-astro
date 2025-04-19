@@ -1,7 +1,7 @@
 ---
 wp_id: 3869
 imgId: 3870
-imgSrc: /assets/thumbnails/3870.png
+imgSrc: /assets/thumbnails/3870.webp
 lang: en
 title: "Come be my King and Reign in me: Meditations on Friday of Holy Pascha"
 pubDate: 2023-04-14T00:18:40

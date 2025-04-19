@@ -1,7 +1,7 @@
 ---
 wp_id: 1888
 imgId: 1889
-imgSrc: /assets/thumbnails/1889.png
+imgSrc: /assets/thumbnails/1889.webp
 lang: en
 title: "There Must Be More Than This! &#8211; Fr. Lazarus St. Anthony"
 pubDate: 2019-12-06T12:00:49

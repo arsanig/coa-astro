@@ -1,7 +1,7 @@
 ---
 wp_id: 3079
 imgId: 3082
-imgSrc: /assets/thumbnails/3082.png
+imgSrc: /assets/thumbnails/3082.webp
 lang: en
 title: "Experiencing The Resurrection"
 pubDate: 2021-09-10T10:14:03

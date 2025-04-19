@@ -1,7 +1,7 @@
 ---
 wp_id: 1911
 imgId: 1912
-imgSrc: /assets/thumbnails/1912.png
+imgSrc: /assets/thumbnails/1912.webp
 lang: en
 title: "Why you should not gossip?"
 pubDate: 2019-10-04T18:25:42

@@ -1,12 +1,13 @@
 ---
 wp_id: 1870
 imgId: 1871
-imgSrc: /assets/thumbnails/1871.png
+imgSrc: /assets/thumbnails/1871.webp
 lang: en
 title: "Why was Christ born of a Virgin?  By Fr. Gabriel Wissa"
 pubDate: 2019-12-04T12:00:04
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen Why was Christ born of the Virgin St. Mary? Why did she have to be a virgin? Is marriage dishonorable and that is why she needed to be a virgin? Or, is sexuality within marriage frowned upon? We will tackle all those questions in this video. Marriage is a sacramental gift from God and it mirrors the love within the All-Holy Trinity. Evidently, it is an honorable gift. St. Paul says in Hebrews: “Marriage is honorable among all, and the bed undefiled…” So not only is marriage honorable, the bed is pure.</p>

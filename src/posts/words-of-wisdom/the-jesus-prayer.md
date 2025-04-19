@@ -1,7 +1,7 @@
 ---
 wp_id: 2932
 imgId: 2934
-imgSrc: /assets/thumbnails/2934.png
+imgSrc: /assets/thumbnails/2934.webp
 lang: en
 title: "The Jesus Prayer"
 pubDate: 2021-06-24T23:43:23

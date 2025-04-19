@@ -1,7 +1,7 @@
 ---
 wp_id: 4024
 imgId: 4025
-imgSrc: /assets/thumbnails/4025.png
+imgSrc: /assets/thumbnails/4025.webp
 lang: en
 title: "Having Ears to Hear"
 pubDate: 2023-09-01T12:22:06

@@ -1,7 +1,7 @@
 ---
 wp_id: 2397
 imgId: 2399
-imgSrc: /assets/thumbnails/2399.png
+imgSrc: /assets/thumbnails/2399.webp
 lang: en
 title: "Prayer Does Not Begin with Us!"
 pubDate: 2020-10-25T23:28:04

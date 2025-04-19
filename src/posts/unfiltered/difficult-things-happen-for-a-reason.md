@@ -1,7 +1,7 @@
 ---
 wp_id: 4183
 imgId: 4184
-imgSrc: /assets/thumbnails/4184.jpg
+imgSrc: /assets/thumbnails/4184.webp
 lang: en
 title: "Difficult things happen for a reason"
 pubDate: 2023-11-10T12:00:20

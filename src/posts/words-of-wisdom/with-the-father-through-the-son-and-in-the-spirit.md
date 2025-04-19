@@ -1,7 +1,7 @@
 ---
 wp_id: 2794
 imgId: 2796
-imgSrc: /assets/thumbnails/2796.png
+imgSrc: /assets/thumbnails/2796.webp
 lang: en
 title: "With the Father, through the Son and in the Spirit"
 pubDate: 2021-04-09T00:44:38

@@ -1,12 +1,13 @@
 ---
 wp_id: 913
 imgId: 401
-imgSrc: /assets/thumbnails/401.jpg
+imgSrc: /assets/thumbnails/401.webp
 lang: en
 title: "Why do we kiss the hands of the priests?"
 pubDate: 2017-06-21T01:00:15
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><b>Why do we kiss the hands of the priest?</b></p>

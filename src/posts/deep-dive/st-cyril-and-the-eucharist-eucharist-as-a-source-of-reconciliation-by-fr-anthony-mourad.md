@@ -1,12 +1,13 @@
 ---
 wp_id: 2916
 imgId: 2919
-imgSrc: /assets/thumbnails/2919.png
+imgSrc: /assets/thumbnails/2919.webp
 lang: en
 title: "St Cyril and the Eucharist: Eucharist as a source of Reconciliation by Fr. Anthony Mourad"
 pubDate: 2021-06-12T20:29:53
 tags: ["dd"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

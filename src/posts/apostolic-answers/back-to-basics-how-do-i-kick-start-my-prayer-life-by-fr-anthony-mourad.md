@@ -2,7 +2,7 @@
 wp_id: 1829
 imgId: 1830
 videoId: ""
-imgSrc: /assets/thumbnails/1830.png
+imgSrc: /assets/thumbnails/1830.webp
 lang: en
 title: "Back to Basics: How do I kick-start my Prayer Life? by Fr. Anthony Mourad"
 pubDate: 2019-11-13T12:00:58

@@ -1,7 +1,7 @@
 ---
 wp_id: 3911
 imgId: 3912
-imgSrc: /assets/thumbnails/3912.png
+imgSrc: /assets/thumbnails/3912.webp
 lang: en
 title: "How do I know God&#8217;s will"
 pubDate: 2023-05-17T02:51:30

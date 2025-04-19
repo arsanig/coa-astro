@@ -1,12 +1,13 @@
 ---
 wp_id: 2282
 imgId: 2283
-imgSrc: /assets/thumbnails/2283.png
+imgSrc: /assets/thumbnails/2283.webp
 lang: en
 title: "Why ‘speak the truth in love’, when no one wants to hear it? by Fr. Anthony Mourad"
 pubDate: 2020-06-24T16:50:37
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>It seems like every time we open the media, we see the world divided against itself. Some people stand with this idea, others stand with another. One group believes “this and that” to be true, another claims that its completely false… and in the midst of all the chaos, no one is listening to the other and no one seems to care about the others arguments. With everyone always picking a side, or asking us to have a stance, how do we as Christians assess the truths that we adopt? Let’s take a closer look at this together.</p>

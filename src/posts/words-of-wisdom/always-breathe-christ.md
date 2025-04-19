@@ -2,7 +2,7 @@
 wp_id: 2193
 imgId: 2194
 videoId: ""
-imgSrc: /assets/thumbnails/2194.png
+imgSrc: /assets/thumbnails/2194.webp
 lang: en
 title: "Always Breathe Christ!"
 pubDate: 2020-05-20T10:59:27

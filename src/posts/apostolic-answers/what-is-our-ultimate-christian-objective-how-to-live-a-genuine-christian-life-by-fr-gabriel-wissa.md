@@ -1,12 +1,13 @@
 ---
 wp_id: 2229
 imgId: 2230
-imgSrc: /assets/thumbnails/2230.png
+imgSrc: /assets/thumbnails/2230.webp
 lang: en
 title: "What is our ultimate Christian objective? How to live a genuine Christian life?  by Fr.Gabriel Wissa"
 pubDate: 2020-06-03T12:00:13
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">What is our ultimate Christian objective, How to live a genuine Christian life, holy trinity, trinity, love, unity, unity in diversity, diversity, trinitarian life, </span><span data-contrast="auto">prayer, gods will, god’s </span><span data-contrast="auto">will</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

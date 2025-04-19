@@ -1,7 +1,7 @@
 ---
 wp_id: 4404
 imgId: 4405
-imgSrc: /assets/thumbnails/4405.jpg
+imgSrc: /assets/thumbnails/4405.webp
 lang: en
 title: "Prepare yourself for prayer"
 pubDate: 2024-02-23T12:00:52

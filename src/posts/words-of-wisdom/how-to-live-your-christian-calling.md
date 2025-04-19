@@ -1,7 +1,7 @@
 ---
 wp_id: 1845
 imgId: 1846
-imgSrc: /assets/thumbnails/1846.png
+imgSrc: /assets/thumbnails/1846.webp
 lang: en
 title: "How to live your Christian calling?"
 pubDate: 2019-11-20T12:00:50

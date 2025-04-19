@@ -1,7 +1,7 @@
 ---
 wp_id: 1636
 imgId: 1637
-imgSrc: /assets/thumbnails/1637.png
+imgSrc: /assets/thumbnails/1637.webp
 lang: en
 title: "Go and preach the word!"
 pubDate: 2019-07-17T11:30:18

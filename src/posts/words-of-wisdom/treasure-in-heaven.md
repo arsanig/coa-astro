@@ -1,7 +1,7 @@
 ---
 wp_id: 3448
 imgId: 3449
-imgSrc: /assets/thumbnails/3449.png
+imgSrc: /assets/thumbnails/3449.webp
 lang: en
 title: "Treasure in Heaven"
 pubDate: 2022-05-18T10:39:15

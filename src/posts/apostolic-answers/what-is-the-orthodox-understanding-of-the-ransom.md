@@ -1,12 +1,13 @@
 ---
 wp_id: 3400
 imgId: 3401
-imgSrc: /assets/thumbnails/3401.png
+imgSrc: /assets/thumbnails/3401.webp
 lang: en
 title: "What is the ORTHODOX understanding of the RANSOM?"
 pubDate: 2022-04-20T10:11:11
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.  </p>

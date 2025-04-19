@@ -1,12 +1,13 @@
 ---
 wp_id: 968
 imgId: 396
-imgSrc: /assets/thumbnails/396.jpg
+imgSrc: /assets/thumbnails/396.webp
 lang: en
 title: "If God has foreknowledge, why does He CREATE people that will go to hell?"
 pubDate: 2017-08-30T00:35:50
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>If God, in His foreknowledge, knows that such a person will reject Him and go to hell, then why does He create them in the first place? To understand the answer to this question, it is recommended to two videos beforehand: “If I am predestined to bad/good works, why does God judge me?” and “Why does a loving God send people to hell?” <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559731&quot;:720,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

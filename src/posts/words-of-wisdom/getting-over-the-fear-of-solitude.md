@@ -1,7 +1,7 @@
 ---
 wp_id: 3354
 imgId: 3355
-imgSrc: /assets/thumbnails/3355.png
+imgSrc: /assets/thumbnails/3355.webp
 lang: en
 title: "Getting over the fear of solitude"
 pubDate: 2022-03-23T09:40:19

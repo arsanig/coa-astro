@@ -1,7 +1,7 @@
 ---
 wp_id: 3562
 imgId: 3563
-imgSrc: /assets/thumbnails/3563.png
+imgSrc: /assets/thumbnails/3563.webp
 lang: en
 title: "Eagerly searching for God&#8217;s voice"
 pubDate: 2022-09-01T23:18:00

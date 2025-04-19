@@ -1,7 +1,7 @@
 ---
 wp_id: 2294
 imgId: 2295
-imgSrc: /assets/thumbnails/2295.png
+imgSrc: /assets/thumbnails/2295.webp
 lang: en
 title: "Is your reputation more important than Christ?"
 pubDate: 2020-07-01T12:00:38

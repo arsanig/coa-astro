@@ -1,7 +1,7 @@
 ---
 wp_id: 3754
 imgId: 3755
-imgSrc: /assets/thumbnails/3755.png
+imgSrc: /assets/thumbnails/3755.webp
 lang: en
 title: "God&#8217;s will"
 pubDate: 2023-02-01T00:06:30

@@ -1,12 +1,13 @@
 ---
 wp_id: 675
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is understood by submission in marriage? &#8211; Part 2"
 pubDate: 2017-02-14T21:53:28
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is understood by submission in marriage? &#8211; Part 2</strong></p>

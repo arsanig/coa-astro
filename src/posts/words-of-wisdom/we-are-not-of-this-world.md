@@ -1,7 +1,7 @@
 ---
 wp_id: 3584
 imgId: 3585
-imgSrc: /assets/thumbnails/3585.png
+imgSrc: /assets/thumbnails/3585.webp
 lang: en
 title: "We are not of this world"
 pubDate: 2022-09-16T01:32:28

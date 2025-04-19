@@ -1,7 +1,7 @@
 ---
 wp_id: 1754
 imgId: 1755
-imgSrc: /assets/thumbnails/1755.png
+imgSrc: /assets/thumbnails/1755.webp
 lang: en
 title: "Are you blinded by your own ego or perceptions?"
 pubDate: 2019-10-11T12:57:42

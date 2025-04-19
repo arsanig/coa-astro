@@ -1,7 +1,7 @@
 ---
 wp_id: 2576
 imgId: 2578
-imgSrc: /assets/thumbnails/2578.png
+imgSrc: /assets/thumbnails/2578.webp
 lang: en
 title: "What is the spiritual meaning of Mary anointing Christ’s feet? Was it at Simon the leper’s home? by Fr. Gabriel Wissa"
 pubDate: 2021-01-07T19:10:09

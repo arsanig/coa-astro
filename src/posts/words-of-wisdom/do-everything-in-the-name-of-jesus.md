@@ -1,7 +1,7 @@
 ---
 wp_id: 3497
 imgId: 3498
-imgSrc: /assets/thumbnails/3498.png
+imgSrc: /assets/thumbnails/3498.webp
 lang: en
 title: "Do everything in the name of Jesus"
 pubDate: 2022-07-08T09:11:39

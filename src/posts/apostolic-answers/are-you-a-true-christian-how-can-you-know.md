@@ -2,7 +2,7 @@
 wp_id: 1121
 imgId: 1082
 videoId: ""
-imgSrc: /assets/thumbnails/1082.png
+imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "Are you a true Christian? How can you know?"
 pubDate: 2018-04-18T10:32:42

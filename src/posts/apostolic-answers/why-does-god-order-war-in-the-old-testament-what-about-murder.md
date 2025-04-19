@@ -1,12 +1,13 @@
 ---
 wp_id: 1971
 imgId: 1972
-imgSrc: /assets/thumbnails/1972.png
+imgSrc: /assets/thumbnails/1972.webp
 lang: en
 title: "Why does God order war in the Old Testament? What about His command not to murder?"
 pubDate: 2020-01-29T12:00:15
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>Why does God order war in the Old Testament? What about His command not to murder? by Fr. Gabriel Wissa</p>

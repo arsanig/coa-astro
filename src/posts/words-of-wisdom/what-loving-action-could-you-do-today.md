@@ -1,7 +1,7 @@
 ---
 wp_id: 1607
 imgId: 1610
-imgSrc: /assets/thumbnails/1610.png
+imgSrc: /assets/thumbnails/1610.webp
 lang: en
 title: "What Loving Action Could You Do Today?"
 pubDate: 2019-07-03T11:45:43

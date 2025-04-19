@@ -1,7 +1,7 @@
 ---
 wp_id: 2815
 imgId: 2819
-imgSrc: /assets/thumbnails/2819.png
+imgSrc: /assets/thumbnails/2819.webp
 lang: en
 title: "Fasting must be met with prayer!"
 pubDate: 2021-04-16T11:59:49

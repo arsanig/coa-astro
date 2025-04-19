@@ -1,12 +1,13 @@
 ---
 wp_id: 1125
 imgId: 1082
-imgSrc: /assets/thumbnails/1082.png
+imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "Why is St. Mary such an important figure in Christianity?"
 pubDate: 2018-05-01T01:21:51
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why is St. Mary such an important figure in Christianity?</strong></p>

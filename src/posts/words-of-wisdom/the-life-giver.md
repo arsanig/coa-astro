@@ -1,7 +1,7 @@
 ---
 wp_id: 3072
 imgId: 3075
-imgSrc: /assets/thumbnails/3075.png
+imgSrc: /assets/thumbnails/3075.webp
 lang: en
 title: "The Life Giver!"
 pubDate: 2021-09-08T00:07:44

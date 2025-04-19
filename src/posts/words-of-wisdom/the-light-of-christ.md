@@ -1,7 +1,7 @@
 ---
 wp_id: 2617
 imgId: 2620
-imgSrc: /assets/thumbnails/2620.png
+imgSrc: /assets/thumbnails/2620.webp
 lang: en
 title: "The Light of Christ"
 pubDate: 2021-01-29T09:13:15

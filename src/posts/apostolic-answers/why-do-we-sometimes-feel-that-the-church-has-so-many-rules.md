@@ -1,7 +1,7 @@
 ---
 wp_id: 1095
 imgId: 1082
-imgSrc: /assets/thumbnails/1082.png
+imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "Why do we sometimes feel that the Church has so many rules?"
 pubDate: 2018-02-28T14:21:41

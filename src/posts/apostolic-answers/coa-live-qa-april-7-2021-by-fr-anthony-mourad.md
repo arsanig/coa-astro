@@ -1,7 +1,7 @@
 ---
 wp_id: 2789
 imgId: 2791
-imgSrc: /assets/thumbnails/2791.png
+imgSrc: /assets/thumbnails/2791.webp
 lang: en
 title: "COA live Q&A April. 7. 2021 by Fr. Anthony Mourad"
 pubDate: 2021-04-09T00:42:45

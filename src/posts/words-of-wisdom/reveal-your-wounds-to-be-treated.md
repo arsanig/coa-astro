@@ -1,7 +1,7 @@
 ---
 wp_id: 2970
 imgId: 2972
-imgSrc: /assets/thumbnails/2972.png
+imgSrc: /assets/thumbnails/2972.webp
 lang: en
 title: "Reveal Your Wounds to Be Treated"
 pubDate: 2021-07-13T22:39:17

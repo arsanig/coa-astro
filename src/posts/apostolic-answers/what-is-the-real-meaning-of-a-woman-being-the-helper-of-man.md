@@ -1,12 +1,13 @@
 ---
 wp_id: 1240
 imgId: 1247
-imgSrc: /assets/thumbnails/1247.jpg
+imgSrc: /assets/thumbnails/1247.webp
 lang: en
 title: "What is the REAL meaning of a woman being the helper of man? Is there gender equality in Christianity? Shouldn’t a male hold women in high esteem?"
 pubDate: 2019-01-23T12:00:05
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>What is the real meaning of a woman being the helper of man? Is there true gender equality in Christianity? Are women some sort of assistants or second-class citizens? Should a man use this term to dominate women or to overwork them as if they were meant for that? That would be totally unacceptable. I am afraid many males have misunderstood the beauty and depth of this term and hopefully we can put things into perspective in this video.</p>

@@ -1,7 +1,7 @@
 ---
 wp_id: 1855
 imgId: 1856
-imgSrc: /assets/thumbnails/1856.png
+imgSrc: /assets/thumbnails/1856.webp
 lang: en
 title: "What does the term ‘Son of Man’ mean? How is baptism linked to the cross? by Fr. Gabriel Wissa"
 pubDate: 2019-11-25T12:00:16

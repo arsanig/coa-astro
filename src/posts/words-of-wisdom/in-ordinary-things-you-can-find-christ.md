@@ -1,7 +1,7 @@
 ---
 wp_id: 3387
 imgId: 3388
-imgSrc: /assets/thumbnails/3388.png
+imgSrc: /assets/thumbnails/3388.webp
 lang: en
 title: "In ordinary things you can find Christ"
 pubDate: 2022-04-08T08:38:48

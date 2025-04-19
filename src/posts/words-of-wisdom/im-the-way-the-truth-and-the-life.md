@@ -1,7 +1,7 @@
 ---
 wp_id: 3004
 imgId: 3006
-imgSrc: /assets/thumbnails/3006.png
+imgSrc: /assets/thumbnails/3006.webp
 lang: en
 title: "I&#8217;m the way, the truth and the life"
 pubDate: 2021-08-05T23:21:15

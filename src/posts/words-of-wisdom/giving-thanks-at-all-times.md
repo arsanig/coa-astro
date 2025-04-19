@@ -1,7 +1,7 @@
 ---
 wp_id: 2359
 imgId: 2360
-imgSrc: /assets/thumbnails/2360.png
+imgSrc: /assets/thumbnails/2360.webp
 lang: en
 title: "Giving Thanks at all times!"
 pubDate: 2020-10-22T00:40:44

@@ -1,12 +1,13 @@
 ---
 wp_id: 812
 imgId: 399
-imgSrc: /assets/thumbnails/399.jpg
+imgSrc: /assets/thumbnails/399.webp
 lang: en
 title: "If I am predestined to bad/good works, why does God judge me?"
 pubDate: 2017-03-21T22:55:13
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>If I am predestined to bad/good works, why does God judge me?</strong></p>

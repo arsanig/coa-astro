@@ -1,7 +1,7 @@
 ---
 wp_id: 2600
 imgId: 2603
-imgSrc: /assets/thumbnails/2603.png
+imgSrc: /assets/thumbnails/2603.webp
 lang: en
 title: "Let your light shine into my heart!"
 pubDate: 2021-01-20T10:59:01

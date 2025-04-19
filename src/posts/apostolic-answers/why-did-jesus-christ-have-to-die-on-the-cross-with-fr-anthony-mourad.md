@@ -1,12 +1,13 @@
 ---
 wp_id: 4430
 imgId: 4431
-imgSrc: /assets/thumbnails/4431.png
+imgSrc: /assets/thumbnails/4431.webp
 lang: en
 title: "Why did Jesus Christ have to die on the cross? with Fr. Anthony Mourad"
 pubDate: 2024-05-02T18:56:11
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>Why did Jesus Christ have to die on the cross?</p>

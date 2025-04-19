@@ -1,12 +1,13 @@
 ---
 wp_id: 1017
 imgId: 554
-imgSrc: /assets/thumbnails/554.jpg
+imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "What is the doctrine of scriptures alone (sola scriptura)? What is its outcome today?"
 pubDate: 2017-12-06T00:40:57
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the doctrine of scriptures alone (sola scriptura)? What is its outcome today?</strong></p>

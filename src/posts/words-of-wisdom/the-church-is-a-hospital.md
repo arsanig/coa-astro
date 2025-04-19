@@ -1,7 +1,7 @@
 ---
 wp_id: 3651
 imgId: 3655
-imgSrc: /assets/thumbnails/3655.jpg
+imgSrc: /assets/thumbnails/3655.webp
 lang: en
 title: "The Church is a Hospital"
 pubDate: 2022-11-04T12:00:12

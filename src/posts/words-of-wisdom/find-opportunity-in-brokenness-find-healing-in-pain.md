@@ -1,7 +1,7 @@
 ---
 wp_id: 1650
 imgId: 1651
-imgSrc: /assets/thumbnails/1651.png
+imgSrc: /assets/thumbnails/1651.webp
 lang: en
 title: "Find opportunity in brokenness, find healing in pain"
 pubDate: 2019-07-31T16:12:18

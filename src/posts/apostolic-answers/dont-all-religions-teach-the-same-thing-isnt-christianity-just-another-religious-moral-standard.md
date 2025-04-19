@@ -1,12 +1,13 @@
 ---
 wp_id: 2611
 imgId: 2613
-imgSrc: /assets/thumbnails/2613.png
+imgSrc: /assets/thumbnails/2613.webp
 lang: en
 title: "Don’t all religions teach the same thing? Isn’t Christianity just another religious moral standard?"
 pubDate: 2021-01-27T11:46:32
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

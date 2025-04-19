@@ -1,7 +1,7 @@
 ---
 wp_id: 3797
 imgId: 3798
-imgSrc: /assets/thumbnails/3798.png
+imgSrc: /assets/thumbnails/3798.webp
 lang: en
 title: "Christ is the way"
 pubDate: 2023-03-09T20:37:54

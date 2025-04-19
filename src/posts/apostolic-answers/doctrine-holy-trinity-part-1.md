@@ -1,12 +1,13 @@
 ---
 wp_id: 995
 imgId: 681
-imgSrc: /assets/thumbnails/681.png
+imgSrc: /assets/thumbnails/681.webp
 lang: en
 title: "What is the doctrine of the Holy Trinity?- Part 1"
 pubDate: 2017-10-31T22:17:57
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the doctrine of the Holy Trinity?- Part 1</strong></p>

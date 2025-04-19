@@ -1,12 +1,13 @@
 ---
 wp_id: 3138
 imgId: 3139
-imgSrc: /assets/thumbnails/3139.png
+imgSrc: /assets/thumbnails/3139.webp
 lang: en
 title: "What is the main difference between Protestantism and Orthodoxy?"
 pubDate: 2021-10-13T09:02:17
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

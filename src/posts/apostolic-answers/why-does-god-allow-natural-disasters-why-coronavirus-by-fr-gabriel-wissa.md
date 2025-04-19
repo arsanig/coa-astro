@@ -1,12 +1,13 @@
 ---
 wp_id: 2135
 imgId: 2136
-imgSrc: /assets/thumbnails/2136.png
+imgSrc: /assets/thumbnails/2136.webp
 lang: en
 title: "Why does God allow NATURAL DISASTERS? Why coronavirus? by Fr. Gabriel Wissa"
 pubDate: 2020-05-19T14:30:55
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><span data-contrast="auto">Our beloved </span><span data-contrast="auto">F</span><span data-contrast="auto">ather Anthony </span><span data-contrast="auto">Mourad </span><span data-contrast="auto">explained in a previous video why </span><span data-contrast="auto">God allows pain and suffering</span><span data-contrast="auto"> (link in the comments below)</span><span data-contrast="auto"> </span><span data-contrast="auto">but why does </span><span data-contrast="auto">God </span><span data-contrast="auto">allow natural disasters</span><span data-contrast="auto">? What about the current pandemic of the coronavirus?</span><span data-contrast="auto"> </span><span data-contrast="auto">Are these </span><span data-contrast="auto">distressful</span><span data-contrast="auto"> </span><span data-contrast="auto">natural disasters</span><span data-contrast="auto"> an act of God</span><span data-contrast="auto"> as they are often attributed</span><span data-contrast="auto">?</span><span data-contrast="auto"> </span><span data-contrast="auto">Are they</span><span data-contrast="auto"> </span><span data-contrast="auto">the outcome of </span><span data-contrast="auto">God’s</span><span data-contrast="auto"> wrath?</span><span data-contrast="auto"> Let us examine this question together.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

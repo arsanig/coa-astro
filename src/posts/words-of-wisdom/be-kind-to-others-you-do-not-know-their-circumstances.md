@@ -1,7 +1,7 @@
 ---
 wp_id: 1945
 imgId: 1946
-imgSrc: /assets/thumbnails/1946.png
+imgSrc: /assets/thumbnails/1946.webp
 lang: en
 title: "Be kind to others&#8230; you do not know their circumstances!"
 pubDate: 2020-01-10T12:00:13

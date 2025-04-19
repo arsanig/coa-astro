@@ -1,7 +1,7 @@
 ---
 wp_id: 3952
 imgId: 3953
-imgSrc: /assets/thumbnails/3953.png
+imgSrc: /assets/thumbnails/3953.webp
 lang: en
 title: "How to deal with peer pressure. Know who you are"
 pubDate: 2023-06-07T12:00:42

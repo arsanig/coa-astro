@@ -1,12 +1,13 @@
 ---
 wp_id: 658
 imgId: 399
-imgSrc: /assets/thumbnails/399.jpg
+imgSrc: /assets/thumbnails/399.webp
 lang: en
 title: "Did God Create Evil?"
 pubDate: 2017-02-14T21:02:02
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Did God create evil? </strong></p>

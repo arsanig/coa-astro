@@ -1,12 +1,13 @@
 ---
 wp_id: 611
 imgId: 364
-imgSrc: /assets/thumbnails/364.jpg
+imgSrc: /assets/thumbnails/364.webp
 lang: en
 title: "How should I pray?"
 pubDate: 2017-02-11T21:57:11
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How should I pray?</strong></p>

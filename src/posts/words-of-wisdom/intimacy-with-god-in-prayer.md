@@ -1,7 +1,7 @@
 ---
 wp_id: 3181
 imgId: 3182
-imgSrc: /assets/thumbnails/3182.png
+imgSrc: /assets/thumbnails/3182.webp
 lang: en
 title: "Intimacy with God in prayer"
 pubDate: 2021-11-11T23:40:28

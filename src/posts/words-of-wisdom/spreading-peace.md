@@ -1,7 +1,7 @@
 ---
 wp_id: 3244
 imgId: 3245
-imgSrc: /assets/thumbnails/3245.png
+imgSrc: /assets/thumbnails/3245.webp
 lang: en
 title: "Spreading peace"
 pubDate: 2021-12-29T04:06:25

@@ -1,12 +1,13 @@
 ---
 wp_id: 3462
 imgId: 3463
-imgSrc: /assets/thumbnails/3463.png
+imgSrc: /assets/thumbnails/3463.webp
 lang: en
 title: "Have we become ashamed of Christ? by Fr. Gabriel Wissa"
 pubDate: 2022-06-01T10:30:13
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. </p>

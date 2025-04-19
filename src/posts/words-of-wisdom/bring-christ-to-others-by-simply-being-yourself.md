@@ -1,7 +1,7 @@
 ---
 wp_id: 1551
 imgId: 1552
-imgSrc: /assets/thumbnails/1552.png
+imgSrc: /assets/thumbnails/1552.webp
 lang: en
 title: "Bring Christ to others by simply being yourself!"
 pubDate: 2019-05-24T12:02:37

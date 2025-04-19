@@ -1,12 +1,13 @@
 ---
 wp_id: 671
 imgId: 364
-imgSrc: /assets/thumbnails/364.jpg
+imgSrc: /assets/thumbnails/364.webp
 lang: en
 title: "Was there a Liturgy in the Early Church?"
 pubDate: 2017-02-14T21:38:53
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Was there a Liturgy in the Early Church?</strong></p>

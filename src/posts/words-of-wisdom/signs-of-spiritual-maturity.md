@@ -1,7 +1,7 @@
 ---
 wp_id: 2833
 imgId: 2835
-imgSrc: /assets/thumbnails/2835.png
+imgSrc: /assets/thumbnails/2835.webp
 lang: en
 title: "Signs of Spiritual Maturity"
 pubDate: 2021-04-22T21:50:29

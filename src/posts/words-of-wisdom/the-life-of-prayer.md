@@ -1,7 +1,7 @@
 ---
 wp_id: 3368
 imgId: 3369
-imgSrc: /assets/thumbnails/3369.png
+imgSrc: /assets/thumbnails/3369.webp
 lang: en
 title: "The life of prayer"
 pubDate: 2022-04-01T11:54:18

@@ -1,12 +1,13 @@
 ---
 wp_id: 2689
 imgId: 2691
-imgSrc: /assets/thumbnails/2691.png
+imgSrc: /assets/thumbnails/2691.webp
 lang: en
 title: "Why a Vegan Fast? Why sometimes allow fish? by Fr. Gabriel Wissa"
 pubDate: 2021-03-03T11:09:37
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why a Vegan Fast? Why sometimes allow fish?</strong></p>

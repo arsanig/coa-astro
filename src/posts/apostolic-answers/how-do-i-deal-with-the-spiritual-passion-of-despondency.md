@@ -1,12 +1,13 @@
 ---
 wp_id: 3990
 imgId: 3991
-imgSrc: /assets/thumbnails/3991.png
+imgSrc: /assets/thumbnails/3991.webp
 lang: en
 title: "How do I deal with the Spiritual passion of Despondency?"
 pubDate: 2023-07-11T23:04:16
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p><code></p>

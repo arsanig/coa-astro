@@ -1,12 +1,13 @@
 ---
 wp_id: 949
 imgId: 687
-imgSrc: /assets/thumbnails/687.png
+imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "Why confess to a priest and how ought it be done? &#8211; Part 3"
 pubDate: 2017-08-08T23:23:53
 tags: ["aa"]
 ---
+
 <!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why confess to a priest and how ought it be done? &#8211; Part 3</strong></p>

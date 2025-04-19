@@ -1,7 +1,7 @@
 ---
 wp_id: 2298
 imgId: 2299
-imgSrc: /assets/thumbnails/2299.png
+imgSrc: /assets/thumbnails/2299.webp
 lang: en
 title: "Why Christ says ‘My Father taught Me?’ Is the Son not equal to the Father? by Fr. Gabriel Wissa"
 pubDate: 2020-07-03T12:00:47

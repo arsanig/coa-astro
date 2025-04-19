@@ -1,7 +1,7 @@
 ---
 wp_id: 3475
 imgId: 3476
-imgSrc: /assets/thumbnails/3476.png
+imgSrc: /assets/thumbnails/3476.webp
 lang: en
 title: "Internal vs External Peace"
 pubDate: 2022-06-10T09:06:12

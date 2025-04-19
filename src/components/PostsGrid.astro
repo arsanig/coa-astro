@@ -11,7 +11,9 @@ type Post = {
 };
 ---
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 p-8 md:p-8 lg:p-12 xl:p-19">
+<div
+    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-8 pt-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
+>
     {
         posts.map((post: Post, index: number) => {
             const isLastItem = index === posts.length - 1;

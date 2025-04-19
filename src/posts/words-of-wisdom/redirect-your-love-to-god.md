@@ -1,7 +1,7 @@
 ---
 wp_id: 3493
 imgId: 3494
-imgSrc: /assets/thumbnails/3494.png
+imgSrc: /assets/thumbnails/3494.webp
 lang: en
 title: "Redirect your love to God"
 pubDate: 2022-07-06T10:51:22
