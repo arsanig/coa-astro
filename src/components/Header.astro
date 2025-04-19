@@ -24,8 +24,8 @@ import SearchIcon from "./SearchIcon.astro";
                     <input
                         id="search"
                         type="text"
-                        placeholder="Get answers from an apostolic faith"
-                        class="w-full px-10 sm:px-12 py-2 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-sm sm:text-base [&:focus::placeholder]:opacity-0"
+                        placeholder={m.searchPlaceholder()}
+                        class="w-full px-10 sm:px-12 py-2 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-x-tiny sm:text-base [&:focus::placeholder]:opacity-0"
                     />
                     <div class="absolute left-3 sm:left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">
                         <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
