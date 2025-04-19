@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3444.png
 lang: en
 title: "We are His children"
 pubDate: 2022-05-13T10:42:03
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

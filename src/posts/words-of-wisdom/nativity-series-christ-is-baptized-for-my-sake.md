@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3705.png
 lang: en
 title: "Nativity Series Christ is baptized for my sake"
 pubDate: 2022-12-09T11:30:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Nativity Series &#8211; Christ is baptized for my sake</p>

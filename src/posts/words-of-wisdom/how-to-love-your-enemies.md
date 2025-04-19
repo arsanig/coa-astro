@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4204.png
 lang: en
 title: "How to love your enemies"
 pubDate: 2023-11-22T12:00:37
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/glFg68uk9M8?si=hZb69RfSYzxiyYqW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

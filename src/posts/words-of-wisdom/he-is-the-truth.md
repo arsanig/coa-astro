@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/4303.png
 lang: en
 title: "He is the Truth"
 pubDate: 2023-12-29T12:00:27
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3613.png
 lang: en
 title: "Detachment"
 pubDate: 2022-09-29T11:27:54
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

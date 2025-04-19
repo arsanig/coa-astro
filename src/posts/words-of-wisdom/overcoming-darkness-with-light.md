@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3001.jpg
 lang: en
 title: "Overcoming Darkness with Light"
 pubDate: 2021-08-04T12:00:01
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

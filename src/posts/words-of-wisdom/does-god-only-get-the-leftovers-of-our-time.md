@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2394.png
 lang: en
 title: "Does God only get the Leftovers of Our Time?"
 pubDate: 2020-10-25T23:22:34
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

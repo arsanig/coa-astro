@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3777.png
 lang: en
 title: "Truth is relational"
 pubDate: 2023-02-16T22:24:29
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

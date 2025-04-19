@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2962.png
 lang: en
 title: "Make for Peace"
 pubDate: 2021-07-09T00:09:18
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

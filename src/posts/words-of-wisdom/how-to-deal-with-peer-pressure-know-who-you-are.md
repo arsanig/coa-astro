@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3953.png
 lang: en
 title: "How to deal with peer pressure. Know who you are"
 pubDate: 2023-06-07T12:00:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

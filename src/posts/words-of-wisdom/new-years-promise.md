@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4297.png
 lang: en
 title: "New Year&#8217;s Promise"
 pubDate: 2023-12-27T10:55:24
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/cJLgKg0pMyY?si=lPAkIa4u3zpUOKmv" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

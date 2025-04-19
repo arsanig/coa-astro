@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4405.jpg
 lang: en
 title: "Prepare yourself for prayer"
 pubDate: 2024-02-23T12:00:52
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>https://youtu.be/H-1HHhBUPOs</p>

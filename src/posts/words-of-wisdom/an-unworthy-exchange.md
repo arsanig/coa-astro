@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4007.png
 lang: en
 title: "An Unworthy Exchange"
 pubDate: 2023-08-11T12:00:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

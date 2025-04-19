@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4292.png
 lang: en
 title: "True Power of Prayer"
 pubDate: 2023-12-22T12:00:08
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/41ZZhqXkhD8?si=0QSpPUiE-qlQJ3GS" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

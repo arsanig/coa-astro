@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3768.png
 lang: en
 title: "One Drop of Grace"
 pubDate: 2023-02-10T00:30:45
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

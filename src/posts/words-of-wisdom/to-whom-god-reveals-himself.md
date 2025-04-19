@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3910.png
 lang: en
 title: "To Whom God Reveals Himself"
 pubDate: 2023-05-12T08:10:54
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2847.png
 lang: en
 title: "Prayer is a relationship with God!"
 pubDate: 2021-04-29T21:26:33
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

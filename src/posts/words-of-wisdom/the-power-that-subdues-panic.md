@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2437.png
 lang: en
 title: "The Power that Subdues Panic"
 pubDate: 2020-10-29T00:04:29
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

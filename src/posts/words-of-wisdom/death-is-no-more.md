@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3723.png
 lang: en
 title: "Death is no more!"
 pubDate: 2022-12-24T01:26:17
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Death is no more!</p>

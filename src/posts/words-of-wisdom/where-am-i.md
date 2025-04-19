@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3249.png
 lang: en
 title: "Where am I?"
 pubDate: 2021-12-29T04:08:28
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

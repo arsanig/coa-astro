@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3355.png
 lang: en
 title: "Getting over the fear of solitude"
 pubDate: 2022-03-23T09:40:19
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

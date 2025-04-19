@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3094.png
 lang: en
 title: "To The Hungry!"
 pubDate: 2021-09-16T21:56:45
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

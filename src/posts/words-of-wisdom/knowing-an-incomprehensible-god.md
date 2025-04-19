@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3281.png
 lang: en
 title: "Knowing an incomprehensible God"
 pubDate: 2022-01-25T22:46:09
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Make yourself a prayer place</p>

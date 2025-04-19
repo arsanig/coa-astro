@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3854.png
 lang: en
 title: "Be my instructor, O Lord Meditation on Tuesday of Holy Pascha"
 pubDate: 2023-04-11T02:42:44
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

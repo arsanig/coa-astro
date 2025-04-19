@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2647.png
 lang: en
 title: "The richness of the Holy Communion!"
 pubDate: 2021-02-12T11:12:57
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

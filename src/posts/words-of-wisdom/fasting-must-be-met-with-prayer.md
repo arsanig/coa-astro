@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2819.png
 lang: en
 title: "Fasting must be met with prayer!"
 pubDate: 2021-04-16T11:59:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

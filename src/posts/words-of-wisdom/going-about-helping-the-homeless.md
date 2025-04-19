@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4199.jpg
 lang: en
 title: "Going about helping the homeless"
 pubDate: 2023-11-17T12:00:24
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><code></p>

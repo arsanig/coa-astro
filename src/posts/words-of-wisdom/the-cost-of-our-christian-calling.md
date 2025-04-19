@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1753.png
 lang: en
 title: "The Cost of our Christian Calling!"
 pubDate: 2019-10-09T12:00:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>The Cost of our Christian Calling!</p>

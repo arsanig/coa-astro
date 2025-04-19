@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3764.png
 lang: en
 title: "Is there anything too precious to offer for Christ"
 pubDate: 2023-02-07T23:00:43
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Obedience: Fruit of the Living Faith</p>

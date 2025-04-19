@@ -37,13 +37,13 @@ import * as m from "@paraglide/messages.js";
 </header>
 
 <script is:inline>
-    document.querySelector("#search")?.addEventListener("input", async (e) => {
+    const performSearch = async (searchTerm) => {
         const resultsContainer = document.querySelector("#results");
         const resultsContent = resultsContainer.querySelector(".space-y-4");
         const searchBox = document.querySelector("#search");
 
         // Show/hide results container based on input
-        if (e.target.value.length > 0) {
+        if (searchTerm.length > 0) {
             resultsContainer.classList.remove("hidden");
             document.body.classList.add("overflow-hidden");
 
@@ -54,17 +54,18 @@ import * as m from "@paraglide/messages.js";
         } else {
             resultsContainer.classList.add("hidden");
             document.body.classList.remove("overflow-hidden");
+            return;
         }
 
         // only load the pagefind script once
-        if (e.target.dataset.loaded !== "true") {
-            e.target.dataset.loaded = "true";
+        if (searchBox.dataset.loaded !== "true") {
+            searchBox.dataset.loaded = "true";
             // load the pagefind script
             window.pagefind = await import("/pagefind/pagefind.js");
         }
 
         // search the index using the input value
-        const search = await window.pagefind.search(e.target.value);
+        const search = await window.pagefind.search(searchTerm);
 
         // clear the old results
         resultsContent.innerHTML = "";
@@ -77,6 +78,16 @@ import * as m from "@paraglide/messages.js";
                     <h3 class="text-lg font-semibold text-gray-900">${data.meta.title}</h3>
                     <p class="text-gray-600 mt-1">${data.excerpt}</p>
                 </a>`;
+        }
+    };
+
+    document.querySelector("#search")?.addEventListener("input", (e) => {
+        performSearch(e.target.value);
+    });
+
+    document.querySelector("#search")?.addEventListener("keypress", (e) => {
+        if (e.key === "Enter") {
+            performSearch(e.target.value);
         }
     });
 

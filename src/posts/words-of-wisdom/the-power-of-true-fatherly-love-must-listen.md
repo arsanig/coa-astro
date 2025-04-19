@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1952.png
 lang: en
 title: "The power of true fatherly love! (must listen)"
 pubDate: 2020-01-17T12:00:33
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

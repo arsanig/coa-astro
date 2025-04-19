@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1912.png
 lang: en
 title: "Why you should not gossip?"
 pubDate: 2019-10-04T18:25:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

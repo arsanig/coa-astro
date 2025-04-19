@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3604.png
 lang: en
 title: "Slow down and listen"
 pubDate: 2022-09-23T01:26:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

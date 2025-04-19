@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3520.png
 lang: en
 title: "Become upright in heart"
 pubDate: 2022-07-28T23:59:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

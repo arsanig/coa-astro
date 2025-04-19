@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2934.png
 lang: en
 title: "The Jesus Prayer"
 pubDate: 2021-06-24T23:43:23
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

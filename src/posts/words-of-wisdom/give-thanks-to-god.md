@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3511.png
 lang: en
 title: "Give thanks to God"
 pubDate: 2022-07-20T02:24:37
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

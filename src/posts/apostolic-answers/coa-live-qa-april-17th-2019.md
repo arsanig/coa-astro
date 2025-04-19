@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1.png
 lang: en
 title: "COA Live Q&A April 17th, 2019"
 pubDate: 2019-04-17T15:20:39
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

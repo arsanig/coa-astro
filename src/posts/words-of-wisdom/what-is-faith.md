@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/2924.png
 lang: en
 title: "What is faith?"
 pubDate: 2021-06-16T00:22:37
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

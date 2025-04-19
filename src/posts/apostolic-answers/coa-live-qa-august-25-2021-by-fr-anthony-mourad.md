@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3052.png
 lang: en
 title: "COA live Q&A August. 25. 2021 by Fr. Anthony Mourad"
 pubDate: 2021-08-26T23:34:50
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

@@ -1,6 +1,6 @@
 ---
 import NavLink from "./NavLink.astro";
-import { localizePathname } from "@scripts/linking.ts";
+import { localizePathname } from "@utils/linking";
 import { languageTag } from "@paraglide/runtime";
 import * as m from "@paraglide/messages.js";
 const pathname = new URL(Astro.request.url).pathname;

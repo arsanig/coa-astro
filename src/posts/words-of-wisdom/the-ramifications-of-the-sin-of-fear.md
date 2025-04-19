@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3972.png
 lang: en
 title: "The ramifications of the sin of fear"
 pubDate: 2023-06-21T12:00:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

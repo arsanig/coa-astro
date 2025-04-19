@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2340.png
 lang: en
 title: "Christ must take flesh in us!"
 pubDate: 2020-10-15T21:50:34
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

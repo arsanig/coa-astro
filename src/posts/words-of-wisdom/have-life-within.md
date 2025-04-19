@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1568.png
 lang: en
 title: "Have life within!"
 pubDate: 2019-06-07T12:04:13
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

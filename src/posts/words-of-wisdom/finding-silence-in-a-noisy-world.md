@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2479.png
 lang: en
 title: "Finding silence in a noisy world"
 pubDate: 2020-11-12T20:59:46
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

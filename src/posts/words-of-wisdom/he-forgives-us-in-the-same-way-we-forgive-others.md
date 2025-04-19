@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/2573.png
 lang: en
 title: "He forgives us in the same way we forgive others!"
 pubDate: 2021-01-04T02:14:13
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2944.png
 lang: en
 title: "Remember God and Rejoice!"
 pubDate: 2021-06-30T01:42:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

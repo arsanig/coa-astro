@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3719.png
 lang: en
 title: "All glory to God"
 pubDate: 2022-12-21T03:22:40
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>All glory to God</p>

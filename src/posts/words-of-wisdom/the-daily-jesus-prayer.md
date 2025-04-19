@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3472.png
 lang: en
 title: "The Daily Jesus Prayer"
 pubDate: 2022-06-08T10:09:21
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

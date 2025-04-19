@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3241.png
 lang: en
 title: "You are ambassadors for Christ!"
 pubDate: 2021-12-23T23:11:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

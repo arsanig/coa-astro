@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2329.png
 lang: en
 title: "Why do you want to be good? For what purpose?"
 pubDate: 2020-10-09T08:07:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

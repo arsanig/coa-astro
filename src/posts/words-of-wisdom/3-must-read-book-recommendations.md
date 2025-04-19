@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3392.png
 lang: en
 title: "3 must-read book recommendations!"
 pubDate: 2022-04-13T09:33:14
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

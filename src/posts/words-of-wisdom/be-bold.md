@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3883.png
 lang: en
 title: "Be bold"
 pubDate: 2023-04-21T00:19:55
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

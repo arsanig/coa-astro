@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3642.png
 lang: en
 title: "Don&#8217;t run away from difficult situations"
 pubDate: 2022-10-28T09:58:40
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

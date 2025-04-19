@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2886.png
 lang: en
 title: "Do we hear the voice of our consciousness?"
 pubDate: 2021-05-28T00:41:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

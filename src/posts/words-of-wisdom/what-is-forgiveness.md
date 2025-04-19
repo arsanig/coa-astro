@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3321.png
 lang: en
 title: "What is forgiveness?"
 pubDate: 2022-02-23T10:40:04
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

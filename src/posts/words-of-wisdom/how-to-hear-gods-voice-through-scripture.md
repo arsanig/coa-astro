@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1633.png
 lang: en
 title: "How to hear God&#8217;s voice through Scripture?"
 pubDate: 2019-07-12T10:10:01
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>How to hear God&#8217;s voice through Scripture?</p>

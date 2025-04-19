@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3359.png
 lang: en
 title: "I renounce the world"
 pubDate: 2022-03-25T10:25:57
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

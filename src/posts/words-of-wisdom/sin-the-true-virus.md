@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3149.png
 lang: en
 title: "Sin, The True Virus"
 pubDate: 2021-10-22T10:55:54
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Sin, The True Virus In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved HG Bishop Gregory Auxiliary Bishop of Southern United States.</p>

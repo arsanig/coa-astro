@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1734.png
 lang: en
 title: "Bring glory to God through a life of holiness"
 pubDate: 2019-09-27T12:00:22
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Bring glory to God through a life of holiness.</p>

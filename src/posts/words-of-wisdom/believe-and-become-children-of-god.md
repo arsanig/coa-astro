@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4269.png
 lang: en
 title: "Believe and become children of God"
 pubDate: 2023-12-15T12:00:24
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/KKGp9CWjzDI?si=2kUBY2E-Fp1Dd7kT" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

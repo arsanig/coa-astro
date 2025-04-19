@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3638.png
 lang: en
 title: "God has questions"
 pubDate: 2022-10-20T23:11:05
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

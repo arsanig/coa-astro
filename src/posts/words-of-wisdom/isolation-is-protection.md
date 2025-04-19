@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2929.png
 lang: en
 title: "Isolation is protection !"
 pubDate: 2021-06-17T23:16:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

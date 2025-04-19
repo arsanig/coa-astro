@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3329.png
 lang: en
 title: "Why would obedience be easy and natural?"
 pubDate: 2022-03-02T08:52:51
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

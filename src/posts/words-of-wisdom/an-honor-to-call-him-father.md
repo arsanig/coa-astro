@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4140.png
 lang: en
 title: "An honor to call Him Father"
 pubDate: 2023-10-20T12:00:53
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ehb7cQdFOxE?si=2WBEfnpeD6jgSt-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1658.png
 lang: en
 title: "Are Christians better than non-Christians?"
 pubDate: 2019-08-07T12:00:37
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Are Christians better than non-Christians?</p>

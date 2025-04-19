@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3526.png
 lang: en
 title: "Rejoice!"
 pubDate: 2022-08-05T01:00:14
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

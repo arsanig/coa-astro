@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2322.png
 lang: en
 title: "Being restless for God!"
 pubDate: 2020-10-07T10:36:20
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

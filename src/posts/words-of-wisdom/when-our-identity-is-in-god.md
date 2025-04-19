@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3751.png
 lang: en
 title: "When our identity is in God"
 pubDate: 2023-01-25T11:08:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>When our identity is in God</p>

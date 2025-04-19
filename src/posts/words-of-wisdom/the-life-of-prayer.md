@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3369.png
 lang: en
 title: "The life of prayer"
 pubDate: 2022-04-01T11:54:18
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>The life of prayer</p>

@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/1629.png
 lang: en
 title: "The importance of understanding your emotions"
 pubDate: 2019-07-12T12:00:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

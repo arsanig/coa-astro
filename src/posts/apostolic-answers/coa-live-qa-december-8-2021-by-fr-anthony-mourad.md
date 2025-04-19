@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3215.png
 lang: en
 title: "COA live Q&A December. 8. 2021 by Fr. Anthony Mourad"
 pubDate: 2021-12-08T18:08:01
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

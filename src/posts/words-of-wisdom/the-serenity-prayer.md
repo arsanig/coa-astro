@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2877.png
 lang: en
 title: "The Serenity Prayer"
 pubDate: 2021-05-20T23:42:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

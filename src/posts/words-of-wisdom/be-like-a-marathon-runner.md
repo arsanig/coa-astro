@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3325.png
 lang: en
 title: "Be like a marathon runner"
 pubDate: 2022-02-25T19:22:33
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><code></p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1841.png
 lang: en
 title: "What is repentance? Can God reject your repentance?"
 pubDate: 2019-11-15T12:00:41
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Can God reject your repentance? What is perfect repentance?</p>

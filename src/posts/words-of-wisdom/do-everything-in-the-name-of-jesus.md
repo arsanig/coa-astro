@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3498.png
 lang: en
 title: "Do everything in the name of Jesus"
 pubDate: 2022-07-08T09:11:39
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

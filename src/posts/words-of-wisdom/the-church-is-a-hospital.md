@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3655.jpg
 lang: en
 title: "The Church is a Hospital"
 pubDate: 2022-11-04T12:00:12
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

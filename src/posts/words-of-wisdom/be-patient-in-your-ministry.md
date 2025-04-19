@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2515.png
 lang: en
 title: "Be patient in your ministry&#8230;"
 pubDate: 2020-12-01T21:24:18
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

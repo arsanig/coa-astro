@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2559.png
 lang: en
 title: "Our relationship patterns with God"
 pubDate: 2020-12-24T23:56:17
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

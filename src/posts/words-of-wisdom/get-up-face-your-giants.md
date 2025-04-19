@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1647.png
 lang: en
 title: "Get Up & Face Your Giants!"
 pubDate: 2019-07-25T10:15:52
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2404.png
 lang: en
 title: "We Fear All The Wrong Things!"
 pubDate: 2020-10-25T23:33:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

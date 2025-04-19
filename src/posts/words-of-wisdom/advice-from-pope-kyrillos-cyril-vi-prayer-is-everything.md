@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1663.png
 lang: en
 title: "Advice from Pope Kyrillos (Cyril) VI: Prayer is everything!"
 pubDate: 2019-08-14T10:46:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

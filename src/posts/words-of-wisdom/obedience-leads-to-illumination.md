@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3580.png
 lang: en
 title: "Obedience leads to illumination"
 pubDate: 2022-09-08T22:41:12
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

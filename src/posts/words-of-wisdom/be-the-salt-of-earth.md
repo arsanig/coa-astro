@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3507.png
 lang: en
 title: "Be the salt of earth"
 pubDate: 2022-07-15T06:47:02
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Continue to seek Christ</p>

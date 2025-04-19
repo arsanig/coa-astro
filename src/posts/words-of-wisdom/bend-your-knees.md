@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2788.png
 lang: en
 title: "Bend your knees!"
 pubDate: 2021-04-01T23:33:00
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

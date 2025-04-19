@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3741.png
 lang: en
 title: "Power of the word of God"
 pubDate: 2023-01-20T11:24:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Obedience: Fruit of the Living Faith</p>

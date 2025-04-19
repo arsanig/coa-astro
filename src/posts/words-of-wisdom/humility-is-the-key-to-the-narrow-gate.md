@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4254.jpg
 lang: en
 title: "Humility is the key to the narrow gate"
 pubDate: 2023-12-08T12:00:01
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/3S9kdkaPt4w?si=6iY5YZafeWzFlh9c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

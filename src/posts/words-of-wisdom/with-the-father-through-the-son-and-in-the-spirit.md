@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2796.png
 lang: en
 title: "With the Father, through the Son and in the Spirit"
 pubDate: 2021-04-09T00:44:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

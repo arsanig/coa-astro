@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1821.png
 lang: en
 title: "Don&#8217;t pray! Be the prayer!"
 pubDate: 2019-11-08T12:00:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

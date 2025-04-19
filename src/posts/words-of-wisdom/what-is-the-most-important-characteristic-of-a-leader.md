@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1539.png
 lang: en
 title: "What is the most important characteristic of a leader?"
 pubDate: 2019-05-17T10:57:14
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son,the Holy Spirit one God amen</p>

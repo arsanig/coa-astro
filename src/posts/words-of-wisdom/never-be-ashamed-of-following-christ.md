@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3622.png
 lang: en
 title: "Never be ashamed of following Christ"
 pubDate: 2022-10-08T09:57:55
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

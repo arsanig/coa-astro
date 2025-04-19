@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/2194.png
 lang: en
 title: "Always Breathe Christ!"
 pubDate: 2020-05-20T10:59:27
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

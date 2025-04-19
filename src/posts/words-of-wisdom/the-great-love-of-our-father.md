@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2590.png
 lang: en
 title: "The Great Love of Our Father!"
 pubDate: 2021-01-14T20:30:20
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

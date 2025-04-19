@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3661.png
 lang: en
 title: "Be anxious for nothing"
 pubDate: 2022-11-10T23:42:55
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

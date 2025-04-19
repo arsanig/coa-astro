@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/4224.jpg
 lang: en
 title: "God&#8217;s will"
 pubDate: 2023-12-01T12:00:45
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

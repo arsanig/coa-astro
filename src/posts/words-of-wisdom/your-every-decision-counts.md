@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/1802.png
 lang: en
 title: "Your every decision counts!"
 pubDate: 2019-11-01T12:00:05
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

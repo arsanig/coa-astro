@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3590.png
 lang: en
 title: "COA live Q&A September. 14. 2022 by Fr. Anthony Mourad"
 pubDate: 2022-09-16T01:39:11
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

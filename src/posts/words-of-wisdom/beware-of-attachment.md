@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3422.png
 lang: en
 title: "Beware of attachment"
 pubDate: 2022-04-20T10:16:05
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3780.png
 lang: en
 title: "Overcoming bad thoughts leads to crowns"
 pubDate: 2023-02-24T05:24:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

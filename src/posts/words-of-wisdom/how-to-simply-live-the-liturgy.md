@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1867.png
 lang: en
 title: "How to simply live the liturgy?"
 pubDate: 2019-11-29T12:10:14
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen We are excited to be with Bishop Basil Auxiliary Bishop of the Southern United States, assisting HG Bishop Youssef through the newly established Words of Wisdom branch.</p>

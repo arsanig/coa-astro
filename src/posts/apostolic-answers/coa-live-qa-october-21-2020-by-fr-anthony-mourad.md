@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/2349.png
 lang: en
 title: "COA live Q&A October. 21. 2020  by Fr. Anthony Mourad"
 pubDate: 2020-10-21T17:40:02
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3047.png
 lang: en
 title: "For the mouth speaks what the heart is full of"
 pubDate: 2021-08-19T22:36:23
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

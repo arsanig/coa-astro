@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3476.png
 lang: en
 title: "Internal vs External Peace"
 pubDate: 2022-06-10T09:06:12
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. </p>

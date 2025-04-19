@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3810.png
 lang: en
 title: "What is friendship?"
 pubDate: 2023-03-22T09:51:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

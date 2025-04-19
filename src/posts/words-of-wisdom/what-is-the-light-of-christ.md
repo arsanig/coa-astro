@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3967.png
 lang: en
 title: "What is the Light of Christ"
 pubDate: 2023-06-16T12:00:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

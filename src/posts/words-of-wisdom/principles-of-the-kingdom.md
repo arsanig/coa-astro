@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3333.png
 lang: en
 title: "Principles of the Kingdom"
 pubDate: 2022-03-03T23:27:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

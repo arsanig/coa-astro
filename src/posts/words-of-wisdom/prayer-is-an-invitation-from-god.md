@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3788.png
 lang: en
 title: "Prayer is an invitation from God"
 pubDate: 2023-03-03T17:10:27
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

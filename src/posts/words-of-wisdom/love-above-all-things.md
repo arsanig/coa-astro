@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3689.png
 lang: en
 title: "Love above all things"
 pubDate: 2022-11-25T11:17:08
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Love above all things</p>

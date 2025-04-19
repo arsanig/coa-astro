@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3075.png
 lang: en
 title: "The Life Giver!"
 pubDate: 2021-09-08T00:07:44
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

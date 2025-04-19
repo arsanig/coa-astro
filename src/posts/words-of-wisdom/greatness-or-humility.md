@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3277.png
 lang: en
 title: "Greatness or Humility?"
 pubDate: 2022-01-20T22:09:24
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Make yourself a prayer place</p>

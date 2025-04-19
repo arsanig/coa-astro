@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2531.png
 lang: en
 title: "Let Him be your master!"
 pubDate: 2020-12-10T05:34:17
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

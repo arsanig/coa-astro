@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3563.png
 lang: en
 title: "Eagerly searching for God&#8217;s voice"
 pubDate: 2022-09-01T23:18:00
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

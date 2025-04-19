@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3994.png
 lang: en
 title: "Connect with God through Heartfelt prayers"
 pubDate: 2023-07-14T18:41:11
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

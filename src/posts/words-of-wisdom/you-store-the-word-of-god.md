@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3290.png
 lang: en
 title: "You store the word of God!"
 pubDate: 2022-02-02T00:22:45
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

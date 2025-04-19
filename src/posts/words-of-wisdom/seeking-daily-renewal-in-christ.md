@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2409.png
 lang: en
 title: "Seeking daily renewal in Christ!"
 pubDate: 2020-10-25T23:47:28
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

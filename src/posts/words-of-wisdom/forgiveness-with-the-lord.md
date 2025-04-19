@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3490.png
 lang: en
 title: "Forgiveness with The Lord"
 pubDate: 2022-07-02T10:11:14
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

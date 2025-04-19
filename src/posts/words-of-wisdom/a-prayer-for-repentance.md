@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3516.png
 lang: en
 title: "A prayer for Repentance"
 pubDate: 2022-07-22T01:07:03
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </p>

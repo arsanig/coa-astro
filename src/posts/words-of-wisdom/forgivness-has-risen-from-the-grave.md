@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3542.png
 lang: en
 title: "Forgivness has Risen from the Grave"
 pubDate: 2022-08-19T12:00:18
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

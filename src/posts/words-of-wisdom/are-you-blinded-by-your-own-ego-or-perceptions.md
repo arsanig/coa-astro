@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1755.png
 lang: en
 title: "Are you blinded by your own ego or perceptions?"
 pubDate: 2019-10-11T12:57:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Are you blinded by your own ego or perceptions?</p>

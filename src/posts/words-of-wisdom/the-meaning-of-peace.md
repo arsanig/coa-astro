@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3459.png
 lang: en
 title: "The meaning of peace"
 pubDate: 2022-05-26T14:02:49
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. </p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3958.png
 lang: en
 title: "5 tips to enhance Bible studying"
 pubDate: 2023-06-09T12:00:02
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

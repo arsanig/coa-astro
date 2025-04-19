@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2896.png
 lang: en
 title: "When do we pray?"
 pubDate: 2021-06-01T22:29:07
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

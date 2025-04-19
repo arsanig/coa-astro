@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2724.png
 lang: en
 title: "How does God reward us?"
 pubDate: 2021-03-11T21:42:27
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3426.png
 lang: en
 title: "Judge yourself with the eyes of God"
 pubDate: 2022-04-29T00:11:05
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

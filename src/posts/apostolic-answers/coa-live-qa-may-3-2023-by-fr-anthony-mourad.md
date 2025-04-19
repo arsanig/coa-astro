@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3896.png
 lang: en
 title: "COA live Q&A May. 3. 2023 by Fr. Anthony Mourad"
 pubDate: 2023-05-05T02:27:48
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

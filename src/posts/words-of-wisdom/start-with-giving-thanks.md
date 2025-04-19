@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4120.jpg
 lang: en
 title: "Start With Giving Thanks"
 pubDate: 2022-10-13T23:00:06
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </p>

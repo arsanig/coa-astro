@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2863.png
 lang: en
 title: "Do your own share of the solution"
 pubDate: 2021-05-13T19:00:54
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

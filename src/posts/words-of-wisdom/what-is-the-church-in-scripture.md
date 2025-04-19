@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2610.png
 lang: en
 title: "What is the Church in scripture?"
 pubDate: 2021-01-21T21:04:04
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

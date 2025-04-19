@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/2540.png
 lang: en
 title: "COA live Q&A December. 16. 2020 (Part 2) by Fr. Anthony Mourad"
 pubDate: 2020-12-17T00:33:19
-tags: ["aa", "q&a"]
+tags: ["q&a"]
 ---
 
 <!-- page: 6 -->

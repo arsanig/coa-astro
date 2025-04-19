@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3260.png
 lang: en
 title: "Search for Christ in everything you do!"
 pubDate: 2022-01-07T03:51:29
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

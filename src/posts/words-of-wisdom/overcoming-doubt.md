@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3467.png
 lang: en
 title: "Overcoming Doubt"
 pubDate: 2022-06-03T10:39:22
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

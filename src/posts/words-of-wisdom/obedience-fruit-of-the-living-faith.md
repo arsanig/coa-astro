@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3737.png
 lang: en
 title: "Obedience: Fruit of the Living Faith"
 pubDate: 2023-01-13T11:34:40
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Obedience: Fruit of the Living Faith</p>

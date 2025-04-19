@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3585.png
 lang: en
 title: "We are not of this world"
 pubDate: 2022-09-16T01:32:28
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

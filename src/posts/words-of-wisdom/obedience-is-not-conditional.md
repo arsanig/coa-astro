@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3647.png
 lang: en
 title: "Obedience is not conditional"
 pubDate: 2022-11-02T22:08:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>

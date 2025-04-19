@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2953.jpg
 lang: en
 title: "Do you know the way that you&#8217;ve chosen to walk?"
 pubDate: 2021-07-02T01:22:17
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

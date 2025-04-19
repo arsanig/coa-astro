@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3727.png
 lang: en
 title: "Nativity Series &#8211; Why did Christ have to ascend before Pentecost?"
 pubDate: 2022-12-30T03:14:30
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Why did Christ have to ascend before Pentecost?</p>

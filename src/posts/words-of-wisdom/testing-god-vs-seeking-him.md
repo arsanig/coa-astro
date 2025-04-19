@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3626.png
 lang: en
 title: "Testing God vs Seeking Him"
 pubDate: 2022-10-13T15:12:30
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

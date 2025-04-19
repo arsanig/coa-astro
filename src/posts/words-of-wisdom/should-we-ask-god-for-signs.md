@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2424.png
 lang: en
 title: "Should we ask God for signs?"
 pubDate: 2020-10-26T00:01:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

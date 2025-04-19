@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3837.png
 lang: en
 title: "True prayer"
 pubDate: 2023-03-31T01:03:08
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

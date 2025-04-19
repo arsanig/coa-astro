@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1552.png
 lang: en
 title: "Bring Christ to others by simply being yourself!"
 pubDate: 2019-05-24T12:02:37
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Bring Christ to others by simply being yourself!</p>

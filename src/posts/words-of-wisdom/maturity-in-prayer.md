@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3892.png
 lang: en
 title: "Maturity in prayer"
 pubDate: 2023-05-05T02:22:19
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

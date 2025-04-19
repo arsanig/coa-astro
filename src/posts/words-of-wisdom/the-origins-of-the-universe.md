@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2956.png
 lang: en
 title: "The Origins of the Universe!"
 pubDate: 2021-07-06T23:55:34
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

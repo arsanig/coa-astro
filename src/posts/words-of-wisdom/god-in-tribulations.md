@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3485.png
 lang: en
 title: "God in tribulations"
 pubDate: 2022-06-24T12:44:55
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>God in tribulations</p>

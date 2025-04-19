@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4399.png
 lang: en
 title: "Finding Christ in Liturgy"
 pubDate: 2024-02-16T12:00:20
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/03Ecb9cRRnk" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>

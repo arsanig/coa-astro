@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3846.png
 lang: en
 title: "Cleans me from within Meditations on Monday of Holy Pascha"
 pubDate: 2023-04-10T00:08:29
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><strong>Events of Monday</strong></p>

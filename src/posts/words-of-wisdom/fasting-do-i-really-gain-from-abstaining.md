@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3545.png
 lang: en
 title: "Fasting &#8211; Do I Really Gain from Abstaining?"
 pubDate: 2022-08-26T00:13:33
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </p>

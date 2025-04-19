@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1520.png
 lang: en
 title: "How to serve others? Do&#8217;s & Don&#8217;ts!"
 pubDate: 2019-05-10T11:45:56
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

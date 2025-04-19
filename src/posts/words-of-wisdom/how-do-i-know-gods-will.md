@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3912.png
 lang: en
 title: "How do I know God&#8217;s will"
 pubDate: 2023-05-17T02:51:30
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

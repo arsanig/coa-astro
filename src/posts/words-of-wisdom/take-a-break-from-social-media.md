@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3917.png
 lang: en
 title: "Take a Break from Social Media"
 pubDate: 2023-05-19T14:36:53
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

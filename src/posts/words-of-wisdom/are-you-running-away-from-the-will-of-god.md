@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2811.png
 lang: en
 title: "Are you running away from the will of God?"
 pubDate: 2021-04-13T03:01:09
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>

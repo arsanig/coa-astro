@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3388.png
 lang: en
 title: "In ordinary things you can find Christ"
 pubDate: 2022-04-08T08:38:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In ordinary things you can find Christ</p>

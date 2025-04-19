@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3901.jpg
 lang: en
 title: "Wisdom of the Desert Fathers"
 pubDate: 2023-05-10T01:15:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>We are blessed to learn from our beloved Desert Fathers</p>

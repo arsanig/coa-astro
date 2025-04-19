@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3396.png
 lang: en
 title: "Overcoming the remembrance of evil"
 pubDate: 2022-04-15T11:04:56
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Overcoming the remembrance of evil.</p>

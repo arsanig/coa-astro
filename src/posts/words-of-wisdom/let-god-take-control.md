@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2660.png
 lang: en
 title: "Let God take control"
 pubDate: 2021-02-18T23:37:16
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

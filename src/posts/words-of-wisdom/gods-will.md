@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3755.png
 lang: en
 title: "God&#8217;s will"
 pubDate: 2023-02-01T00:06:30
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Obedience: Fruit of the Living Faith</p>

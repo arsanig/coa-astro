@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/4208.png
 lang: en
 title: "Let Him Be Your Master"
 pubDate: 2023-11-24T12:00:05
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

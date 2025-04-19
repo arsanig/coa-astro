@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2912.png
 lang: en
 title: "We are not just Christians by name"
 pubDate: 2021-06-11T00:23:04
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

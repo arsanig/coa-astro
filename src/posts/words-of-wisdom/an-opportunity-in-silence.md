@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2467.png
 lang: en
 title: "An opportunity in silence"
 pubDate: 2020-11-05T14:20:50
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

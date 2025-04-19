@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2493.png
 lang: en
 title: "Experience the power of Humility"
 pubDate: 2020-11-19T17:58:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

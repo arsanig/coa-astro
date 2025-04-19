@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4247.png
 lang: en
 title: "God’s Beautiful Design for the Christian Family"
 pubDate: 2023-12-06T12:00:08
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/f0oDlc8GxRA?si=DGdxycoDaKn1J1ld" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

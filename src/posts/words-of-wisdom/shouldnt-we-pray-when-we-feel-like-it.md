@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3879.png
 lang: en
 title: "Shouldn’t we pray when we feel like it?"
 pubDate: 2023-04-19T11:57:00
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

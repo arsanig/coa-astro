@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3609.png
 lang: en
 title: "Dealing with criticism"
 pubDate: 2022-09-28T10:21:36
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Dealing with criticism</p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3922.png
 lang: en
 title: "A Journey Through Liturgy"
 pubDate: 2023-05-25T19:10:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

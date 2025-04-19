@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4012.png
 lang: en
 title: "We are living epistles"
 pubDate: 2023-08-18T12:00:43
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

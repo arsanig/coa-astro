@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2983.png
 lang: en
 title: "Distractions in Prayer"
 pubDate: 2021-07-21T12:00:23
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3068.png
 lang: en
 title: "Life, death and neighbour"
 pubDate: 2021-09-03T12:00:52
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

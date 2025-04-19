@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3887.png
 lang: en
 title: "He must increase, I must decrease"
 pubDate: 2023-04-28T11:36:09
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

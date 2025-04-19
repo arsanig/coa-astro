@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3231.png
 lang: en
 title: "Driving away procrastination"
 pubDate: 2021-12-17T01:10:59
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

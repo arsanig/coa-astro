@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4313.png
 lang: en
 title: "Greet the Lord early in the morning"
 pubDate: 2024-01-05T12:00:51
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/nTS0rMIqqRA?si=pdYQ1izmPNXBVbfb" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

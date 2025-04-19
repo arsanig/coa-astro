@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4188.jpg
 lang: en
 title: "Standing up for the Truth"
 pubDate: 2023-11-15T12:00:15
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/WsckjqQRyA0?si=0KaIyYXD_D7MSTDZ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

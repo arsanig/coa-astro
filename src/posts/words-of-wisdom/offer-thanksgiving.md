@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/4287.png
 lang: en
 title: "Offer thanksgiving!"
 pubDate: 2023-12-20T12:00:10
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/DgO79eegFME?si=Kb3ay5h-Ja-ViCDK" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3211.png
 lang: en
 title: "Less is more"
 pubDate: 2021-12-02T13:41:57
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved HG Bishop Angaelos from Diocese of London, London, England.</p>

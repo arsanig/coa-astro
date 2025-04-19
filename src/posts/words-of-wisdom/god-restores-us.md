@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3806.png
 lang: en
 title: "God restores us"
 pubDate: 2023-03-16T20:53:42
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

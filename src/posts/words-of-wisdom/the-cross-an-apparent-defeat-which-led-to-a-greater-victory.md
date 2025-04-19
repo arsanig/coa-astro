@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2152.png
 lang: en
 title: "The cross: an apparent defeat which led to a greater victory"
 pubDate: 2020-04-04T14:31:15
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

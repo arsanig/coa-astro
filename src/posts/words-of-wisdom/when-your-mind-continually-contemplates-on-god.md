@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/4375.png
 lang: en
 title: "When Your Mind Continually Contemplates on God"
 pubDate: 2024-01-31T12:00:31
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

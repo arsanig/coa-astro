@@ -12,8 +12,8 @@
             "@assets/*": ["src/assets/*"],
             "@components/*": ["src/components/*"],
             "@layouts/*": ["src/layouts/*"],
-            "@scripts/*": ["src/scripts/*"],
-            "@paraglide/*": ["src/paraglide/*"]
+            "@paraglide/*": ["src/paraglide/*"],
+            "@utils/*": ["src/utils/*"]
         },
         "strictNullChecks": true
     }

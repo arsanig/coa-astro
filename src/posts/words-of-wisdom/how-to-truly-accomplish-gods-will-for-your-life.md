@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1851.png
 lang: en
 title: "How to TRULY accomplish Gods&#8217; will for your life?"
 pubDate: 2019-11-22T13:43:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

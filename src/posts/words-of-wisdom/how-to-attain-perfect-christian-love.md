@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2160.png
 lang: en
 title: "How to Attain Perfect Christian Love?"
 pubDate: 2020-05-06T14:45:38
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

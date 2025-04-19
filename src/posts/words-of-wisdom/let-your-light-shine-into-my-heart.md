@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2603.png
 lang: en
 title: "Let your light shine into my heart!"
 pubDate: 2021-01-20T10:59:01
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2901.png
 lang: en
 title: "We are called to be the light of the world."
 pubDate: 2021-06-04T00:12:03
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

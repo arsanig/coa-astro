@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2414.png
 lang: en
 title: "What was the spiritual rule of St. HH Pope Kyrillos (Cyril) VI?"
 pubDate: 2020-10-25T23:52:19
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

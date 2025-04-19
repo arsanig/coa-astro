@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2132.png
 lang: en
 title: "Salvation is not simply a one time act!"
 pubDate: 2020-05-19T14:21:44
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

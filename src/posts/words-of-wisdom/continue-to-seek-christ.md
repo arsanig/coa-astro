@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3503.png
 lang: en
 title: "Continue to seek Christ"
 pubDate: 2022-07-13T11:50:03
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

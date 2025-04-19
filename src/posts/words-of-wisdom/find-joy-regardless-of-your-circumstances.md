@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1599.png
 lang: en
 title: "Find joy regardless of your circumstances"
 pubDate: 2019-06-19T11:53:47
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

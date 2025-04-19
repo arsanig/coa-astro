@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3308.png
 lang: en
 title: "Carrying the Cross is a lifelong process"
 pubDate: 2022-02-11T02:01:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1612.png
 lang: en
 title: "Worship in Spirit and TRUTH!"
 pubDate: 2019-07-05T11:30:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

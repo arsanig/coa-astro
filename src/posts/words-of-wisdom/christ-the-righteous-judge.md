@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3977.png
 lang: en
 title: "Christ, the righteous Judge"
 pubDate: 2023-06-23T12:00:00
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

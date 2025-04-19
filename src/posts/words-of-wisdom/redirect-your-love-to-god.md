@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/3494.png
 lang: en
 title: "Redirect your love to God"
 pubDate: 2022-07-06T10:51:22
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3245.png
 lang: en
 title: "Spreading peace"
 pubDate: 2021-12-29T04:06:25
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

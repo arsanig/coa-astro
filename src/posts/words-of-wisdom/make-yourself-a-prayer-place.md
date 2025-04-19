@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3273.png
 lang: en
 title: "Make yourself a prayer place"
 pubDate: 2022-01-19T09:56:24
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>Make yourself a prayer place</p>

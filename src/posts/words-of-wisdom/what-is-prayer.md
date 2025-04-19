@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2743.png
 lang: en
 title: "What is prayer?"
 pubDate: 2021-03-18T20:33:48
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

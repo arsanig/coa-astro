@@ -6,7 +6,7 @@ imgSrc: /assets/thumbnails/3350.png
 lang: en
 title: "On the Conscience"
 pubDate: 2022-03-17T15:17:34
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
 
 <!-- page: 6 -->

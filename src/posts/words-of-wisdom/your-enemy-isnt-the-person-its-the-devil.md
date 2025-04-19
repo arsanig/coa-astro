@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/2503.png
 lang: en
 title: "Your enemy isn&#8217;t the person, it&#8217;s the devil!"
 pubDate: 2020-11-26T22:16:33
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

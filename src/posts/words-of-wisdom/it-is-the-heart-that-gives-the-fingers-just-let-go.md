@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/3036.png
 lang: en
 title: "It is the heart that gives, the fingers just let go"
 pubDate: 2021-08-12T21:30:08
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>

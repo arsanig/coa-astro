@@ -5,8 +5,9 @@ imgSrc: /assets/thumbnails/1387.jpg
 lang: en
 title: "Discovering the Depth of the Orthodox Prayer Life"
 pubDate: 2019-03-06T15:06:20
-tags: ["aa", "wow"]
+tags: ["wow"]
 ---
+
 <!-- page: 6 -->
 
 <p><strong>As we walk through our earthly journey, sometimes our minds wonder:</strong></p>
