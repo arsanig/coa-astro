@@ -13,6 +13,7 @@ const podLocalized = localizePathname("/podcasts", languageTag());
 const shortsLocalized = localizePathname("/shorts", languageTag());
 const faithLocalized = localizePathname("/faith", languageTag());
 const contactLocalized = localizePathname("/contact", languageTag());
+const shopLocalized = localizePathname("/shop", languageTag());
 ---
 
 <nav class="w-full">
@@ -42,6 +43,7 @@ const contactLocalized = localizePathname("/contact", languageTag());
         <NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
         <NavLink active={pathname === shortsLocalized ? true : false} text={m.shortsLabel()} route={shortsLocalized} />
         <NavLink active={pathname === faithLocalized ? true : false} text={m.faithLabel()} route={faithLocalized} />
+        <NavLink active={pathname === shopLocalized ? true : false} text={m.shopLabel()} route={shopLocalized} />
         <NavLink
             active={pathname === contactLocalized ? true : false}
             text={m.contactLabel()}
