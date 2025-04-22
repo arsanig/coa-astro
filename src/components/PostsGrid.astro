@@ -43,8 +43,12 @@ type Post = {
                                 })}
                             </div>
                         </div>
-                        <span class="font-barlow text-xs text-pearl mt-2">
-                            {post.data.pubDate.toDateString().split(" ").slice(0, 4).join(" ")}
+                        <span class="font-barlow text-xs text-jonquil mt-2">
+                            {post.data.pubDate.toLocaleDateString("en-US", {
+                                year: "numeric",
+                                month: "long",
+                                day: "numeric",
+                            })}
                         </span>
                     </div>
                 </a>

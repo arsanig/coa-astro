@@ -2,18 +2,8 @@
 import { getPlaylistItems } from "@utils/youtubeApi";
 const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
 
-type Short = {
-    kind: string;
-    etag: string;
-    id: string;
-    contentDetails: {
-        videoId: string;
-        videoPublishedAt: string;
-    };
-};
-
 const data = await getPlaylistItems(9, shortsPlaylistId);
-const shortsIds = data?.items?.map((short: Short) => short?.contentDetails?.videoId);
+const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
 ---
 
 <div class="bg-gray p-4 sm:p-8 lg:p-21">

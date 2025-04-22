@@ -2,30 +2,34 @@ import { google } from "googleapis";
 const youtubeApiKey = import.meta.env.YOUTUBE_API_KEY;
 const youtube = google.youtube({ version: "v3", auth: youtubeApiKey });
 
-// can be moved out to schemas if use more of Youtube API
-interface playlistItemsData {
+type PlaylistItem = {
     items?: [
         {
-            kind: string;
-            etag: string;
             id: string;
+            snippet: {
+                title: string;
+                thumbnails: {
+                    high: { url: string };
+                    maxres: { url: string };
+                };
+            };
             contentDetails: {
                 videoId: string;
                 videoPublishedAt: string;
             };
         }
     ];
-}
+};
 
 // missing return type interface
 export const getPlaylistItems = async (
     maxResults: number,
     playlistId: string
-): Promise<playlistItemsData> => {
+): Promise<PlaylistItem> => {
     let data = {};
     const res = await youtube.playlistItems.list({
         maxResults: maxResults,
-        part: ["contentDetails"],
+        part: ["snippet", "contentDetails"],
         playlistId: playlistId,
     });
     if (res.status === 200) {
