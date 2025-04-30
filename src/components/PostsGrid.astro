@@ -1,5 +1,6 @@
 ---
 import { type InferEntrySchema, type RenderedContent } from "astro:content";
+import Banner from "./Banner.astro";
 const { posts } = Astro.props;
 type Post = {
     id: string;
@@ -15,44 +16,37 @@ type Post = {
     class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-8 pt-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
 >
     {
-        posts.map((post: Post, index: number) => {
-            const isLastItem = index === posts.length - 1;
-            const isOddItems = posts.length % 2 === 1;
-            return (
-                <a
-                    class={`group block ${isLastItem && isOddItems ? "sm:justify-self-center lg:justify-self-center" : ""}`}
-                    href={`/${post.id}`}
-                >
-                    <div class="aspect-video overflow-hidden rounded-lg">
-                        <img
-                            src={post.data.imgSrc}
-                            class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-                            alt={post.data.title}
-                        />
-                    </div>
-                    <div class="flex flex-col pt-4">
-                        <div class="flex flex-col sm:flex-row sm:justify-between gap-2 sm:gap-0">
-                            <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
-                                {post.data.title}
-                            </span>
-                            <div class="flex flex-wrap gap-2 sm:gap-0">
-                                {post.data.tags?.map((tag) => {
-                                    return (
-                                        <span class="sm:ml-4 px-2 py-1 max-h-min rounded-lg bg-madder text-white text-xs sm:text-sm">{`#${tag}`}</span>
-                                    );
-                                })}
-                            </div>
-                        </div>
-                        <span class="font-barlow text-xs text-jonquil mt-2">
-                            {post.data.pubDate.toLocaleDateString("en-US", {
-                                year: "numeric",
-                                month: "long",
-                                day: "numeric",
-                            })}
+        posts.map((post: Post) => (
+            <a class="group block" href={`/${post.id}`}>
+                <div class="aspect-video overflow-hidden rounded-lg">
+                    <img
+                        src={post.data.imgSrc}
+                        class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        alt={post.data.title}
+                    />
+                </div>
+                <div class="flex flex-col pt-4">
+                    <div class="flex flex-col sm:flex-row sm:justify-between gap-2 sm:gap-0">
+                        <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
+                            {post.data.title}
                         </span>
+                        <div class="flex flex-wrap gap-2 sm:gap-0">
+                            {post.data.tags?.map((tag) => {
+                                return (
+                                    <span class="sm:ml-4 px-2 py-1 max-h-min rounded-lg bg-madder text-white text-xs sm:text-sm">{`#${tag}`}</span>
+                                );
+                            })}
+                        </div>
                     </div>
-                </a>
-            );
-        })
+                    <span class="font-barlow text-xs text-jonquil mt-2">
+                        {post.data.pubDate.toLocaleDateString("en-US", {
+                            year: "numeric",
+                            month: "long",
+                            day: "numeric",
+                        })}
+                    </span>
+                </div>
+            </a>
+        ))
     }
 </div>
