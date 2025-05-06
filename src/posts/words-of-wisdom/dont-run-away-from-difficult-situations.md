@@ -1,6 +1,7 @@
 ---
 wp_id: 3641
 imgId: 3642
+videoId: ""
 imgSrc: /assets/thumbnails/3642.webp
 lang: en
 title: "Don&#8217;t run away from difficult situations"

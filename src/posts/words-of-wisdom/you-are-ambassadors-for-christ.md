@@ -1,6 +1,7 @@
 ---
 wp_id: 3240
 imgId: 3241
+videoId: ""
 imgSrc: /assets/thumbnails/3241.webp
 lang: en
 title: "You are ambassadors for Christ!"

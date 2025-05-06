@@ -1,6 +1,7 @@
 ---
 wp_id: 1967
 imgId: 1968
+videoId: ""
 imgSrc: /assets/thumbnails/1968.webp
 lang: en
 title: "How should you deal with a sinner? How ought we to worship?"

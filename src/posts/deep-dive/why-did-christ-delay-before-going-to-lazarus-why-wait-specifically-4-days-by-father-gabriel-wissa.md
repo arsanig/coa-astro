@@ -1,6 +1,7 @@
 ---
 wp_id: 2524
 imgId: 2688
+videoId: ""
 imgSrc: /assets/thumbnails/2688.webp
 lang: en
 title: "Why did Christ delay before going to Lazarus? Why wait specifically 4 days? by Father Gabriel Wissa"

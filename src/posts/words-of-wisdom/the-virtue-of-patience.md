@@ -1,6 +1,7 @@
 ---
 wp_id: 3670
 imgId: 3671
+videoId: ""
 imgSrc: /assets/thumbnails/3671.webp
 lang: en
 title: "The virtue of patience"

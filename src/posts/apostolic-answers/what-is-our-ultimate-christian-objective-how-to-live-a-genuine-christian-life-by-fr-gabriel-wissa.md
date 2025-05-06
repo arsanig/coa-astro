@@ -1,6 +1,7 @@
 ---
 wp_id: 2229
 imgId: 2230
+videoId: ""
 imgSrc: /assets/thumbnails/2230.webp
 lang: en
 title: "What is our ultimate Christian objective? How to live a genuine Christian life?  by Fr.Gabriel Wissa"

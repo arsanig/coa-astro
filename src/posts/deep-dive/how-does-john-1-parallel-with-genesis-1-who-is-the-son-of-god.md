@@ -1,6 +1,7 @@
 ---
 wp_id: 1691
 imgId: 1693
+videoId: ""
 imgSrc: /assets/thumbnails/1693.webp
 lang: en
 title: "How does John 1 parallel with Genesis 1? Who is the Son of God?"

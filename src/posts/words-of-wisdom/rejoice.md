@@ -1,6 +1,7 @@
 ---
 wp_id: 3525
 imgId: 3526
+videoId: ""
 imgSrc: /assets/thumbnails/3526.webp
 lang: en
 title: "Rejoice!"

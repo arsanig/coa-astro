@@ -1,6 +1,7 @@
 ---
 wp_id: 3345
 imgId: 3346
+videoId: ""
 imgSrc: /assets/thumbnails/3346.webp
 lang: en
 title: "Bring back your white garments"

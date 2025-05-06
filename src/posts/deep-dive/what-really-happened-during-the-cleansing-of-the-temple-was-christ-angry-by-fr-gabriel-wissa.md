@@ -1,6 +1,7 @@
 ---
 wp_id: 1792
 imgId: 1793
+videoId: ""
 imgSrc: /assets/thumbnails/1793.webp
 lang: en
 title: "What really happened during the cleansing of the temple? Was Christ angry? by Fr. Gabriel Wissa"

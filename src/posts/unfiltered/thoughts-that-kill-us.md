@@ -1,6 +1,7 @@
 ---
 wp_id: 4070
 imgId: 4071
+videoId: ""
 imgSrc: /assets/thumbnails/4071.webp
 lang: en
 title: "Thoughts that kill us"

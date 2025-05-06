@@ -1,6 +1,7 @@
 ---
 wp_id: 3199
 imgId: 3201
+videoId: ""
 imgSrc: /assets/thumbnails/3201.webp
 lang: en
 title: "The hope for those who have no hope and the help of those who have no helpers"

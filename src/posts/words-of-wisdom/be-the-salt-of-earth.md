@@ -1,6 +1,7 @@
 ---
 wp_id: 3506
 imgId: 3507
+videoId: ""
 imgSrc: /assets/thumbnails/3507.webp
 lang: en
 title: "Be the salt of earth"

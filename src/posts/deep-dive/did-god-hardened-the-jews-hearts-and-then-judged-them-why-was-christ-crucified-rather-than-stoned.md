@@ -1,6 +1,7 @@
 ---
 wp_id: 2711
 imgId: 2712
+videoId: ""
 imgSrc: /assets/thumbnails/2712.webp
 lang: en
 title: "Did God hardened the Jews’ hearts and then judged them? Why was Christ crucified rather than stoned?"

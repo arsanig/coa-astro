@@ -1,6 +1,7 @@
 ---
 wp_id: 2436
 imgId: 2437
+videoId: ""
 imgSrc: /assets/thumbnails/2437.webp
 lang: en
 title: "The Power that Subdues Panic"

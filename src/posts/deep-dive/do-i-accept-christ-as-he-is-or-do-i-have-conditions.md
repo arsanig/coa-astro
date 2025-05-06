@@ -1,6 +1,7 @@
 ---
 wp_id: 1727
 imgId: 1728
+videoId: ""
 imgSrc: /assets/thumbnails/1728.webp
 lang: en
 title: "Do I accept Christ as He is? Or do I search for Him with my own conditioned filters?"

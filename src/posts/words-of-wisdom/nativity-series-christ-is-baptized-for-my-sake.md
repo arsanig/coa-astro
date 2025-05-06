@@ -1,6 +1,7 @@
 ---
 wp_id: 3704
 imgId: 3705
+videoId: ""
 imgSrc: /assets/thumbnails/3705.webp
 lang: en
 title: "Nativity Series Christ is baptized for my sake"

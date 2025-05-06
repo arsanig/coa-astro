@@ -1,6 +1,7 @@
 ---
 wp_id: 3763
 imgId: 3764
+videoId: ""
 imgSrc: /assets/thumbnails/3764.webp
 lang: en
 title: "Is there anything too precious to offer for Christ"

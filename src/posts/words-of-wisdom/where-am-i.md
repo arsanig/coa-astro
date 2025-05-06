@@ -1,6 +1,7 @@
 ---
 wp_id: 3248
 imgId: 3249
+videoId: ""
 imgSrc: /assets/thumbnails/3249.webp
 lang: en
 title: "Where am I?"

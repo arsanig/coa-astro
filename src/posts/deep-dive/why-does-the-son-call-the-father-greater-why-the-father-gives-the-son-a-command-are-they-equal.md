@@ -1,6 +1,7 @@
 ---
 wp_id: 3616
 imgId: 3617
+videoId: ""
 imgSrc: /assets/thumbnails/3617.webp
 lang: en
 title: "Why does the Son call the Father greater? Why the Father gives the Son a command? Are they equal?"

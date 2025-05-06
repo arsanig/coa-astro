@@ -1,6 +1,7 @@
 ---
 wp_id: 2135
 imgId: 2136
+videoId: ""
 imgSrc: /assets/thumbnails/2136.webp
 lang: en
 title: "Why does God allow NATURAL DISASTERS? Why coronavirus? by Fr. Gabriel Wissa"

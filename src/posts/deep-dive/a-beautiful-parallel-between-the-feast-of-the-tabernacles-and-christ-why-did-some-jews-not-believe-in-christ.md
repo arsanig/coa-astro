@@ -1,6 +1,7 @@
 ---
 wp_id: 2256
 imgId: 2257
+videoId: ""
 imgSrc: /assets/thumbnails/2257.webp
 lang: en
 title: "A beautiful parallel between the feast of the tabernacles and Christ! Why did some Jews not believe in Christ?"

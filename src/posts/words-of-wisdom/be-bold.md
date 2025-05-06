@@ -1,6 +1,7 @@
 ---
 wp_id: 3882
 imgId: 3883
+videoId: ""
 imgSrc: /assets/thumbnails/3883.webp
 lang: en
 title: "Be bold"

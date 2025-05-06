@@ -1,6 +1,7 @@
 ---
 wp_id: 1567
 imgId: 1568
+videoId: ""
 imgSrc: /assets/thumbnails/1568.webp
 lang: en
 title: "Have life within!"

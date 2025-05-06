@@ -1,6 +1,7 @@
 ---
 wp_id: 2164
 imgId: 2169
+videoId: ""
 imgSrc: /assets/thumbnails/2169.webp
 lang: en
 title: "Do our earthly cares really distance us from God? How important is Scripture?  by Fr. Gabriel Wissa"

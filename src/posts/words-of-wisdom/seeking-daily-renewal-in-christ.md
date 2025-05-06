@@ -1,6 +1,7 @@
 ---
 wp_id: 2407
 imgId: 2409
+videoId: ""
 imgSrc: /assets/thumbnails/2409.webp
 lang: en
 title: "Seeking daily renewal in Christ!"

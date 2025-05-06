@@ -1,6 +1,7 @@
 ---
 wp_id: 1598
 imgId: 1599
+videoId: ""
 imgSrc: /assets/thumbnails/1599.webp
 lang: en
 title: "Find joy regardless of your circumstances"

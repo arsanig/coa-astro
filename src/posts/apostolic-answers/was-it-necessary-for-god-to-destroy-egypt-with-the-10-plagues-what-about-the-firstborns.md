@@ -1,6 +1,7 @@
 ---
 wp_id: 1322
 imgId: 1323
+videoId: ""
 imgSrc: /assets/thumbnails/1323.webp
 lang: en
 title: "Was it necessary for God to destroy Egypt with the 10 plagues? What about the firstborns?"

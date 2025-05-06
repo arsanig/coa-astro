@@ -1,6 +1,7 @@
 ---
 wp_id: 2746
 imgId: 2748
+videoId: ""
 imgSrc: /assets/thumbnails/2748.webp
 lang: en
 title: "Is Judas innocent of the betrayal as he was chosen by Christ? What event led to the feet washing?"

@@ -1,6 +1,7 @@
 ---
 wp_id: 3067
 imgId: 3068
+videoId: ""
 imgSrc: /assets/thumbnails/3068.webp
 lang: en
 title: "Life, death and neighbour"

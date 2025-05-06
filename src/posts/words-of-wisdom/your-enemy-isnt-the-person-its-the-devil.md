@@ -1,6 +1,7 @@
 ---
 wp_id: 2502
 imgId: 2503
+videoId: ""
 imgSrc: /assets/thumbnails/2503.webp
 lang: en
 title: "Your enemy isn&#8217;t the person, it&#8217;s the devil!"

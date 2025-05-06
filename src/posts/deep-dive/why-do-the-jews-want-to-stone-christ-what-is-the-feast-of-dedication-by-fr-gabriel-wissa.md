@@ -1,6 +1,7 @@
 ---
 wp_id: 2470
 imgId: 2471
+videoId: ""
 imgSrc: /assets/thumbnails/2471.webp
 lang: en
 title: "Why do the Jews want to stone Christ? What is the feast of Dedication? by Fr. Gabriel Wissa"

@@ -1,6 +1,7 @@
 ---
 wp_id: 2088
 imgId: 2089
+videoId: ""
 imgSrc: /assets/thumbnails/2089.webp
 lang: en
 title: "How to live righteously?"

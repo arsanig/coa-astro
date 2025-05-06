@@ -1,6 +1,7 @@
 ---
 wp_id: 3740
 imgId: 3741
+videoId: ""
 imgSrc: /assets/thumbnails/3741.webp
 lang: en
 title: "Power of the word of God"

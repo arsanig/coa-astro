@@ -1,6 +1,7 @@
 ---
 wp_id: 2704
 imgId: 2706
+videoId: ""
 imgSrc: /assets/thumbnails/2706.webp
 lang: en
 title: "Regaining control by fasting!"

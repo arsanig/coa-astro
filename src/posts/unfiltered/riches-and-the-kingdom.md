@@ -1,6 +1,7 @@
 ---
 wp_id: 4075
 imgId: 4076
+videoId: ""
 imgSrc: /assets/thumbnails/4076.webp
 lang: en
 title: "Riches and the Kingdom"

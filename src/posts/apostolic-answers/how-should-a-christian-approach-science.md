@@ -1,6 +1,7 @@
 ---
 wp_id: 1583
 imgId: 1584
+videoId: ""
 imgSrc: /assets/thumbnails/1584.webp
 lang: en
 title: "How should a Christian approach SCIENCE?"

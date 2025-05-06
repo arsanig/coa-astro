@@ -1,6 +1,7 @@
 ---
 wp_id: 3162
 imgId: 3163
+videoId: ""
 imgSrc: /assets/thumbnails/3163.webp
 lang: en
 title: "Wisdom from Above"

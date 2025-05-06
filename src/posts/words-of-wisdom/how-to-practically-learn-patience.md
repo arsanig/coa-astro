@@ -1,6 +1,7 @@
 ---
 wp_id: 1640
 imgId: 1641
+videoId: ""
 imgSrc: /assets/thumbnails/1641.webp
 lang: en
 title: "How to practically learn patience?"

@@ -1,6 +1,7 @@
 ---
 wp_id: 1646
 imgId: 1647
+videoId: ""
 imgSrc: /assets/thumbnails/1647.webp
 lang: en
 title: "Get Up & Face Your Giants!"

@@ -1,6 +1,7 @@
 ---
 wp_id: 3809
 imgId: 3810
+videoId: ""
 imgSrc: /assets/thumbnails/3810.webp
 lang: en
 title: "What is friendship?"

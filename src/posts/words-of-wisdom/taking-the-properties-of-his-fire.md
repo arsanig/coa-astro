@@ -1,6 +1,7 @@
 ---
 wp_id: 3225
 imgId: 3226
+videoId: ""
 imgSrc: /assets/thumbnails/3226.webp
 lang: en
 title: "Taking the properties of His fire"

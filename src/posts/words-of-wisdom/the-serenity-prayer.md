@@ -1,6 +1,7 @@
 ---
 wp_id: 2875
 imgId: 2877
+videoId: ""
 imgSrc: /assets/thumbnails/2877.webp
 lang: en
 title: "The Serenity Prayer"

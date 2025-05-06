@@ -1,6 +1,7 @@
 ---
 wp_id: 1754
 imgId: 1755
+videoId: ""
 imgSrc: /assets/thumbnails/1755.webp
 lang: en
 title: "Are you blinded by your own ego or perceptions?"

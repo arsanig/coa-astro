@@ -1,6 +1,7 @@
 ---
 wp_id: 2244
 imgId: 2245
+videoId: ""
 imgSrc: /assets/thumbnails/2245.webp
 lang: en
 title: "Can I seek Truth and still follow humans? Why some people are not persuaded by Truth?"

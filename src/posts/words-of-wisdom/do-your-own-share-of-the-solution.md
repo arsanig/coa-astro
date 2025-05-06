@@ -1,6 +1,7 @@
 ---
 wp_id: 2861
 imgId: 2863
+videoId: ""
 imgSrc: /assets/thumbnails/2863.webp
 lang: en
 title: "Do your own share of the solution"

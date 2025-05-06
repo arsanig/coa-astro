@@ -1,6 +1,7 @@
 ---
 wp_id: 3646
 imgId: 3647
+videoId: ""
 imgSrc: /assets/thumbnails/3647.webp
 lang: en
 title: "Obedience is not conditional"

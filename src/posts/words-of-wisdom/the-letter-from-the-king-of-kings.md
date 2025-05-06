@@ -1,6 +1,7 @@
 ---
 wp_id: 2679
 imgId: 2680
+videoId: ""
 imgSrc: /assets/thumbnails/2680.webp
 lang: en
 title: "The letter from the King of kings!"

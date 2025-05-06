@@ -1,6 +1,7 @@
 ---
 wp_id: 2001
 imgId: 2002
+videoId: ""
 imgSrc: /assets/thumbnails/2002.webp
 lang: en
 title: "How to genuinely serve others? Should culture be transcended for the sake of serving others? by Fr. Gabriel Wissa"

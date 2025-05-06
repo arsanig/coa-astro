@@ -1,6 +1,7 @@
 ---
 wp_id: 3845
 imgId: 3846
+videoId: ""
 imgSrc: /assets/thumbnails/3846.webp
 lang: en
 title: "Cleans me from within Meditations on Monday of Holy Pascha"

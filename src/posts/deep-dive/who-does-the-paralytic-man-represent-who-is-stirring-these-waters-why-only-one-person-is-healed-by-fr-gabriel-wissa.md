@@ -1,6 +1,7 @@
 ---
 wp_id: 2030
 imgId: 2031
+videoId: ""
 imgSrc: /assets/thumbnails/2031.webp
 lang: en
 title: "Who does the paralytic man represent? Who is stirring these waters? Why only one person is healed? by Fr. Gabriel Wissa"

@@ -1,6 +1,7 @@
 ---
 wp_id: 4194
 imgId: 4199
+videoId: ""
 imgSrc: /assets/thumbnails/4199.webp
 lang: en
 title: "Going about helping the homeless"

@@ -1,6 +1,7 @@
 ---
 wp_id: 1509
 imgId: 1510
+videoId: ""
 imgSrc: /assets/thumbnails/1510.webp
 lang: en
 title: "Orthodox Icons: Are we worshiping graven images?"

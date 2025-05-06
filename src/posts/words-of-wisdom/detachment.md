@@ -1,6 +1,7 @@
 ---
 wp_id: 3612
 imgId: 3613
+videoId: ""
 imgSrc: /assets/thumbnails/3613.webp
 lang: en
 title: "Detachment"

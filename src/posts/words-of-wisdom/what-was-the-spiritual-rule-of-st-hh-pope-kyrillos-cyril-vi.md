@@ -1,6 +1,7 @@
 ---
 wp_id: 2412
 imgId: 2414
+videoId: ""
 imgSrc: /assets/thumbnails/2414.webp
 lang: en
 title: "What was the spiritual rule of St. HH Pope Kyrillos (Cyril) VI?"
