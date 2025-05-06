@@ -1,7 +1,7 @@
 ---
 wp_id: 1227
 imgId: 1228
-videoId: ""
+videoId: "w8ZdRMglBuE"
 imgSrc: /assets/thumbnails/1228.webp
 lang: en
 title: "COA Live Q&A December 26, 2018"

@@ -1,7 +1,7 @@
 ---
 wp_id: 976
 imgId: 687
-videoId: ""
+videoId: "ncoPmxVkz2U"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is the Church’s stance on Euthanasia and Physician Assisted Suicide?"

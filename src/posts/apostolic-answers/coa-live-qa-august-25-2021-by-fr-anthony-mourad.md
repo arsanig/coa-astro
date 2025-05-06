@@ -1,7 +1,7 @@
 ---
 wp_id: 3050
 imgId: 3052
-videoId: ""
+videoId: "lqEG234yP2A"
 imgSrc: /assets/thumbnails/3052.webp
 lang: en
 title: "COA live Q&A August. 25. 2021 by Fr. Anthony Mourad"
