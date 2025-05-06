@@ -1,6 +1,7 @@
 ---
 wp_id: 1009
 imgId: 681
+videoId: "ngdjg3tfzx0"
 imgSrc: /assets/thumbnails/681.webp
 lang: en
 title: "How can I be a faithful Christian in such a “politically correct” society?"

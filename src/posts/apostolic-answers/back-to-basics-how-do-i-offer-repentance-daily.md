@@ -1,7 +1,7 @@
 ---
 wp_id: 1987
 imgId: 1988
-videoId: ""
+videoId: "MFHOsdN-cWs"
 imgSrc: /assets/thumbnails/1988.webp
 lang: en
 title: "Back to Basics: How do I offer repentance daily?"

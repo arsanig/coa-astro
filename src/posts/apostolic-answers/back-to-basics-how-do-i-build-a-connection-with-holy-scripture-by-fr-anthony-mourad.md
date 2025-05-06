@@ -1,7 +1,7 @@
 ---
 wp_id: 1896
 imgId: 1897
-videoId: ""
+videoId: "Jv26SORdVew"
 imgSrc: /assets/thumbnails/1897.webp
 lang: en
 title: "Back to Basics: How do I build a connection with Holy Scripture? by Fr. Anthony Mourad"
