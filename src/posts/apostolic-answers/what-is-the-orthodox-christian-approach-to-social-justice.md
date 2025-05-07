@@ -9,8 +9,6 @@ pubDate: 2021-03-24T11:00:45
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>More than ever in today’s world we are facing social dilemmas where people are accusing others of great offense, inequality, oppression, or social injustice. We are constantly bombarded of news of yet another scandal, or another tragedy, or simply more and more examples of how we as human beings have failed to live out our calling as people created in God’s Image and likeness. What should be our response to all this social injustice? Is there even such a thing within the understanding of Orthodox Christianity? In this short series, we will take a look at all this and discuss it together.</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>What should be the Orthodox Christian response to Social Injustice? How are we as Christians expected to react when faced with the atrocities and injustices that are often manifest around us in this broken world of ours. Firstly, lets take the time to address an underlying component to this conversation – do we believe in such a thing as social justice. Well, if what is meant by this is the ideology of encouraging a society formed of persons that hold to a standard of goodness and righteousness that is founded in God Himself, then yes of course we believe in this! And scripture gives many examples of this.</p>

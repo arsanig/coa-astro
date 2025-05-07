@@ -9,8 +9,6 @@ pubDate: 2022-08-31T11:39:15
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>As Christians we believe that God is real. We also believe that there are dark and demonic forces that oppose God. But some people live their life as if Satan did not exist and that no forces of darkness surround us. Do they? Should we be concerned? What should be our response? Let’s take a deeper look into this often-ignored topic.</p>
 <p>&nbsp;</p>
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>

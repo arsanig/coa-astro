@@ -9,8 +9,6 @@ pubDate: 2019-12-11T12:00:47
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen.</p>
 <p>We’ve all been told a thousand times in Church and Sunday School: Say your Prayers, Read your Bible… but have you ever grappled with trying to read scripture consistently? Or do you struggle to understand what you read? Then this video is for you. Let’s take a look at this together.</p>
 <p>My beloved, it seems obvious to all of us that one of the most essential aspects of the life of the Christian believer, is the belief that Holy Scripture is the inspired word of God handed down to us by the Church in holy written tradition. And no one can believe this and not exert an honest effort in attempting to daily reading scripture.</p>

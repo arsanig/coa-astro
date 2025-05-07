@@ -9,8 +9,6 @@ pubDate: 2020-03-11T10:12:22
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">Most people would agree that an essential part of what it means to be human is our capacity to love. And while we </span><span data-contrast="auto">express in many forms what we consider love, </span><span data-contrast="auto"> is there something more there than meets the eye? If there more to Love that what we simply perceive and feel</span><span data-contrast="auto">? </span><span data-contrast="auto">Let’s take a closer look at why love is the one of the fundamental elements of the Christian reality. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}" data-wac-het="1"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}" data-wac-het="1"> </span></p>
 <p><b><i><span data-contrast="auto">Part 1:</span></i></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}" data-wac-het="1"> </span></p>

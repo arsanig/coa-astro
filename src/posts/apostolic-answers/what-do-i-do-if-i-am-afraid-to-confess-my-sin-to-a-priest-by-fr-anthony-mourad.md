@@ -9,8 +9,6 @@ pubDate: 2023-03-15T07:20:34
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p><span data-contrast="auto">Have you ever felt very anxious before a confession? Wondering if the priest will judge you or be disappointed in you? Have you ever been tempted to think maybe its better not to confess because you were afraid of revealing your sin? Well this video is done especially for you! </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

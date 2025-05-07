@@ -1,15 +1,13 @@
 ---
 wp_id: 3566
 imgId: 3567
-videoId: ""
+videoId: "zmpDQg6XK8o"
 imgSrc: /assets/thumbnails/3567.webp
 lang: en
 title: "How Should Christians Deal with Earthly Authorities?"
 pubDate: 2022-09-07T10:49:36
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p><span data-contrast="auto">Should we always follow the civil authorities? Does God ask Christians to blindly follow authoritative bodies?  Should we follow at all? Well, yes of course we should follow. No doubt there. Christians follow the civil law. But is it all the time regardless of the request? That’s the more vital question. But first, why even attempt to answer such a question? Because it has become quite evident that Christians of all ages don’t know how to react when authoritative bodies overstep their boundaries. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>

@@ -9,8 +9,6 @@ pubDate: 2024-03-01T12:00:32
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/_NIXP7mTOXs" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Elijah Iskander from St. Mark&#8217;s Coptic Church, Sydney, Australia.</p>

@@ -9,8 +9,6 @@ pubDate: 2017-04-05T01:02:14
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What is the Coptic Orthodox Church’s view on Sex and Sexuality?</strong></p>
 <p>This is a loaded question and many people will shy away from it due to the sensitivity surrounding the subject.  <strong>Sex has, unfortunately, become something that is extremely misunderstood and poorly portrayed in mainstream media.</strong>  Because of this the average Christian would rather treat the subject as an elephant in the room and act that it isn’t there.  Sex and sexuality however is a topic that needs to be addressed.</p>
 <p><strong>We need to clarify that the Bible and the Church teach that Sexuality </strong><strong>is one of God’s blessed gifts to humanity.  </strong>We often deal with sexuality as if it is evil. In reality, when properly expressed within the mystery of marriage, sexuality becomes something beautiful and an intimate expression of the love that God has placed inside of us.</p>

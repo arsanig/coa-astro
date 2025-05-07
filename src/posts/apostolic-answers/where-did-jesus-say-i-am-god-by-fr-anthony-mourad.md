@@ -9,8 +9,6 @@ pubDate: 2019-10-23T12:00:34
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>Some opponents of the Christian faith will challenge us with an important question, one that is worth investigating. They will say “If you believe that Jesus is God, show us where He himself makes that declaration.” And the truth of the matter is, if we search out scripture for words spoken by Jesus saying “I am God”, you simply won’t find them in the Bible! And yet, Christians have believed that He is God for as long as Christians have existed! And so, we begin by making a bold declaration – we do not need that statement to be spoken by Christ and recorded in Scripture for us to know and believe that He is indeed the Son of the Living God – who is of one Essence with God the Father and the Holy Spirit!</p>
 <p>&nbsp;</p>

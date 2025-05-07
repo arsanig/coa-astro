@@ -9,8 +9,6 @@ pubDate: 2022-01-07T03:51:29
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved HG Bishop Angaelos from Diocese of London, London, England. This video is of course used with his blessing.</p>
 <p>#CopticOrthodoxAnswers​ #COA​ #WOW​</p>

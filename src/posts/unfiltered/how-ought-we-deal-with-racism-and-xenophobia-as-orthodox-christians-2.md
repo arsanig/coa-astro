@@ -9,8 +9,6 @@ pubDate: 2019-01-24T16:07:04
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p>Have you ever witnessed or been subject to racism and ethnic discrimination before? How did you deal with it? Ever wonder what the right Orthodox Christian approach to it should be? Let’s take a look at this together!<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Today my beloved we take a look at a most devastating thing that has divided humanity against itself for the longest of times. It continues to plague us even today in the 21<span data-fontsize="11">st</span> century although we describe ourselves to be more “civilized” and “tolerant”. I am speaking of the human being’s capacity to be racist, intolerant, and xenophobic! To believe that another person of different race, nationality, and ethnicity can somehow render them inferior. For today’s purpose, lets discuss two different, but equally dangerous ideologies: racism – the discrimination against another person of different race based on the premise that one’s own race is superior; and xenophobia: the dislike or intense disfavor of people from other countries. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Now it’s easy to make the claim that “obviously” this is wrong and immoral. But why? How do we as Christians make the claim that the belief in the Christian Trinitarian God obligates me to view all of humanity at equal footing? Why are racism and xenophobia sins against God and man in the understanding of the Orthodox Christian Church? Let’s take a closer look. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

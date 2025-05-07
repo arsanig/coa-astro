@@ -9,8 +9,6 @@ pubDate: 2022-05-04T12:34:55
 tags: ["dd"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>
 <p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!  In this session, we explore together the background of the Gospel of John  (john  14:1-14 ) </p>
 <p>#CopticOrthodoxAnswers #COA #DDJ</p>

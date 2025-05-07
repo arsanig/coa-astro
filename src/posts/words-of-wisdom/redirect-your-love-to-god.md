@@ -9,7 +9,5 @@ pubDate: 2022-07-06T10:51:22
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>Redirect your love to God</p>
 <p>Listen to some Word of Wisdom from Fr. Daniel Fanous from St. Peter & St. Paul, Berkeley NSW, Australia</p>

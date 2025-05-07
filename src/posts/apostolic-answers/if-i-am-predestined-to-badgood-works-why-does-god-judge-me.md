@@ -9,8 +9,6 @@ pubDate: 2017-03-21T22:55:13
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>If I am predestined to bad/good works, why does God judge me?</strong></p>
 <p><strong>If God already knows what I am going to do in the future then why does He judge me on my actions?If He knows I will commit sins then why does He judge me on them? Similarly, if He knows what I’m going to pray about then why am I actually praying? Why do I go through the motions of life and not let things happen as God willed them to be.</strong></p>
 <p>All these questions address the issue of man’s free will in the face of God’s foreknowledge.</p>

@@ -9,8 +9,6 @@ pubDate: 2023-08-25T12:00:50
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/VPODKWJOSsU?si=W_EqbPRsoMc1LUQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -18,7 +16,7 @@ tags: ["whut"]
 <p></code></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Peter Saad from St. Peter &amp; St. Paul, Montreal, Canada. This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers #COA #WOW</p>
+
 <p>For the full Sermon :<br />
 <code></p>
 <div class="video-container">

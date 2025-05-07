@@ -9,8 +9,6 @@ pubDate: 2018-03-14T11:19:02
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>As Christians, how ought we to deal with today’s society’s moral decline?</strong></p>
 <p>What is morality? What makes an action “moral”? Who defines right from wrong? What should be our Christian stance on abortion, euthanasia and similarly debated social topics?</p>
 <p>For example, the Canadian Government, recently stated that Anti-Abortion groups are not in-line with Canadian Society. Essentially, they are saying that Canadian society is the standard and that anti-abortion or pro-life groups should conform to that standard.</p>

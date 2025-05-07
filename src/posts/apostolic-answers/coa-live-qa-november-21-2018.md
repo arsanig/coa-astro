@@ -9,6 +9,4 @@ pubDate: 2018-12-03T16:02:27
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>COA Live Q&amp;A November 21, 2018</p>

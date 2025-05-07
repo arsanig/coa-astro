@@ -9,8 +9,6 @@ pubDate: 2019-03-20T12:00:01
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">The Church often teaches us that within our spiritual life, there will be warfare. And if warfare, then there must be an enemy. And if an enemy, then we are under attack. If you have ever wondered what these attacks look like, and how we are tempted to sin, then stick around and let’s look at the six stages that lead to temptation, sin, and addiction. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

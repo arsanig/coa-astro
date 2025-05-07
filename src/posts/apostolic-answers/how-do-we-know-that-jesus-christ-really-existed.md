@@ -1,15 +1,13 @@
 ---
 wp_id: 1303
 imgId: 1304
-videoId: ""
+videoId: "Z0xl8v-BGEM"
 imgSrc: /assets/thumbnails/1304.webp
 lang: en
 title: "How do we know that Jesus Christ really existed?"
 pubDate: 2019-02-01T21:20:56
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>Have you ever wondered if Jesus really existed as a person within history? Do you have any evidence?  Is there anything outside the bible that proves he ever existed? Let’s take a look at what history has to say about the existence of the historical Jesus.  <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

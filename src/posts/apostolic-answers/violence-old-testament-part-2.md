@@ -9,8 +9,6 @@ pubDate: 2017-07-31T12:40:51
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why is the Bible, the story of salvation &amp; love, filled with violence? (Violence in the OT &#8211; part 2)</strong></p>
 <p>Today we continue our series about the violence in the Old Testament. We saw a summary of the answer in our previous video that demonstrated that God did not change from the Old to the New Testament. Humanity is the one that changed after choosing to be separated from God. As a consequence, humanity sank to a deep level of sin. Throughout the Old Testament, as humanity was growing, God dealt with us differently based on our respective state. Today, we need to reaffirm these thoughts because they are very foundational for us to answer these seemingly big questions about the violence in the Old Testament. Therefore, today, we will demonstrate three points:</p>
 <p><strong>1- We will look at supporting evidence from outside the Bible that demonstrates that mankind truly was different at the time of the Old Testament.</strong></p>

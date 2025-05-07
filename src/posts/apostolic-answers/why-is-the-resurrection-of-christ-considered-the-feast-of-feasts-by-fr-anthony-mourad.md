@@ -9,8 +9,6 @@ pubDate: 2020-05-13T15:43:08
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">There are many feasts in the liturgical calendar of the Church. But there is one that hold</span><span data-contrast="auto">s</span><span data-contrast="auto"> the title of the Feast of Feasts – The Holy and Glorious feast of the Resurrection. Stay tuned to find out why this feast is a big deal to all Christians! </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

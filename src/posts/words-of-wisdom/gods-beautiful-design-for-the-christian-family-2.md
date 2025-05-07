@@ -9,12 +9,10 @@ pubDate: 2023-12-06T12:00:08
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/f0oDlc8GxRA?si=DGdxycoDaKn1J1ld" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with Fr. Gabriel Wissa, from St-George and St-Joseph, Montreal, QC, Canada. This video was of course used with his blessing.</p>
-<p>#copticorthodoxanswers #COA #wow</p>
+
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/copticorthodo​&#8230;</p>
 <p>Catena Bible App:<br />

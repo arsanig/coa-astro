@@ -9,8 +9,6 @@ pubDate: 2020-11-04T12:08:50
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">Seems </span><span data-contrast="auto">to me like God doesn’t always come through when I pray. Somethings I pray for </span><span data-contrast="auto">things that are good</span><span data-contrast="auto">, and yet even then there is no guarantee that He will make them happen. So what’s the point? </span><span data-contrast="auto">And doesn’t He know what I need ahead of time anyways? </span><span data-contrast="auto">If you’ve ever had this kind of thought cross your mind, then stick around, and lets see what the Church offers as an answer. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

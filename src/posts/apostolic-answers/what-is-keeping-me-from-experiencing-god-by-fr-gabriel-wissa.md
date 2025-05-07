@@ -9,8 +9,6 @@ pubDate: 2022-09-20T22:46:00
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">Today, I would like to address one of the main issues that plague Christians in this rapidly changing society. Because of this issue so many Christians remain unchanged by the Truth of God and by the reality of a real personal relationship with Him. Christianity, instead of being something so joyful, fulfilling and life-changing, remains, for those Christians, a heavy burden and an empty attempt to fulfill what seems to be random laws given by this Law Giver. For many, this issue has become increasingly difficult to manage because truly the love of many has grown cold but he who endures to the end shall be saved.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

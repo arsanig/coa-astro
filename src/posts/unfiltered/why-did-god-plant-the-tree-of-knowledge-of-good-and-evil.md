@@ -9,8 +9,6 @@ pubDate: 2018-12-13T11:54:05
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen.</p>
 <p>Today my beloved we address one of the most popular questions people have when they study the story of creation: If God did not want Adam and Eve to eat from the tree of knowledge of good and evil, then why did God plant it therel? Why place it in the garden to begin with.</p>
 <p>Now for many, this seems like a very logical question to ask. It would seem right to most of us that if I did not want my children to do something, or to come close to something that is evil, then all I have to do is remove that evil thing and eliminate the opportunity for them to get hurt. As long as its not an option, then they can’t make any mistakes, right? Seems pretty straight forward! However, we need to investigate this further and ask some important questions:</p>

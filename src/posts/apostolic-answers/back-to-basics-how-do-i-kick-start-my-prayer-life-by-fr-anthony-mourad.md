@@ -9,8 +9,6 @@ pubDate: 2019-11-13T12:00:58
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>My beloved today we start a new series called Back to Basics. In this series we speak of the practical side of a spiritual life: the “how to” of the most fundamental elements of the Christian lifestyle. And we cannot possibly begin this series without first talking about prayer. And so in this first video of the series, we will attempt to answer the question of “How do I kick-start my prayer life?”</p>
 <p>&nbsp;</p>

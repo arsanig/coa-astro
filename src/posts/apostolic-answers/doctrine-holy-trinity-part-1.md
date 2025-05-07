@@ -9,8 +9,6 @@ pubDate: 2017-10-31T22:17:57
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What is the doctrine of the Holy Trinity?- Part 1</strong></p>
 <p>One of the greatest mysteries of the Church, a mystery that is at the heart of everything it means to be a Faithful Christian, is the Doctrine of the Holy Trinity. However, what is the <b>Doctrine</b> of the <b>Holy</b> <b>Trinity</b>?”<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>The Holy Trinity is a <b>mystery</b> that has been long debated in the history of the Church and is the cause of much confusion to both Christians and non-Christians alike. Most theists are either monotheistic, or polytheistic – that is to say they believe in one God or multiple gods. Nevertheless, <b>for Christians such as us, we make a unique claim – we boldly confess One God in three persons – Father, Son, and Holy Spirit</b>. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

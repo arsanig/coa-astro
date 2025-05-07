@@ -9,12 +9,10 @@ pubDate: 2023-12-01T12:00:45
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/j7loZ0XhwRA?si=yB2ACcCv5M20gzRG" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with Fr. Paul Guirguis, from St. Mark, Washington DC, USA. This video was of course used with his blessing.</p>
-<p>#copticorthodoxanswers #COA #wow</p>
+
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/copticorthodo​&#8230;</p>
 <p>Catena Bible App:<br />

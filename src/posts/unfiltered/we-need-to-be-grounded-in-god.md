@@ -9,8 +9,6 @@ pubDate: 2023-10-27T12:00:42
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/x4f4AE5XSp0?si=0K-CvRBpEFOmANxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -18,7 +16,7 @@ tags: ["whut"]
 <p></code></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved HG Bishop Angaelos from Diocese of London, London, England. This video is of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #wow</p>
+
 <p>Words of Wisdom 2 series:<br />
 <code></p>
 <div class="video-container">

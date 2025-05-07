@@ -9,6 +9,4 @@ pubDate: 2019-11-01T07:33:55
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>Catch some answers to some pressing issues with Fr Anthony Mourad on #COA and learn more about the Christian Orthodox Faith</p>

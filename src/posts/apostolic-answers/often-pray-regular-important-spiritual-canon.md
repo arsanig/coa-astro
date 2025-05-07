@@ -9,8 +9,6 @@ pubDate: 2017-09-27T12:06:30
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong><u>The importance of the Spiritual Canon</u></strong></p>
 <p>&nbsp;</p>
 <p>Today’s video will discuss one of the key elements of Orthodox Spiritual Life, without it, it is very difficult, or nearly impossible, to really have a meaningful relationship with the Holy Trinity.</p>

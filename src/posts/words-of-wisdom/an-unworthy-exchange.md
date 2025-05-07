@@ -9,8 +9,6 @@ pubDate: 2023-08-11T12:00:50
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>&nbsp;<br />
 <code></p>
 <div class="video-container">
@@ -20,7 +18,7 @@ tags: ["wow"]
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
 <p>This video was of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #WOW</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/@CopticOrthodoxAnswers</p>

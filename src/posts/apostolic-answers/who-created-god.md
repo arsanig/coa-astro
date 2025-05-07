@@ -9,8 +9,6 @@ pubDate: 2017-03-07T22:04:17
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Who Created God?</strong></p>
 <p style="text-align: left;">This is a popular question that is asked often nowadays. First, one must understand that this question implies that God is under time. But is He?</p>
 <p><strong>This question is actually a fallacy; which means that it is built on the wrong assumption that God is under time and hence affected by it</strong>. This is not the God we worship. To make the concept clearer, let’s look at an example. If I create a table, am I inside the table or outside of it? Of course, I am outside of it. As the creator of the table, I have created something outside of me and inferior than me. <strong>By the same token, if God creates time (the span of time that we are in) God is above this time, not in it. When He creates time He is therefore not affected by His creation in the same way I am not affected by the table I created. God does not grow older. Hence, St Paul the Apostle says in Hebrews 13: “Jesus Christ is the same yesterday, today and forever.” Our God is unchangeable; He is the Alpha and Omega, The Everlasting, The Beginning and The End. </strong></p>

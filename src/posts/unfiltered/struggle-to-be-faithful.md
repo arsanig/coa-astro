@@ -9,8 +9,6 @@ pubDate: 2023-09-08T12:00:23
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/J9LD6SBkN1k?si=ge3VQqWexFjysY4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Kyrillos Ibrahim from St. Paul American Coptic Orthodox Church. Orange County, California. This video is of course used with his blessing.</p>

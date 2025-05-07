@@ -9,8 +9,6 @@ pubDate: 2017-10-25T00:09:05
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Is pornography harmful for you? What are the harms of pornography?- Part 2</strong></p>
 <p>Today, we continue to answer the courageous question received about the subject of pornography. We saw in the previous video called “why is pornography a sin” the theological reasons that make pornography evil and something that separates people from God.</p>
 <p><strong>In this video, we will examine if there is real harm in watching pornographic material or not.</strong></p>

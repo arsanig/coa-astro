@@ -9,8 +9,6 @@ pubDate: 2019-05-24T12:02:37
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>Bring Christ to others by simply being yourself!</p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with HG Bishop Angaelos from Diocese of London, England through the newly established Words of Wisdom branch.</p>

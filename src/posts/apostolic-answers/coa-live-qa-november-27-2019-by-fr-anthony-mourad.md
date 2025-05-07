@@ -9,7 +9,5 @@ pubDate: 2019-11-27T17:39:19
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>COA live Q&amp;A November. 27. 2019 by Fr. Anthony Mourad</p>
 <p>In the name of the Father, the Son and the Holy spirit, one God amen</p>

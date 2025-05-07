@@ -9,8 +9,6 @@ pubDate: 2020-06-03T12:00:13
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">What is our ultimate Christian objective, How to live a genuine Christian life, holy trinity, trinity, love, unity, unity in diversity, diversity, trinitarian life, </span><span data-contrast="auto">prayer, gods will, god’s </span><span data-contrast="auto">will</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-contrast="auto">Wh</span><span data-contrast="auto">at is our </span><span data-contrast="auto">ultimate </span><span data-contrast="auto">Christian objective? </span><span data-contrast="auto">Is it heaven? But what is heaven? </span><span data-contrast="auto">Is it </span><span data-contrast="auto">spending time in </span><span data-contrast="auto">prayer? Or </span><span data-contrast="auto">is </span><span data-contrast="auto">it</span><span data-contrast="auto"> </span><span data-contrast="auto">good deeds? Not really. </span><span data-contrast="auto">Our ultimate objective is </span><span data-contrast="auto">much </span><span data-contrast="auto">greater</span><span data-contrast="auto">. </span><span data-contrast="auto">Understanding </span><span data-contrast="auto">it </span><span data-contrast="auto">will </span><span data-contrast="auto">transform</span><span data-contrast="auto"> the life of any serious Christian.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

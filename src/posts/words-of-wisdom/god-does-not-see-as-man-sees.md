@@ -9,12 +9,10 @@ pubDate: 2024-01-26T12:00:32
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/UJ_AfZUUnvw" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. John Boutros from St. Moses &amp; St. Katherine, Toronto, Canada. This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers #COA #WOW</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA:<br />
 https://www.youtube.com/copticorthodo&#8230;</p>

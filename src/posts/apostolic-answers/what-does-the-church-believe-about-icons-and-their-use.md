@@ -9,8 +9,6 @@ pubDate: 2019-05-22T10:27:18
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">Let’s</span><span data-contrast="auto"> talk about icons again! Have you ever noticed the faithful walking up to icons, kissing them, lighting a candle in front of them, or even the priest censing them? Are we worshiping those man-made images? What does it all mean? </span><span data-contrast="auto">Lets</span><span data-contrast="auto"> take a </span><span data-contrast="auto">closer look as to purpose and meaning behind icons. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-contrast="auto"> </span></p>
 <p><span data-contrast="auto">In our first video we discussed how icons are not at all graven images but on the contrary, we take the use of imagery within our expressions of worship from the Lord himself who sets the standard in his design of the tabernacle. If you have not yet watched it, we urge you to watch that video as well. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

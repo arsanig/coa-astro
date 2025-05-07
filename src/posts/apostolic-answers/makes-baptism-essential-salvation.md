@@ -9,8 +9,6 @@ pubDate: 2017-06-27T23:32:52
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What makes Baptism so essential for my salvation? </strong></p>
 <p style="text-align: left;">What makes baptism so essential for my salvation? To be able to answer such questions we have to go back to the time of Adam and Eve and see what happened there.</p>
 <p>God created Adam and Eve, and there was love and communion between them and God. God told Adam, “If you eat of the tree, of Good and Evil, you will surely die.” However, in Genesis 3, the devil comes to Eve and tells her, “If you eat from it, you will not surely die.” <strong>The problem is when Adam and Eve chose to eat, they chose something outside of God, something opposite to God. That is a big problem because they chose to separate themselves from God who is the source of life. Therefore, if I choose to separate myself from the source of life, I will naturally die. It is said in Romans 6:23, “the wages of sin is death.” Why is the consequence of sin death? Because sin means separation from God. Thus, if I separate myself from the source of life, I will die.</strong> That is what happened to Adam and Eve. We in consequence have inherited that corruption in human nature from Adam and Eve. <strong>However, it was not the will of the Holy Trinity to leave it this way</strong>.</p>

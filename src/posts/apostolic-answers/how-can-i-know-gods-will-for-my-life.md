@@ -9,8 +9,6 @@ pubDate: 2019-03-27T11:07:37
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>How can I know God’s will for my life? Why is God’s will so difficult to understand? And, how do I recognize it? Am I supposed to feel something? It is true that the will of God is sometimes difficult to understand but is that because He doesn’t want to reveal it to us? He does want to reveal it! The problem is in our incorrect approach in understanding God’s will. In this video, I will explain what is it that most people do wrong and how we can redirect our approach.</p>
 <p>&nbsp;</p>
 <p>Usually, someone seeks God’s will at a specific point in time, when there is a specific decision to be made. When he or she is at a crossroad and needs an answer now, so she looks up, seeks God and is waiting for some kind of emotion or any type of sign and, more often than not, receives no answer. Of course, God doesn’t answer through some sort of emotion. This is a big mistake to fall in. But more importantly, the fact that the person did not receive an answer, does not mean that God did not answer. I will explain this later. But, for now, the problem with such an approach is that the person is seeking a decision, but nothing more. She wants to resolve a problem or take a decision and move on. But thank God she doesn’t receive an answer. This is like someone that wants to buy a car and is worried about the scratch on the door while the engine is falling apart. And she never made it a point to inspect the car! Or someone that is worried about the awkward wall colors of a home but doesn’t realize that the foundation is cracked. In that light, the fact that she did not receive an answer is a mercy from God because it is an indication of a much larger problem.</p>

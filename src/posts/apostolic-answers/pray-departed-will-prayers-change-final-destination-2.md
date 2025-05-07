@@ -9,8 +9,6 @@ pubDate: 2018-02-01T10:12:54
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why do we pray for the departed? Will our prayers change their final destination?</strong></p>
 <p>We are happy to kick-off a new means of interacting with our viewers, where you get to vote on which question you would like an answer to.   God willing, this vote will happen on a monthly basis and will take place on our Coptic Orthodox Answers Facebook page.</p>
 <p>Today, we pray, by God’s Grace, to answer the first question you chose which is: <strong>“why does the Church pray for the departed?”</strong></p>

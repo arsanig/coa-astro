@@ -9,8 +9,6 @@ pubDate: 2021-09-23T20:34:27
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved HG Bishop Gregory Auxiliary Bishop of Southern United States.</p>
 <p>&nbsp;</p>
 <p>This video is of course used with his blessing.</p>

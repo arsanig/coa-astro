@@ -9,8 +9,6 @@ pubDate: 2019-05-08T11:44:20
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">My beloved, if you have ever walked into an authentic Orthodox Church, surely you have noticed the beauty within it with all it’s domes, pillars, veils, and especially its gold-leafed iconography. For over 15 centuries now, Orthodox Icons have played a very important role in the spirituality of Orthodox Liturgical expression. Now there is </span><span data-contrast="auto">much to say about Icons, and so for now, we will only attempt to cover a brief introduction of the meaning and purpose of icons. In later videos we can speak to many other questions that surround Coptic Orthodox Iconography. To begin this short series on Icons, lets first address the skeptics: let’s ask the question “When using icons in the Church, are we worshiping graven images?” </span><span data-contrast="auto">Let’s</span><span data-contrast="auto"> dive right in to begin our investigation. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

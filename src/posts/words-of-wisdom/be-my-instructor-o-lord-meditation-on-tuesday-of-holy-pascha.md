@@ -9,8 +9,6 @@ pubDate: 2023-04-11T02:42:44
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>
 <p>&nbsp;</p>
 <div class="page" title="Page 3">
@@ -38,4 +36,3 @@ tags: ["wow"]
 </div>
 </div>
 </div>
-<p>#Copticorthodoxanswers #COA #WOW</p>

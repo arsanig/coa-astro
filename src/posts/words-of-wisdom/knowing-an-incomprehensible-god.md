@@ -9,8 +9,6 @@ pubDate: 2022-01-25T22:46:09
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>Make yourself a prayer place</p>
 <p>&nbsp;</p>
 <p>In the name of the father, the son, the holy spirit one God Amen</p>

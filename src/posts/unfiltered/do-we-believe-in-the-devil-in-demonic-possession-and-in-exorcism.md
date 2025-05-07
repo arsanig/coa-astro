@@ -9,8 +9,6 @@ pubDate: 2023-11-29T12:00:48
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/vjSG7lxdsBM?si=xfwKwfmTItYCsDnM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Isn’t believing in demonic possession and exorcism outdated? Now that we know of real mental health challenges, shouldn’t the church drop these outdated ideas of believing in the devil and demons? If you’ve ever heard these forms of arguments made, and if you’ve ever wondered what the church answers to such accusation, then this video is for you.</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God. Amen.</p>

@@ -9,8 +9,6 @@ pubDate: 2023-09-16T12:00:11
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MoesYGpgc2U?si=W7AOstTiHf-ViGMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -19,7 +17,7 @@ tags: ["whut"]
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with Fr. Paul Guirguis, from St. Mark, Washington DC, USA. through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>
-<p>#copticorthodoxanswers #COA #wow</p>
+
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/@CopticOrthodoxAnswers</p>
 <p>Catena Bible App:<br />

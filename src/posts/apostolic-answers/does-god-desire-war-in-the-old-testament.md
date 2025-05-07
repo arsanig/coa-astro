@@ -9,8 +9,6 @@ pubDate: 2019-05-15T11:30:56
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>Does God desire war in the Old Testament? It is certainly undeniable that God allows and sometimes even commands war. And I will address this God willing in the next video in this series. But for today, the question is does God want these wars? Does He delight in them? The answer to today’s question will be foundational for understanding the next video on God commanding war.</p>
 <p>&nbsp;</p>
 <p>In the midst of all the violence you and I can encounter while reading the Old Testament, we sometimes miss important biblical messages that shed light on the true character of God. My task for today is to open your eyes to them. The clearest example of God not finding pleasure in war is when King David wanted to build God a temple and his proposal was rejected by God. Later David explains to his son Solomon the reason, he says: “My son, as for me, it was in my mind to build a house to the name of the LORD my God; but the word of the LORD came to me, saying, &#8216;You have shed much blood and have made great wars; you shall not build a house for My name, because you have shed much blood on the earth in My sight.” So God refused to have a house built by the same hands that shed blood. We see here God’s opposition to violence. Then, as the story unfolds, God gave peace and prosperity to King Solomon that he may build the house of the Lord. In other words, since he didn’t shed blood, it was acceptable for God to allow Solomon to build His house. This is perhaps the most direct example but let us look at some more.</p>

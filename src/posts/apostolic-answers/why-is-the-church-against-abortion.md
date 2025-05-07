@@ -9,8 +9,6 @@ pubDate: 2017-02-05T12:58:57
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What’s wrong with Abortion?</strong></p>
 <p style="text-align: left;"><strong>The perspective and the stance of the church are neither to condemn people nor make them feel guilty for any past choices or any choices they are contemplating on making today.  This is an extremely difficult choice for many people and the church recognizes that.  The church recognizes also that in some very extreme situations these decisions are extremely hard to make.</strong></p>
 <p><strong>However, to be clear, the perspective of the church is not one to be politically correct or where we attempt to make amends for very emotional situations.  The church attempts at all times to shed light on very dark situations.</strong></p>

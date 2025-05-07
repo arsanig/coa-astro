@@ -9,8 +9,6 @@ pubDate: 2018-06-05T09:05:05
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why does God allow Pain and Suffering?</strong></p>
 <p style="text-align: center;">In the name of the Father, and the Son, and the Holy Spirit, One God, Amen.</p>
 <p>Today my beloved we discuss a question that plagues many Christians and non-Christians alike. If we truly believe in an all powerful, all knowing, and all-loving God, then Why does He allow pain and suffering? First let me begin by saying that we cannot possibly speak of pain and suffering without first discussing evil – for as most of us would agree, many types of pain and suffering are the consequences of evil. And to have a better understanding of Evil, I would invite all of you to watch Fr Gabriel Wissa’s video on “Did God create Evil” which can be found on the Coptic Orthodox Answers website and social media pages. For now, however, lets summarize a few fundamental things to set the table for our discussion.</p>

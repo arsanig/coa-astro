@@ -9,13 +9,11 @@ pubDate: 2023-11-24T12:00:05
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/G2hBxXMSBQE?si=pLhE4i0mtJYSM1PO" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
 <p>This video was of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #WOW</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/copticorthodo&#8230;</p>

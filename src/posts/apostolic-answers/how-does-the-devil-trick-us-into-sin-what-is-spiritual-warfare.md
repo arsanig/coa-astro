@@ -1,15 +1,13 @@
 ---
 wp_id: 1131
 imgId: 1082
-videoId: ""
+videoId: "ulDATE0vJlQ"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "How does the devil trick us into sin? What is spiritual warfare?"
 pubDate: 2018-05-16T01:08:55
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How does the devil trick us into sin? What is spiritual warfare?</strong></p>
 <p>Do you find that keeping up with your spiritual life is often challenging? Do you sometimes feel like giving up, but you keep on struggling? Well, this is perfectly normal and it means that you are actually on the right track. Giving up is never an option—this is precisely what the devil wants us to do. Knowing this, we therefore keep on fighting the good fight. However, why is spiritual life so hard? Because there is a spiritual war on us, and most of the time, we are not even aware of it. St. Anthony the Great says: “Have no expectations except to be fiercely tempted to your last breath.” Thankfully, there is good news: there are means that can help us stay on track. One of those means is to understand who the devil is and how to respond to his deceitful tricks. It is precisely for this purpose that we decided to initiate this mini-series, where we hope to expose his main techniques used against us. Like in sports, games or wars, a good strategy always requires an understanding of the adversary’s tactics. When using this knowledge, we can know what to expect. We can be more alert and more successful in our war against the devil.</p>

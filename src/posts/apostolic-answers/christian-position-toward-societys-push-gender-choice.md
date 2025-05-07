@@ -9,8 +9,6 @@ pubDate: 2018-02-14T15:08:53
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What should be our Christian position toward society’s push for gender choice?</strong></p>
 <p>We thank one of our viewers that asked today’s crucial question. I believe that answering this question from an Orthodox perspective is more important now than ever. <strong>The question is “What should be our Christian position toward society’s push for gender choice?”</strong></p>
 <p>Why is this question important?</p>

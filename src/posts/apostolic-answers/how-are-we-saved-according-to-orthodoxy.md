@@ -9,8 +9,6 @@ pubDate: 2021-08-11T10:22:03
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span class="TextRun SCXW148601871 BCX4" lang="EN-CA" xml:lang="EN-CA" data-contrast="auto"><span class="NormalTextRun SCXW148601871 BCX4">Have you ever heard people speak of what it takes to be saved? Have you ever wondered what is it that we are saved from as Christians and how God goes about saving us? If you have, then know that you are not alone. This is possibly one of the most important and most discussed topic</span><span class="NormalTextRun SCXW148601871 BCX4">s</span><span class="NormalTextRun SCXW148601871 BCX4"> in Christian history. </span><span class="NormalTextRun SCXW148601871 BCX4">Let’s</span><span class="NormalTextRun SCXW148601871 BCX4"> go ahead </span><span class="NormalTextRun SCXW148601871 BCX4">and</span><span class="NormalTextRun SCXW148601871 BCX4"> discuss the topic together. </span></span><span class="EOP SCXW148601871 BCX4" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

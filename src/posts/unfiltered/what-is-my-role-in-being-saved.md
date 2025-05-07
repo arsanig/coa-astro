@@ -9,8 +9,6 @@ pubDate: 2018-11-07T12:39:32
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>What is the Christian’s role in being saved and accepting salvation? This question is one that rouses many different answers from many different people. There are some that we can be saved in a moment – they can pinpoint their salvation to a historical event that took place in which they accepted the Lord Jesus Christ in their hearts. From then on, they believe that nothing they do can counteract that moment – they are forever saved from that point on… This is clearly not the Orthodox understanding of how we are saved.<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>There are others who would claim that salvation must be worked out through your actions almost as if it were transactional. That is to say that they believe they must “earn” their salvation through the accumulation of multiple good works. In this case the believer sets our to do as much good as possible and believes that faith does not have a role to play in their salvation. Again, this is simply incomplete and incorrect as per the Orthodox understanding of what our role in salvation is. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

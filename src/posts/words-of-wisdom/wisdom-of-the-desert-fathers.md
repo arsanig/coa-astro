@@ -9,10 +9,8 @@ pubDate: 2023-05-10T01:15:25
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>We are blessed to learn from our beloved Desert Fathers</p>
-<p>#Copticorthodoxanswers #COA #wow</p>
+
 <p>Words of Wisdom 2 series:</p>
 <p>• Be my instructor,&#8230;</p>
 <p>SUBSCRIBE TO COA!</p>

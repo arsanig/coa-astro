@@ -9,8 +9,6 @@ pubDate: 2023-08-18T12:00:43
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kgH71Zruj78?si=uyMxkB3EY2nAiZZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

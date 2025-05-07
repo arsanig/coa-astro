@@ -9,8 +9,6 @@ pubDate: 2017-02-14T21:23:16
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why is there violence in the Old Testament? (Violence in the OT &#8211; part 1)</strong></p>
 <p style="text-align: left;">When we look at the New Testament, we see such a loving and caring God. All we have to imagine is the cross, all His miracles, and how God cared, loved, and healed the people. We also have to look at his commandments. He says, &#8220;Be perfect, love, give, and forgive.&#8221; However, when we look at the Old Testament, we see a very different God: a violent God that seems to like wars. In the Old Testament, he said, “An eye for an eye, and a tooth for a tooth.” In other words, if someone hits us, we hit them back. Nevertheless, in the New Testament, He says to give the other cheek. Therefore, we tend to ask ourselves: is the God of the Old Testament the same as today’s?</p>
 <p>Let us look at it from the perspective of time. <strong>Time is a factor that affects everybody. Anyone under time is affected by it. We know when we were born; when we were a certain age. However, is God under time? No, He isn&#8217;t. </strong>He is above time. He created time. He is the Alpha and the Omega. He has no beginning and no end. He is timeless, unchangeable, and everlasting. <strong>This is what Saint Gregory the Theologian wrote in his liturgy: &#8220;it is fitting indeed, and right, that we praise You, serve You, worship You, and glorify You, the one, only, true God, the lover of mankind, ineffable, invisible, infinite, without beginning, everlasting, timeless, immeasurable, incomprehensible, unchangeable, Creator of all, saviour of everyone.&#8221; God is therefore the same in both testaments.</strong></p>

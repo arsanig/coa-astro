@@ -9,8 +9,6 @@ pubDate: 2017-04-25T17:33:05
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What is the Coptic Orthodox Church’s view on Sex and Sexuality?- Part 2 </strong></p>
 <p>Today we continue with our second video on the question of “<b>What is the Coptic Orthodox Church’s view on Sex and Sexuality?</b>”In our first video we began by explaining that the Orthodox Church says that there are mainly three purposes for the way that God designed human sexuality:</p>
 <p><b> 1) </b><b>For husband and wife </b><b>to express an intimate and</b><b> passionate love for one another</b></p>

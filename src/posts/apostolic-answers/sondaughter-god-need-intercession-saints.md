@@ -9,8 +9,6 @@ pubDate: 2017-07-19T11:43:46
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>If I am the son/daughter of God, why do I need the intercession of the saints?</strong></p>
 <p>&nbsp;</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

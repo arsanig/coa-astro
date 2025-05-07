@@ -9,8 +9,6 @@ pubDate: 2019-10-16T12:00:14
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>Why was Christ incarnate on earth only 2000 years ago? Humanity prior to the incarnation was in desperate need of a Savior, humans were corrupt and times were dark; so why did He not come to save humanity earlier? Why wait till then? Today, we aim to answer these questions.</p>
 <p>&nbsp;</p>

@@ -9,8 +9,6 @@ pubDate: 2017-06-14T02:15:42
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><b>Is Christ’s Resurrection a REAL fact? Part-3</b></p>
 <p> The third theory is hallucination, which means that someone thinks that they are seeing an object or a person that is, actually, not there. They are having some sort of a vision. Therefore, some people believe that the post-resurrection appearances of Christ that the disciples witnessed were not true, that they were hallucinating. However, can this theory really stand?</p>
 <p><b>First, when people hallucinate, they are in a specific state: they are highly imaginative, nervous, and tired, which was not the case for the disciples.</b> They weren’t in that state. In fact, Mary Magdalene was weeping, Peter was remorseful, Thomas was skeptic, etc. Each disciple was in a different state.</p>

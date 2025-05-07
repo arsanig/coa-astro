@@ -9,7 +9,5 @@ pubDate: 2019-07-03T11:45:43
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>We are excited to be with Fr. Daniel Habib from St. John Chrysostom, Laguna Niguel, CA through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>

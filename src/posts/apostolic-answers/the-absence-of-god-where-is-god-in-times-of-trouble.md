@@ -9,8 +9,6 @@ pubDate: 2019-07-10T11:10:20
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>&nbsp;</p>
 <p>Where is God in times of trouble? Is he absent, does he leave us and abandon us? What does it even mean to say that God is ‘absent’? If you are anything like the rest of the human race, then surely you have struggled with this question at some point in your life and are maybe dealing with it even now! For us to better understand what is happening within us when we feel this way, we must take a step back and take a closer look at some of the things that might have led us to speak in this way.</p>

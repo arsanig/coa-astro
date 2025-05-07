@@ -9,8 +9,6 @@ pubDate: 2017-05-02T17:51:53
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why does a loving God send people to hell ? </strong></p>
 <p>Many people ask: “Why does a loving God send people to hell?”</p>
 <p>To answer this question, we have to step back and answer a different question first: <strong>what is the orthodox meaning of punishment?</strong></p>

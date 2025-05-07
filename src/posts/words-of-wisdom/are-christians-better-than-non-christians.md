@@ -9,8 +9,6 @@ pubDate: 2019-08-07T12:00:37
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>Are Christians better than non-Christians?</p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with Fr. Anthony Paul from St. Paul&#8217;s brotherhood in Los Angeles, California through the newly established Words of Wisdom branch.</p>

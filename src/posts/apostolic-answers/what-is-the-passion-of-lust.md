@@ -9,8 +9,6 @@ pubDate: 2017-03-28T19:21:20
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>What are the Passions and how to fight them ? &#8211; Lust &#8211; Part 2<br />
 </strong></p>
 <p>We continue our series on the passions and today we attempt to answer the question what is lust and what is the understanding of the passion of lust within the Coptic Orthodox faith. <strong>We have to first understand the meaning of the word. Originally in Greek, &#8220;lust&#8221; translates into the word &#8220;porneia&#8221;, from which we get the word &#8220;pornography&#8221; for instance. However, the original word &#8220;porneia&#8221; did not exactly mean &#8220;lust&#8221; as it is known today, it actually meant &#8220;prostitution&#8221;. So, to clarify, when we speak of lust, we are not limited to just &#8220;prostitution&#8221;, but the fact that in the root of the word &#8220;porneia&#8221; we have this understanding of prostitution, means that prostitution covers a part of the subject of lust as a passion.<br />

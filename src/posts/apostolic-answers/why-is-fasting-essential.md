@@ -9,8 +9,6 @@ pubDate: 2017-02-14T21:46:30
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why is fasting essential?</strong></p>
 <p style="text-align: left;"><strong>In the Coptic Orthodox reality, the Church asks her believers to fast almost 2/3 of the year.  If we count the weekly fasts of Wednesday and Fridays, the days before the minor and major feasts, personal fasting where you withhold yourself from breaking your fast in the morning up to a certain point, these add up to almost 200 days of the year, maybe more.  Knowing this we need to ask why is fasting essential in our church?</strong></p>
 <p>To answer that question we need to know how is our fasting different from fasting in other religions?</p>

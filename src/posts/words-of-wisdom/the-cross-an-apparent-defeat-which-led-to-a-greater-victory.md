@@ -9,8 +9,6 @@ pubDate: 2020-04-04T14:31:15
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>&nbsp;</p>
 <p>We are excited to be with HG Bishop Angaelos from Diocese of London, London, England through the newly established Words of Wisdom branch.</p>

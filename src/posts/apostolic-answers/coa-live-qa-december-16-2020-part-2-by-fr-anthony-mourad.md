@@ -9,7 +9,5 @@ pubDate: 2020-12-17T00:33:19
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>COA live Q&amp;A December. 16. 2020 by Fr. Anthony Mourad</p>
 <p>In the name of the Father, the Son and the Holy spirit, one God amen</p>

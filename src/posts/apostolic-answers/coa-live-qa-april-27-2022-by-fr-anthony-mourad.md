@@ -9,7 +9,5 @@ pubDate: 2022-04-27T20:32:16
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son and the Holy spirit one God Amen.</p>
 <p>COA live Q&A, April. 27. 2022 by Fr. Anthony Mourad</p>

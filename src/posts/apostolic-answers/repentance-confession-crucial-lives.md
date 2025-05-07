@@ -9,8 +9,6 @@ pubDate: 2017-06-07T12:47:10
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why are Repentance and Confession so crucial in our lives? &#8211; Part 1</strong></p>
 <p><b>Today we tackle one of the mysteries of the Church that raises many questions among the faithful: We ask the Question “Why are Repentance and Confession so important within the life of the Christian Believer? </b></p>
 <p><b>Many ask: “What i’s the point of repentance? Or How does confession remove my sin? And even “Why should I confess to a priest?”</b><span style="font-weight: 400;"> All of these are sincere questions and our Orthodox Church provides some great answers for them. In order to do them justice, we will break down this theme into a three-part series: this first video will address specifically the question of “</span><b>what is repentance?</b><span style="font-weight: 400;">”, the second video will speak to the </span><b>subject of confession and its direct correlation with repentance</b><span style="font-weight: 400;">. And Finally, the third video will give us a </span><b>brief overview of why the Church insists that the</b> <b>true and proper mystery of confession requires a priest or bishop who has been granted the Priesthood of Christ</b><span style="font-weight: 400;">. Let us begin with repentance.</span></p>

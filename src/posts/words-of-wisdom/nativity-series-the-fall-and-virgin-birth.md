@@ -9,6 +9,4 @@ pubDate: 2022-12-01T21:51:39
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>Nativity Series- The Fall and Virgin Birth</p>

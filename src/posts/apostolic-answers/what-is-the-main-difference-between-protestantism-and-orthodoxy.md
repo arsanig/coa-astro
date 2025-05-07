@@ -9,8 +9,6 @@ pubDate: 2021-10-13T09:02:17
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p><span data-contrast="auto">In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">What is the main difference between Protestant and Orthodox theologies? In comparing both traditions, one can easily find numerous differences. However, these could be summed up into a handful of concepts. Today’s video focuses on potentially the most important distinction between both traditions. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

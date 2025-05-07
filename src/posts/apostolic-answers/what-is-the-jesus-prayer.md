@@ -9,8 +9,6 @@ pubDate: 2018-05-08T10:19:41
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Today my beloved we discuss a very important form of prayer that the Church handed down to us a very long time ago. Today we ask, “What is the Jesus Prayer?” Where does it come from, how ought we use it, what does it mean? Let’s take a look at it together. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>The Jesus Prayer, which is also called the Prayer of the Heart, or the Arrow Prayer is a very short, one sentence prayer, that is often prayed repetitively to help a Christian align their mind and heart towards God in prayer. The prayer itself has a short, and slightly longer version. The Short one simply is: “Lord Jesus Christ, Have mercy on me” and the slightly longer one, is “Lord Jesus Christ, Son of God, Have mercy on me a Sinner”. Both are used today by many Orthodox and non-orthodox Christians across the globe, however as Orthodox Christians we typically use the longer version in our prayers. Now before we get into why use this prayer and what it means to use these specific words, lets first take a look at it’s origins both historical and scriptural. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

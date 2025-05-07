@@ -9,8 +9,6 @@ pubDate: 2017-08-16T00:07:15
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>Why is pornography a sin? Who am I hurting?- Part 1</strong></p>
 <p><strong><u> </u></strong><strong>To answer this question we first have to understand what sexuality in Christianity is and we have to understand that sexuality has two folds</strong>.   The <strong>first one</strong> is that we will become procreators with God.   We know that God is the Creator but God gives us the faculty and the power to create with Him, to create for Him but more importantly to create in Him so we share in His work and we mirror His image; that&#8217;s procreation.</p>
 <p><strong>The second purpose is intimacy in selfless love and we find that also images God.</strong> How? God is a Holy Trinity so each person loves the other and forced himself towards the other in ways beyond our understanding, their love is unconditional beyond truly what we can grasp.   That is what selfless love is. But God is also One, He is united.   We are also asked to be the same, to be united in selfless love.</p>

@@ -9,8 +9,6 @@ pubDate: 2021-01-14T20:30:20
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>
 <p>We are excited to be with Fr. Michael Sorial from St. Anianus, Princeton, NJ through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>

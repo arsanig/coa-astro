@@ -9,8 +9,6 @@ pubDate: 2017-07-05T00:10:10
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son and the Holy Spirit, One God. Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Welcome back my beloved to the second part of our series about Repentance and Confession and why the are so crucial in the life of the Christian believer. In our previous video we took the time to understand the Orthodox understanding of Repentance and how it brings about a change of direction or orientation in the life of the believer. And now we tackle the subject of confession and will attempt to dig deeper to understand why the Lord has given to his Church this mystery as one of the means to salvation.  <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Let us first begin with the word confession – otherwise known in Greek as Homologeia. Now this word Homologeia is comprised of two words – Homo meaning the “same” and logeia meaning “word” or “account”. What this translates into is that confession is rooted in this deep understanding that we ought to have the same words, thoughts, and convictions as Christ! What he has declared we declare, what he has preached we preach. And it is this then leads us to further understand, that my confession, my declaration of the truth – that same word &#8211; can take on one of tow types of confession. A confession of faith, and a confession of sin. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

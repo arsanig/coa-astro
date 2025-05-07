@@ -1,15 +1,13 @@
 ---
 wp_id: 1583
 imgId: 1584
-videoId: ""
+videoId: "BKnEXMosp2g"
 imgSrc: /assets/thumbnails/1584.webp
 lang: en
 title: "How should a Christian approach SCIENCE?"
 pubDate: 2019-06-18T11:00:19
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>How should a Christian approach science? Is science something a Christian should be uncomfortable with? Is it a threat against his or her faith? Also, do Orthodox Christians agree with the concept of blind faith? Did the Early Church live a blind Christianity? I believe that there is room for some realignment in our Christian approach to the scientific world and hopefully I can shed some light on this topic in this video.</p>
 <p>&nbsp;</p>

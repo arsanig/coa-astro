@@ -9,8 +9,6 @@ pubDate: 2023-09-13T12:00:38
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 ><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/36P0BzICeH4?si=Dle9e_BXNDd-0ks7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

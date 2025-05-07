@@ -9,8 +9,6 @@ pubDate: 2022-11-23T12:13:07
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In some of our most difficult times, we are often tempted to think that God is not present with us. We feel like he is absent and has maybe even forsaken us. But is this true? Can we really believe what is said to us in Scripture and also believe that God has abandoned us? Stick around and lets investigate this together.</p>
 <p>&nbsp;</p>
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>

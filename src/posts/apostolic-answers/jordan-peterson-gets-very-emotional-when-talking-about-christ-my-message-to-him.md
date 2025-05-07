@@ -9,7 +9,5 @@ pubDate: 2021-03-13T23:31:57
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son and the Holy spirit, one God amen.</p>
 <p>Jordan Peterson gets very emotional when talking about Christ.</p>

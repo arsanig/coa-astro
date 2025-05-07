@@ -9,6 +9,4 @@ pubDate: 2020-02-07T12:00:34
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen We are excited to be with Fr. Abraham Wassef, from St. Mina Church, Holmdel, New Jersey through the newly established Words of Wisdom branch. This video was of course used with his blessing.</p>

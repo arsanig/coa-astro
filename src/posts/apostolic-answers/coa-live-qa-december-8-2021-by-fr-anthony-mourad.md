@@ -9,7 +9,5 @@ pubDate: 2021-12-08T18:08:01
 tags: ["q&a"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son and the Holy spirit one God Amen.</p>
 <p>COA live Q&amp;A December. 8. 2021 by Fr. Anthony Mourad</p>

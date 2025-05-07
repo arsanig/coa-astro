@@ -9,8 +9,6 @@ pubDate: 2020-01-17T12:00:33
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>The power of true fatherly love! (must listen)</p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are excited to be with Fr. Daniel Fanous.from St. Peter &amp; St. Paul, Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>

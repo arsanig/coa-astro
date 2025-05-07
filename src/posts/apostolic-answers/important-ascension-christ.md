@@ -9,8 +9,6 @@ pubDate: 2017-05-23T21:37:35
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>How important is the Ascension of Christ?</strong></p>
 <p>I want to begin by wishing all of you a blessed 50 holy days where we celebrate the Lord’s Resurrection and even now, as come closer to the end of the 50 days, we will celebrate the blessed feast of the Ascension of our Lord Jesus Christ and the days to come. Today therefore, we want to take a moment to meditate on why the Lord’s Ascension is considered such an important feast in the eyes of the Coptic Orthodox Church. For this to make any sense to us, let us take the time to step back and see the Ascension as part of God’s breath-taking and sacrificial plan for all of us.</p>
 <p>Let’s turn to the Prophet Malachi for just a moment to see what we can learn from his Prophecy in chapter 1 verses 6 to 8: “A son honors his father, and a servant his master. If then I am the Father, where is My honor? And if I am a Master, where is My reverence? Says the Lord of hosts to you priests who despise My name. Yet you say, ‘In what way have we despised Your name?’ 7 “You offer defiled food on My altar, but say, ‘in what way have we defiled You?’ By saying, ‘The table of the Lord is contemptible.’ 8 And when you offer the blind as a sacrifice, Is it not evil? And when you offer the lame and sick, Is it not evil? Offer it then to your governor! Would he be pleased with you? Would he accept you favorably?” Says the Lord of hosts.</p>

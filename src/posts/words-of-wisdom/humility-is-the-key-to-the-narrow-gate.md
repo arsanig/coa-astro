@@ -9,13 +9,11 @@ pubDate: 2023-12-08T12:00:01
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/3S9kdkaPt4w?si=6iY5YZafeWzFlh9c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
 <p>This video was of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #WOW</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/copticorthodoxanswers</p>

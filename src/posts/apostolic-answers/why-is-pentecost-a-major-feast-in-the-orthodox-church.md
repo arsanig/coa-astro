@@ -9,8 +9,6 @@ pubDate: 2019-06-12T12:00:24
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>&nbsp;</p>
 <p>Why is Pentecost a major feast celebrated in the Coptic Orthodox Church? We can maybe say that its an important historical moment in the lives of the apostles, but why celebrate it today in the liturgical life of the Church? Well, the truth is many of us may have difficulty in answering this question because we have yet to discover the significance of this extremely important moment in the life of the Church. To better understand it, let&#8217;s begin by examining a few key things.</p>

@@ -9,8 +9,6 @@ pubDate: 2021-07-02T01:22:17
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>
 <p>We are excited to be with our beloved Fr. Paul Guirguis fromSt. Mark, Washington DC, USA through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>

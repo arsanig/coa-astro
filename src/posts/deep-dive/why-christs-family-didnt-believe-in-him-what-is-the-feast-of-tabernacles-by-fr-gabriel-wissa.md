@@ -9,7 +9,5 @@ pubDate: 2020-06-04T21:38:21
 tags: ["dd"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 7:1-13)</p>
 <p>&nbsp;</p>

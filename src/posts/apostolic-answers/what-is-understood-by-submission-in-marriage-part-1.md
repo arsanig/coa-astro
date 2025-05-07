@@ -9,8 +9,6 @@ pubDate: 2017-02-14T21:58:47
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <h4 style="text-align: center;">What is understood by submission in marriage? &#8211; Part 1</h4>
 <h4 style="text-align: left;"><strong>Today we will answer the question that asks why women are called to submit to their husbands in the Orthodox ceremony of matrimony. </strong></h4>
 <p>To answer this question, we need to go all the way back to see what it is that happened within the fall of mankind that lead the Orthodox Church to make such a declaration?</p>

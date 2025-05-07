@@ -9,8 +9,6 @@ pubDate: 2018-09-29T14:11:19
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913">Why is </span></span><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913">Pride</span></span><span class="TextRun Underlined SCXW134872913" lang="EN-CA" xml:lang="EN-CA"><span class="NormalTextRun SCXW134872913"> the most dangerous of all passions?</span></span>(Passions- Part 6)</strong></p>
 <p>Pride is the mother of all passions, but why is it the most dangerous of all passions? <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Before we begin, it is important to note that the passions are the movements within us that misdirect the faculties that God has given us as gifts. <b>Rather than using these faculties</b><b>, such as </b><b>the senses, our intellect, reason, emotion, creativity, compassion</b><b>, etc., </b><b>to make our way to God and to grow in the likeness of His </b><b>S</b><b>on, the passions will disorient us and lead us further away from God.</b> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

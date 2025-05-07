@@ -9,8 +9,6 @@ pubDate: 2017-02-14T21:31:14
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong>How did monasticism come to be?</strong></p>
 <p> Why is monasticism such an essential part of the Orthodox tradition and how did it begin?</p>
 <p>To begin answering this question we need to look back at history.  <strong>In the first couple of centuries after the resurrection of our Lord Jesus Christ, the Church and those who were faithful underwent a tremendous amount of persecution.  Those who were persecuted would offer their lives to the Church literally in the form of martyrdom. </strong></p>

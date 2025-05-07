@@ -9,8 +9,6 @@ pubDate: 2017-12-13T01:40:04
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p style="text-align: center;"><strong><u>Is the feast of Nativity simply Christ’s birthday?</u></strong></p>
 <p>It’s that time of year again where many of us are filled with joy and happiness and we are mesmerized with all the lights and decorations that ornament our streets and our homes. Some of us have snow and ice, others have palm trees and sand. Regardless, we all know that<strong> Christmas </strong>is right around the corner. <strong>Now for all Christians, we celebrate the birth of our God and Savior, Jesus Christ. For others who do not share our faith, it’s a holiday none the less!</strong></p>
 <p>&nbsp;</p>

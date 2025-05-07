@@ -9,8 +9,6 @@ pubDate: 2023-09-22T12:00:03
 tags: ["whut"]
 ---
 
-<!-- page: 6 -->
-
 <p><code></p>
 <div class="video-container">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/mEL23OItbiQ?si=JhoxBZBR6OSKJjqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -19,7 +17,7 @@ tags: ["whut"]
 In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
 <p>This video was of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #WOW</p>
+
 <p>For the full Sermon :<br />
 <code></p>
 <div class="video-container">

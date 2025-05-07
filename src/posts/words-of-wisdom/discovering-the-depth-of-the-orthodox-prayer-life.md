@@ -9,8 +9,6 @@ pubDate: 2019-03-06T15:06:20
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><strong>As we walk through our earthly journey, sometimes our minds wonder:</strong></p>
 <p><strong>“Why is Orthodoxy so demanding?”</strong></p>
 <p><strong>“why do I need to endure these long prayers and even more long fasting periods?”</strong></p>

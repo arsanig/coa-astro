@@ -9,8 +9,6 @@ pubDate: 2024-02-28T12:00:36
 tags: ["dd"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/n4FkemhTXmg" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 17:14-26)</p>

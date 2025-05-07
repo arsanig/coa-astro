@@ -9,8 +9,6 @@ pubDate: 2020-06-24T16:50:37
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>It seems like every time we open the media, we see the world divided against itself. Some people stand with this idea, others stand with another. One group believes “this and that” to be true, another claims that its completely false… and in the midst of all the chaos, no one is listening to the other and no one seems to care about the others arguments. With everyone always picking a side, or asking us to have a stance, how do we as Christians assess the truths that we adopt? Let’s take a closer look at this together.</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>In Ephesians chapter 4, St Paul is encouraging the Christians of that city to no longer be like little children that are easily persuaded by everything they see and hear. He encourages them to not be swayed back and forth by people’s trickery and craftiness, and not to believe every doctrine that is preached out there. And so, he says, “But speaking the truth in love, we must grow up in every way into him who is the head, into Christ”.</p>

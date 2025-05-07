@@ -9,8 +9,6 @@ pubDate: 2018-03-07T11:08:26
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>Today my beloved we continue our series on the Trinity. We ask the question “What are the Biblical proofs for the Holy Trinity?”<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <p>For those of you who have listened to the first video, we discussed  What the <b>Doctrine</b> of the <b>Holy</b> <b>Trinity</b> is. If you have not yet done so, I would suggest you watch that video prior to this one. It will set the foundation for the discussion we will have in this video. <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

@@ -9,8 +9,6 @@ pubDate: 2020-11-26T22:16:33
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>
 <p>We are excited to be with HG Bishop Gregory, Auxiliary Bishop of the Southern United States through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>

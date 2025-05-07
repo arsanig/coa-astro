@@ -9,8 +9,6 @@ pubDate: 2017-02-22T11:14:36
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
 <h4 style="text-align: center;"> Should I use Psalms in prayer?</h4>
 <p>Prayer is a deep conversation with God, but there are many ways to converse with Him. One of these ways is to pray with psalms. The word “psalms” in Hebrew means “praises.” However, many people ask <strong>if they should be praying with psalms</strong>? That question raises another one: <strong>What did the early church do? Did she pray with psalms too? </strong>Christ has given to the early church, to the apostles, a Way of Life—the Holy Tradition. When we see what they did and how they prayed, that counts because the Church was evidently extremely strong as it is shown in the book of Acts.</p>
 <p>In chapters 3 &amp; 4 of the book of Acts, we find that beautiful story of St. Peter that healed the man that was lame at the gate of the temple. In Acts 3, he heals him and in Acts 4, the Jews are questioning St. Peter and St. John and are not happy about the miracle because it was in the name of Jesus. Therefore, after being threatened, St. Peter left with St. John to join their companions. <strong>In Acts 4:23-26, the apostles raised their voice to God in prayer and prayed a psalm.</strong> In acts 3:1, 10:9, you find the timing of these psalms. They both prayed the sixth at nine hours because <strong>in the Jewish tradition, the prayers are from the psalms because these are the works and words of the Holy Spirit through the men of God.</strong> In Ephesians 5, <strong>St. Paul says that when we sing a melody from our heart to the Lord, we should be using psalms, hymns and spiritual songs. By this, it is implied that we are filled with the Holy Spirit by praying the psalms. </strong></p>

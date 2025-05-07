@@ -9,12 +9,10 @@ pubDate: 2024-01-10T12:00:23
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/EmhJbkb0enY?si=k2CE1Wfk9TfkE6Uz" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Elijah Iskander from St Mark Church, Sydney Australia. This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers #COA #WOW</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA:<br />
 https://www.youtube.com/copticorthodo&#8230;</p>

@@ -9,8 +9,6 @@ pubDate: 2020-12-09T08:29:37
 tags: ["dd"]
 ---
 
-<!-- page: 6 -->
-
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 30:1-32)</p>
 <p>&nbsp;</p>

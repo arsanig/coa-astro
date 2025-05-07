@@ -8,5 +8,3 @@ title: "Coptic Orthodox Answers &#8211; Knowing, Living and Teaching the faith!"
 pubDate: 2017-07-12T10:06:34
 tags: ["whut"]
 ---
-
-<!-- page: 6 -->
