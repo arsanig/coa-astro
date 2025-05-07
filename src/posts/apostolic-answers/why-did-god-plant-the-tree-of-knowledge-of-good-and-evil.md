@@ -1,12 +1,12 @@
 ---
 wp_id: 1208
 imgId: 1113
-videoId: ""
+videoId: "TJGVBHjO9ZM"
 imgSrc: /assets/thumbnails/1113.webp
 lang: en
 title: "Why did God plant the Tree of Knowledge of Good and Evil?"
 pubDate: 2018-12-13T11:54:05
-tags: ["whut"]
+tags: ["aa"]
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen.</p>

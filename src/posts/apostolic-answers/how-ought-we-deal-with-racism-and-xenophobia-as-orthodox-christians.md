@@ -1,12 +1,12 @@
 ---
 wp_id: 1248
 imgId: 1250
-videoId: ""
+videoId: "dXNglMiIyms"
 imgSrc: /assets/thumbnails/1250.webp
 lang: en
 title: "How ought we deal with Racism and Xenophobia as Orthodox Christians?"
 pubDate: 2019-01-24T16:07:04
-tags: ["whut"]
+tags: ["aa"]
 ---
 
 <p>Have you ever witnessed or been subject to racism and ethnic discrimination before? How did you deal with it? Ever wonder what the right Orthodox Christian approach to it should be? Let’s take a look at this together!<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>

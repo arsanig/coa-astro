@@ -1,19 +1,14 @@
 ---
 wp_id: 4031
 imgId: 4033
-videoId: ""
+videoId: "fOat0w-yUCg"
 imgSrc: /assets/thumbnails/4033.webp
 lang: en
 title: "Is the belief in the Holy Trinity POLYTHEISM?"
 pubDate: 2023-09-06T12:00:31
-tags: ["whut"]
+tags: ["aa"]
 ---
 
-<p><code></p>
-<div class="video-container">
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fOat0w-yUCg?si=PLqmx91cIaj3hceV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<p></code></p>
 <p><span data-contrast="auto">Are Christians polytheistic? Often the Christian faith about the Holy Trinity is misunderstood as polytheism—the belief in many gods. But is that really the case? No, not really… but how can we believe in three Divine Persons and yet claim monotheism?</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
 <p><span data-contrast="auto">Christians believe in the Holy Trinity which consists of three Divine Persons who are One: The Father, the Son and the Holy Spirit. We believe this not because we somehow discovered the Trinity but because God revealed Himself to humanity in this way. These three Persons are three distinct Persons. Each One has a Mind, a Conscience, is able to take decisions and take action. For instance, the Father Himself can speak to me directly. He doesn’t need to speak through the Son for example. Since we are reconciled with the Father through the salvific work of Christ, we have access to the Father and can therefore speak to Him directly and say “Our Father who art in Heaven” which is clearly a prayer directed to the Father only. Similarly, we sometimes speak directly to the Son. I can thank Him for certain actions that are particular to Him—like the cross—for instance. The Father was not crucified for Me nor was the Holy Spirit. It would actually be blasphemous to say so. An example of a prayer directed to the Son is the Jesus prayer. Another example is the liturgy according to St. Gregory the Theologian which we pray in the Coptic Tradition. Likewise, I can pray specifically to the Holy Spirit, who is a Person—not just a mere spirit&#8211;and ask Him to convict me of sin or to comfort me in my pain. I can call Him Savior as we do in the 3</span><span data-contrast="auto">rd</span><span data-contrast="auto"> hour litanies in the Coptic prayer book of the hours. So the Persons of the Trinity are three distinct Persons as St. Severus of Antioch explains. He says this: “Therefore while the Hypostases or the Persons are recognized by their peculiar characteristics and the Father is not converted into the Son or into the Holy Spirit, nor does the Son pass into the Holy Spirit or the Father, nor yet is the Holy Spirit transformed as to become the Father or the Son, the three are one, in that they are from the same essence of the Godhead; for the Father is God, and the Son God, and the Holy Spirit God…while the Hypostases remain unconfused…” Here, St. Severus confirms the understanding that each Person of the Trinity is distinct from the Others. Each of the three Persons has His peculiar characteristics and all three of them remain unconfused from each other. Yet, the three are One. He then goes on to explain what is meant that they are One. Exactly as St. Cyril of Alexandria explained it, St. Severus says that the Three are One because they are of the same divine essence—meaning they share the same divine nature and therefore each Person shares the same divine attributes or characteristics of this nature. For instance: the Father is Almighty. Almighty is an attribute of the divine nature. The Son is also Almighty and so is the Holy Spirit. Another example: the Father is All-Knowing and so is the Son and so is the Holy Spirit. So when we say the Persons of the Trinity are One, we are claiming that the three Persons have One Divine Essence; not that they are One Person</span><span data-contrast="auto">. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

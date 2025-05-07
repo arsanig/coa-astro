@@ -1,15 +1,14 @@
 ---
 wp_id: 4211
 imgId: 4212
-videoId: ""
+videoId: "vjSG7lxdsBM"
 imgSrc: /assets/thumbnails/4212.webp
 lang: en
 title: "Do we believe in the devil, in demonic possession, and in exorcism?"
 pubDate: 2023-11-29T12:00:48
-tags: ["whut"]
+tags: ["aa"]
 ---
 
-<p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/vjSG7lxdsBM?si=xfwKwfmTItYCsDnM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Isn’t believing in demonic possession and exorcism outdated? Now that we know of real mental health challenges, shouldn’t the church drop these outdated ideas of believing in the devil and demons? If you’ve ever heard these forms of arguments made, and if you’ve ever wondered what the church answers to such accusation, then this video is for you.</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God. Amen.</p>
 <p>What does the Church believe about demonic possession and exorcisms? Are these still relevant issues that the Church has to deal with? The simple and easiest answer is – you better believe it! Demonic possession and satanic attacks are very real, and the Holy Church continues to minister to people who suffer at the hands of demons every single day.</p>
