@@ -12,4 +12,4 @@ tags: ["wow"]
 <p>Make yourself a prayer place</p>
 <p>&nbsp;</p>
 <p>In the name of the father, the son, the holy spirit one God Amen</p>
-<p>We are blessed to learn from our beloved Fr. Lazarus St. Anthony from St. Anthony&#8217;s Monastery, Egypt. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Lazarus St. Anthony from St. Anthony's Monastery, Egypt. This video is of course used with his blessing.</p>

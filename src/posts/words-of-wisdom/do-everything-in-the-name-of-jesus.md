@@ -10,5 +10,5 @@ tags: ["wow"]
 ---
 
 <p>Redirect your love to God</p>
-<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary & St. Cyril&#8217;s, Liverpool, England. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary & St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>
 <p>This video was of course used with his blessing. </p>

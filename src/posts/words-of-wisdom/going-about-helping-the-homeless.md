@@ -16,7 +16,7 @@ tags: ["wow"]
 <p></code></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Kyrillos Ibrahim from St. Paul American Coptic Orthodox Church. Orange County, California. This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers​ #COA​ #WOW​</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA:<br />
 https://www.youtube.com/copticorthodo​&#8230;</p>

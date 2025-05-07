@@ -12,7 +12,7 @@ tags: ["aa"]
 <p style="text-align: center;"><strong>What is the Coptic Orthodox Church’s view on Sex and Sexuality?- Part 2 </strong></p>
 <p>Today we continue with our second video on the question of “<b>What is the Coptic Orthodox Church’s view on Sex and Sexuality?</b>”In our first video we began by explaining that the Orthodox Church says that there are mainly three purposes for the way that God designed human sexuality:</p>
 <p><b> 1) </b><b>For husband and wife </b><b>to express an intimate and</b><b> passionate love for one another</b></p>
-<p><b> 2) to help the believer fight the passions of lust </b><b>that is ever so present in today&#8217;s world </b></p>
+<p><b> 2) to help the believer fight the passions of lust </b><b>that is ever so present in today's world </b></p>
 <p><b>3) to allow for the great blessing of life in procreation.</b></p>
 <p>In the previous video we focused on the first two of these, and today we will look at how Sex and Sexuality is created by God in order for humanity to procreate.</p>
 <p>Now before we continue, lets take a moment to remind our viewers that as Orthodox Christians, <b>our </b><b>faith tells</b><b> us very clearly that Sex and Sexuality, as intended by God, is a beautiful and wondrous thing</b>. And although the world has exploited human sexuality and  turned into something “dirty and taboo” <b>we must as Christians recognize it as a gift from God that should be treated with respect and dignity, and not simply as a selfish means to personal pleasure</b>.</p>

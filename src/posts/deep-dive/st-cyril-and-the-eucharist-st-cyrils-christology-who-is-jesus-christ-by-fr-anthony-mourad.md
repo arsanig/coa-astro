@@ -4,7 +4,7 @@ imgId: 2637
 videoId: ""
 imgSrc: /assets/thumbnails/2637.webp
 lang: en
-title: "St Cyril and the Eucharist: St Cyril&#8217;s Christology &#8211; Who is Jesus Christ? by Fr. Anthony Mourad"
+title: "St Cyril and the Eucharist: St Cyril's Christology &#8211; Who is Jesus Christ? by Fr. Anthony Mourad"
 pubDate: 2021-01-31T02:47:20
 tags: ["dd"]
 ---

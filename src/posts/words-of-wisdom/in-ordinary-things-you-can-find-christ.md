@@ -11,4 +11,4 @@ tags: ["wow"]
 
 <p>In ordinary things you can find Christ</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
-<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril&#8217;s, Liverpool, England. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>

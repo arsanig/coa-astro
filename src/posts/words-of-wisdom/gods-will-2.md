@@ -4,7 +4,7 @@ imgId: 4224
 videoId: ""
 imgSrc: /assets/thumbnails/4224.webp
 lang: en
-title: "God&#8217;s will"
+title: "God's will"
 pubDate: 2023-12-01T12:00:45
 tags: ["wow"]
 ---

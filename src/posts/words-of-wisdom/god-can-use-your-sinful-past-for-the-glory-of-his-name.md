@@ -11,9 +11,9 @@ tags: ["wow"]
 
 <p><iframe loading="lazy" title="" src="https://www.youtube.com/embed/_NIXP7mTOXs" width="609.52" height="342.85" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
-<p>We are blessed to learn from our beloved Fr. Elijah Iskander from St. Mark&#8217;s Coptic Church, Sydney, Australia.</p>
+<p>We are blessed to learn from our beloved Fr. Elijah Iskander from St. Mark's Coptic Church, Sydney, Australia.</p>
 <p>This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers​ #COA​ #WOW​</p>
+
 <p>For the full Sermon :<br />
 https://upperroommedia.subspla.sh/7h6t2vh</p>
 <p>SUBSCRIBE TO COA:<br />

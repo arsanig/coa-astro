@@ -10,5 +10,5 @@ tags: ["whut"]
 ---
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>Thanks you all our viewers since our launch date 3 years ago. We would not be able to celebrate this 10k+subscriber milestone without your constant support. We continue to count on you to share the content with anyone that may benefit. May it all be for the Glory of the Lord&#8217;s Holy name.</p>
+<p>Thanks you all our viewers since our launch date 3 years ago. We would not be able to celebrate this 10k+subscriber milestone without your constant support. We continue to count on you to share the content with anyone that may benefit. May it all be for the Glory of the Lord's Holy name.</p>
 <p>This video is dedicated to sharing some of the highlights and successes we have had along the way.</p>

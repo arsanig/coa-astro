@@ -4,7 +4,7 @@ imgId: 3642
 videoId: ""
 imgSrc: /assets/thumbnails/3642.webp
 lang: en
-title: "Don&#8217;t run away from difficult situations"
+title: "Don't run away from difficult situations"
 pubDate: 2022-10-28T09:58:40
 tags: ["wow"]
 ---

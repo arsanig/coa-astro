@@ -4,7 +4,7 @@ imgId: 3167
 videoId: ""
 imgSrc: /assets/thumbnails/3167.webp
 lang: en
-title: "Don&#8217;t lose confidence"
+title: "Don't lose confidence"
 pubDate: 2021-11-02T22:42:05
 tags: ["wow"]
 ---

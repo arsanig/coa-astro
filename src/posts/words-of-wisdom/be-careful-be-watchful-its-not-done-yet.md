@@ -4,7 +4,7 @@ imgId: 2993
 videoId: ""
 imgSrc: /assets/thumbnails/2993.webp
 lang: en
-title: "Be careful, be watchful, it&#8217;s not done yet!"
+title: "Be careful, be watchful, it's not done yet!"
 pubDate: 2021-07-30T12:00:21
 tags: ["wow"]
 ---

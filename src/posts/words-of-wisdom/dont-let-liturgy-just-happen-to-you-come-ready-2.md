@@ -4,7 +4,7 @@ imgId: 2122
 videoId: ""
 imgSrc: /assets/thumbnails/2122.webp
 lang: en
-title: "Don&#8217;t let Liturgy just happen to you, come ready!"
+title: "Don't let Liturgy just happen to you, come ready!"
 pubDate: 2020-03-13T13:39:06
 tags: ["wow"]
 ---

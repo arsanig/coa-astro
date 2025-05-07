@@ -4,7 +4,7 @@ imgId: 2739
 videoId: ""
 imgSrc: /assets/thumbnails/2739.webp
 lang: en
-title: "St Cyril and the Eucharist: Humanity&#8217;s State of Corruption. by Fr. Anthony Mourad"
+title: "St Cyril and the Eucharist: Humanity's State of Corruption. by Fr. Anthony Mourad"
 pubDate: 2021-03-16T21:37:37
 tags: ["dd"]
 ---

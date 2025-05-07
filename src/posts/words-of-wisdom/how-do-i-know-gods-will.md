@@ -4,7 +4,7 @@ imgId: 3912
 videoId: ""
 imgSrc: /assets/thumbnails/3912.webp
 lang: en
-title: "How do I know God&#8217;s will"
+title: "How do I know God's will"
 pubDate: 2023-05-17T02:51:30
 tags: ["wow"]
 ---

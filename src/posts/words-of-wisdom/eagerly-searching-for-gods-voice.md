@@ -4,7 +4,7 @@ imgId: 3563
 videoId: ""
 imgSrc: /assets/thumbnails/3563.webp
 lang: en
-title: "Eagerly searching for God&#8217;s voice"
+title: "Eagerly searching for God's voice"
 pubDate: 2022-09-01T23:18:00
 tags: ["wow"]
 ---

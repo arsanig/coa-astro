@@ -11,7 +11,7 @@ tags: ["wow"]
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/41ZZhqXkhD8?si=0QSpPUiE-qlQJ3GS" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
-<p>We are blessed to learn from our beloved Fr. Anthony Paul from St. Paul&#8217;s brotherhood, Los Angeles, California. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Anthony Paul from St. Paul's brotherhood, Los Angeles, California. This video is of course used with his blessing.</p>
 
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA:<br />

@@ -4,7 +4,7 @@ imgId: 2953
 videoId: ""
 imgSrc: /assets/thumbnails/2953.webp
 lang: en
-title: "Do you know the way that you&#8217;ve chosen to walk?"
+title: "Do you know the way that you've chosen to walk?"
 pubDate: 2021-07-02T01:22:17
 tags: ["wow"]
 ---

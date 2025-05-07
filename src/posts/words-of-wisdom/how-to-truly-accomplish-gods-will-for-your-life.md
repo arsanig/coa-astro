@@ -4,7 +4,7 @@ imgId: 1851
 videoId: ""
 imgSrc: /assets/thumbnails/1851.webp
 lang: en
-title: "How to TRULY accomplish Gods&#8217; will for your life?"
+title: "How to TRULY accomplish Gods' will for your life?"
 pubDate: 2019-11-22T13:43:25
 tags: ["wow"]
 ---

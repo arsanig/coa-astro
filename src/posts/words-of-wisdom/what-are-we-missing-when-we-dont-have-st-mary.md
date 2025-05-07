@@ -4,7 +4,7 @@ imgId: 2518
 videoId: ""
 imgSrc: /assets/thumbnails/2518.webp
 lang: en
-title: "What are we missing when we don&#8217;t have St. Mary?"
+title: "What are we missing when we don't have St. Mary?"
 pubDate: 2020-12-03T23:12:49
 tags: ["wow"]
 ---

@@ -10,6 +10,6 @@ tags: ["wow"]
 ---
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>
-<p>We are excited to be with Fr. Lazarus St. Anthony, from St. Anthony&#8217;s Monastery, Egypt through the newly established Words of Wisdom branch.</p>
+<p>We are excited to be with Fr. Lazarus St. Anthony, from St. Anthony's Monastery, Egypt through the newly established Words of Wisdom branch.</p>
 <p>This video was of course used with his blessing.</p>
 <p>&nbsp;</p>

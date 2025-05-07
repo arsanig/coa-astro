@@ -4,7 +4,7 @@ imgId: 1997
 videoId: ""
 imgSrc: /assets/thumbnails/1997.webp
 lang: en
-title: "Don&#8217;t be shy to confess to a priest!"
+title: "Don't be shy to confess to a priest!"
 pubDate: 2020-02-07T12:00:34
 tags: ["wow"]
 ---
