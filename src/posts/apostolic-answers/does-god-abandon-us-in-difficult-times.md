@@ -1,7 +1,7 @@
 ---
 wp_id: 3675
 imgId: 3676
-videoId: ""
+videoId: "yC3NjlVyUXc"
 imgSrc: /assets/thumbnails/3676.webp
 lang: en
 title: "Does God abandon us in difficult times?"

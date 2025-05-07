@@ -1,7 +1,7 @@
 ---
 wp_id: 3462
 imgId: 3463
-videoId: ""
+videoId: "hamGyawoTWw"
 imgSrc: /assets/thumbnails/3463.webp
 lang: en
 title: "Have we become ashamed of Christ? by Fr. Gabriel Wissa"

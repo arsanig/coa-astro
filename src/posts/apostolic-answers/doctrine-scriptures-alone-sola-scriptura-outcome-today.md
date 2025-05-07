@@ -1,7 +1,7 @@
 ---
 wp_id: 1017
 imgId: 554
-videoId: ""
+videoId: "4z95mUdimmo"
 imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "What is the doctrine of scriptures alone (sola scriptura)? What is its outcome today?"

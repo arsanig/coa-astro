@@ -1,10 +1,10 @@
 ---
 wp_id: 829
 imgId: 683
-videoId: ""
+videoId: "zoz170ynjsQ"
 imgSrc: /assets/thumbnails/683.webp
 lang: en
-title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality ?"
+title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?"
 pubDate: 2017-04-05T01:02:14
 tags: ["aa"]
 ---

@@ -1,7 +1,7 @@
 ---
 wp_id: 1003
 imgId: 399
-videoId: ""
+videoId: "g_e66QhQydw"
 imgSrc: /assets/thumbnails/399.webp
 lang: en
 title: "Why is fornication or adultery is considered a sin in Christianity?"

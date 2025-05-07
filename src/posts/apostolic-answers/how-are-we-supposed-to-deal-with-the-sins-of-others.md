@@ -1,7 +1,7 @@
 ---
 wp_id: 1738
 imgId: 1
-videoId: ""
+videoId: "vxKCOrm9f_E"
 imgSrc: /assets/thumbnails/1.webp
 lang: en
 title: "How are we supposed to deal with the sins of others?"
