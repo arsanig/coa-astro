@@ -1,14 +1,13 @@
 ---
 wp_id: 832
 imgId: 447
+videoId: "0AEZMwTyQPs"
 imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "How Can I Practically Benefit From The Cross?"
 pubDate: 2017-04-11T20:25:15
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How Can I Practically Benefit From The Cross?</strong></p>
 <p>The week is a very special week where we commemorate and relive every passion of our Lord Jesus Christ. <strong>Then we come to the day of Good Friday where we commemorate the pinnacle of the passion, which is the cross of our Lord.</strong> We want to take something spiritual out of this pinnacle, but what can we take from the cross and apply personally into our lives? <strong>We first have to understand that at the time of Adam and Eve, these two were created under God’s authority. However, when they sinned, this authority was transferred to the devil. Therefore, since then, there has been corruption, death, etc. Nonetheless, God did not want to leave it this way, so the Holy Trinity decided that the Son would come down on earth, would be incarnate, crucified, and resurrected. </strong></p>

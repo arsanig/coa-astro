@@ -9,12 +9,10 @@ pubDate: 2023-12-29T12:00:27
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/35FGe1i2Dfg?si=_iaYX_IRY_gsSG4p" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>We are blessed to learn from our beloved HG Bishop Angaelos from Diocese of London, London, England. This video is of course used with his blessing.</p>
-<p>#Copticorthodoxanswers #COA #wow</p>
+
 <p>Words of Wisdom 2 series:<br />
 <iframe loading="lazy" title="Be my instructor, O Lord Meditation on Tuesday of Holy Pascha." width="900" height="506" src="https://www.youtube.com/embed/YrcJkpmGbec?list=PLA20bNyz8F1DWwPAaKKwnEtNmB4URhPL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p>For the full Sermon :</p>

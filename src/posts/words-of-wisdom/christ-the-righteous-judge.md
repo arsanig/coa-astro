@@ -1,14 +1,13 @@
 ---
 wp_id: 3976
 imgId: 3977
+videoId: ""
 imgSrc: /assets/thumbnails/3977.webp
 lang: en
 title: "Christ, the righteous Judge"
 pubDate: 2023-06-23T12:00:00
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p><code></p>
 <div class="video-container">
@@ -17,7 +16,7 @@ tags: ["wow"]
 <p></code><br />
 In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Peter Saad from St. Peter &amp; St. Paul, Montreal, Canada. This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers #COA #WOW</p>
+
 <p>SUBSCRIBE TO COA:<br />
 https://www.youtube.com/@CopticOrthodoxAnswers</p>
 <p>Catena Bible App:<br />

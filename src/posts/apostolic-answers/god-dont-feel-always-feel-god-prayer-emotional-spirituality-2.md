@@ -1,14 +1,13 @@
 ---
 wp_id: 1031
 imgId: 447
+videoId: "MtnFd5SoZuM"
 imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "God, where are you? I don’t feel you! Should I always feel God in prayer? What is emotional spirituality?"
 pubDate: 2018-01-16T23:16:21
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>God, where are you? I don’t feel you! Should I always feel God in prayer? What is emotional spirituality?</strong></p>
 <p>Many of us have been led into despair in our spiritual lives, thinking that God is not present, or doesn’t listen to us. We often ask, “God where are you? Why aren’t you listening to me?” This stems from the fact that frequently we don’t emotionally feel God in prayer. Some feel like God has rejected them. But are we supposed to emotionally feel God in prayer? And when we feel Him, what is that feeling like? Is it an emotional feeling? <span data-ccp-props="{&quot;335559731&quot;:720}"> </span></p>

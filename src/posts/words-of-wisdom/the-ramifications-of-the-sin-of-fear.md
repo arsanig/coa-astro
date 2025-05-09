@@ -1,14 +1,13 @@
 ---
 wp_id: 3971
 imgId: 3972
+videoId: ""
 imgSrc: /assets/thumbnails/3972.webp
 lang: en
 title: "The ramifications of the sin of fear"
 pubDate: 2023-06-21T12:00:49
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p><code></p>
 <div class="video-container">
@@ -17,7 +16,7 @@ tags: ["wow"]
 <p></code></p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Kyrillos Mourad from St. Mary, Montreal, Canada . This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers​ #COA​ #WOW​</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA!<br />
 https://www.youtube.com/@CopticOrthodoxAnswers</p>

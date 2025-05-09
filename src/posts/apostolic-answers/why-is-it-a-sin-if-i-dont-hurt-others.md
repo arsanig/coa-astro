@@ -1,14 +1,13 @@
 ---
 wp_id: 3691
 imgId: 3692
+videoId: "CeT0uNF8LB0"
 imgSrc: /assets/thumbnails/3692.webp
 lang: en
 title: "WHY is it a SIN if I don’t HURT OTHERS?"
 pubDate: 2022-11-29T12:32:26
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p><span data-contrast="auto">We often ask why is such an action a sin? Specially if I am not hurting anyone. Why is masturbation a sin? Why is fornication a sin if I have the other person’s consent? What if I judge someone but he doesn’t know about it? Or talking behind his back? Why are those sins? The underlying assumption of this line of thought is that Christianity is a set of rules designed not to hurt others. It is merely a religious set of morality like any other but since I am a Christian this one is ‘truer’ than others. Of course as Christians we never want to hurt others, that’s a given. However, this is not the essence of Christianity. Christianity is so much more. The short answer to why these actions are considered sin is because you are, not only hurting yourself, but destroying yourself. And destroying God’s image in the process. God is the Creator and the only true Source of Life. He created the universe and everything in it—including us humans. The only way to have life is in Him. When one disconnects from this Source of Life, the inescapable ramification is death—physical death, moral death and more importantly spiritual death. We cannot have life apart from God. God’s commandments are not given to us as a means of judgment, although we will be judged. They are designed to keep us united to Him that we may have life. God is the Truth so lying is a sin. Lying is something outside of God and therefore it leads to death as it disconnects me from Him. Judging is a sin as it is lack of love. And God is the Source of love. Judging also stems from pride, while God is the Source of humility. Sin is something in opposition to God. Therefore, sin kills and corrupts me. In that light, God’s commandments are not chosen haphazardly, but are directly related to WHO HE IS. These laws are based on God’s ontological characteristics. And they are put into place to keep me in Him so that He may give me Life. The one and only Source of Life simply wants to share with me His Life. And I can’t have it in any other way.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

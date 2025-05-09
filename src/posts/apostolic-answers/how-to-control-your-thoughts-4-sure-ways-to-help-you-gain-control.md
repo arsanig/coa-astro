@@ -1,14 +1,13 @@
 ---
 wp_id: 1347
 imgId: 1348
+videoId: "hbBQSxhSaug"
 imgSrc: /assets/thumbnails/1348.webp
 lang: en
 title: "How to control your thoughts? 4 sure ways to help you gain control."
 pubDate: 2019-02-20T12:00:39
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>Controlling our thoughts and feelings can often be challenging and sometimes very frustrating but when we gain authority over our mind, our lives flourish. We develop a winning attitude and we can successfully overcome adversity. Gaining control over our mind keeps us from falling into sin and strengthens us against negative thoughts that ruin our day. In this video, we will share with you four efficient ways, if mastered, can surely help you gain control over your mind and feelings.</p>
 <p>&nbsp;</p>

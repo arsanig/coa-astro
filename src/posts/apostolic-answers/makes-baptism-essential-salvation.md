@@ -1,14 +1,13 @@
 ---
 wp_id: 920
 imgId: 554
+videoId: "bqLNVVKceow"
 imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "What makes Baptism so essential for my salvation?"
 pubDate: 2017-06-27T23:32:52
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What makes Baptism so essential for my salvation? </strong></p>
 <p style="text-align: left;">What makes baptism so essential for my salvation? To be able to answer such questions we have to go back to the time of Adam and Eve and see what happened there.</p>

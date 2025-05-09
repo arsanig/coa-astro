@@ -1,14 +1,13 @@
 ---
 wp_id: 896
 imgId: 401
+videoId: "BEOE-yn9c7o"
 imgSrc: /assets/thumbnails/401.webp
 lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-2"
 pubDate: 2017-05-31T09:11:11
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Is Christ’s Resurrection a REAL fact? Part-2</strong></p>
 <p>This is the second part of the series on the evidence of the resurrection, we saw last time how Thomas Arnold and Sir Lionel Luckhoo were two among many who really researched for years the evidence of the resurrection. They said that without doubt Christ is risen from the dead. This is based on the fact that many scholars have looked at the bible and saw that historically it is very valid. So, people started to come up with these different theories, four in total, where they try to conceal the truth of the resurrection. We will see two theories on this video and two others in the next.</p>

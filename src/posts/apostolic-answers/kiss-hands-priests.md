@@ -1,14 +1,13 @@
 ---
 wp_id: 913
 imgId: 401
+videoId: "J5qlcYK-3gE"
 imgSrc: /assets/thumbnails/401.webp
 lang: en
 title: "Why do we kiss the hands of the priests?"
 pubDate: 2017-06-21T01:00:15
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><b>Why do we kiss the hands of the priest?</b></p>
 <p> Most people answer and say because the priest touches the body and blood of Christ, therefore let’s take a part of that blessing. However, if I think about it more logically <b>your own lips have touched the body and blood of Christ</b>. So, why those blessed lips take the blessing of the priest’s hands? To be able to truly understand, the answer to that question I must ask myself a different question. <b>What is the priesthood? Who is the priest?</b> Most people will answer and say the priest is a representative of Christ on earth or the priest is a symbol of Christ. However, both are incorrect. <b>So, what is the</b><b> priesthood?</b></p>

@@ -1,14 +1,13 @@
 ---
 wp_id: 2121
 imgId: 2122
+videoId: ""
 imgSrc: /assets/thumbnails/2122.webp
 lang: en
-title: "Don&#8217;t let Liturgy just happen to you, come ready!"
+title: "Don't let Liturgy just happen to you, come ready!"
 pubDate: 2020-03-13T13:39:06
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>&nbsp;</p>

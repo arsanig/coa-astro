@@ -1,14 +1,13 @@
 ---
 wp_id: 881
 imgId: 683
+videoId: "vob1Ik9_Wc4"
 imgSrc: /assets/thumbnails/683.webp
 lang: en
 title: "What is the passion of Gluttony?(Passions- Part 3)"
 pubDate: 2017-05-10T00:45:09
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the passion of Gluttony?(Passions- Part 3)</strong></p>
 <p><strong>Gluttony</strong>: another passion that pleases the body. Before we start explaining it, we should understand what gluttony is and why it is a passion. <b>Gluttony is understood as the greed that surrounds eating and drinking or the self-indulgence of the mouth and the belly. It is therefore when a person reaches a point when the excess of eating and drinking becomes a norm (and not out of the need to satisfy hunger, quench thirst, rather because the person became a slave to his/her appetite). It is importan</b><b>t to note that food and drink</b><b> are not bad in themselves. On the contrary, they are gifts from God.</b> However, as the common saying goes, <b>“we eat to live, and not live to eat.”</b> Thus, gluttony isn’t considered a passion because food, in and of itself, might be understood as impure, or that a certain nourishment might involve a particular sin. Not at all. <b>For everything created by God is good</b>, and nothing is to be rejected if it is received with thanksgiving.</p>

@@ -1,16 +1,15 @@
 ---
 wp_id: 762
 imgId: 684
+videoId: "TTS9REPmHb4"
 imgSrc: /assets/thumbnails/684.webp
 lang: en
-title: "Who are the heroes of Orthodoxy? &#8211; St. Athanasius of Alexandria"
+title: "Who are the heroes of Orthodoxy? - St. Athanasius of Alexandria"
 pubDate: 2017-03-01T11:51:55
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
-<h4 style="text-align: center;"> <strong>Who are the heroes of Orthodoxy? &#8211; St. Athanasius of Alexandria</strong></h4>
+<h4 style="text-align: center;"> <strong>Who are the heroes of Orthodoxy? - St. Athanasius of Alexandria</strong></h4>
 <p><strong>When we start speaking about heroes we can easily begin talking about the patristic fathers. They are the ones who stood firmly in their Orthodox faith and tradition and defended them till their last breath. </strong><strong>In this series we will begin speaking about one hero who is recognized as a true defender of orthodoxy; St Athanasius the Apostolic.</strong></p>
 <p><strong style="line-height: 1.5;">St Athanasius of Alexandria was born in the late 3<sup>rd</sup> century (the year 298 AD). In the synaxarium of the saints of the Coptic Church we see how he quickly catches the attention of Bishop Alexander of Alexandria (the Patriarch at that time). Bishop Alexander notices that there is something special about St Athanasius. He notices</strong><strong style="line-height: 1.5;"> how he knows the rites, rituals and prayers of the Coptic Church. St Athanasius was taken on as a disciple by Bishop Alexander and he was taught by some of the greatest theologians</strong><strong style="line-height: 1.5;">. </strong><strong style="line-height: 1.5;"> St Athanasius was not only receiving</strong> <strong style="line-height: 1.5;">a solid</strong><strong style="line-height: 1.5;"> academic </strong><strong style="line-height: 1.5;">formation under Bishop Alexander, but he was also a disciple of one of the greatest of ascetics like St Anthony.</strong></p>
 <p>&nbsp;</p>

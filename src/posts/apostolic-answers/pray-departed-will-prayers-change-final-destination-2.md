@@ -1,14 +1,13 @@
 ---
 wp_id: 1081
 imgId: 1082
+videoId: "yt5GYzm9tQQ"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "Why do we pray for the departed? Will our prayers change their final destination?"
 pubDate: 2018-02-01T10:12:54
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why do we pray for the departed? Will our prayers change their final destination?</strong></p>
 <p>We are happy to kick-off a new means of interacting with our viewers, where you get to vote on which question you would like an answer to.   God willing, this vote will happen on a monthly basis and will take place on our Coptic Orthodox Answers Facebook page.</p>

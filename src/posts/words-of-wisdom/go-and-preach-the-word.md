@@ -1,14 +1,13 @@
 ---
 wp_id: 1636
 imgId: 1637
+videoId: ""
 imgSrc: /assets/thumbnails/1637.webp
 lang: en
 title: "Go and preach the word!"
 pubDate: 2019-07-17T11:30:18
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>&nbsp;</p>

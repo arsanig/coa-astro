@@ -1,14 +1,13 @@
 ---
 wp_id: 1792
 imgId: 1793
+videoId: ""
 imgSrc: /assets/thumbnails/1793.webp
 lang: en
 title: "What really happened during the cleansing of the temple? Was Christ angry? by Fr. Gabriel Wissa"
 pubDate: 2019-10-28T12:00:04
 tags: ["dd"]
 ---
-
-<!-- page: 6 -->
 
 <section class="wpb-content-wrapper"><p>[vc_row][vc_column][vc_video link=&#8221;https://youtu.be/IBpsqg7EGSs?si=wDDo-pWt7smqKVeO&#8221; align=&#8221;center&#8221; css=&#8221;.vc_custom_1699136292096{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}&#8221;][vc_column_text]What really happened during the cleansing of the temple? Was Christ angry?</p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>

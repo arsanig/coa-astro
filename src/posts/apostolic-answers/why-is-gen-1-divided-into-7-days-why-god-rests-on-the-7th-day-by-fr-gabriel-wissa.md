@@ -1,14 +1,13 @@
 ---
 wp_id: 2062
 imgId: 2063
+videoId: "1Lh_1krMQhA"
 imgSrc: /assets/thumbnails/2063.webp
 lang: en
 title: "Why is Gen. 1 divided into 7 days? Why God rests on the 7th day? by Fr. Gabriel Wissa"
 pubDate: 2020-03-05T10:00:51
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>
 <p><span data-contrast="none">In our last video</span><span data-contrast="none">, we discussed the real </span><span data-contrast="none">meaning </span><span data-contrast="none">of </span><span data-contrast="none">Genesis </span><span data-contrast="none">1, </span><span data-contrast="none">and </span><span data-contrast="none">we saw how the text </span><span data-contrast="none">is part of an introduction that leads to Abraham</span><span data-contrast="none">, </span><span data-contrast="none">the father of the Jews.</span><span data-contrast="none"> And</span><span data-contrast="none"> that</span><span data-contrast="none"> the main purpose of the text </span><span data-contrast="none">was </span><span data-contrast="none">to discuss the </span><span data-contrast="none">creation of the world but with the purpose </span><span data-contrast="none">of </span><span data-contrast="none"> demythologiz</span><span data-contrast="none">ing</span><span data-contrast="none">, or dethron</span><span data-contrast="none">ing</span><span data-contrast="none">, the </span><span data-contrast="none">fake pagan gods of the time. </span><span data-contrast="none">In that video, </span><span data-contrast="none">which you can find the link to in the description below, </span><span data-contrast="none">we covered the</span><span data-contrast="none"> </span><span data-contrast="none">meaning of the</span><span data-contrast="none"> first five days of Genesis 1</span><span data-contrast="none">. </span><span data-contrast="none">In this video</span><span data-contrast="none">, we will discuss the last 2 days </span><span data-contrast="none">of this first chapter as well as </span><span data-contrast="none">briefly look into the </span><span data-contrast="none">creation’s </span><span data-contrast="none">seven-day structure. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>

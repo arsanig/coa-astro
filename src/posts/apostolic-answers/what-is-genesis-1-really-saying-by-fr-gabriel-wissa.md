@@ -1,14 +1,13 @@
 ---
 wp_id: 2035
 imgId: 2036
+videoId: "bIu0ZxQj2RY"
 imgSrc: /assets/thumbnails/2036.webp
 lang: en
 title: "What is Genesis 1 REALLY saying?  by Fr. Gabriel Wissa"
 pubDate: 2020-02-26T12:00:30
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>Since the Enlightenment period, and its associated scientific discoveries, way too many people have spent countless hours comparing the Bible with contemporary science, or today’s science. Many books have been written on this subject—some aim at reconciling between Scripture and science; while others, attempt to refute either side. Today, many Christians still repeatedly pin the two against each other in their search for truths regarding vital issues like the Big Bang, evolution theories, etc. And, of course, Genesis 1 is at the heart of this battle. But, is this the correct approach to Genesis 1? In this video, we will discuss how to accurately read Genesis 1 as well as the meaning of each of the first 5 days. In the next video on the subject, we will discuss the structure of the chapter—why are there seven days—and dive into the details of days six and seven</p>

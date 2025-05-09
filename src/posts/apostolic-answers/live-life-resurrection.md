@@ -1,14 +1,13 @@
 ---
 wp_id: 846
 imgId: 447
+videoId: "qDyzmbcfzIM"
 imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "How do I live a life of resurrection?"
 pubDate: 2017-04-18T23:21:26
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How do I live a life of resurrection?</strong></p>
 <p>We wish you a blessed feast of the holy resurrection. This feast is very important to us and has given us the true meaning of real life.</p>

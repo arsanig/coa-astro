@@ -1,15 +1,13 @@
 ---
 wp_id: 3549
 imgId: 3550
-videoId: ""
+videoId: "b68mr77ZWVU"
 imgSrc: /assets/thumbnails/3550.webp
 lang: en
 title: "Are there really dark and demonic forces around us?"
 pubDate: 2022-08-31T11:39:15
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>As Christians we believe that God is real. We also believe that there are dark and demonic forces that oppose God. But some people live their life as if Satan did not exist and that no forces of darkness surround us. Do they? Should we be concerned? What should be our response? Let’s take a deeper look into this often-ignored topic.</p>
 <p>&nbsp;</p>
@@ -19,23 +17,23 @@ tags: ["aa"]
 <p>&nbsp;</p>
 <p>In his very well-known novel, the Screwtape letters, C.S. Lewis makes a statement about the demon’s desire to remain unknown and disguised from the world. He explains that their policy is to remain hidden. The main character, the demon called Screwtape then says</p>
 <p>&nbsp;</p>
-<p>“<strong><em>I have great hopes we shall learn in due time how to emotionalize and mythologies their science to such an extent that what is, in effect, belief in us […] will creep in while the human mind remains closed to belief in [God].” (Screwtape Letters – chapter 8) </em></strong></p>
+<p>“<strong><em>I have great hopes we shall learn in due time how to emotionalize and mythologies their science to such an extent that what is, in effect, belief in us […] will creep in while the human mind remains closed to belief in [God].” (Screwtape Letters - chapter 8) </em></strong></p>
 <p><strong><em> </em></strong></p>
 <p>I believe that time has come. We now live in secular and materialistic society that rejects the need for God, and yet it embraces the demonic while never acknowledging the existence of the spiritual realities. Let’s examine just a few of ways by which these demonic spiritual forces surround us.</p>
 <p>&nbsp;</p>
-<p>The devil has always connivingly implanted himself among people while doing one of two things: 1 – Making them believe that he was never there and that his existence is impossible and even foolish to consider. 2 – Diminishing the impact or seriousness of dabbling with the dark and demonic forces by acting as if they were harmless or as if they were purely for entertainment purposes.</p>
+<p>The devil has always connivingly implanted himself among people while doing one of two things: 1 - Making them believe that he was never there and that his existence is impossible and even foolish to consider. 2 - Diminishing the impact or seriousness of dabbling with the dark and demonic forces by acting as if they were harmless or as if they were purely for entertainment purposes.</p>
 <p>&nbsp;</p>
 <p>Take for instance how today, someone can walk into a bookstore and for under 15$ purchase a book on witchcraft, charms, and spells. And thanks to Hollywood that glamourizes and renders such things as fantasy, many think this is a childish and innocent hobby. And yet, human history and specifically the experience of the church teaches us that such things open up a door within the soul that then gives a foothold for the devil to begin doing his demonic work.</p>
 <p>&nbsp;</p>
 <p>Another example is how the devil has managed to introduce the dark spiritual realities in the form of toys and playful objects. Any child above the age of 8 can now be gifted a Ouija board sold in every big box toy store in north America. This same object was originally designed to call on the dead as a means of speaking to spirits. Now some will argue that this is all fake and simply for entertainment. Meanwhile the Church recognizes it as truly dangerous means by which a person is interacting with the occult. Another example of this is tarot cards, tea leaf readings, and other forms of divination and fortune telling seances. So many people claim that this is innocent and meaningless, and yet as Christians we know the power that the evil one can have over all those who allow for such things to enter their lives.</p>
 <p>&nbsp;</p>
-<p>In Deutronomy chapter 18, the Lord is speaking to his people that are now surrounded by those who call on spirits, practice sorcery and divination, and the Lord tells his people do not do as they do – for all these things are an abomination.</p>
+<p>In Deutronomy chapter 18, the Lord is speaking to his people that are now surrounded by those who call on spirits, practice sorcery and divination, and the Lord tells his people do not do as they do - for all these things are an abomination.</p>
 <p>&nbsp;</p>
 <p><strong><em>“10 No one shall be found among you who makes a son or daughter pass through fire, or who practices divination, or is a soothsayer, or an augur, or a sorcerer, 11 or one who casts spells, or who consults ghosts or spirits, or who seeks oracles from the dead. 12 For whoever does these things is abhorrent to the Lord; it is because of such abhorrent practices that the Lord your God is driving them out before you. 13 You must remain completely loyal to the Lord your God. 14 Although these nations that you are about to dispossess do give heed to soothsayers and diviners, as for you, the Lord your God does not permit you to do so.” (Deuteronomy 18: 10-14) </em></strong></p>
 <p>&nbsp;</p>
-<p>In those days it was common for people to cast spells, call on spirits, and attempt to tell the future. They practiced such rituals by lighting candles, burning themselves, cutting themselves, offering sacrifices and even drinking blood. They did not shy away from saying that all this was done through the dark forces, and so the Lord tells his people that they must at all costs stay away from such things as they are an abomination to him. And yet today, these practices remain, people still very much do them, but they blatantly deny the existence of evil spirits – hoping that all are deceived that no one recognizes the dangers.</p>
+<p>In those days it was common for people to cast spells, call on spirits, and attempt to tell the future. They practiced such rituals by lighting candles, burning themselves, cutting themselves, offering sacrifices and even drinking blood. They did not shy away from saying that all this was done through the dark forces, and so the Lord tells his people that they must at all costs stay away from such things as they are an abomination to him. And yet today, these practices remain, people still very much do them, but they blatantly deny the existence of evil spirits - hoping that all are deceived that no one recognizes the dangers.</p>
 <p>&nbsp;</p>
-<p>Do not be fooled my beloved into thinking that making offerings, the use of blood, or outright worship are all things of the past – not at all! They things continue to surround us even now in every place of the world. And now more and more, the desensitized world we live in is not even seeing the dangers of the things that are being done publicly.</p>
+<p>Do not be fooled my beloved into thinking that making offerings, the use of blood, or outright worship are all things of the past - not at all! They things continue to surround us even now in every place of the world. And now more and more, the desensitized world we live in is not even seeing the dangers of the things that are being done publicly.</p>
 <p>&nbsp;</p>
 <p>In 2021 we have seen a rapper team up with a New York based company to launch a shoe that is dedicated to Satan, that has exactly 666 pairs made containing real human blood within them. These shoes were sold in record time and are considered a rare collectible. This same musician is seen in a music video falling from paradise, going to hell, pleasing Satan himself only then to steal the devil’s crown. Again, more and more attempts of desensitizing an entire generation to thinking this is just artistic expression, when in reality, we are offering our time, our energy, our money and now even our artistic expressions to the demonic.</p>
 <p>&nbsp;</p>

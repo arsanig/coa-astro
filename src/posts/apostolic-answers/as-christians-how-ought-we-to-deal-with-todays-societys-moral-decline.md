@@ -1,15 +1,13 @@
 ---
 wp_id: 1104
 imgId: 1082
-videoId: ""
+videoId: "ZyVFEE_BOnQ"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "As Christians, how ought we to deal with today’s society’s moral decline?"
 pubDate: 2018-03-14T11:19:02
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>As Christians, how ought we to deal with today’s society’s moral decline?</strong></p>
 <p>What is morality? What makes an action “moral”? Who defines right from wrong? What should be our Christian stance on abortion, euthanasia and similarly debated social topics?</p>

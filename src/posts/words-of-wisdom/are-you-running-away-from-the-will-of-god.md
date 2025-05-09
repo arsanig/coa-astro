@@ -1,14 +1,13 @@
 ---
 wp_id: 2809
 imgId: 2811
+videoId: ""
 imgSrc: /assets/thumbnails/2811.webp
 lang: en
 title: "Are you running away from the will of God?"
 pubDate: 2021-04-13T03:01:09
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>
 <p>We are excited to be with our beloved Fr. Paul Guirguis, from St. Mark, Washington DC, USA through the newly established Words of Wisdom branch.</p>

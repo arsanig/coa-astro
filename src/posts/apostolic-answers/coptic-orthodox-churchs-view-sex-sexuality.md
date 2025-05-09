@@ -1,14 +1,13 @@
 ---
 wp_id: 829
 imgId: 683
+videoId: "zoz170ynjsQ"
 imgSrc: /assets/thumbnails/683.webp
 lang: en
-title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality ?"
+title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?"
 pubDate: 2017-04-05T01:02:14
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the Coptic Orthodox Church’s view on Sex and Sexuality?</strong></p>
 <p>This is a loaded question and many people will shy away from it due to the sensitivity surrounding the subject.  <strong>Sex has, unfortunately, become something that is extremely misunderstood and poorly portrayed in mainstream media.</strong>  Because of this the average Christian would rather treat the subject as an elephant in the room and act that it isn’t there.  Sex and sexuality however is a topic that needs to be addressed.</p>

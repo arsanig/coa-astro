@@ -1,14 +1,13 @@
 ---
 wp_id: 3875
 imgId: 3876
+videoId: ""
 imgSrc: /assets/thumbnails/3876.webp
 lang: en
 title: "Give me new life, O Lord: Meditations on the feast of the Glorious Resurrection"
 pubDate: 2023-04-15T19:19:43
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>Tonight, we celebrate the feast of all feasts. We have come to the conclusion of Pascha to witness the risen Lord. My beloved, there is a reason the Church considers this to be the greatest of all feasts. While the sign of Christianity is the cross, the joy of christianity is the Resurrection. The hope of our faith is in the Resurrection. My beloved, tonight we will greet one another with the words, “Christ is Risen,” and reply saying, “Truly, He is Risen.” This is a testimony of our faith. A Christian is one who believes His Incarnate God conquered death.</p>
 <p>While we have heard of holy men from the past raising others from the dead, we have never seen anyone who has the power within Him to conquer death, to defeat this beast that has been tormenting humanity for so long. My beloved, today the Church is going to pray for the first time and then repeat for the next fifty days the anthem of our Orthodoxy, “Christ is risen from the</p>

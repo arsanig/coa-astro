@@ -1,16 +1,15 @@
 ---
 wp_id: 675
 imgId: 687
+videoId: "8LgBzU4qq7Q"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
-title: "What is understood by submission in marriage? &#8211; Part 2"
+title: "What is understood by submission in marriage? - Part 2"
 pubDate: 2017-02-14T21:53:28
 tags: ["aa"]
 ---
 
-<!-- page: 6 -->
-
-<p style="text-align: center;"><strong>What is understood by submission in marriage? &#8211; Part 2</strong></p>
+<p style="text-align: center;"><strong>What is understood by submission in marriage? - Part 2</strong></p>
 <p style="text-align: left;">In the previous video we have discussed what submission means by looking at what happened in the fall of humanity.  We looked at the impact sin had as it entered our daily life and how it changed the relationship between Adam and Eve, turning it upside down.</p>
 <p>Our focus now is to try to understand what submission means in today’s ceremony of matrimony.</p>
 <p><strong>In St Paul’s Epistle to the Ephesians chapter 5 verse 21 (the exact same reading in the ceremony of matrimony in the Orthodox Church) St Paul says: “Submitting to one another in the fear of God.”  </strong></p>

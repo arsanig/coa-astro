@@ -1,14 +1,13 @@
 ---
 wp_id: 981
 imgId: 447
+videoId: "kQG8u-CBgxs"
 imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "Does the Bible state everything that is related to Christian Life? Does it include everything I need to  know as a Christian?"
 pubDate: 2017-09-27T12:21:52
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Does the Bible state everything that is related to Christian Life? Does it include everything I need to  know as a Christian?</strong></p>
 <p>Does the Bible include every single detail of how a Christian ought to live his life? Sometimes, we meet some people who will say something like this: “if God wanted me to do this or that, He would have written it for me in the Bible.” However, is this an acceptable assumption? In the Orthodox Church, we believe that the Bible is the word of God, and we believe in reading and studying it, so we may live a proper Christian life. This belief is reflected in our liturgy, where prior to the reading of the Gospel, as we all stand up, the priest holds the book of the Gospel in his right hand and avoids holding the Gospel under his eyes, which symbolizes that he analyzes the Gospel (because it is under his eyes). Nevertheless, he puts it above his head and says, “Blessed is He who comes in the name of the Lord God of hosts.” The priest holds it on top of his head to declare that the Bible is the one that searches him, the one that leads him to repentance. This is a crucial detail because the Bible is truly the word of God given for our edification. Does this mean that all the details are written in the Bible and that I do not need the Tradition of the Church? No, it doesn’t.</p>

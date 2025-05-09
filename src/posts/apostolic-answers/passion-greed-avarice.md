@@ -1,14 +1,13 @@
 ---
 wp_id: 962
 imgId: 687
+videoId: "IfFbLaj1suc"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is the passion of Greed & Avarice?(Passions- Part 4)"
 pubDate: 2017-08-23T14:11:20
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the passion of Greed &amp; Avarice?(Passions- Part 4)</strong></p>
 <p style="text-align: left;">We continue our investigation on the passions that we fight daily, which prevent us from achieving our potential in Christ. In this fourth part of the series, we will answer this question: what is the passion of greed or avarice? Firstly, for those of our viewers who have not yet watched the very first video of this series that explains what the passions are, we encourage you to do so in order to have a better understanding of how the Christian ought to define the passions. In the meantime, let us simply summarize the first part by reminding ourselves that <strong>virtues are established when we use our God-given faculties and gifts to discover and turn towards Him. Passions, on the other hand, are what disorient us away from God. Rather than taking what He has given us to turn to Him, we utilize those things to turn towards created and temporal things.</strong> That being said, let us see what the textbook definition of greed and avarice would be. <strong>According to the common day dictionary, greed is an “intense and selfish desire for something, especially wealth, power, or food.” Avarice is often understood as an extreme form of this very same greed.</strong> Is that however how our faith and the early Church would define it? Is there anything more to it that would help us understand why it is seen as a passion? Let’s explore all those questions.</p>

@@ -1,14 +1,13 @@
 ---
 wp_id: 909
 imgId: 401
+videoId: "uN0CvDmMi2M"
 imgSrc: /assets/thumbnails/401.webp
 lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-3"
 pubDate: 2017-06-14T02:15:42
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><b>Is Christ’s Resurrection a REAL fact? Part-3</b></p>
 <p> The third theory is hallucination, which means that someone thinks that they are seeing an object or a person that is, actually, not there. They are having some sort of a vision. Therefore, some people believe that the post-resurrection appearances of Christ that the disciples witnessed were not true, that they were hallucinating. However, can this theory really stand?</p>

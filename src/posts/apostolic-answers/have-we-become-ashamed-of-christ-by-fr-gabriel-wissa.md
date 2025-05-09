@@ -1,14 +1,13 @@
 ---
 wp_id: 3462
 imgId: 3463
+videoId: "hamGyawoTWw"
 imgSrc: /assets/thumbnails/3463.webp
 lang: en
 title: "Have we become ashamed of Christ? by Fr. Gabriel Wissa"
 pubDate: 2022-06-01T10:30:13
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, One God, Amen. </p>
 <p>I have recently seen a growing trend in Christian youth today who tend to shy away from proclaiming their faith in Christ. From proclaiming what they truly believe in, specially when it comes to certain political and emotionally charged topics that society has currently normalized—like abortion or how to lovingly and properly deal with LGBTQ cases and so on. Often we hide behind the idea that everyone is free to choose and; therefore, why should I intervene? It is true that everyone is free to choose; however, the reality is that we have the crucial responsibility to express the truth of Christ in the midst of this darkness. We have been given the mandate to enlighten the world, not because we are more intelligent but because Christ is the True Light. He was incarnate and taught us how to live and gave us the real meaning of life. And He put us in this world as little christs if you will. The real reason we often choose not to speak is simply lack of courage. We could try to sugar coat it as much as we want with the idea of personal freedom of the other but deep down inside we know that it is our lack of unity with God or a lack of knowledge that we choose not to acquire or a lack of courage that keep us from sharing the light. And all three fall short of Christ. All three reasons do miss the mark. So the question begs itself: have we become ashamed of Christ? Has the wave of evil become so high that we are buckling under the pressure and therefore keep silent? Others may use the excuse that we do not want to cause trouble and that’s why we avoid confrontations. Well, I agree that every conversation should be dealt with wisely and that some should be avoided altogether. However, others ought to be tackled full throttle. There are so many verses and concepts that I could refer to, whether biblically or theologically, to address this point but I believe the better example of how we ought to tackle this matter is shown in the story of the man born blind.   </p>

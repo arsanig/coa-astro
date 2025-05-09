@@ -1,14 +1,13 @@
 ---
 wp_id: 3869
 imgId: 3870
+videoId: ""
 imgSrc: /assets/thumbnails/3870.webp
 lang: en
 title: "Come be my King and Reign in me: Meditations on Friday of Holy Pascha"
 pubDate: 2023-04-14T00:18:40
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>My beloved, we have finally arrived to the day of Great Friday, this holy and most precious of days where we truly see love manifested before us. We see love manifest before us because of the scenes that are depicted and the things that unfold in today’s events. My beloved, I want to bring to your attention three very specific icons that the Orthodox Church uses. The first one is the icon of ‘The Bridegroom.’ It’s the one where the Man of Sorrows, our Savior Jesus Christ, has the crown of thorns on His head. They have mockingly placed on Him a scarlet robe and He is holding a reed in His hand. The soldiers bow before Him and they mock Him and treat Him as if He were some sort of fake King. They have a good laugh at His expense. The Church calls this icon ‘The Bridegroom.’ The Bridegroom is the One who has a mangled body that is just whipped and beaten, spat upon, mocked and He is dressed in a fake robe. A crown of thorns is placed on His head, drops of blood flow down on His face and He is holding a reed as if it were a scepter. My beloved, this is precisely what He wore on the day when He married His bride, the Church, where He proposed to you and to me. This is what He wore on this great day where He fulfilled all that He wanted to fulfill for the sake of His beloved, His bride.</p>
 <p>&nbsp;</p>

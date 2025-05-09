@@ -1,14 +1,13 @@
 ---
 wp_id: 4011
 imgId: 4012
+videoId: ""
 imgSrc: /assets/thumbnails/4012.webp
 lang: en
 title: "We are living epistles"
 pubDate: 2023-08-18T12:00:43
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p><code></p>
 <div class="video-container">
@@ -18,7 +17,7 @@ tags: ["wow"]
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ.</p>
 <p>This video is of course used with his blessing.</p>
-<p>#CopticOrthodoxAnswers​ #COA​ #WOW​</p>
+
 <p>For the full Sermon :</p>
 <p>SUBSCRIBE TO COA:<br />
 https://www.youtube.com/@CopticOrthodoxAnswers</p>

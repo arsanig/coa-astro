@@ -1,14 +1,13 @@
 ---
 wp_id: 2588
 imgId: 2590
+videoId: ""
 imgSrc: /assets/thumbnails/2590.webp
 lang: en
 title: "The Great Love of Our Father!"
 pubDate: 2021-01-14T20:30:20
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen.</p>
 <p>We are excited to be with Fr. Michael Sorial from St. Anianus, Princeton, NJ through the newly established Words of Wisdom branch.</p>

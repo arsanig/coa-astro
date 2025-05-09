@@ -1,14 +1,13 @@
 ---
 wp_id: 669
 imgId: 683
+videoId: "5EThvmKSGc4"
 imgSrc: /assets/thumbnails/683.webp
 lang: en
 title: "How did monasticism come to be?"
 pubDate: 2017-02-14T21:31:14
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>How did monasticism come to be?</strong></p>
 <p> Why is monasticism such an essential part of the Orthodox tradition and how did it begin?</p>

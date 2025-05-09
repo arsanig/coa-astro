@@ -1,14 +1,13 @@
 ---
 wp_id: 1012
 imgId: 554
+videoId: "xow9tcKZzFE"
 imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "Is hell a real fire? Does God want to chastise us for eternity?"
 pubDate: 2017-11-22T10:37:23
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong><u>Is Hell a Real Fire?</u></strong></p>
 <p>Is hell a real fire? Could it be? If it were, why would God create this fire? Does He want to chastise us forever? Many Christians and non-Christians alike have serious difficulties in approaching a God that would let people burn for eternity. In fact, this misrepresentation of God’s wrath or His cruel punishment has led many not only to NOT believe in the Christian God, but also to unjustly hate Him.</p>
@@ -26,5 +25,5 @@ tags: ["aa"]
 <p><em>“But the sons of the kingdom (referring to the Jews) will be cast out into outer darkness. There will be weeping and gnashing of teeth.”</em></p>
 <p><strong>Christ, here, refers to the eternal condemnation as “darkness”, not as fire which produces light. Also, He refers to the “gnashing of teeth.” Real fire would cause someone to scream, not to gnash his teeth. It is likely then, that these verses should not be understood literarily. So when the Bible talks about a lake of fire, it is talking about spiritual fire. </strong></p>
 <p>Thus, what is this spiritual fire? Let us turn to St. Anthony and see how he describes God and His relationship to humanity:</p>
-<p><em>“He [God] is good, and He only bestows blessings and never does harm, remaining always the same. We men, on the other hand, if we remain good through resembling God, are united to Him, but if we become evil through not resembling God, we are separated from Him. By living in holiness we cleave to God; but by becoming wicked we make Him our enemy. It is not that He grows angry with us in an arbitrary way, but it is our own sins that prevent God from shining within us and expose us to demons who torture us. And if through prayer and acts of compassion we gain release from our sins, this does not mean that we have won God over and made him to change, but that through our actions and our turning to the Divinity, we have cured our wickedness and so once more have enjoyment of God&#8217;s goodness. Thus to say that God turns away from the wicked is like saying that the sun hides itself from the blind.” </em></p>
+<p><em>“He [God] is good, and He only bestows blessings and never does harm, remaining always the same. We men, on the other hand, if we remain good through resembling God, are united to Him, but if we become evil through not resembling God, we are separated from Him. By living in holiness we cleave to God; but by becoming wicked we make Him our enemy. It is not that He grows angry with us in an arbitrary way, but it is our own sins that prevent God from shining within us and expose us to demons who torture us. And if through prayer and acts of compassion we gain release from our sins, this does not mean that we have won God over and made him to change, but that through our actions and our turning to the Divinity, we have cured our wickedness and so once more have enjoyment of God's goodness. Thus to say that God turns away from the wicked is like saying that the sun hides itself from the blind.” </em></p>
 <p>St. Anthony is essentially saying that God’s arms are always open to everyone. However, <strong>each human being decides, through his faith and deeds, whether they want to be in communion with God. The spiritual fire is this lack of communion with God. Remember, God is the source of Life, Love, Peace, Joy, you name it… He is the source of all good things. And this communion starts here on earth and continues in the afterlife. That is why it is said that we can live heaven on earth. Truly, all of us can start living heaven on earth as the Kingdom of God is within us and we do feel this communion with God and the fruit of His Spirit. However, the opposite is also true. Some can live hell on earth, through their lack of communion with God. Typically, those people express often hatred, which is the lack of love—the lack of God, or express anger, which is the lack of peace, etc. </strong>There is already an absence of communion with God in their earthly lives. This is not how humans are meant to live. Humans are created to enjoy God’s presence for eternity. Let us start therefore enjoying the kingdom within us, here on earth, that we may find the fullness of our joy in heaven.</p>

@@ -1,14 +1,13 @@
 ---
 wp_id: 2130
 imgId: 2132
+videoId: ""
 imgSrc: /assets/thumbnails/2132.webp
 lang: en
 title: "Salvation is not simply a one time act!"
 pubDate: 2020-05-19T14:21:44
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
 <p>&nbsp;</p>

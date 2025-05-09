@@ -1,14 +1,13 @@
 ---
 wp_id: 1473
 imgId: 1475
+videoId: ""
 imgSrc: /assets/thumbnails/1475.webp
 lang: en
 title: "Are you putting God in a box?"
 pubDate: 2019-05-01T12:32:30
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>Are you putting God in a box?</p>
 <p>in the name of the father, the son, the holy spirit one God Amen</p>

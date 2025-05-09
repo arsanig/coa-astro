@@ -1,14 +1,13 @@
 ---
 wp_id: 1181
 imgId: 1182
+videoId: "yiDRtPCHz34"
 imgSrc: /assets/thumbnails/1182.webp
 lang: en
 title: "Why does God care about sin? What is sin that God would give it that much attention?"
 pubDate: 2018-11-28T12:43:31
-tags: ["whut"]
+tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>Why does God care about sin? What is sin in the first place that God would give it that much attention? Some sins are obviously hurtful to others and it therefore makes sense that God, the Lover of mankind, would care about them. But others don’t seem to hurt anyone and some might even seem pleasurable. What is the problem with those? Also, why did God put those specific commandments in place? What criteria did God use to select the commandments? For example, why is adultery, fornication or masturbation a sin? Why is judging a sin even if the person is actually guilty of the offense? We can shed light on all those questions when we properly define what sin is. The word sin in Greek is ‘Hamartia,’ which as we know means ‘missing the mark.’ But what does that mean? Which mark are we missing? The word ‘hamartia’ can be divided into two parts: ‘Ha’ and ‘Martia.’ ‘Martia’ comes from the word ‘matyria’ which means ‘to witness.’ So as a Christian I am supposed to witness for my God through my faithful good deeds. And these good deeds are possible since we are created in God’s image. In other words, since I am created in God’s image, I can witness to Him through my deeds. The ‘Ha’ in ‘hamartia’, however, is a negation of the ‘martia.’ So ‘hamartia’ is a negation of my witness to God. Meaning, it is falling short of being in God’s image. It is to miss the mark, to err, to be imperfect. St. Athanasius says: “There he who had been ‘in the image and likeness’ was changed into something imperfect…” So, we are meant to encounter God, glorify God, witness to God through His Image within us. But sin keeps us from witnessing. So God’s commandments are not chosen haphazardly. They are chosen that we may be granted life through them because sin makes me unlike God and therefore outside of God who is the Source of Life. Sin, in a sense, is spiritual poison. Judging is failure to love. I fail to be like God who is Love. I therefore miss the mark. Adultery, fornication and masturbation are also outside of God. We have already explained why these sins are outside of God in a couple of videos to which you can find the links in the description below.<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

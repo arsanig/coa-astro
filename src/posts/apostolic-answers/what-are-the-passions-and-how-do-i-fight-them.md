@@ -1,14 +1,13 @@
 ---
 wp_id: 796
 imgId: 687
+videoId: "TRNMVeOOPwc"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What are the passions and how do I fight them?"
 pubDate: 2017-03-15T11:04:33
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <h3 style="text-align: center;"><strong>What are the Passions and How to Fight Them?</strong></h3>
 <p>In order to understand what the passions are and how the Church defines them, let us see how Saint Basil the Great explains them. He starts first by defining what is a <strong>virtue, which is when we take the faculties and gifts that God created inside us when He created us in His image and use those same faculties and gifts to be able to turn towards God and to turn into His likeness. Contrary to this is what the passions are: we take those same faculties and gifts and turn toward something that is temporal, that is created, instead of using them towards the Creator.</strong> Thus, our passions and pleasures, grow and develop inside us.</p>

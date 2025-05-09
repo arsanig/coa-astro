@@ -1,14 +1,13 @@
 ---
 wp_id: 1139
 imgId: 1082
+videoId: "lX2HjW2DMHk"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "What is the Necessary Step Toward a Genuine Life With God?"
 pubDate: 2018-06-11T22:07:00
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>What is the necessary step toward a genuine life with God?</strong></p>
 <p>Many of us go to church, pray and read our Bibles and theoretically do everything we were taught as necessary, yet, we still feel something is missing. We feel that our spiritual life is not genuine. We hear from others there is more to it than this, but we can’t put our hands on it. That issue has to do with the difference between a lukewarm prayer and a heartfelt one, the difference between being truly on fire for God versus going in and out of a prayer meeting without benefit.</p>

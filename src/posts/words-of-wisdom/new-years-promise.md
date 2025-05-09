@@ -1,19 +1,18 @@
 ---
 wp_id: 4296
 imgId: 4297
+videoId: ""
 imgSrc: /assets/thumbnails/4297.webp
 lang: en
-title: "New Year&#8217;s Promise"
+title: "New Year's Promise"
 pubDate: 2023-12-27T10:55:24
 tags: ["wow"]
 ---
 
-<!-- page: 6 -->
-
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/cJLgKg0pMyY?si=lPAkIa4u3zpUOKmv" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>Let&#8217;s discuss the New Year&#8217;s Promise with Fr. Anthony Mourad</p>
-<p>#copticorthodoxanswers #COA #wow</p>
+<p>Let's discuss the New Year's Promise with Fr. Anthony Mourad</p>
+
 <p>SUBSCRIBE TO COA!<br />
 www.youtube.com/copticorthodo​oxanswers</p>
 <p>Catena Bible App:<br />

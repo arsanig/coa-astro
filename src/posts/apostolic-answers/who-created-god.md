@@ -1,14 +1,13 @@
 ---
 wp_id: 781
 imgId: 364
+videoId: "w_O8Npf8_gA"
 imgSrc: /assets/thumbnails/364.webp
 lang: en
 title: "Who Created God?"
 pubDate: 2017-03-07T22:04:17
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Who Created God?</strong></p>
 <p style="text-align: left;">This is a popular question that is asked often nowadays. First, one must understand that this question implies that God is under time. But is He?</p>

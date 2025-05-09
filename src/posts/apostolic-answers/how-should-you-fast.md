@@ -1,14 +1,13 @@
 ---
 wp_id: 1451
 imgId: 1452
+videoId: "O0rt1HOq15k"
 imgSrc: /assets/thumbnails/1452.webp
 lang: en
 title: "How should you fast?"
 pubDate: 2019-04-10T11:30:46
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>One of the most common misconceptions these days is that fasting should be done in the spirit only. Meaning, there’s no need to fast in the body. For some, this is a logical idea… after all, Christians ought to be spiritual people so we should fast in the spirit. But is that how we should fast? Then again, the opposite extreme is also practiced by many Christians, where the fast is purely a bodily exercise. Although it is often done unintentionally, it is something that needs to be addressed. In this video, I would like tackle both of these common misconceptions and to explain what an Orthodox fast consists of.</p>
 <p>&nbsp;</p>

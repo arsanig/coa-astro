@@ -1,14 +1,13 @@
 ---
 wp_id: 3863
 imgId: 3864
+videoId: ""
 imgSrc: /assets/thumbnails/3864.webp
 lang: en
 title: "&#8220;I desire to be one with You: Meditations on Thursday of Holy Pascha&#8221;"
 pubDate: 2023-04-13T03:27:57
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, the Son, the Holy Spirit one God, Amen.</p>
 <div class="page" title="Page 3">
@@ -45,4 +44,3 @@ tags: ["wow"]
 </div>
 </div>
 </div>
-<p>#Copticorthodoxanswers #COA #WOW</p>

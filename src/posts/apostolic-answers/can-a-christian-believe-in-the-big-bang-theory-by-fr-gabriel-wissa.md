@@ -1,14 +1,13 @@
 ---
 wp_id: 1909
 imgId: 1915
+videoId: "iUimryj3nSE"
 imgSrc: /assets/thumbnails/1915.webp
 lang: en
 title: "Can a Christian believe in the Big Bang theory? by Fr. Gabriel Wissa"
 pubDate: 2019-09-25T18:17:05
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>Can a Christian believe in the Big Bang theory? Does the Big Bang contradict Scripture? And if the Big Bang is true, what implications does such a theory have on Christianity? Let us explore together this vital subject.</p>

@@ -1,14 +1,13 @@
 ---
 wp_id: 1125
 imgId: 1082
+videoId: "IHAblgZy_EI"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "Why is St. Mary such an important figure in Christianity?"
 pubDate: 2018-05-01T01:21:51
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Why is St. Mary such an important figure in Christianity?</strong></p>
 <p>There’s a true need to answer the following question: why is Saint Mary an important figure in Christianity? Unfortunately, many non-Orthodox Christians misunderstand the Church’s dedication to Saint Mary and more often than not, this misunderstanding is extended to the choir of the saints as a whole. Some think that Orthodox Christians worship St. Mary and the saints as if they are some sort of deity, but this is in no way our belief, or intention. Orthodox Christians only worship the One Trinitarian God and no other! However, the Orthodox Church does hold St. Mary in great esteem. And the reason for that is because God Himself holds her in high esteem in comparison to the remainder of humanity. Although God’s love is equal to all, God’s relationship with humanity still varies from one person to another. This is due to the human component of this relationship. In other words, how much I love God in return to His love for me dictates the strength of our relationship. We have already explained the subject of intercession and the video can be found on our YouTube channel under the name As God’s child, why do I need the intercession of the saints?</p>

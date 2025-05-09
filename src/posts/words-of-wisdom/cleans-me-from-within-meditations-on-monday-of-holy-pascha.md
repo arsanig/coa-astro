@@ -1,14 +1,13 @@
 ---
 wp_id: 3845
 imgId: 3846
+videoId: ""
 imgSrc: /assets/thumbnails/3846.webp
 lang: en
 title: "Cleans me from within Meditations on Monday of Holy Pascha"
 pubDate: 2023-04-10T00:08:29
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p><strong>Events of Monday</strong></p>
 <p>The Church places two significant events before us today whose meaning we should be accustomed to understanding. The first event takes place after the Lord has entered Jerusalem, after His triumphant entry into the great city. As He is walking in, He encounters a fig tree, and Scripture says that the Lord approached the fig tree because he wanted to eat its fruit. Let’s understand that this is given to us as an example. Let’s understand that this was done for us and had nothing to do with the irrational entity which was the tree itself. The Lord approaches it because it was filled with leaves. From far, it looked perfectly healthy; it was filled with beautiful leaves, and appeared very plump and ripe. He approached it thinking that surely this tree that looked so beautiful had fruit to offer. But when He approached, He realized that there was no fruit within it. God forbid that we say that the Lord did not know that it did not have any fruit, that He foolishly approached it thinking it did, considering it was out of season. But He does this so that we can learn from this example. He does this so that the disciples can notice and see why He curses the tree. He curses the tree so that we can take a message of benefit if we too are properly arrayed with all those things that make us look healthy, but on the inside we produce no fruit. Of what benefit is it if I am a person who wears my cross proudly, or who has a cross that is hung in his vehicle, or who has icons hung in his house? What benefit is it to me to even come and sit in the pews of the church if, on the inside, the fruit of the Holy Spirit and the virtues that the Lord wants me to demonstrate are not growing within me?</p>
@@ -37,4 +36,3 @@ tags: ["wow"]
 <p>Facebook | <span class="yt-core-attributed-string--link-inherit-color"><a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbl9ranF5WHdsakpaVzBXS1YyMkZ5eFZ2eEpvQXxBQ3Jtc0tuU2pDaHpFY3NMUk56bXNENVhVZVlDa1V2bU5seG80M1BzbnctMms4bWFZWHc3MjlGWTlCOWhuVnJCM1E4dEZ3ekNEWkVWSHIzVXJYWk85YTVzN3VtWGpxcXJPZzBSY0ttc2xOWV9JT1dOVUFaSlM1Zw&amp;q=https%3A%2F%2Fwww.facebook.com%2FCopticAnswers%2F%E2%80%8B&amp;v=GtUY90SVer0" target="_blank" rel="nofollow noopener">https://www.facebook.com/CopticAnswers/​</a></span></p>
 <p>Instagram | <span class="yt-core-attributed-string--link-inherit-color"><a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbk1meGtzUDZzS3lmcVlXbU1OMnVsV0lrMGJGUXxBQ3Jtc0tuaVVESVNYM2VEM09kcmNzWXRRSGVjdmpDZmtvQUdrLWYxY1B6TzlRQVNId0NKaTVCNzl2Y09tc0xKTkV0NGJPUkRWNFdHd09Ob2xscDRNMGZJMlhsWHNXNGMyUFF0aU5SaVVYQVlNc2FsR3NVSGNEVQ&amp;q=https%3A%2F%2Fwww.instagram.com%2FCopticAnswers%2F&amp;v=GtUY90SVer0" target="_blank" rel="nofollow noopener">https://www.instagram.com/CopticAnswers/</a></span></p>
 <p>&nbsp;</p>
-<p>#Copticorthodoxanswers #COA #WOW</p>

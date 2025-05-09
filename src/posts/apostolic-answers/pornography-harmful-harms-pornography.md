@@ -1,14 +1,13 @@
 ---
 wp_id: 991
 imgId: 554
+videoId: "EDpulPI1gH8"
 imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "Is pornography harmful for you? What are the harms of pornography?- Part 2"
 pubDate: 2017-10-25T00:09:05
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p style="text-align: center;"><strong>Is pornography harmful for you? What are the harms of pornography?- Part 2</strong></p>
 <p>Today, we continue to answer the courageous question received about the subject of pornography. We saw in the previous video called “why is pornography a sin” the theological reasons that make pornography evil and something that separates people from God.</p>
@@ -18,7 +17,7 @@ tags: ["aa"]
 <p><strong>Like drugs, when there is a rise in pornography viewing, the brain increases the production of dopamine which causes excitement and the person is overexcited, during this time.</strong> <strong>As this behavior progresses and becomes an addiction, the brain realizes that it needs to produce an excessive amount of dopamine, because of all the watching, and the brain starts it to react to this extra demand by slowing things down and reserving the dopamine for when the person is watching porn. </strong></p>
 <p>What does this entail? <strong>Since this dopamine is reserved for the time that the person watches porn, the “normal” (meaning life without porn) becomes quite tedious.</strong> In other words, the addict doesn’t find happiness in his or her normal life anymore; because there is no dopamine production. Anything other than porn becomes uninteresting. <strong>This leads the addict to the need to go back to the sin to regulate his emotional life because pornography has become his “new normal.”</strong></p>
 <p>Let’s see what an article in the Guardian newspaper says:</p>
-<p><strong>“The Cambridge University neuropsychiatrist Dr Valerie Voon has recently shown that men who describe themselves as addicted to porn (and who lost relationships because of it) develop changes in the same brain area – the reward center – that changes in drug addicts.”   She is discussing here the effects of the change of dopamine production on the brain and comparing it to drug addiction as the brain damage is very similar in both cases. </strong></p>
+<p><strong>“The Cambridge University neuropsychiatrist Dr Valerie Voon has recently shown that men who describe themselves as addicted to porn (and who lost relationships because of it) develop changes in the same brain area - the reward center - that changes in drug addicts.”   She is discussing here the effects of the change of dopamine production on the brain and comparing it to drug addiction as the brain damage is very similar in both cases. </strong></p>
 <p>Another research says: <strong>“perceived addiction to Internet pornography predicted psychological distress above and beyond pornography use itself and other relevant variables.”</strong> These two studies and many others converge to the same conclusion; that pornography is indeed harmful.</p>
 <p><strong>The problem is that this psychological distress caused in the addict leads to other life detrimental effects.</strong>  <strong>Since life has become dull, the addict seeks their dose of dopamine so they are lead to isolate themselves from the world (to be able to watch)</strong>. <strong>Or in other cases, to lead a double-life: part of their life is normal as they interact with people, and the other part is a secret life at night-time or when no one is watching. </strong>This is, of course, not how God intended us to live as He created us as relational beings that are meant to live a purposeful life.</p>
 <p><strong>In extreme cases, this addiction leads to depression. </strong>This is very understandable since the addict loses his sense of pleasure-reward in achieving the “normal” day-to-day task.</p>

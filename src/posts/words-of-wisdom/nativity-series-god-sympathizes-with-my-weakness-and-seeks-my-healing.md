@@ -1,14 +1,13 @@
 ---
 wp_id: 3713
 imgId: 3714
+videoId: ""
 imgSrc: /assets/thumbnails/3714.webp
 lang: en
-title: "Nativity Series &#8211; God Sympathizes with my weakness and seeks my healing"
+title: "Nativity Series - God Sympathizes with my weakness and seeks my healing"
 pubDate: 2022-12-16T01:01:00
 tags: ["wow"]
 ---
-
-<!-- page: 6 -->
 
 <p>God Sympathizes with my weakness and seeks my healing.</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>

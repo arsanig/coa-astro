@@ -1,14 +1,13 @@
 ---
 wp_id: 2449
 imgId: 2450
+videoId: "8u93I49hmyg"
 imgSrc: /assets/thumbnails/2450.webp
 lang: en
 title: "If God knows all things, and we have no guarantees, then why pray at all?"
 pubDate: 2020-11-04T12:08:50
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p><span data-contrast="auto">Seems </span><span data-contrast="auto">to me like God doesn’t always come through when I pray. Somethings I pray for </span><span data-contrast="auto">things that are good</span><span data-contrast="auto">, and yet even then there is no guarantee that He will make them happen. So what’s the point? </span><span data-contrast="auto">And doesn’t He know what I need ahead of time anyways? </span><span data-contrast="auto">If you’ve ever had this kind of thought cross your mind, then stick around, and lets see what the Church offers as an answer. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p>&nbsp;</p>
@@ -40,7 +39,7 @@ tags: ["aa"]
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-contrast="auto">St John Chrysostom comments on this very idea and express</span><span data-contrast="auto">es it</span><span data-contrast="auto"> to us beautifully</span><span data-contrast="auto">. He explains </span><span data-contrast="auto">how we ought to approach God in prayer. He says the following: </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
-<p><b><i><span data-contrast="auto">“[We pray] not to inform God or instruct Him but to beseech Him closely, to be made intimate with Him, by continuance in supplication; to be humbled; to be reminded of our sins.” – St John Chrysostom (Homily 19, Gospel of Matthew)</span></i></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
+<p><b><i><span data-contrast="auto">“[We pray] not to inform God or instruct Him but to beseech Him closely, to be made intimate with Him, by continuance in supplication; to be humbled; to be reminded of our sins.” - St John Chrysostom (Homily 19, Gospel of Matthew)</span></i></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-contrast="auto">According to this great saint, prayer isn’t about </span><span data-contrast="auto">an exchange of information or a transactional process by which we place orders with God the way we do with a waiter at a restaurant. No! it is for the sake of intimacy, for conversation, for comfort, humility, peace, and ultimately love. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>

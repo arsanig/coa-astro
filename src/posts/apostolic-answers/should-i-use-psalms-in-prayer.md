@@ -1,14 +1,13 @@
 ---
 wp_id: 748
 imgId: 447
+videoId: "MX2hNk8P-YU"
 imgSrc: /assets/thumbnails/447.webp
 lang: en
 title: "Should I use Psalms in prayer?"
 pubDate: 2017-02-22T11:14:36
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <h4 style="text-align: center;"> Should I use Psalms in prayer?</h4>
 <p>Prayer is a deep conversation with God, but there are many ways to converse with Him. One of these ways is to pray with psalms. The word “psalms” in Hebrew means “praises.” However, many people ask <strong>if they should be praying with psalms</strong>? That question raises another one: <strong>What did the early church do? Did she pray with psalms too? </strong>Christ has given to the early church, to the apostles, a Way of Life—the Holy Tradition. When we see what they did and how they prayed, that counts because the Church was evidently extremely strong as it is shown in the book of Acts.</p>

@@ -1,14 +1,13 @@
 ---
 wp_id: 2496
 imgId: 2498
+videoId: "kmATf28ODBo"
 imgSrc: /assets/thumbnails/2498.webp
 lang: en
 title: "Is there EVIDENCE the 1st century Church used ICONOGRAPHY? by Fr. Gabriel Wissa"
 pubDate: 2020-11-25T11:27:41
 tags: ["aa"]
 ---
-
-<!-- page: 6 -->
 
 <p><span data-contrast="auto">Is </span><span data-contrast="auto">the</span><span data-contrast="auto">re evidence the</span><span data-contrast="auto"> early Church use</span><span data-contrast="auto">d</span><span data-contrast="auto"> iconography? </span><span data-contrast="auto">Or i</span><span data-contrast="auto">s </span><span data-contrast="auto">iconography </span><span data-contrast="auto">an innovation</span><span data-contrast="auto">? </span><span data-contrast="auto">If there is </span><span data-contrast="auto">evidence</span><span data-contrast="auto">, how early is it?</span> <span data-contrast="auto">How </span><span data-contrast="auto">do</span><span data-contrast="auto"> the</span><span data-contrast="auto">se questions fit with the commandment </span><span data-contrast="auto">of not making carved images</span><span data-contrast="auto"> found</span> <span data-contrast="auto">in Exodus 20</span><span data-contrast="auto">?</span><span data-contrast="auto"> These are the questions </span><span data-contrast="auto">we’re</span><span data-contrast="auto"> hoping to answer today.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
 <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
