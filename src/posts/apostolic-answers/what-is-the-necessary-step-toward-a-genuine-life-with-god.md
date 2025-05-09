@@ -1,7 +1,7 @@
 ---
 wp_id: 1139
 imgId: 1082
-videoId: ""
+videoId: "lX2HjW2DMHk"
 imgSrc: /assets/thumbnails/1082.webp
 lang: en
 title: "What is the Necessary Step Toward a Genuine Life With God?"

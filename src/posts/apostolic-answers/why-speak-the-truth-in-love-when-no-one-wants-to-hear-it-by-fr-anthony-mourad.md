@@ -1,7 +1,7 @@
 ---
 wp_id: 2282
 imgId: 2283
-videoId: ""
+videoId: "iuroWCMLilI"
 imgSrc: /assets/thumbnails/2283.webp
 lang: en
 title: "Why ‘speak the truth in love’, when no one wants to hear it? by Fr. Anthony Mourad"

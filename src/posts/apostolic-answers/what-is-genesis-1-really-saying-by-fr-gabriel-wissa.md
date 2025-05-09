@@ -1,7 +1,7 @@
 ---
 wp_id: 2035
 imgId: 2036
-videoId: ""
+videoId: "bIu0ZxQj2RY"
 imgSrc: /assets/thumbnails/2036.webp
 lang: en
 title: "What is Genesis 1 REALLY saying?  by Fr. Gabriel Wissa"

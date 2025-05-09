@@ -1,7 +1,7 @@
 ---
 wp_id: 3691
 imgId: 3692
-videoId: ""
+videoId: "CeT0uNF8LB0"
 imgSrc: /assets/thumbnails/3692.webp
 lang: en
 title: "WHY is it a SIN if I don’t HURT OTHERS?"

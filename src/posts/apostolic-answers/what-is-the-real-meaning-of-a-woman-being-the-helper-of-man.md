@@ -1,7 +1,7 @@
 ---
 wp_id: 1240
 imgId: 1247
-videoId: ""
+videoId: "sJq40Yo_QGM"
 imgSrc: /assets/thumbnails/1247.webp
 lang: en
 title: "What is the REAL meaning of a woman being the helper of man? Is there gender equality in Christianity? Shouldn’t a male hold women in high esteem?"

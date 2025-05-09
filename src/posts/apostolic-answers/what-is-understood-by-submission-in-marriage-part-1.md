@@ -1,7 +1,7 @@
 ---
 wp_id: 678
 imgId: 684
-videoId: ""
+videoId: "9vsb0UwU2_4"
 imgSrc: /assets/thumbnails/684.webp
 lang: en
 title: "What is understood by submission in marriage? - Part 1"

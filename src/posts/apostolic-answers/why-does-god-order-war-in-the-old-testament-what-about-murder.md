@@ -1,7 +1,7 @@
 ---
 wp_id: 1971
 imgId: 1972
-videoId: ""
+videoId: "vXejyinn-jc"
 imgSrc: /assets/thumbnails/1972.webp
 lang: en
 title: "Why does God order war in the Old Testament? What about His command not to murder?"

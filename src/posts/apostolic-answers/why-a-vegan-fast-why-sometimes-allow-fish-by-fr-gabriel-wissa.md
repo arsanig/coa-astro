@@ -1,7 +1,7 @@
 ---
 wp_id: 2689
 imgId: 2691
-videoId: ""
+videoId: "Rx-uVSz_1UM"
 imgSrc: /assets/thumbnails/2691.webp
 lang: en
 title: "Why a Vegan Fast? Why sometimes allow fish? by Fr. Gabriel Wissa"

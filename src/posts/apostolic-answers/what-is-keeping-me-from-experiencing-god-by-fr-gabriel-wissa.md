@@ -1,7 +1,7 @@
 ---
 wp_id: 3593
 imgId: 3594
-videoId: ""
+videoId: "CTZ0BhvDGxs"
 imgSrc: /assets/thumbnails/3594.webp
 lang: en
 title: "What is keeping me from EXPERIENCING God? by Fr. Gabriel Wissa"

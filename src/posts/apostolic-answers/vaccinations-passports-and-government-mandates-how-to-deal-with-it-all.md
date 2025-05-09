@@ -1,7 +1,7 @@
 ---
 wp_id: 3107
 imgId: 3108
-videoId: ""
+videoId: "16GRHkPzXDs"
 imgSrc: /assets/thumbnails/3108.webp
 lang: en
 title: "Vaccinations, passports and government mandates: how to deal with it all?"
