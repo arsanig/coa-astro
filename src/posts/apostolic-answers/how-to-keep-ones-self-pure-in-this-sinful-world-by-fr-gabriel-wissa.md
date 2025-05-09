@@ -1,7 +1,7 @@
 ---
 wp_id: 2778
 imgId: 2783
-videoId: ""
+videoId: "WEPJuym_tpc"
 imgSrc: /assets/thumbnails/2783.webp
 lang: en
 title: "How to keep one’s self pure in this sinful world? by Fr. Gabriel Wissa"

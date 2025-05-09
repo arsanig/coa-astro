@@ -1,15 +1,15 @@
 ---
 wp_id: 949
 imgId: 687
-videoId: ""
+videoId: "hysC83ezxQg"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
-title: "Why confess to a priest and how ought it be done? &#8211; Part 3"
+title: "Why confess to a priest and how ought it be done? - Part 3"
 pubDate: 2017-08-08T23:23:53
 tags: ["aa"]
 ---
 
-<p style="text-align: center;"><strong>Why confess to a priest and how ought it be done? &#8211; Part 3</strong></p>
+<p style="text-align: center;"><strong>Why confess to a priest and how ought it be done? - Part 3</strong></p>
 <p>Previously in our first video we discussed the meaning of repentance and we discovered that repentance is the change of mind and direction back to God.</p>
 <p>In the second video we looked into the mystery of confession, what it means and why God instituted it as means of salvation. We saw that there can exist confessions of faith and confessions of sins and in both we are called to speak using the same language as god according to the standards He has revealed to us.</p>
 <p>In today’s video we will speak to the question of why we confess to a priest and how we ought to confess.</p>

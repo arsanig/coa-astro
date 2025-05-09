@@ -1,7 +1,7 @@
 ---
 wp_id: 962
 imgId: 687
-videoId: ""
+videoId: "IfFbLaj1suc"
 imgSrc: /assets/thumbnails/687.webp
 lang: en
 title: "What is the passion of Greed & Avarice?(Passions- Part 4)"

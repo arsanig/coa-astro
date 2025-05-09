@@ -4,7 +4,7 @@ imgId: 3545
 videoId: ""
 imgSrc: /assets/thumbnails/3545.webp
 lang: en
-title: "Fasting &#8211; Do I Really Gain from Abstaining?"
+title: "Fasting - Do I Really Gain from Abstaining?"
 pubDate: 2022-08-26T00:13:33
 tags: ["wow"]
 ---

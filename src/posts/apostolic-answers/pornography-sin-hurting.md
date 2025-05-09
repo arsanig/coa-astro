@@ -1,7 +1,7 @@
 ---
 wp_id: 956
 imgId: 554
-videoId: ""
+videoId: "fz_k9p_KrkI"
 imgSrc: /assets/thumbnails/554.webp
 lang: en
 title: "Why is pornography a sin? Who am I hurting?- Part 1"

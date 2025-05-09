@@ -1,7 +1,7 @@
 ---
 wp_id: 1451
 imgId: 1452
-videoId: ""
+videoId: "O0rt1HOq15k"
 imgSrc: /assets/thumbnails/1452.webp
 lang: en
 title: "How should you fast?"
