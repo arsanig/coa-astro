@@ -9,6 +9,19 @@ type Post = {
     rendered?: RenderedContent;
     filePath?: string;
 };
+
+const getTagColor = (tag: string): string => {
+    switch (tag.toLowerCase()) {
+        case "dd":
+            return "bg-dd text-pearl";
+        case "wow":
+            return "bg-pearl text-black";
+        case "q&a":
+            return "bg-black text-pearl";
+        default:
+            return "bg-madder text-pearl";
+    }
+};
 ---
 
 <div
@@ -25,9 +38,21 @@ type Post = {
                     />
                 </div>
                 <div class="flex flex-col pt-4">
-                    <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
-                        {post.data.title}
-                    </span>
+                    <div class="flex flex-col sm:flex-row sm:justify-between gap-2 sm:gap-0">
+                        <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
+                            {post.data.title}
+                        </span>
+                        <div class="flex flex-wrap gap-2 sm:gap-0">
+                            {post.data.tags?.map((tag) => {
+                                const tagColorClass = getTagColor(tag);
+                                return (
+                                    <span
+                                        class={`sm:ml-4 px-2 py-1 max-h-min rounded-lg ${tagColorClass} text-xs sm:text-sm`}
+                                    >{`#${tag}`}</span>
+                                );
+                            })}
+                        </div>
+                    </div>
                     <span class="font-barlow text-xs text-jonquil mt-2">
                         {post.data.pubDate.toLocaleDateString("en-US", {
                             year: "numeric",

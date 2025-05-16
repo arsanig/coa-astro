@@ -1,9 +1,11 @@
 ---
 import Main from "@layouts/Main.astro";
 import PostsGrid from "@components/PostsGrid.astro";
+import PostsGridWithTags from "@components/PostsGridWithTags.astro";
 import Pagination from "@components/Pagination.astro";
 
 const { posts, page, title } = Astro.props;
+const generateTags = title === "Video Library | Coptic Orthodox Answers";
 const currentPath = new URL(Astro.request.url).pathname;
 // Remove any page numbers from the path
 const baseUrl = currentPath.replace(/\/\d+$/, "");
@@ -11,7 +13,7 @@ const baseUrl = currentPath.replace(/\/\d+$/, "");
 
 <Main title={title}>
     <div class="bg-gray">
-        <PostsGrid posts={posts} />
+        {generateTags ? <PostsGridWithTags posts={posts} /> : <PostsGrid posts={posts} />}
         <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />
     </div>
 </Main>
