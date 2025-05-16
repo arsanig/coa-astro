@@ -1,5 +1,61 @@
 ---
 import Main from "@layouts/Main.astro";
+import * as m from "@paraglide/messages.js";
 ---
 
-<Main />
+<Main>
+    <div class="min-h-[50vh] bg-[url(/assets/images/coptic-manuscripts.webp)] bg-cover bg-center bg-no-repeat">
+        <div class="bg-black/50 min-h-[50vh] flex flex-col justify-center">
+            <h3
+                class="font-marcellus text-center bg-madder/70 text-jonquil p-4 sm:p-6 md:p-8 lg:p-14 text-xl sm:text-2xl md:text-3xl lg:text-5xl"
+            >
+                {m.homePageTitle()}
+            </h3>
+            <p
+                class="font-marcellus text-center align-middle bg-white/90 text-black px-4 sm:px-8 md:px-16 lg:px-[20%] py-8 sm:py-10 md:py-12 lg:py-14 text-base sm:text-lg md:text-xl lg:text-3xl"
+            >
+                {m.homePageDescription()}
+            </p>
+        </div>
+    </div>
+    <div class="bg-gray min-h-[45vh] py-8 sm:py-12 md:py-16 lg:py-20">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <h4
+                class="font-marcellus text-pearl text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-4 sm:mb-6 md:mb-8"
+            >
+                {m.homeInfoTitle()}
+            </h4>
+            <p
+                class="font-marcellus text-pearl text-lg sm:text-xl md:text-2xl lg:text-3xl text-center mb-8 sm:mb-12 md:mb-16"
+            >
+                {m.homeInfoSubtitle()}
+            </p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8">
+                <div class="bg-white/10 p-4 sm:p-6 rounded-lg"></div>
+                <div class="bg-white/10 p-4 sm:p-6 rounded-lg"></div>
+                <div class="bg-white/10 p-4 sm:p-6 rounded-lg"></div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-pearl min-h-[45vh] py-8 sm:py-12 md:py-16 lg:py-20">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <h5
+                class="font-marcellus text-black text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl py-8 sm:py-10 md:py-12 lg:py-14"
+            >
+                {m.homeCelebrationTitle()}
+            </h5>
+            <div class="relative w-full aspect-video max-w-4xl mx-auto">
+                <div class="absolute inset-0 w-full h-full">
+                    <iframe
+                        class="w-full h-full rounded-lg shadow-lg"
+                        src="https://www.youtube.com/embed/0bRMx7GHAjU"
+                        title="10,000 Subscribers Celebration Video"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                    >
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</Main>

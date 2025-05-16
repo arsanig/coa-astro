@@ -16,9 +16,18 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'marcellus';
+    src: url('/fonts/marcellus/marcellus-v13-latin-regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @theme {
     --font-noto: 'noto-serif', 'sans-serif';
     --font-barlow: 'barlow', 'sans-serif';
+    --font-marcellus: 'marcellus', 'sans-serif';
     --text-tiny: 0.7rem; 
     --text-x-tiny: 0.65rem; 
     --color-pearl: #E6DECA;
