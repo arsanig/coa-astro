@@ -2,39 +2,52 @@ import { google } from "googleapis";
 const youtubeApiKey = import.meta.env.YOUTUBE_API_KEY;
 const youtube = google.youtube({ version: "v3", auth: youtubeApiKey });
 
+let youtubeRequestCount = 0;
+
 type PlaylistItem = {
-    items?: [
-        {
-            id: string;
-            snippet: {
-                title: string;
-                thumbnails: {
-                    high: { url: string };
-                    maxres: { url: string };
-                };
+    items?: Array<{
+        id: string;
+        snippet: {
+            title: string;
+            thumbnails: {
+                high: { url: string };
+                maxres: { url: string };
             };
-            contentDetails: {
-                videoId: string;
-                videoPublishedAt: string;
-            };
-        }
-    ];
+        };
+        contentDetails: {
+            videoId: string;
+            videoPublishedAt: string;
+        };
+    }>;
+    nextPageToken?: string;
 };
 
-// missing return type interface
-export const getPlaylistItems = async (
-    maxResults: number,
+
+export const getAllPlaylistItems = async (
     playlistId: string
 ): Promise<PlaylistItem> => {
-    let data = {};
-    const res = await youtube.playlistItems.list({
-        maxResults: maxResults,
-        part: ["snippet", "contentDetails"],
-        playlistId: playlistId,
-    });
-    if (res.status === 200) {
-        data = res.data;
-    }
-    // error handle other statuses
-    return data;
+    let allItems: PlaylistItem["items"] = [];
+    let nextPageToken: string | undefined;
+
+    do {
+        youtubeRequestCount++;
+        const res = await youtube.playlistItems.list({
+            maxResults: 50,
+            part: ["snippet", "contentDetails"],
+            playlistId: playlistId,
+            pageToken: nextPageToken,
+        });
+
+        if (res.status === 200) {
+            const data = res.data as PlaylistItem;
+            if (data.items) {
+                allItems = allItems.concat(data.items);
+            }
+            nextPageToken = data.nextPageToken;
+        } else {
+            break;
+        }
+    } while (nextPageToken);
+
+    return { items: allItems };
 };

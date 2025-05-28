@@ -1,10 +1,11 @@
 ---
-import { getPlaylistItems } from "@utils/youtubeApi";
+import { getAllPlaylistItems } from "@utils/youtubeApi";
 const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
 
-const data = await getPlaylistItems(9, shortsPlaylistId);
+const data = await getAllPlaylistItems(shortsPlaylistId);
 const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
 ---
+
 
 <div class="bg-gray p-4 sm:p-8 lg:p-21">
     <div class="max-w-7xl mx-auto relative">
@@ -13,44 +14,40 @@ const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
                 {
                     shortsIds?.map((shortId: string, index: number) => (
                         <div class="min-w-full sm:min-w-[50%] lg:min-w-[33.333%] px-2 sm:px-4">
-                            <div class="aspect-[9/16] w-full max-w-sm mx-auto">
-                                <iframe
-                                    class="w-full h-full rounded-lg"
-                                    src={`https://youtube.com/embed/${shortId}${index === 0 ? "?autoplay=1&mute=1" : ""}`}
-                                    allow="autoplay; encrypted-media"
-                                    loading="lazy"
-                                />
+                            <div class="aspect-[9/16] w-full max-w-sm mx-auto relative">
+                                {/* Show thumbnail initially */}
+                                <div
+                                    class="video-placeholder cursor-pointer bg-gray-800 rounded-lg overflow-hidden w-full h-full flex items-center justify-center"
+                                    data-video-id={shortId}
+                                    data-index={index}
+                                >
+                                    <img
+                                        src={`https://img.youtube.com/vi/${shortId}/maxresdefault.jpg`}
+                                        alt="Video thumbnail"
+                                        class="w-full h-full object-cover"
+                                        loading={index < 6 ? "eager" : "lazy"}
+                                    />
+                                    <div class="absolute inset-0 flex items-center justify-center bg-black/30">
+                                        <svg class="w-16 h-16 text-white" fill="currentColor" viewBox="0 0 24 24">
+                                            <path d="M8 5v14l11-7z"/>
+                                        </svg>
+                                    </div>
+                                </div>
+                                {/* Iframe will be inserted here when needed */}
                             </div>
                         </div>
                     ))
                 }
             </div>
         </div>
-        <button
-            class="carousel-button prev absolute left-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors"
-            id="prev-button"
-        >
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="h-6 w-6"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-            >
+
+        <button class="carousel-button prev absolute left-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors" id="prev-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
             </svg>
         </button>
-        <button
-            class="carousel-button next absolute right-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors"
-            id="next-button"
-        >
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="h-6 w-6"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-            >
+        <button class="carousel-button next absolute right-0 top-1/2 -translate-y-1/2 bg-black/50 text-white p-2 rounded-full hover:bg-black/70 transition-colors" id="next-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
         </button>
@@ -69,6 +66,7 @@ const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
         let currentIndex = 0;
         const slideCount = slides.length;
         let slidesPerView = 1;
+        const loadedVideos = new Set<string>();
 
         function updateSlidesPerView() {
             if (window.innerWidth >= 1024) {
@@ -80,14 +78,92 @@ const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
             }
         }
 
-        function updateCarousel() {
-            if (track instanceof HTMLElement) {
-                const slideWidth = slides[0].getBoundingClientRect().width;
-                const maxIndex = slideCount - slidesPerView;
-                currentIndex = Math.min(currentIndex, maxIndex);
-                track.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+        // Load video iframe when placeholder is clicked or when in view
+        function loadVideo(placeholder: Element, videoId: string) {
+            // Skip if video already loaded
+            if (loadedVideos.has(videoId)) return;
+
+            // Create YouTube iframe
+            const iframe = document.createElement('iframe');
+            iframe.className = 'w-full h-full rounded-lg';
+            iframe.src = `https://youtube.com/embed/${videoId}`;
+            iframe.allow = 'autoplay; encrypted-media';
+            iframe.loading = 'lazy';
+
+            // Replace placeholder with iframe
+            placeholder.parentElement?.appendChild(iframe);
+            placeholder.remove();
+            loadedVideos.add(videoId);
+        }
+
+        // Load videos that are currently visible
+        function loadVisibleVideos() {
+            // Calculate visible range
+            const visibleStart = currentIndex;
+            const visibleEnd = Math.min(currentIndex + slidesPerView, slideCount);
+
+            // Load each visible video
+            for (let i = visibleStart; i < visibleEnd; i++) {
+                const slide = slides[i];
+                const placeholder = slide.querySelector('.video-placeholder') as HTMLElement;
+                if (placeholder) {
+                    const videoId = placeholder.dataset.videoId;
+                    if (videoId) {
+                        loadVideo(placeholder, videoId);
+                    }
+                }
             }
         }
+
+        // Preload next set of videos
+        function preloadNextVideos() {
+            // Calculate next batch range
+            const preloadStart = currentIndex + slidesPerView;
+            const preloadEnd = Math.min(preloadStart + slidesPerView, slideCount);
+
+            // Preload thumbnails only (not iframes)
+            for (let i = preloadStart; i < preloadEnd; i++) {
+                const slide = slides[i];
+                const placeholder = slide.querySelector('.video-placeholder') as HTMLElement;
+                if (placeholder) {
+                    const videoId = placeholder.dataset.videoId;
+                    if (videoId) {
+                        // Make thumbnail load faster
+                        const img = placeholder.querySelector('img');
+                        if (img && !img.complete) {
+                            img.loading = 'eager';
+                        }
+                    }
+                }
+            }
+        }
+
+        function updateCarousel() {
+            if (track instanceof HTMLElement) {
+                // Calculate slide positioning
+                const slideWidth = slides[0]?.getBoundingClientRect().width || 0;
+                const maxIndex = slideCount - slidesPerView;
+                currentIndex = Math.min(Math.max(0, currentIndex), maxIndex);
+
+                // Move carousel
+                track.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+
+                // Load visible videos and preload next ones
+                loadVisibleVideos();
+                preloadNextVideos();
+            }
+        }
+
+        // Click handlers for manual video loading
+        document.querySelectorAll('.video-placeholder').forEach(placeholder => {
+            placeholder.addEventListener('click', () => {
+                // Load video when user clicks thumbnail
+                const videoId = (placeholder as HTMLElement).dataset.videoId;
+                if (videoId) {
+                    loadVideo(placeholder, videoId);
+                }
+            });
+        });
 
         prevButton.addEventListener("click", () => {
             currentIndex = Math.max(0, currentIndex - 1);
