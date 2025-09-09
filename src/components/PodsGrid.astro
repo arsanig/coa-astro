@@ -1,7 +1,8 @@
 ---
-import { getPlaylistItems } from "@utils/youtubeApi";
+import { getAllPlaylistItems } from "@utils/youtubeApi";
 const fullPodPlaylistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
 
+const data = await getAllPlaylistItems(fullPodPlaylistId);
 type PodcastItem = {
     id: string;
     title: string;
@@ -9,7 +10,6 @@ type PodcastItem = {
     publishedAt: string;
 };
 
-const data = await getPlaylistItems(8, fullPodPlaylistId);
 const podcasts = data?.items?.map(
     (item): PodcastItem => ({
         id: item.contentDetails.videoId,
