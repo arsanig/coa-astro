@@ -9,19 +9,29 @@ type PodcastItem = {
     publishedAt: string;
 };
 
-const data = await getPlaylistItems(8, fullPodPlaylistId);
-const podcasts = data?.items?.map(
-    (item): PodcastItem => ({
-        id: item.contentDetails.videoId,
-        title: item.snippet.title,
-        thumbnail: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.high.url,
-        publishedAt: new Date(item.contentDetails.videoPublishedAt).toLocaleDateString("en-US", {
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-        }),
-    })
-);
+const podCount = 20;
+let data = await getPlaylistItems(podCount, fullPodPlaylistId);
+
+let privateVidCount = 0;
+data?.items?.forEach((item) => {
+    item.snippet.title === "Private video" ? privateVidCount++ : null;
+});
+data = await getPlaylistItems(podCount + privateVidCount, fullPodPlaylistId);
+
+const podcasts = data?.items
+    ?.map(
+        (item): PodcastItem => ({
+            id: item.contentDetails.videoId,
+            title: item.snippet.title,
+            thumbnail: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.high?.url,
+            publishedAt: new Date(item.contentDetails.videoPublishedAt).toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+            }),
+        })
+    )
+    .filter((podcast) => podcast.title !== "Private video");
 ---
 
 <div class="bg-gray p-8 lg:p-12 xl:p-19">

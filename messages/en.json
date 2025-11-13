@@ -5,17 +5,13 @@
     "searchPlaceholder": "Get answers from an apostolic faith",
     "homeLabel": "Home",
     "libraryLabel": "Video Library",
-    "answersLabel": "Apostolic Answers",
-    "diveLabel": "Deep Dive",
     "podcastsLabel": "Podcasts",
     "shortsLabel": "Reels & Shorts",
     "faithLabel": "Our Faith",
     "contactLabel": "Contact",
-    "sgsj": "St. George and St. Joseph Coptic Orthodox Church",
-    "sgsa": "St. George and St. Anthony Coptic Orthodox Church",
-    "joint_message_one": "Coptic Orthodox Answers is a joint initiative between ",
-    "joint_message_two": " in Montreal and ",
-    "joint_message_three": " in Ottawa.",
-    "copyright": "© {year} Coptic Orthodox Answers. All Rights Reserved.",
-    "shopLabel": "Shop"
+    "aaLabel": "Apostolic Answers",
+    "ddLabel": "Deep Dive",
+    "wowLabel": "Word of Wisdom",
+    "shopLabel": "Shop",
+    "copyright": "(FR) © {year} Coptic Orthodox Answers. All Rights Reserved."
 }
