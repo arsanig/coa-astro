@@ -6,7 +6,7 @@ import * as m from "@paraglide/messages.js";
 const pathname = new URL(Astro.request.url).pathname;
 
 const homeLocalized = localizePathname("/", languageTag());
-const libLocalized = localizePathname("/library", languageTag());
+const wowLocalized = localizePathname("/words-of-wisdom", languageTag());
 const aaLocalized = localizePathname("/apostolic-answers", languageTag());
 const ddLocalized = localizePathname("/deep-dive", languageTag());
 const podLocalized = localizePathname("/podcasts", languageTag());
@@ -37,11 +37,11 @@ const shopLocalized = localizePathname("/shop", languageTag());
         class="fixed md:static inset-y-0 right-0 w-64 md:w-full bg-pearl md:bg-transparent transform translate-x-full md:translate-x-0 transition-transform duration-300 ease-in-out z-50 md:z-auto flex flex-col md:flex-row md:justify-center md:items-center"
     >
         <NavLink active={pathname === homeLocalized ? true : false} text={m.homeLabel()} route={homeLocalized} />
-        <NavLink active={pathname.includes(libLocalized)} text={m.libraryLabel()} route={libLocalized} />
-        <NavLink active={pathname.includes(aaLocalized)} text={m.answersLabel()} route={aaLocalized} />
-        <NavLink active={pathname.includes(ddLocalized)} text={m.diveLabel()} route={ddLocalized} />
         <NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
         <NavLink active={pathname === shortsLocalized ? true : false} text={m.shortsLabel()} route={shortsLocalized} />
+        <NavLink active={pathname.includes(aaLocalized)} text={m.aaLabel()} route={aaLocalized} />
+        <NavLink active={pathname.includes(ddLocalized)} text={m.ddLabel()} route={ddLocalized} />
+        <NavLink active={pathname.includes(wowLocalized)} text={m.wowLabel()} route={wowLocalized} />
         <NavLink active={pathname === faithLocalized ? true : false} text={m.faithLabel()} route={faithLocalized} />
         <NavLink active={pathname === shopLocalized ? true : false} text={m.shopLabel()} route={shopLocalized} />
         <NavLink
