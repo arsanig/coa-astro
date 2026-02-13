@@ -16,7 +16,8 @@ const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
                             <div class="aspect-[9/16] w-full max-w-sm mx-auto">
                                 <iframe
                                     class="w-full h-full rounded-lg"
-                                    src={`https://youtube.com/embed/${shortId}${index === 0 ? "?autoplay=1&mute=1" : ""}`}
+                                    id={`short-player-${index}`}
+                                    src={`https://www.youtube.com/embed/${shortId}?enablejsapi=1${index === 0 ? "&autoplay=1&mute=1" : ""}`}
                                     allow="autoplay; encrypted-media"
                                     loading="lazy"
                                 />
@@ -109,5 +110,35 @@ const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
             updateSlidesPerView();
             updateCarousel();
         });
+
+        // --- YouTube IFrame Player API ---
+        const players: any[] = [];
+        const playerIframes = document.querySelectorAll<HTMLIFrameElement>("[id^='short-player-']");
+
+        // Load the YouTube IFrame API script
+        const tag = document.createElement("script");
+        tag.src = "https://www.youtube.com/iframe_api";
+        document.head.appendChild(tag);
+
+        // Called automatically by the YouTube API once it's ready
+        (window as any).onYouTubeIframeAPIReady = () => {
+            playerIframes.forEach((iframe) => {
+                const player = new (window as any).YT.Player(iframe.id, {
+                    events: {
+                        onStateChange: (event: any) => {
+                            // YT.PlayerState.PLAYING === 1
+                            if (event.data === 1) {
+                                players.forEach((p) => {
+                                    if (p !== event.target && typeof p.pauseVideo === "function") {
+                                        p.pauseVideo();
+                                    }
+                                });
+                            }
+                        },
+                    },
+                });
+                players.push(player);
+            });
+        };
     });
 </script>
