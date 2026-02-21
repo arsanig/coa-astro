@@ -1,0 +1,45 @@
+---
+import Main from "@layouts/Main.astro";
+import { getPodcasts } from "@utils/podcasts";
+import * as m from "@paraglide/messages.js";
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+    const playlistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
+    const podcasts = await getPodcasts(playlistId);
+    return podcasts.map((podcast) => ({
+        params: { slug: podcast.slug },
+        props: { podcast },
+    }));
+}
+
+const { podcast } = Astro.props;
+---
+
+<Main title={`${podcast.title} | ${m.podcastsLabel()} | ${m.siteName()}`}>
+    <div class="bg-gray w-full">
+        <div data-pagefind-body class="flex flex-col justify-center py-8 sm:py-12 md:py-16 lg:py-21">
+            <h4
+                class="font-noto text-2xl sm:text-3xl md:text-4xl text-pearl text-center pb-4 sm:pb-8 md:pb-12 lg:pb-21 max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-[66%] place-self-center"
+                data-pagefind-weight="10"
+            >
+                {podcast.title}
+            </h4>
+            <p class="text-jonquil text-sm text-center pb-4 sm:pb-8 md:pb-12 lg:pb-21">{podcast.publishedAt}</p>
+            <div class="relative w-full px-40">
+                <div class="relative pb-[56.25%] h-0">
+                    <iframe
+                        class="absolute top-0 left-0 w-full h-full"
+                        src={`https://www.youtube.com/embed/${podcast.id}`}
+                        title={podcast.title}
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen
+                        loading="lazy"
+                    >
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</Main>
