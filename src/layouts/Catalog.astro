@@ -7,13 +7,13 @@ import Pagination from "@components/Pagination.astro";
 const { posts, page, title } = Astro.props;
 const generateTags = title === "Video Library | Coptic Orthodox Answers";
 const currentPath = new URL(Astro.request.url).pathname;
-// Remove any page numbers from the path
 const baseUrl = currentPath.replace(/\/\d+$/, "");
+const hasCustomGrid = Astro.slots.has("default");
 ---
 
 <Main title={title}>
     <div class="bg-gray">
-        {generateTags ? <PostsGridWithTags posts={posts} /> : <PostsGrid posts={posts} />}
+        {hasCustomGrid ? <slot /> : generateTags ? <PostsGridWithTags posts={posts} /> : <PostsGrid posts={posts} />}
         <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />
     </div>
 </Main>

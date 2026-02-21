@@ -1,13 +1,17 @@
 ---
+interface Props {
+    currentPage: number;
+    totalPages: number;
+    baseUrl: string;
+}
+
 const { currentPage, totalPages, baseUrl } = Astro.props;
 const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
 const maxVisiblePages = 5;
 let visiblePages = pages;
 
-// Clean the baseUrl by removing .html and any existing page numbers
 const cleanBaseUrl = baseUrl.replace(/\.html$/, "").replace(/\/\d+$/, "");
 
-// Function to generate the correct URL for a page
 const getPageUrl = (page: number) => {
     if (page === 1) return cleanBaseUrl;
     return `${cleanBaseUrl}/${page}`;
@@ -18,71 +22,46 @@ if (totalPages > maxVisiblePages) {
     const end = Math.min(totalPages, start + maxVisiblePages - 1);
     visiblePages = pages.slice(start - 1, end);
 }
+
+const btnClass = "px-2 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-tiny md:text-base";
+const defaultBtn = `${btnClass} bg-pearl text-black hover:bg-madder hover:text-white`;
+const activeBtn = `${btnClass} bg-madder text-white pointer-events-none`;
 ---
 
-<div class="flex justify-center items-center gap-1 sm:gap-2 py-19">
-    {
-        currentPage > 1 && (
-            <a
-                href={getPageUrl(currentPage - 1)}
-                class="px-2 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-tiny md:text-base"
-                aria-label="Previous page"
-            >
-                ←
-            </a>
-        )
-    }
-    {
-        visiblePages[0] > 1 && (
-            <>
-                <a
-                    href={getPageUrl(1)}
-                    class="px-2 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-tiny md:text-base"
-                >
-                    1
-                </a>
-                {visiblePages[0] > 2 && <span class="text-pearl text-tiny md:text-base">...</span>}
-            </>
-        )
-    }
-    {
-        visiblePages.map((page) => (
-            <a
-                href={getPageUrl(page)}
-                class={`px-2 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-tiny md:text-base ${
-                    page === currentPage
-                        ? "bg-madder text-white"
-                        : "bg-pearl text-black hover:bg-madder hover:text-white"
-                }`}
-            >
-                {page}
-            </a>
-        ))
-    }
-    {
-        visiblePages[visiblePages.length - 1] < totalPages && (
-            <>
-                {visiblePages[visiblePages.length - 1] < totalPages - 1 && (
-                    <span class="text-pearl text-tiny md:text-base">...</span>
-                )}
-                <a
-                    href={getPageUrl(totalPages)}
-                    class="px-2 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-tiny md:text-base"
-                >
-                    {totalPages}
-                </a>
-            </>
-        )
-    }
-    {
-        currentPage < totalPages && (
-            <a
-                href={getPageUrl(currentPage + 1)}
-                class="px-2 py-1 sm:px-4 sm:py-2 rounded-md bg-pearl text-black hover:bg-madder hover:text-white transition-colors text-tiny md:text-base"
-                aria-label="Next page"
-            >
-                →
-            </a>
-        )
-    }
-</div>
+{
+    totalPages > 1 && (
+        <div class="flex justify-center items-center gap-1 sm:gap-2 py-19">
+
+            {visiblePages[0] > 1 && (
+                <>
+                    <a href={getPageUrl(1)} class={defaultBtn}>
+                        1
+                    </a>
+                    {visiblePages[0] > 2 && <span class="text-pearl text-tiny md:text-base">...</span>}
+                </>
+            )}
+            {visiblePages.map((page) =>
+                page === currentPage ? (
+                    <span class={activeBtn} aria-current="page">
+                        {page}
+                    </span>
+                ) : (
+                    <a href={getPageUrl(page)} class={defaultBtn}>
+                        {page}
+                    </a>
+                ),
+            )}
+            {visiblePages[visiblePages.length - 1] < totalPages && (
+                <>
+                    {visiblePages[visiblePages.length - 1] < totalPages - 1 && (
+                        <span class="text-pearl text-tiny md:text-base">...</span>
+                    )}
+                    <a href={getPageUrl(totalPages)} class={defaultBtn}>
+                        {totalPages}
+                    </a>
+                </>
+            )}
+
+        </div>
+    )
+}

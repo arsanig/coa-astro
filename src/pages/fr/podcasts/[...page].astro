@@ -1,0 +1,19 @@
+---
+import Catalog from "@layouts/Catalog.astro";
+import PodsGrid from "@components/PodsGrid.astro";
+import { getPodcasts } from "@utils/podcasts";
+import { type GetStaticPathsOptions } from "astro";
+import * as m from "@paraglide/messages.js";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const playlistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
+    const podcasts = await getPodcasts(playlistId);
+    return paginate(podcasts, { pageSize: 20 });
+}
+
+const { page } = Astro.props;
+---
+
+<Catalog page={page} title={`${m.podcastsLabel()} | ${m.siteName()}`}>
+    <PodsGrid podcasts={page.data} />
+</Catalog>
