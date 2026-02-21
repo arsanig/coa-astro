@@ -47,65 +47,101 @@ import SearchIcon from "./SearchIcon.astro";
 </header>
 
 <script is:inline>
-    const performSearch = async (searchTerm) => {
-        const resultsContainer = document.querySelector("#results");
-        const resultsContent = resultsContainer.querySelector(".space-y-4");
+    (function () {
         const searchBox = document.querySelector("#search");
+        const resultsContainer = document.querySelector("#results");
+        const resultsContent = resultsContainer?.querySelector(".space-y-4");
+        if (!searchBox || !resultsContainer || !resultsContent) return;
 
-        // Show/hide results container based on input
-        if (searchTerm.length > 0) {
+        let debounceTimer = null;
+        let searchCounter = 0;
+
+        function closeResults() {
+            resultsContainer.classList.add("hidden");
+            document.body.classList.remove("overflow-hidden");
+        }
+
+        function openResults() {
             resultsContainer.classList.remove("hidden");
             document.body.classList.add("overflow-hidden");
 
-            // Position results below search box
             const searchRect = searchBox.getBoundingClientRect();
             const resultsDiv = resultsContainer.querySelector("div");
-            resultsDiv.style.top = `${searchRect.bottom + 8}px`;
-        } else {
-            resultsContainer.classList.add("hidden");
-            document.body.classList.remove("overflow-hidden");
-            return;
+            if (resultsDiv) {
+                resultsDiv.style.top = searchRect.bottom + 8 + "px";
+            }
         }
 
-        // only load the pagefind script once
-        if (searchBox.dataset.loaded !== "true") {
-            searchBox.dataset.loaded = "true";
-            // load the pagefind script
-            window.pagefind = await import("/pagefind/pagefind.js");
+        async function performSearch(searchTerm) {
+            if (!searchTerm.trim()) {
+                closeResults();
+                return;
+            }
+
+            openResults();
+
+            if (searchBox.dataset.loaded !== "true") {
+                searchBox.dataset.loaded = "true";
+                window.pagefind = await import("/pagefind/pagefind.js");
+            }
+
+            const currentSearch = ++searchCounter;
+            const search = await window.pagefind.search(searchTerm);
+
+            if (currentSearch !== searchCounter) return;
+
+            let html = "";
+            for (const result of search.results) {
+                const data = await result.data();
+                if (currentSearch !== searchCounter) return;
+                html +=
+                    '<a href="' + data.url + '" class="block p-4 hover:bg-gray-50 rounded-lg">' +
+                    '<h3 class="text-lg font-semibold text-gray-900">' + escapeHtml(data.meta.title) + "</h3>" +
+                    '<p class="text-gray-600 mt-1">' + (data.excerpt || "") + "</p>" +
+                    "</a>";
+            }
+
+            if (currentSearch !== searchCounter) return;
+
+            if (html) {
+                resultsContent.innerHTML = html;
+            } else {
+                resultsContent.innerHTML =
+                    '<p class="text-gray-500 text-center py-4">No results found.</p>';
+            }
         }
 
-        // search the index using the input value
-        const search = await window.pagefind.search(searchTerm);
-
-        // clear the old results
-        resultsContent.innerHTML = "";
-
-        // add the new results
-        for (const result of search.results) {
-            const data = await result.data();
-            resultsContent.innerHTML += `
-                <a href="${data.url}" class="block p-4 hover:bg-gray-50 rounded-lg">
-                    <h3 class="text-lg font-semibold text-gray-900">${data.meta.title}</h3>
-                    <p class="text-gray-600 mt-1">${data.excerpt}</p>
-                </a>`;
+        function escapeHtml(str) {
+            const div = document.createElement("div");
+            div.textContent = str;
+            return div.innerHTML;
         }
-    };
 
-    document.querySelector("#search")?.addEventListener("input", (e) => {
-        performSearch(e.target.value);
-    });
+        searchBox.addEventListener("input", function (e) {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(function () {
+                performSearch(e.target.value);
+            }, 250);
+        });
 
-    document.querySelector("#search")?.addEventListener("keypress", (e) => {
-        if (e.key === "Enter") {
-            performSearch(e.target.value);
-        }
-    });
+        searchBox.addEventListener("keypress", function (e) {
+            if (e.key === "Enter") {
+                clearTimeout(debounceTimer);
+                performSearch(e.target.value);
+            }
+        });
 
-    // Close results when clicking outside
-    document.querySelector("#results")?.addEventListener("click", (e) => {
-        if (e.target === e.currentTarget) {
-            e.currentTarget.classList.add("hidden");
-            document.body.classList.remove("overflow-hidden");
-        }
-    });
+        resultsContainer.addEventListener("click", function (e) {
+            if (e.target === e.currentTarget) {
+                closeResults();
+            }
+        });
+
+        document.addEventListener("keydown", function (e) {
+            if (e.key === "Escape" && !resultsContainer.classList.contains("hidden")) {
+                closeResults();
+                searchBox.blur();
+            }
+        });
+    })();
 </script>

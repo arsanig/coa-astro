@@ -1,30 +1,36 @@
 ---
-import { getPodcasts } from "@utils/podcasts";
+import type { PodcastItem } from "@utils/podcasts";
 
-const fullPodPlaylistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
-const podcasts = await getPodcasts(fullPodPlaylistId);
+interface Props {
+    podcasts: PodcastItem[];
+}
+
+const { podcasts } = Astro.props;
 ---
 
-<div class="bg-gray p-8 lg:p-12 xl:p-19">
-    <div class="mx-auto">
-        <div class="grid grid-cols-1 w-full md:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8">
-            {
-                podcasts?.map((podcast) => (
-                    <a href={`/podcasts/${podcast.slug}`} class="group cursor-pointer">
-                        <div class="relative aspect-video overflow-hidden rounded-lg">
-                            <img
-                                src={podcast.thumbnail}
-                                alt={podcast.title}
-                                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                                loading="lazy"
-                            />
-                            <div class="absolute inset-0 transition-colors duration-300" />
-                        </div>
-                        <h3 class="mt-2 text-pearl text-sm font-barlow line-clamp-2">{podcast.title}</h3>
-                        <p class="text-jonquil text-xs mt-1">{podcast.publishedAt}</p>
-                    </a>
-                ))
-            }
-        </div>
-    </div>
+<div
+    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-8 pt-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
+>
+    {
+        podcasts?.map((podcast) => (
+            <a class="group block" href={`/podcasts/${podcast.slug}`}>
+                <div class="aspect-video overflow-hidden rounded-lg">
+                    <img
+                        src={podcast.thumbnail}
+                        alt={podcast.title}
+                        class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        loading="lazy"
+                    />
+                </div>
+                <div class="flex flex-col pt-4">
+                    <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
+                        {podcast.title}
+                    </span>
+                    <span class="font-barlow text-xs text-jonquil mt-2">
+                        {podcast.publishedAt}
+                    </span>
+                </div>
+            </a>
+        ))
+    }
 </div>
