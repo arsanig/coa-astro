@@ -23,7 +23,7 @@ if (totalPages > maxVisiblePages) {
     visiblePages = pages.slice(start - 1, end);
 }
 
-const btnClass = "px-2 py-1 sm:px-4 sm:py-2 rounded-md transition-colors text-tiny md:text-base";
+const btnClass = "px-3 py-2 sm:px-4 sm:py-2 rounded-md transition-colors text-sm md:text-base";
 const defaultBtn = `${btnClass} bg-pearl text-black hover:bg-madder hover:text-white`;
 const activeBtn = `${btnClass} bg-madder text-white pointer-events-none`;
 ---
@@ -37,7 +37,7 @@ const activeBtn = `${btnClass} bg-madder text-white pointer-events-none`;
                     <a href={getPageUrl(1)} class={defaultBtn}>
                         1
                     </a>
-                    {visiblePages[0] > 2 && <span class="text-pearl text-tiny md:text-base">...</span>}
+                    {visiblePages[0] > 2 && <span class="text-pearl text-sm md:text-base">...</span>}
                 </>
             )}
             {visiblePages.map((page) =>
@@ -54,7 +54,7 @@ const activeBtn = `${btnClass} bg-madder text-white pointer-events-none`;
             {visiblePages[visiblePages.length - 1] < totalPages && (
                 <>
                     {visiblePages[visiblePages.length - 1] < totalPages - 1 && (
-                        <span class="text-pearl text-tiny md:text-base">...</span>
+                        <span class="text-pearl text-sm md:text-base">...</span>
                     )}
                     <a href={getPageUrl(totalPages)} class={defaultBtn}>
                         {totalPages}

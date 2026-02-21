@@ -6,7 +6,7 @@ const data = await getPlaylistItems(9, shortsPlaylistId);
 const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
 ---
 
-<div class="bg-gray p-4 sm:p-8 lg:p-21">
+<div class="bg-gray px-4 py-4 sm:p-8 lg:p-21">
     <div class="max-w-7xl mx-auto relative">
         <div class="overflow-hidden">
             <div class="flex transition-transform duration-300 ease-in-out" id="carousel-track">
