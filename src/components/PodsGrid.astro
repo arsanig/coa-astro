@@ -1,37 +1,8 @@
 ---
-import { getPlaylistItems } from "@utils/youtubeApi";
+import { getPodcasts } from "@utils/podcasts";
+
 const fullPodPlaylistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
-
-type PodcastItem = {
-    id: string;
-    title: string;
-    thumbnail: string;
-    publishedAt: string;
-};
-
-const podCount = 20;
-let data = await getPlaylistItems(podCount, fullPodPlaylistId);
-
-let privateVidCount = 0;
-data?.items?.forEach((item) => {
-    item.snippet.title === "Private video" ? privateVidCount++ : null;
-});
-data = await getPlaylistItems(podCount + privateVidCount, fullPodPlaylistId);
-
-const podcasts = data?.items
-    ?.map(
-        (item): PodcastItem => ({
-            id: item.contentDetails.videoId,
-            title: item.snippet.title,
-            thumbnail: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.high?.url,
-            publishedAt: new Date(item.contentDetails.videoPublishedAt).toLocaleDateString("en-US", {
-                year: "numeric",
-                month: "long",
-                day: "numeric",
-            }),
-        })
-    )
-    .filter((podcast) => podcast.title !== "Private video");
+const podcasts = await getPodcasts(fullPodPlaylistId);
 ---
 
 <div class="bg-gray p-8 lg:p-12 xl:p-19">
@@ -39,7 +10,7 @@ const podcasts = data?.items
         <div class="grid grid-cols-1 w-full md:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8">
             {
                 podcasts?.map((podcast) => (
-                    <div class="group cursor-pointer video-item" data-video-id={podcast.id}>
+                    <a href={`/podcasts/${podcast.slug}`} class="group cursor-pointer">
                         <div class="relative aspect-video overflow-hidden rounded-lg">
                             <img
                                 src={podcast.thumbnail}
@@ -51,77 +22,9 @@ const podcasts = data?.items
                         </div>
                         <h3 class="mt-2 text-pearl text-sm font-barlow line-clamp-2">{podcast.title}</h3>
                         <p class="text-jonquil text-xs mt-1">{podcast.publishedAt}</p>
-                    </div>
+                    </a>
                 ))
             }
         </div>
     </div>
 </div>
-
-<!-- Video Modal -->
-<div id="videoModal" class="fixed inset-0 bg-black/80 z-50 hidden">
-    <button id="closeModalButton" class="fixed top-4 right-4 text-white hover:text-white/80 transition-colors z-50">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-        </svg>
-    </button>
-    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[95vw] max-w-7xl lg:max-w-[85vw]">
-        <div class="aspect-video w-full">
-            <iframe
-                id="modalVideoFrame"
-                class="w-full h-full"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-            >
-            </iframe>
-        </div>
-    </div>
-</div>
-
-<script>
-    function openVideoModal(videoId: string) {
-        const modal = document.getElementById("videoModal");
-        const iframe = document.getElementById("modalVideoFrame") as HTMLIFrameElement;
-        if (modal && iframe) {
-            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-            modal.classList.remove("hidden");
-            document.body.style.overflow = "hidden";
-        }
-    }
-
-    function closeVideoModal() {
-        const modal = document.getElementById("videoModal");
-        const iframe = document.getElementById("modalVideoFrame") as HTMLIFrameElement;
-        if (modal && iframe) {
-            iframe.src = "";
-            modal.classList.add("hidden");
-            document.body.style.overflow = "";
-        }
-    }
-
-    // Add click event listeners to all video items
-    document.addEventListener("DOMContentLoaded", () => {
-        const videoItems = document.querySelectorAll(".video-item");
-        videoItems.forEach((item) => {
-            item.addEventListener("click", () => {
-                const videoId = item.getAttribute("data-video-id");
-                if (videoId) {
-                    openVideoModal(videoId);
-                }
-            });
-        });
-
-        // Add click event listener to close button
-        const closeButton = document.getElementById("closeModalButton");
-        if (closeButton) {
-            closeButton.addEventListener("click", closeVideoModal);
-        }
-    });
-
-    // Close modal when clicking outside the video
-    document.getElementById("videoModal")?.addEventListener("click", (e) => {
-        if (e.target === e.currentTarget) {
-            closeVideoModal();
-        }
-    });
-</script>

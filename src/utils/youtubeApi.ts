@@ -17,14 +17,14 @@ type PlaylistItem = {
                 videoId: string;
                 videoPublishedAt: string;
             };
-        }
+        },
     ];
 };
 
 // missing return type interface
 export const getPlaylistItems = async (
     maxResults: number,
-    playlistId: string
+    playlistId: string,
 ): Promise<PlaylistItem> => {
     let data = {};
     const res = await youtube.playlistItems.list({
