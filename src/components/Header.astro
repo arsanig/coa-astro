@@ -33,7 +33,7 @@ import SearchIcon from "./SearchIcon.astro";
                 </div>
                 <div id="results" class="fixed inset-0 hidden z-100">
                     <div
-                        class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60vh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
+                        class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
                     >
                         <div class="space-y-4"></div>
                     </div>
@@ -61,15 +61,24 @@ import SearchIcon from "./SearchIcon.astro";
             document.body.classList.remove("overflow-hidden");
         }
 
+        function positionResults() {
+            var resultsDiv = resultsContainer.querySelector("div");
+            if (!resultsDiv) return;
+
+            var searchRect = searchBox.getBoundingClientRect();
+            var vh = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+            var offset = window.visualViewport ? window.visualViewport.offsetTop : 0;
+            var top = searchRect.bottom + 8;
+            var available = vh + offset - top - 16;
+
+            resultsDiv.style.top = top + "px";
+            resultsDiv.style.maxHeight = Math.max(available, 100) + "px";
+        }
+
         function openResults() {
             resultsContainer.classList.remove("hidden");
             document.body.classList.add("overflow-hidden");
-
-            const searchRect = searchBox.getBoundingClientRect();
-            const resultsDiv = resultsContainer.querySelector("div");
-            if (resultsDiv) {
-                resultsDiv.style.top = searchRect.bottom + 8 + "px";
-            }
+            positionResults();
         }
 
         async function performSearch(searchTerm) {
@@ -143,5 +152,24 @@ import SearchIcon from "./SearchIcon.astro";
                 searchBox.blur();
             }
         });
+
+        searchBox.addEventListener("focus", function () {
+            setTimeout(function () {
+                searchBox.scrollIntoView({ behavior: "smooth", block: "center" });
+            }, 300);
+        });
+
+        if (window.visualViewport) {
+            window.visualViewport.addEventListener("resize", function () {
+                if (!resultsContainer.classList.contains("hidden")) {
+                    positionResults();
+                }
+            });
+            window.visualViewport.addEventListener("scroll", function () {
+                if (!resultsContainer.classList.contains("hidden")) {
+                    positionResults();
+                }
+            });
+        }
     })();
 </script>
