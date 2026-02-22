@@ -20,7 +20,7 @@ import SearchIcon from "./SearchIcon.astro";
                 </h2>
             </a>
             <div class="mt-4 md:mt-6 lg:mt-8 w-full max-w-2xl px-4 relative flex justify-center">
-                <div class="relative w-full sm:w-4/5 md:w-2/3">
+                <div id="search-wrapper" class="relative w-full sm:w-4/5 md:w-2/3">
                     <input
                         id="search"
                         type="text"
@@ -31,9 +31,9 @@ import SearchIcon from "./SearchIcon.astro";
                         <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
                     </div>
                 </div>
-                <div id="results" class="fixed inset-0 hidden z-100">
+                <div id="results" class="fixed inset-0 hidden z-100 bg-black/50">
                     <div
-                        class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60vh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
+                        class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
                     >
                         <div class="space-y-4"></div>
                     </div>
@@ -56,18 +56,25 @@ import SearchIcon from "./SearchIcon.astro";
         let debounceTimer = null;
         let searchCounter = 0;
 
+        const searchWrapper = document.getElementById("search-wrapper");
+
         function closeResults() {
             resultsContainer.classList.add("hidden");
             document.body.classList.remove("overflow-hidden");
+            searchWrapper.style.zIndex = "";
+            searchBox.value = "";
+            resultsContent.innerHTML = "";
         }
 
         function openResults() {
             resultsContainer.classList.remove("hidden");
             document.body.classList.add("overflow-hidden");
 
-            const searchRect = searchBox.getBoundingClientRect();
+            searchWrapper.style.zIndex = "200";
+
             const resultsDiv = resultsContainer.querySelector("div");
             if (resultsDiv) {
+                const searchRect = searchBox.getBoundingClientRect();
                 resultsDiv.style.top = searchRect.bottom + 8 + "px";
             }
         }
