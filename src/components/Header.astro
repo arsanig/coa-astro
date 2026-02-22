@@ -31,7 +31,7 @@ import SearchIcon from "./SearchIcon.astro";
                         <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
                     </div>
                 </div>
-                <div id="results" class="fixed inset-0 hidden z-100">
+                <div id="results" class="fixed left-0 right-0 bottom-0 hidden z-100">
                     <div
                         class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
                     >
@@ -68,10 +68,11 @@ import SearchIcon from "./SearchIcon.astro";
             var searchRect = searchBox.getBoundingClientRect();
             var vh = window.visualViewport ? window.visualViewport.height : window.innerHeight;
             var offset = window.visualViewport ? window.visualViewport.offsetTop : 0;
-            var top = searchRect.bottom + 8;
-            var available = vh + offset - top - 16;
+            var overlayTop = searchRect.bottom;
+            var available = vh + offset - overlayTop - 24;
 
-            resultsDiv.style.top = top + "px";
+            resultsContainer.style.top = overlayTop + "px";
+            resultsDiv.style.top = "8px";
             resultsDiv.style.maxHeight = Math.max(available, 100) + "px";
         }
 
