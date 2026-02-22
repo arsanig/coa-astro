@@ -20,7 +20,7 @@ import SearchIcon from "./SearchIcon.astro";
                 </h2>
             </a>
             <div class="mt-4 md:mt-6 lg:mt-8 w-full max-w-2xl px-4 relative flex justify-center">
-                <div class="relative w-full sm:w-4/5 md:w-2/3">
+                <div class="relative w-full sm:w-4/5 md:w-2/3 z-[101]">
                     <input
                         id="search"
                         type="text"
@@ -156,9 +156,18 @@ import SearchIcon from "./SearchIcon.astro";
 
         searchBox.addEventListener("focus", function () {
             setTimeout(function () {
-                searchBox.scrollIntoView({ behavior: "smooth", block: "center" });
+                searchBox.scrollIntoView({ behavior: "smooth", block: "nearest" });
+                if (!resultsContainer.classList.contains("hidden")) {
+                    setTimeout(positionResults, 400);
+                }
             }, 300);
         });
+
+        window.addEventListener("scroll", function () {
+            if (!resultsContainer.classList.contains("hidden")) {
+                positionResults();
+            }
+        }, true);
 
         if (window.visualViewport) {
             window.visualViewport.addEventListener("resize", function () {
