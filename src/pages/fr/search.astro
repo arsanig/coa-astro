@@ -1,6 +1,7 @@
 ---
 import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
+import synonyms from "@utils/synonyms.json";
 ---
 
 <Main title={`${m.searchResultsLabel()} | ${m.siteName()}`}>
@@ -87,6 +88,8 @@ import * as m from "@paraglide/messages.js";
         </svg>
     </button>
 </Main>
+
+<script id="synonyms-data" type="application/json" set:html={JSON.stringify(synonyms)} />
 
 <style is:global>
     #results-list mark {
@@ -230,10 +233,7 @@ import * as m from "@paraglide/messages.js";
             paginationEl.classList.remove("hidden");
         };
 
-        const SYNONYMS = [
-            ["st.", "saint"],
-            ["fr.", "father"],
-        ];
+        const SYNONYMS = JSON.parse(document.getElementById("synonyms-data").textContent);
 
         const isWordBoundary = (str, start, len) => {
             const before = start === 0 || /[\s.,;:!?'"-]/.test(str[start - 1]);

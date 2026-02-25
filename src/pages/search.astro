@@ -1,6 +1,7 @@
 ---
 import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
+import synonyms from "@utils/synonyms.json";
 ---
 
 <Main title={`${m.searchResultsLabel()} | ${m.siteName()}`}>
@@ -110,6 +111,7 @@ import * as m from "@paraglide/messages.js";
     }
 </style>
 
+<script id="synonyms-data" type="application/json" set:html={JSON.stringify(synonyms)} />
 <script is:inline>
     (() => {
         const MAX_VISIBLE_PAGES = 5;
@@ -241,14 +243,7 @@ import * as m from "@paraglide/messages.js";
             paginationEl.classList.remove("hidden");
         };
 
-        const SYNONYMS = [
-            ["st.", "saint", "st"],
-            ["fr.", "father", "fr"],
-            ["anthony", "antony"],
-            ["catholic", "catholicism"],
-            ["orthodox", "orthodoxy"],
-            ["protestant", "protestantism"],
-        ];
+        const SYNONYMS = JSON.parse(document.getElementById("synonyms-data").textContent);
 
         const isWordBoundary = (str, start, len) => {
             const before = start === 0 || /[\s.,;:!?'"-]/.test(str[start - 1]);
