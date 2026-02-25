@@ -46,10 +46,36 @@ import * as m from "@paraglide/messages.js";
             <div id="search-empty" class="hidden text-center py-12">
                 <span class="font-barlow text-lg text-pearl">{m.noResultsFound()}</span>
             </div>
-            <div id="results-list"></div>
+            <div id="results-list" class="grid grid-cols-1 gap-6"></div>
             <div id="pagination" class="hidden"></div>
         </div>
     </div>
+
+    <template id="result-card-template">
+        <a class="group flex flex-col sm:flex-row sm:items-stretch gap-3 sm:gap-4 bg-black/30 rounded-lg p-3 sm:p-4 hover:bg-black/50 transition-colors">
+            <div data-slot="thumb" class="shrink-0 w-full sm:w-48 rounded-md overflow-hidden hidden">
+                <div class="aspect-video">
+                    <img data-slot="img" alt="" class="w-full h-full object-cover" loading="lazy" />
+                </div>
+            </div>
+            <div class="min-w-0 flex-1">
+                <h3 data-slot="title" class="font-barlow text-lg sm:text-xl text-pearl group-hover:underline group-hover:underline-offset-4"></h3>
+                <p data-slot="excerpt" class="font-barlow text-sm sm:text-base text-pearl/70 mt-2 sm:line-clamp-[7]"></p>
+            </div>
+        </a>
+    </template>
+
+    <template id="page-btn-template">
+        <a class="px-3 py-2 sm:px-4 sm:py-2 rounded-md transition-colors text-sm md:text-base bg-pearl text-black hover:bg-madder hover:text-white"></a>
+    </template>
+
+    <template id="page-active-template">
+        <span class="px-3 py-2 sm:px-4 sm:py-2 rounded-md transition-colors text-sm md:text-base bg-madder text-white pointer-events-none" aria-current="page"></span>
+    </template>
+
+    <template id="page-ellipsis-template">
+        <span class="text-pearl text-sm md:text-base">...</span>
+    </template>
 
     <button
         id="back-to-top"
@@ -97,6 +123,11 @@ import * as m from "@paraglide/messages.js";
         const listEl = document.getElementById("results-list");
         const paginationEl = document.getElementById("pagination");
 
+        const cardTemplate = document.getElementById("result-card-template");
+        const pageBtnTemplate = document.getElementById("page-btn-template");
+        const pageActiveTemplate = document.getElementById("page-active-template");
+        const pageEllipsisTemplate = document.getElementById("page-ellipsis-template");
+
         const buildUrl = (overrides = {}) => {
             const prefix = window.location.pathname.startsWith("/fr") ? "/fr" : "";
             const f = overrides.filter !== undefined ? overrides.filter : activeFilter;
@@ -130,52 +161,76 @@ import * as m from "@paraglide/messages.js";
             return;
         }
 
-        const escapeHtml = (str) => {
-            const div = document.createElement("div");
-            div.textContent = str;
-            return div.innerHTML;
+        const createCard = (data) => {
+            const card = cardTemplate.content.cloneNode(true);
+            const link = card.querySelector("a");
+            const thumb = card.querySelector("[data-slot='thumb']");
+            const img = card.querySelector("[data-slot='img']");
+            const title = card.querySelector("[data-slot='title']");
+            const excerpt = card.querySelector("[data-slot='excerpt']");
+
+            link.href = data.url;
+            title.textContent = data.meta.title || "";
+            // Pagefind excerpts contain <mark> tags for keyword highlighting
+            excerpt.innerHTML = data.excerpt || "";
+
+            if (data.meta.image) {
+                img.src = data.meta.image;
+                thumb.classList.remove("hidden");
+            }
+
+            return card;
         };
 
-        const getSearchUrl = (page) => buildUrl({ page });
+        const createPageBtn = (page, href) => {
+            const btn = pageBtnTemplate.content.cloneNode(true);
+            const link = btn.querySelector("a");
+            link.href = href;
+            link.textContent = page;
+            return btn;
+        };
+
+        const createActiveBtn = (page) => {
+            const btn = pageActiveTemplate.content.cloneNode(true);
+            const span = btn.querySelector("span");
+            span.textContent = page;
+            return btn;
+        };
+
+        const createEllipsis = () => pageEllipsisTemplate.content.cloneNode(true);
 
         const renderPagination = (totalPages) => {
             if (totalPages <= 1) return;
 
-            const btnClass = "px-3 py-2 sm:px-4 sm:py-2 rounded-md transition-colors text-sm md:text-base";
-            const defaultBtn = btnClass + " bg-pearl text-black hover:bg-madder hover:text-white";
-            const activeBtn = btnClass + " bg-madder text-white pointer-events-none";
+            const container = document.createElement("div");
+            container.className = "flex justify-center items-center gap-1 sm:gap-2 py-19";
 
             const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
-
             const start = Math.max(1, Math.min(currentPage - 2, totalPages - MAX_VISIBLE_PAGES + 1));
             const end = Math.min(totalPages, start + MAX_VISIBLE_PAGES - 1);
             const visible = pages.slice(start - 1, end);
 
-            let html = '<div class="flex justify-center items-center gap-1 sm:gap-2 py-19">';
-
             if (visible[0] > 1) {
-                html += '<a href="' + getSearchUrl(1) + '" class="' + defaultBtn + '">1</a>';
-                if (visible[0] > 2) html += '<span class="text-pearl text-sm md:text-base">...</span>';
+                container.appendChild(createPageBtn(1, buildUrl({ page: 1 })));
+                if (visible[0] > 2) container.appendChild(createEllipsis());
             }
 
             for (const p of visible) {
                 if (p === currentPage) {
-                    html += '<span class="' + activeBtn + '" aria-current="page">' + p + "</span>";
+                    container.appendChild(createActiveBtn(p));
                 } else {
-                    html += '<a href="' + getSearchUrl(p) + '" class="' + defaultBtn + '">' + p + "</a>";
+                    container.appendChild(createPageBtn(p, buildUrl({ page: p })));
                 }
             }
 
             if (visible[visible.length - 1] < totalPages) {
                 if (visible[visible.length - 1] < totalPages - 1) {
-                    html += '<span class="text-pearl text-sm md:text-base">...</span>';
+                    container.appendChild(createEllipsis());
                 }
-                html += '<a href="' + getSearchUrl(totalPages) + '" class="' + defaultBtn + '">' + totalPages + "</a>";
+                container.appendChild(createPageBtn(totalPages, buildUrl({ page: totalPages })));
             }
 
-            html += "</div>";
-
-            paginationEl.innerHTML = html;
+            paginationEl.replaceChildren(container);
             paginationEl.classList.remove("hidden");
         };
 
@@ -185,13 +240,11 @@ import * as m from "@paraglide/messages.js";
                 const filterOptions = activeFilter ? { filters: { category: [activeFilter] } } : {};
                 const search = await pagefind.search(query, filterOptions);
 
-                let allResults = search.results;
-
-                loadingEl.classList.add("hidden");
-
+                const allResults = search.results;
                 const totalResults = allResults.length;
 
                 if (!totalResults) {
+                    loadingEl.classList.add("hidden");
                     searchCountEl.textContent = "0 results";
                     emptyEl.classList.remove("hidden");
                     return;
@@ -209,38 +262,17 @@ import * as m from "@paraglide/messages.js";
                 searchCountEl.textContent =
                     showAll
                         ? totalResults + " result" + (totalResults !== 1 ? "s" : "")
-                        : "Showing " + rangeStart + "–" + rangeEnd + " of " + totalResults + " result" + (totalResults !== 1 ? "s" : "");
+                        : "Showing " + rangeStart + "\u2013" + rangeEnd + " of " + totalResults + " result" + (totalResults !== 1 ? "s" : "");
 
-                let html = '<div class="grid grid-cols-1 gap-6">';
+                const fragment = document.createDocumentFragment();
                 for (const result of pageResults) {
                     const data = await result.data({ excerptLength: 500 });
-                    const img = data.meta.image || "";
-                    html +=
-                        '<a href="' +
-                        data.url +
-                        '" class="group flex flex-col sm:flex-row sm:items-stretch gap-3 sm:gap-4 bg-black/30 rounded-lg p-3 sm:p-4 hover:bg-black/50 transition-colors">' +
-                        (img
-                            ? '<div class="shrink-0 w-full sm:w-48 rounded-md overflow-hidden">' +
-                              '<div class="aspect-video">' +
-                              '<img src="' +
-                              escapeHtml(img) +
-                              '" alt="" class="w-full h-full object-cover" loading="lazy" />' +
-                              "</div></div>"
-                            : "") +
-                        '<div class="min-w-0 flex-1">' +
-                        '<h3 class="font-barlow text-lg sm:text-xl text-pearl group-hover:underline group-hover:underline-offset-4">' +
-                        escapeHtml(data.meta.title || "") +
-                        "</h3>" +
-                        '<p class="font-barlow text-sm sm:text-base text-pearl/70 mt-2 sm:line-clamp-[7]">' +
-                        (data.excerpt || "") +
-                        "</p>" +
-                        "</div>" +
-                        "</a>";
+                    fragment.appendChild(createCard(data));
                 }
-                html += "</div>";
 
-                listEl.innerHTML = html;
+                listEl.replaceChildren(fragment);
                 renderPagination(totalPages);
+                loadingEl.classList.add("hidden");
             } catch (e) {
                 loadingEl.classList.add("hidden");
                 emptyEl.classList.remove("hidden");
