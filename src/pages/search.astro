@@ -40,8 +40,8 @@ import * as m from "@paraglide/messages.js";
                     </div>
                 </div>
             </div>
-            <div id="search-loading" class="hidden text-center py-12">
-                <span class="font-barlow text-lg text-pearl">{m.searchingLabel()}</span>
+            <div id="search-loading" class="text-center py-12">
+                <div class="inline-block w-10 h-10 border-4 border-pearl/20 border-t-jonquil rounded-full animate-spin"></div>
             </div>
             <div id="search-empty" class="hidden text-center py-12">
                 <span class="font-barlow text-lg text-pearl">{m.noResultsFound()}</span>
@@ -56,7 +56,7 @@ import * as m from "@paraglide/messages.js";
         aria-label="Back to top"
         class="fixed bottom-6 right-4 z-40 hidden p-2 rounded-full bg-pearl/10 backdrop-blur-sm text-pearl hover:bg-madder transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
     >
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
         </svg>
     </button>
@@ -125,11 +125,10 @@ import * as m from "@paraglide/messages.js";
         }
 
         if (!query.trim()) {
+            loadingEl.classList.add("hidden");
             emptyEl.classList.remove("hidden");
             return;
         }
-
-        loadingEl.classList.remove("hidden");
 
         const escapeHtml = (str) => {
             const div = document.createElement("div");
