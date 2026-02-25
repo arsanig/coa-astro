@@ -1,4 +1,5 @@
 ---
+import { Image } from "astro:assets";
 import type { PodcastItem } from "@utils/podcasts";
 
 interface Props {
@@ -12,23 +13,23 @@ const { podcasts } = Astro.props;
     class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-4 pt-8 sm:px-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
 >
     {
-        podcasts?.map((podcast) => (
+        podcasts?.map((podcast, i) => (
             <a class="group block" href={`/podcasts/${podcast.slug}`}>
                 <div class="aspect-video overflow-hidden rounded-lg">
-                    <img
+                    <Image
                         src={podcast.thumbnail}
                         alt={podcast.title}
+                        width={480}
+                        height={270}
                         class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-                        loading="lazy"
+                        loading={i < 8 ? "eager" : "lazy"}
                     />
                 </div>
                 <div class="flex flex-col pt-4">
                     <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-lg sm:text-xl text-pearl line-clamp-2">
                         {podcast.title}
                     </span>
-                    <span class="font-barlow text-xs text-jonquil mt-2">
-                        {podcast.publishedAt}
-                    </span>
+                    <span class="font-barlow text-xs text-jonquil mt-2">{podcast.publishedAt}</span>
                 </div>
             </a>
         ))

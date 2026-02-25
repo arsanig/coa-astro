@@ -5,10 +5,10 @@ import * as m from "@paraglide/messages.js";
 import SearchIcon from "./SearchIcon.astro";
 ---
 
-<header>
-    <div class="absolute top-4 left-4 z-50">
+<header data-pagefind-ignore>
+    <!-- <div class="absolute top-4 left-4 z-50">
         <LanguageToggle />
-    </div>
+    </div> -->
     <div class="bg-no-repeat bg-cover bg-center bg-[url(/assets/images/church.webp)]">
         <div class="bg-black/85 min-h-96 flex flex-col justify-center items-center">
             <a href="/">
@@ -25,17 +25,10 @@ import SearchIcon from "./SearchIcon.astro";
                         id="search"
                         type="text"
                         placeholder={m.searchPlaceholder()}
-                        class="w-full px-10 sm:px-12 py-2.5 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-jonquil text-center text-sm sm:text-base [&:focus::placeholder]:opacity-0"
+                        class="w-full px-10 sm:px-12 py-2.5 sm:py-3 rounded-lg bg-white text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-jonquil text-center text-sm sm:text-base [&:focus::placeholder]:opacity-0"
                     />
                     <div class="absolute left-3 sm:left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">
                         <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
-                    </div>
-                </div>
-                <div id="results" class="fixed inset-0 hidden z-100">
-                    <div
-                        class="absolute w-[calc(100%-2rem)] sm:w-4/5 md:w-1/2 left-1/2 -translate-x-1/2 mt-2 max-h-[60vh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4"
-                    >
-                        <div class="space-y-4"></div>
                     </div>
                 </div>
             </div>
@@ -47,100 +40,21 @@ import SearchIcon from "./SearchIcon.astro";
 </header>
 
 <script is:inline>
-    (function () {
+    (() => {
         const searchBox = document.querySelector("#search");
-        const resultsContainer = document.querySelector("#results");
-        const resultsContent = resultsContainer?.querySelector(".space-y-4");
-        if (!searchBox || !resultsContainer || !resultsContent) return;
+        if (!searchBox) return;
 
-        let debounceTimer = null;
-        let searchCounter = 0;
+        const navigateToSearch = (query) => {
+            const q = query.trim();
+            if (!q) return;
+            const prefix = window.location.pathname.startsWith("/fr") ? "/fr" : "";
+            window.location.href = prefix + "/search?q=" + encodeURIComponent(q);
+        };
 
-        function closeResults() {
-            resultsContainer.classList.add("hidden");
-            document.body.classList.remove("overflow-hidden");
-        }
-
-        function openResults() {
-            resultsContainer.classList.remove("hidden");
-            document.body.classList.add("overflow-hidden");
-
-            const searchRect = searchBox.getBoundingClientRect();
-            const resultsDiv = resultsContainer.querySelector("div");
-            if (resultsDiv) {
-                resultsDiv.style.top = searchRect.bottom + 8 + "px";
-            }
-        }
-
-        async function performSearch(searchTerm) {
-            if (!searchTerm.trim()) {
-                closeResults();
-                return;
-            }
-
-            openResults();
-
-            if (searchBox.dataset.loaded !== "true") {
-                searchBox.dataset.loaded = "true";
-                window.pagefind = await import("/pagefind/pagefind.js");
-            }
-
-            const currentSearch = ++searchCounter;
-            const search = await window.pagefind.search(searchTerm);
-
-            if (currentSearch !== searchCounter) return;
-
-            let html = "";
-            for (const result of search.results) {
-                const data = await result.data();
-                if (currentSearch !== searchCounter) return;
-                html +=
-                    '<a href="' + data.url + '" class="block p-4 hover:bg-gray-50 rounded-lg">' +
-                    '<h3 class="text-lg font-semibold text-gray-900">' + escapeHtml(data.meta.title) + "</h3>" +
-                    '<p class="text-gray-600 mt-1">' + (data.excerpt || "") + "</p>" +
-                    "</a>";
-            }
-
-            if (currentSearch !== searchCounter) return;
-
-            if (html) {
-                resultsContent.innerHTML = html;
-            } else {
-                resultsContent.innerHTML =
-                    '<p class="text-gray-500 text-center py-4">No results found.</p>';
-            }
-        }
-
-        function escapeHtml(str) {
-            const div = document.createElement("div");
-            div.textContent = str;
-            return div.innerHTML;
-        }
-
-        searchBox.addEventListener("input", function (e) {
-            clearTimeout(debounceTimer);
-            debounceTimer = setTimeout(function () {
-                performSearch(e.target.value);
-            }, 250);
-        });
-
-        searchBox.addEventListener("keypress", function (e) {
+        searchBox.addEventListener("keypress", (e) => {
             if (e.key === "Enter") {
-                clearTimeout(debounceTimer);
-                performSearch(e.target.value);
-            }
-        });
-
-        resultsContainer.addEventListener("click", function (e) {
-            if (e.target === e.currentTarget) {
-                closeResults();
-            }
-        });
-
-        document.addEventListener("keydown", function (e) {
-            if (e.key === "Escape" && !resultsContainer.classList.contains("hidden")) {
-                closeResults();
-                searchBox.blur();
+                e.preventDefault();
+                navigateToSearch(e.target.value);
             }
         });
     })();

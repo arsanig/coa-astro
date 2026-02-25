@@ -18,6 +18,9 @@ export default defineConfig({
         }),
         pagefind(),
     ],
+    image: {
+        domains: ["i.ytimg.com"],
+    },
     output: "static",
     build: {
         format: "file",
