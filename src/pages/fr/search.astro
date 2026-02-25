@@ -80,7 +80,7 @@ import * as m from "@paraglide/messages.js";
     <button
         id="back-to-top"
         aria-label="Back to top"
-        class="fixed bottom-6 right-4 z-40 hidden p-2 rounded-full bg-pearl/10 backdrop-blur-sm text-pearl hover:bg-madder transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
+        class="fixed bottom-6 right-4 z-40 hidden sm:!hidden p-2 rounded-full bg-pearl/10 backdrop-blur-sm text-pearl hover:bg-madder transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
     >
         <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
@@ -235,6 +235,12 @@ import * as m from "@paraglide/messages.js";
             ["fr.", "father"],
         ];
 
+        const isWordBoundary = (str, start, len) => {
+            const before = start === 0 || /[\s.,;:!?'"-]/.test(str[start - 1]);
+            const after = start + len >= str.length || /[\s.,;:!?'"-]/.test(str[start + len]);
+            return before && after;
+        };
+
         const expandQuery = (q) => {
             const results = new Set([q]);
             const expand = (current) => {
@@ -242,7 +248,7 @@ import * as m from "@paraglide/messages.js";
                 for (const group of SYNONYMS) {
                     for (const term of group) {
                         const idx = lower.indexOf(term);
-                        if (idx === -1) continue;
+                        if (idx === -1 || !isWordBoundary(lower, idx, term.length)) continue;
                         for (const alt of group) {
                             if (alt === term) continue;
                             const variant = current.slice(0, idx) + alt + current.slice(idx + term.length);
