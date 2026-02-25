@@ -73,13 +73,15 @@ import SearchIcon from "./SearchIcon.astro";
         }
 
         function openResults() {
-            document.body.dataset.scrollY = window.scrollY.toString();
-            resultsPanel.classList.remove("hidden");
-            resultsBackdrop.classList.remove("hidden");
-            document.documentElement.classList.add("overflow-hidden");
-            document.body.classList.add("overflow-hidden", "fixed", "inset-0", "w-full");
-            document.body.style.top = "-" + document.body.dataset.scrollY + "px";
-            searchWrapper.style.zIndex = "200";
+            if (resultsPanel.classList.contains("hidden")) {
+                document.body.dataset.scrollY = window.scrollY.toString();
+                resultsPanel.classList.remove("hidden");
+                resultsBackdrop.classList.remove("hidden");
+                document.documentElement.classList.add("overflow-hidden");
+                document.body.classList.add("overflow-hidden", "fixed", "inset-0", "w-full");
+                document.body.style.top = "-" + document.body.dataset.scrollY + "px";
+                searchWrapper.style.zIndex = "200";
+            }
         }
 
         async function performSearch(searchTerm) {
