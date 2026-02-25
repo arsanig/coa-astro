@@ -205,28 +205,24 @@ import * as m from "@paraglide/messages.js";
             const container = document.createElement("div");
             container.className = "flex justify-center items-center gap-1 sm:gap-2 py-19";
 
-            const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
             const start = Math.max(1, Math.min(currentPage - 2, totalPages - MAX_VISIBLE_PAGES + 1));
             const end = Math.min(totalPages, start + MAX_VISIBLE_PAGES - 1);
-            const visible = pages.slice(start - 1, end);
 
-            if (visible[0] > 1) {
+            if (start > 1) {
                 container.appendChild(createPageBtn(1, buildUrl({ page: 1 })));
-                if (visible[0] > 2) container.appendChild(createEllipsis());
+                if (start > 2) container.appendChild(createEllipsis());
             }
 
-            for (const p of visible) {
-                if (p === currentPage) {
-                    container.appendChild(createActiveBtn(p));
-                } else {
-                    container.appendChild(createPageBtn(p, buildUrl({ page: p })));
-                }
+            for (let p = start; p <= end; p++) {
+                container.appendChild(
+                    p === currentPage
+                        ? createActiveBtn(p)
+                        : createPageBtn(p, buildUrl({ page: p }))
+                );
             }
 
-            if (visible[visible.length - 1] < totalPages) {
-                if (visible[visible.length - 1] < totalPages - 1) {
-                    container.appendChild(createEllipsis());
-                }
+            if (end < totalPages) {
+                if (end < totalPages - 1) container.appendChild(createEllipsis());
                 container.appendChild(createPageBtn(totalPages, buildUrl({ page: totalPages })));
             }
 
@@ -234,14 +230,65 @@ import * as m from "@paraglide/messages.js";
             paginationEl.classList.remove("hidden");
         };
 
+        const SYNONYMS = [
+            ["st.", "saint"],
+            ["fr.", "father"],
+        ];
+
+        const expandQuery = (q) => {
+            const results = new Set([q]);
+            const expand = (current) => {
+                const lower = current.toLowerCase();
+                for (const group of SYNONYMS) {
+                    for (const term of group) {
+                        const idx = lower.indexOf(term);
+                        if (idx === -1) continue;
+                        for (const alt of group) {
+                            if (alt === term) continue;
+                            const variant = current.slice(0, idx) + alt + current.slice(idx + term.length);
+                            if (!results.has(variant)) {
+                                results.add(variant);
+                                expand(variant);
+                            }
+                        }
+                        break;
+                    }
+                }
+            };
+            expand(q);
+            return [...results];
+        };
+
         const runSearch = async () => {
             try {
                 const pagefind = await import("/pagefind/pagefind.js");
                 const filterOptions = activeFilter ? { filters: { category: [activeFilter] } } : {};
-                const search = await pagefind.search(query, filterOptions);
+                const quoted = (q) => q.startsWith('"') && q.endsWith('"') ? q : '"' + q + '"';
+                const queries = expandQuery(query);
+                const searches = await Promise.all(
+                    queries.map((q) => pagefind.search(quoted(q), filterOptions))
+                );
 
-                const allResults = search.results;
-                const totalResults = allResults.length;
+                const seen = new Set();
+                const dedupedResults = [];
+                for (const search of searches) {
+                    for (const result of search.results) {
+                        if (!seen.has(result.id)) {
+                            seen.add(result.id);
+                            dedupedResults.push(result);
+                        }
+                    }
+                }
+
+                const allData = await Promise.all(
+                    dedupedResults.map((r) => r.data({ excerptLength: 500 }))
+                );
+                const lowerQueries = queries.map((q) => q.toLowerCase());
+                const filtered = allData.filter((d) => {
+                    const title = (d.meta.title || "").toLowerCase();
+                    return lowerQueries.some((q) => title.includes(q));
+                });
+                const totalResults = filtered.length;
 
                 if (!totalResults) {
                     loadingEl.classList.add("hidden");
@@ -256,19 +303,22 @@ import * as m from "@paraglide/messages.js";
                 if (currentPage > totalPages) currentPage = totalPages;
 
                 const startIdx = showAll ? 0 : (currentPage - 1) * perPage;
-                const pageResults = showAll ? allResults : allResults.slice(startIdx, startIdx + perPage);
+                const pageData = showAll ? filtered : filtered.slice(startIdx, startIdx + perPage);
                 const rangeStart = startIdx + 1;
-                const rangeEnd = startIdx + pageResults.length;
-                searchCountEl.textContent =
-                    showAll
-                        ? totalResults + " result" + (totalResults !== 1 ? "s" : "")
-                        : "Showing " + rangeStart + "\u2013" + rangeEnd + " of " + totalResults + " result" + (totalResults !== 1 ? "s" : "");
+                const rangeEnd = startIdx + pageData.length;
+                searchCountEl.textContent = showAll
+                    ? totalResults + " result" + (totalResults !== 1 ? "s" : "")
+                    : "Showing " +
+                      rangeStart +
+                      "\u2013" +
+                      rangeEnd +
+                      " of " +
+                      totalResults +
+                      " result" +
+                      (totalResults !== 1 ? "s" : "");
 
-                const allData = await Promise.all(
-                    pageResults.map((r) => r.data({ excerptLength: 500 }))
-                );
                 const fragment = document.createDocumentFragment();
-                for (const data of allData) {
+                for (const data of pageData) {
                     fragment.appendChild(createCard(data));
                 }
 
