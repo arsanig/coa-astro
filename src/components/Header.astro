@@ -6,9 +6,9 @@ import SearchIcon from "./SearchIcon.astro";
 ---
 
 <header>
-    <div class="absolute top-4 left-4 z-50">
+    <!-- <div class="absolute top-4 left-4 z-50">
         <LanguageToggle />
-    </div>
+    </div> -->
     <div class="bg-no-repeat bg-cover bg-center bg-[url(/assets/images/church.webp)]">
         <div class="bg-black/85 min-h-96 flex flex-col justify-center items-center">
             <a href="/">
@@ -20,7 +20,7 @@ import SearchIcon from "./SearchIcon.astro";
                 </h2>
             </a>
             <div class="mt-4 md:mt-6 lg:mt-8 w-full max-w-2xl px-4 relative flex justify-center">
-                <div id="search-wrapper" class="relative w-full sm:w-4/5 md:w-2/3">
+                <div class="relative w-full sm:w-4/5 md:w-2/3">
                     <input
                         id="search"
                         type="text"
@@ -30,14 +30,7 @@ import SearchIcon from "./SearchIcon.astro";
                     <div class="absolute left-3 sm:left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">
                         <SearchIcon class="w-4 h-4 sm:w-5 sm:h-5" />
                     </div>
-                    <div
-                        id="results"
-                        class="absolute top-full mt-2 left-0 right-0 max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4 text-sm sm:text-base hidden"
-                    >
-                        <div class="space-y-4"></div>
-                    </div>
                 </div>
-                <div id="results-backdrop" class="fixed inset-0 hidden z-100 bg-black/50 touch-action-none" style="touch-action:none"></div>
             </div>
         </div>
     </div>
@@ -47,110 +40,21 @@ import SearchIcon from "./SearchIcon.astro";
 </header>
 
 <script is:inline>
-    (function () {
+    (() => {
         const searchBox = document.querySelector("#search");
-        const resultsPanel = document.querySelector("#results");
-        const resultsBackdrop = document.querySelector("#results-backdrop");
-        const resultsContent = resultsPanel?.querySelector(".space-y-4");
-        if (!searchBox || !resultsPanel || !resultsBackdrop || !resultsContent) return;
+        if (!searchBox) return;
 
-        let debounceTimer = null;
-        let searchCounter = 0;
+        const navigateToSearch = (query) => {
+            const q = query.trim();
+            if (!q) return;
+            const prefix = window.location.pathname.startsWith("/fr") ? "/fr" : "";
+            window.location.href = prefix + "/search?q=" + encodeURIComponent(q);
+        };
 
-        const searchWrapper = document.getElementById("search-wrapper");
-
-        function closeResults() {
-            resultsPanel.classList.add("hidden");
-            resultsBackdrop.classList.add("hidden");
-            document.documentElement.classList.remove("overflow-hidden");
-            document.body.classList.remove("overflow-hidden", "fixed", "inset-0", "w-full");
-            document.body.style.top = "";
-            window.scrollTo(0, parseInt(document.body.dataset.scrollY || "0"));
-            delete document.body.dataset.scrollY;
-            searchWrapper.style.zIndex = "";
-            searchBox.value = "";
-            resultsContent.innerHTML = "";
-        }
-
-        function openResults() {
-            if (resultsPanel.classList.contains("hidden")) {
-                document.body.dataset.scrollY = window.scrollY.toString();
-                document.documentElement.classList.add("overflow-hidden");
-                document.body.classList.add("overflow-hidden", "fixed", "inset-0", "w-full");
-                document.body.style.top = "-" + document.body.dataset.scrollY + "px";
-                searchWrapper.style.zIndex = "200";
-                resultsPanel.classList.remove("hidden");
-                resultsBackdrop.classList.remove("hidden");
-            }
-        }
-
-        async function performSearch(searchTerm) {
-            if (!searchTerm.trim()) {
-                closeResults();
-                return;
-            }
-
-            openResults();
-
-            if (searchBox.dataset.loaded !== "true") {
-                searchBox.dataset.loaded = "true";
-                window.pagefind = await import("/pagefind/pagefind.js");
-            }
-
-            const currentSearch = ++searchCounter;
-            const search = await window.pagefind.search(searchTerm);
-
-            if (currentSearch !== searchCounter) return;
-
-            let html = "";
-            for (const result of search.results) {
-                const data = await result.data();
-                if (currentSearch !== searchCounter) return;
-                html +=
-                    '<a href="' + data.url + '" class="block p-4 hover:bg-gray-50 rounded-lg">' +
-                    '<h3 class="text-lg font-semibold text-gray-900">' + escapeHtml(data.meta.title) + "</h3>" +
-                    '<p class="text-gray-600 mt-1">' + (data.excerpt || "") + "</p>" +
-                    "</a>";
-            }
-
-            if (currentSearch !== searchCounter) return;
-
-            if (html) {
-                resultsContent.innerHTML = html;
-            } else {
-                resultsContent.innerHTML =
-                    '<p class="text-gray-500 text-center py-4">No results found.</p>';
-            }
-        }
-
-        function escapeHtml(str) {
-            const div = document.createElement("div");
-            div.textContent = str;
-            return div.innerHTML;
-        }
-
-        searchBox.addEventListener("input", function (e) {
-            clearTimeout(debounceTimer);
-            debounceTimer = setTimeout(function () {
-                performSearch(e.target.value);
-            }, 250);
-        });
-
-        searchBox.addEventListener("keypress", function (e) {
+        searchBox.addEventListener("keypress", (e) => {
             if (e.key === "Enter") {
-                clearTimeout(debounceTimer);
-                performSearch(e.target.value);
-            }
-        });
-
-        resultsBackdrop.addEventListener("click", function () {
-            closeResults();
-        });
-
-        document.addEventListener("keydown", function (e) {
-            if (e.key === "Escape" && !resultsPanel.classList.contains("hidden")) {
-                closeResults();
-                searchBox.blur();
+                e.preventDefault();
+                navigateToSearch(e.target.value);
             }
         });
     })();

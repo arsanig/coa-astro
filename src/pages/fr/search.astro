@@ -1,0 +1,249 @@
+---
+import Main from "@layouts/Main.astro";
+import * as m from "@paraglide/messages.js";
+---
+
+<Main title={`${m.searchResultsLabel()} | ${m.siteName()}`}>
+    <div class="bg-gray min-h-[60vh] px-4 sm:px-8 lg:px-12 xl:px-19 py-8 sm:py-12 lg:py-16">
+        <div id="search-results" class="space-y-6">
+            <div id="search-header" class="hidden">
+                <h3 class="font-noto text-2xl sm:text-3xl text-pearl mb-4 sm:mb-6">
+                    {m.searchResultsLabel()}: <span id="search-query" class="text-jonquil"></span>
+                </h3>
+                <div class="flex flex-row items-center justify-between gap-2 mt-2">
+                    <p id="search-count" class="font-barlow text-sm sm:text-base text-pearl/70 order-2 sm:order-1"></p>
+                    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 order-1 sm:order-2">
+                        <div class="flex items-center gap-2">
+                            <label for="filter" class="font-barlow text-sm text-pearl/70">{m.filterLabel()}</label>
+                            <select
+                                id="filter"
+                                class="appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-1 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat"
+                            >
+                                <option value="">{m.filterAll()}</option>
+                                <option value="apostolic-answers">{m.aaLabel()}</option>
+                                <option value="deep-dive">{m.ddLabel()}</option>
+                                <option value="words-of-wisdom">{m.wowLabel()}</option>
+                                <option value="podcasts">{m.podcastsLabel()}</option>
+                            </select>
+                        </div>
+                        <div class="hidden sm:flex items-center gap-2">
+                            <label for="per-page" class="font-barlow text-sm text-pearl/70">{m.perPageLabel()}</label>
+                            <select
+                                id="per-page"
+                                class="appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-1 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat"
+                            >
+                                <option value="10">10</option>
+                                <option value="20">20</option>
+                                <option value="50">50</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="search-loading" class="hidden text-center py-12">
+                <span class="font-barlow text-lg text-pearl">{m.searchingLabel()}</span>
+            </div>
+            <div id="search-empty" class="hidden text-center py-12">
+                <span class="font-barlow text-lg text-pearl">{m.noResultsFound()}</span>
+            </div>
+            <div id="results-list"></div>
+            <div id="pagination" class="hidden"></div>
+        </div>
+    </div>
+</Main>
+
+<style is:global>
+    #results-list mark {
+        background: transparent;
+        color: var(--color-jonquil);
+    }
+</style>
+
+<script is:inline>
+    (() => {
+        const MAX_VISIBLE_PAGES = 5;
+        const VALID_SIZES = [10, 20, 50];
+
+        const params = new URLSearchParams(window.location.search);
+        const query = params.get("q") || "";
+        let currentPage = parseInt(params.get("page") || "1", 10);
+        const isMobile = window.innerWidth < 640;
+        const rawSize = parseInt(params.get("per_page") || "10", 10);
+        const PAGE_SIZE = isMobile ? "all" : (VALID_SIZES.includes(rawSize) ? rawSize : 10);
+        const VALID_FILTERS = ["apostolic-answers", "deep-dive", "words-of-wisdom", "podcasts"];
+        const rawFilter = params.get("filter") || "";
+        const activeFilter = VALID_FILTERS.includes(rawFilter) ? rawFilter : "";
+
+        const searchInput = document.querySelector("#search");
+        if (searchInput && query) searchInput.value = query;
+
+        const searchHeaderEl = document.getElementById("search-header");
+        const searchQueryEl = document.getElementById("search-query");
+        const searchCountEl = document.getElementById("search-count");
+        const filterSelect = document.getElementById("filter");
+        const perPageSelect = document.getElementById("per-page");
+        const loadingEl = document.getElementById("search-loading");
+        const emptyEl = document.getElementById("search-empty");
+        const listEl = document.getElementById("results-list");
+        const paginationEl = document.getElementById("pagination");
+
+        const buildUrl = (overrides = {}) => {
+            const prefix = window.location.pathname.startsWith("/fr") ? "/fr" : "";
+            const f = overrides.filter !== undefined ? overrides.filter : activeFilter;
+            const pp = overrides.per_page !== undefined ? overrides.per_page : PAGE_SIZE;
+            const pg = overrides.page !== undefined ? overrides.page : 1;
+            let url = prefix + "/search?q=" + encodeURIComponent(query);
+            if (f) url += "&filter=" + f;
+            if (pp !== 10 && pp !== "all") url += "&per_page=" + pp;
+            if (pg > 1) url += "&page=" + pg;
+            return url;
+        };
+
+        filterSelect.value = activeFilter;
+        perPageSelect.value = PAGE_SIZE.toString();
+
+        filterSelect.addEventListener("change", () => {
+            window.location.href = buildUrl({ filter: filterSelect.value });
+        });
+        perPageSelect.addEventListener("change", () => {
+            window.location.href = buildUrl({ per_page: parseInt(perPageSelect.value, 10) });
+        });
+
+        if (query.trim()) {
+            searchQueryEl.textContent = query;
+            searchHeaderEl.classList.remove("hidden");
+        }
+
+        if (!query.trim()) {
+            emptyEl.classList.remove("hidden");
+            return;
+        }
+
+        loadingEl.classList.remove("hidden");
+
+        const escapeHtml = (str) => {
+            const div = document.createElement("div");
+            div.textContent = str;
+            return div.innerHTML;
+        };
+
+        const getSearchUrl = (page) => buildUrl({ page });
+
+        const renderPagination = (totalPages) => {
+            if (totalPages <= 1) return;
+
+            const btnClass = "px-3 py-2 sm:px-4 sm:py-2 rounded-md transition-colors text-sm md:text-base";
+            const defaultBtn = btnClass + " bg-pearl text-black hover:bg-madder hover:text-white";
+            const activeBtn = btnClass + " bg-madder text-white pointer-events-none";
+
+            const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+
+            const start = Math.max(1, Math.min(currentPage - 2, totalPages - MAX_VISIBLE_PAGES + 1));
+            const end = Math.min(totalPages, start + MAX_VISIBLE_PAGES - 1);
+            const visible = pages.slice(start - 1, end);
+
+            let html = '<div class="flex justify-center items-center gap-1 sm:gap-2 py-19">';
+
+            if (visible[0] > 1) {
+                html += '<a href="' + getSearchUrl(1) + '" class="' + defaultBtn + '">1</a>';
+                if (visible[0] > 2) html += '<span class="text-pearl text-sm md:text-base">...</span>';
+            }
+
+            for (const p of visible) {
+                if (p === currentPage) {
+                    html += '<span class="' + activeBtn + '" aria-current="page">' + p + "</span>";
+                } else {
+                    html += '<a href="' + getSearchUrl(p) + '" class="' + defaultBtn + '">' + p + "</a>";
+                }
+            }
+
+            if (visible[visible.length - 1] < totalPages) {
+                if (visible[visible.length - 1] < totalPages - 1) {
+                    html += '<span class="text-pearl text-sm md:text-base">...</span>';
+                }
+                html += '<a href="' + getSearchUrl(totalPages) + '" class="' + defaultBtn + '">' + totalPages + "</a>";
+            }
+
+            html += "</div>";
+
+            paginationEl.innerHTML = html;
+            paginationEl.classList.remove("hidden");
+        };
+
+        const runSearch = async () => {
+            try {
+                const pagefind = await import("/pagefind/pagefind.js");
+                const search = await pagefind.search(query);
+
+                let allResults = search.results;
+                if (activeFilter) {
+                    const filtered = [];
+                    for (const r of allResults) {
+                        const data = await r.data();
+                        if (data.url.includes("/" + activeFilter + "/")) filtered.push(r);
+                    }
+                    allResults = filtered;
+                }
+
+                loadingEl.classList.add("hidden");
+
+                const totalResults = allResults.length;
+
+                if (!totalResults) {
+                    searchCountEl.textContent = "0 results";
+                    emptyEl.classList.remove("hidden");
+                    return;
+                }
+
+                const showAll = PAGE_SIZE === "all";
+                const perPage = showAll ? totalResults : PAGE_SIZE;
+                const totalPages = showAll ? 1 : Math.ceil(totalResults / perPage);
+                if (currentPage > totalPages) currentPage = totalPages;
+
+                const startIdx = showAll ? 0 : (currentPage - 1) * perPage;
+                const pageResults = showAll ? allResults : allResults.slice(startIdx, startIdx + perPage);
+                const rangeStart = startIdx + 1;
+                const rangeEnd = startIdx + pageResults.length;
+                searchCountEl.textContent =
+                    showAll
+                        ? totalResults + " result" + (totalResults !== 1 ? "s" : "")
+                        : "Showing " + rangeStart + "–" + rangeEnd + " of " + totalResults + " result" + (totalResults !== 1 ? "s" : "");
+
+                let html = '<div class="grid grid-cols-1 gap-6">';
+                for (const result of pageResults) {
+                    const data = await result.data({ excerptLength: 100 });
+                    const img = data.meta.image || "";
+                    html +=
+                        '<a href="' +
+                        data.url +
+                        '" class="group flex flex-col sm:flex-row gap-4 sm:gap-6 bg-black/30 rounded-lg p-5 sm:p-8 hover:bg-black/50 transition-colors">' +
+                        (img
+                            ? '<div class="shrink-0 w-full sm:w-48 aspect-video rounded-md overflow-hidden">' +
+                              '<img src="' +
+                              escapeHtml(img) +
+                              '" alt="" class="w-full h-full object-cover" loading="lazy" />' +
+                              "</div>"
+                            : "") +
+                        '<div class="min-w-0">' +
+                        '<h3 class="font-barlow text-lg sm:text-xl text-pearl group-hover:underline group-hover:underline-offset-4">' +
+                        escapeHtml(data.meta.title || "") +
+                        "</h3>" +
+                        '<p class="font-barlow text-sm sm:text-base text-pearl/70 mt-3 sm:line-clamp-8">' +
+                        (data.excerpt || "") +
+                        "</p>" +
+                        "</div>" +
+                        "</a>";
+                }
+                html += "</div>";
+
+                listEl.innerHTML = html;
+                renderPagination(totalPages);
+            } catch (e) {
+                loadingEl.classList.add("hidden");
+                emptyEl.classList.remove("hidden");
+            }
+        };
+
+        runSearch();
+    })();
+</script>

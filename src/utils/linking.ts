@@ -38,6 +38,10 @@ const pathnames: Record<
         en: "/contact",
         fr: "/fr/contact",
     },
+    "/search": {
+        en: "/search",
+        fr: "/fr/search",
+    },
 };
 
 export function localizePathname(
