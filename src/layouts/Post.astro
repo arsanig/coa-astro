@@ -1,10 +1,12 @@
 ---
 import { type CollectionEntry, render } from "astro:content";
 
-const post = Astro.props;
+interface Props extends CollectionEntry<"posts"> {
+    category?: string;
+}
 
-type Props = CollectionEntry<"posts">;
-const { Content } = await render(post);
+const { category, ...post } = Astro.props;
+const { Content } = await render(post as CollectionEntry<"posts">);
 ---
 
 <div class="bg-gray w-full">
@@ -13,6 +15,7 @@ const { Content } = await render(post);
         data-pagefind-body
     >
         {post.data.imgSrc && <meta data-pagefind-meta={`image:${post.data.imgSrc}`} />}
+        {category && <meta data-pagefind-filter={`category:${category}`} />}
         <h4
             data-pagefind-weight="9"
             class="font-noto text-2xl sm:text-3xl md:text-4xl text-pearl text-center pb-4 sm:pb-8 md:pb-12 lg:pb-21 max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-[66%] place-self-center"

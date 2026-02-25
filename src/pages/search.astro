@@ -4,7 +4,7 @@ import * as m from "@paraglide/messages.js";
 ---
 
 <Main title={`${m.searchResultsLabel()} | ${m.siteName()}`}>
-    <div class="bg-gray min-h-[60vh] px-4 sm:px-8 lg:px-12 xl:px-19 py-8 sm:py-12 lg:py-16">
+    <div data-pagefind-ignore class="bg-gray min-h-[60vh] px-4 sm:px-8 lg:px-12 xl:px-19 py-8 sm:py-12 lg:py-16">
         <div id="search-results" class="space-y-6">
             <div id="search-header" class="hidden">
                 <h3 class="font-noto text-2xl sm:text-3xl text-pearl mb-4 sm:mb-6">
@@ -20,10 +20,10 @@ import * as m from "@paraglide/messages.js";
                                 class="appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-1 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat"
                             >
                                 <option value="">{m.filterAll()}</option>
+                                <option value="podcasts">{m.podcastsLabel()}</option>
                                 <option value="apostolic-answers">{m.aaLabel()}</option>
                                 <option value="deep-dive">{m.ddLabel()}</option>
                                 <option value="words-of-wisdom">{m.wowLabel()}</option>
-                                <option value="podcasts">{m.podcastsLabel()}</option>
                             </select>
                         </div>
                         <div class="hidden sm:flex items-center gap-2">
@@ -50,6 +50,16 @@ import * as m from "@paraglide/messages.js";
             <div id="pagination" class="hidden"></div>
         </div>
     </div>
+
+    <button
+        id="back-to-top"
+        aria-label="Back to top"
+        class="fixed bottom-6 right-4 z-40 hidden p-2 rounded-full bg-pearl/10 backdrop-blur-sm text-pearl hover:bg-madder transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
+    >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+        </svg>
+    </button>
 </Main>
 
 <style is:global>
@@ -173,17 +183,10 @@ import * as m from "@paraglide/messages.js";
         const runSearch = async () => {
             try {
                 const pagefind = await import("/pagefind/pagefind.js");
-                const search = await pagefind.search(query);
+                const filterOptions = activeFilter ? { filters: { category: [activeFilter] } } : {};
+                const search = await pagefind.search(query, filterOptions);
 
                 let allResults = search.results;
-                if (activeFilter) {
-                    const filtered = [];
-                    for (const r of allResults) {
-                        const data = await r.data();
-                        if (data.url.includes("/" + activeFilter + "/")) filtered.push(r);
-                    }
-                    allResults = filtered;
-                }
 
                 loadingEl.classList.add("hidden");
 
@@ -211,24 +214,25 @@ import * as m from "@paraglide/messages.js";
 
                 let html = '<div class="grid grid-cols-1 gap-6">';
                 for (const result of pageResults) {
-                    const data = await result.data({ excerptLength: 100 });
+                    const data = await result.data({ excerptLength: 500 });
                     const img = data.meta.image || "";
                     html +=
                         '<a href="' +
                         data.url +
-                        '" class="group flex flex-col sm:flex-row gap-4 sm:gap-6 bg-black/30 rounded-lg p-5 sm:p-8 hover:bg-black/50 transition-colors">' +
+                        '" class="group flex flex-col sm:flex-row sm:items-stretch gap-3 sm:gap-4 bg-black/30 rounded-lg p-3 sm:p-4 hover:bg-black/50 transition-colors">' +
                         (img
-                            ? '<div class="shrink-0 w-full sm:w-48 aspect-video rounded-md overflow-hidden">' +
+                            ? '<div class="shrink-0 w-full sm:w-48 rounded-md overflow-hidden">' +
+                              '<div class="aspect-video">' +
                               '<img src="' +
                               escapeHtml(img) +
                               '" alt="" class="w-full h-full object-cover" loading="lazy" />' +
-                              "</div>"
+                              "</div></div>"
                             : "") +
-                        '<div class="min-w-0">' +
+                        '<div class="min-w-0 flex-1">' +
                         '<h3 class="font-barlow text-lg sm:text-xl text-pearl group-hover:underline group-hover:underline-offset-4">' +
                         escapeHtml(data.meta.title || "") +
                         "</h3>" +
-                        '<p class="font-barlow text-sm sm:text-base text-pearl/70 mt-3 sm:line-clamp-8">' +
+                        '<p class="font-barlow text-sm sm:text-base text-pearl/70 mt-2 sm:line-clamp-[7]">' +
                         (data.excerpt || "") +
                         "</p>" +
                         "</div>" +
@@ -245,5 +249,28 @@ import * as m from "@paraglide/messages.js";
         };
 
         runSearch();
+
+        const backToTop = document.getElementById("back-to-top");
+        if (backToTop) {
+            window.addEventListener("scroll", () => {
+                if (window.scrollY > 300) {
+                    backToTop.classList.remove("hidden");
+                    requestAnimationFrame(() => {
+                        backToTop.classList.remove("opacity-0", "translate-y-4");
+                        backToTop.classList.add("opacity-100", "translate-y-0");
+                    });
+                } else {
+                    backToTop.classList.add("opacity-0", "translate-y-4");
+                    backToTop.classList.remove("opacity-100", "translate-y-0");
+                    backToTop.addEventListener("transitionend", () => {
+                        if (window.scrollY <= 300) backToTop.classList.add("hidden");
+                    }, { once: true });
+                }
+            }, { passive: true });
+
+            backToTop.addEventListener("click", () => {
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            });
+        }
     })();
 </script>
