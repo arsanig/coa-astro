@@ -32,7 +32,7 @@ import SearchIcon from "./SearchIcon.astro";
                     </div>
                     <div
                         id="results"
-                        class="absolute top-full mt-2 w-full sm:w-[80vw] md:w-[50vw] sm:left-1/2 sm:-translate-x-1/2 max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4 text-sm sm:text-base hidden"
+                        class="absolute top-full mt-2 -left-0.5 max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4 text-sm sm:text-base hidden"
                     >
                         <div class="space-y-4"></div>
                     </div>
@@ -68,6 +68,7 @@ import SearchIcon from "./SearchIcon.astro";
             window.scrollTo(0, parseInt(document.body.dataset.scrollY || "0"));
             delete document.body.dataset.scrollY;
             searchWrapper.style.zIndex = "";
+            resultsPanel.style.width = "";
             searchBox.value = "";
             resultsContent.innerHTML = "";
         }
@@ -75,12 +76,13 @@ import SearchIcon from "./SearchIcon.astro";
         function openResults() {
             if (resultsPanel.classList.contains("hidden")) {
                 document.body.dataset.scrollY = window.scrollY.toString();
-                resultsPanel.classList.remove("hidden");
-                resultsBackdrop.classList.remove("hidden");
                 document.documentElement.classList.add("overflow-hidden");
                 document.body.classList.add("overflow-hidden", "fixed", "inset-0", "w-full");
                 document.body.style.top = "-" + document.body.dataset.scrollY + "px";
                 searchWrapper.style.zIndex = "200";
+                resultsPanel.style.width = (searchBox.offsetWidth + 4) + "px";
+                resultsPanel.classList.remove("hidden");
+                resultsBackdrop.classList.remove("hidden");
             }
         }
 
