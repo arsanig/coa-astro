@@ -264,9 +264,11 @@ import * as m from "@paraglide/messages.js";
                         ? totalResults + " result" + (totalResults !== 1 ? "s" : "")
                         : "Showing " + rangeStart + "\u2013" + rangeEnd + " of " + totalResults + " result" + (totalResults !== 1 ? "s" : "");
 
+                const allData = await Promise.all(
+                    pageResults.map((r) => r.data({ excerptLength: 500 }))
+                );
                 const fragment = document.createDocumentFragment();
-                for (const result of pageResults) {
-                    const data = await result.data({ excerptLength: 500 });
+                for (const data of allData) {
                     fragment.appendChild(createCard(data));
                 }
 
