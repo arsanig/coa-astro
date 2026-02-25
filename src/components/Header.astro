@@ -32,12 +32,12 @@ import SearchIcon from "./SearchIcon.astro";
                     </div>
                     <div
                         id="results"
-                        class="absolute top-full mt-2 left-1/2 -translate-x-1/2 w-[calc(100vw-2rem)] sm:w-[80vw] md:w-[50vw] max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4 hidden"
+                        class="absolute top-full mt-2 w-full sm:w-[80vw] md:w-[50vw] sm:left-1/2 sm:-translate-x-1/2 max-h-[60dvh] overflow-y-auto bg-white rounded-lg shadow-xl p-3 sm:p-4 text-sm sm:text-base hidden"
                     >
                         <div class="space-y-4"></div>
                     </div>
                 </div>
-                <div id="results-backdrop" class="fixed inset-0 hidden z-100 bg-black/50"></div>
+                <div id="results-backdrop" class="fixed inset-0 hidden z-100 bg-black/50 touch-action-none" style="touch-action:none"></div>
             </div>
         </div>
     </div>
@@ -62,16 +62,23 @@ import SearchIcon from "./SearchIcon.astro";
         function closeResults() {
             resultsPanel.classList.add("hidden");
             resultsBackdrop.classList.add("hidden");
-            document.body.classList.remove("overflow-hidden");
+            document.documentElement.classList.remove("overflow-hidden");
+            document.body.classList.remove("overflow-hidden", "fixed", "inset-0", "w-full");
+            document.body.style.top = "";
+            window.scrollTo(0, parseInt(document.body.dataset.scrollY || "0"));
+            delete document.body.dataset.scrollY;
             searchWrapper.style.zIndex = "";
             searchBox.value = "";
             resultsContent.innerHTML = "";
         }
 
         function openResults() {
+            document.body.dataset.scrollY = window.scrollY.toString();
             resultsPanel.classList.remove("hidden");
             resultsBackdrop.classList.remove("hidden");
-            document.body.classList.add("overflow-hidden");
+            document.documentElement.classList.add("overflow-hidden");
+            document.body.classList.add("overflow-hidden", "fixed", "inset-0", "w-full");
+            document.body.style.top = "-" + document.body.dataset.scrollY + "px";
             searchWrapper.style.zIndex = "200";
         }
 
