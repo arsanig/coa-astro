@@ -7,7 +7,7 @@ lang: en
 title: "Why is ADAM created from DUST? Is humanity meant to ABUSE NATURE?"
 pubDate: 2023-03-24T11:13:13
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Is pornography harmful for you? What are the harms of pornography?- Part 2"
 pubDate: 2017-10-25T00:09:05
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

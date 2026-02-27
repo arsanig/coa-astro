@@ -7,7 +7,7 @@ lang: en
 title: "Is sin leading you to despair? Restore your hope with God."
 pubDate: 2018-12-30T12:56:00
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

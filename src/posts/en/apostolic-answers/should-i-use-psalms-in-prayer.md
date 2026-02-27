@@ -7,7 +7,7 @@ lang: en
 title: "Should I use Psalms in prayer?"
 pubDate: 2017-02-22T11:14:36
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

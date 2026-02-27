@@ -7,7 +7,7 @@ lang: en
 title: "With the Father, through the Son and in the Spirit"
 pubDate: 2021-04-09T00:44:38
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

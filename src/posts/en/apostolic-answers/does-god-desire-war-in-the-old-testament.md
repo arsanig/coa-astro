@@ -7,7 +7,7 @@ lang: en
 title: "Does God desire war in the Old Testament?"
 pubDate: 2019-05-15T11:30:56
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

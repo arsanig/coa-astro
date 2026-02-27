@@ -7,7 +7,7 @@ lang: en
 title: "Humility is the key to the narrow gate"
 pubDate: 2023-12-08T12:00:01
 tags: ["wow"]
-author: ""
+author: "HE Metropolitan Youssef"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Prepare yourself for prayer"
 pubDate: 2024-02-23T12:00:52
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

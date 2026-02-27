@@ -7,7 +7,7 @@ lang: en
 title: "Was there a Liturgy in the Early Church?"
 pubDate: 2017-02-14T21:38:53
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

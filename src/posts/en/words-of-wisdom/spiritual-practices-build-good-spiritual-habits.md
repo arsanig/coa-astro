@@ -7,7 +7,7 @@ lang: en
 title: "Spiritual Practices Build Good Spiritual Habits"
 pubDate: 2023-09-29T12:00:53
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

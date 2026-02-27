@@ -7,7 +7,7 @@ lang: en
 title: "One Drop of Grace"
 pubDate: 2023-02-10T00:30:45
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

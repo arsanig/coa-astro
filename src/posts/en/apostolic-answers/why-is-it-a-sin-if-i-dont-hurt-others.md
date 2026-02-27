@@ -7,7 +7,7 @@ lang: en
 title: "WHY is it a SIN if I don’t HURT OTHERS?"
 pubDate: 2022-11-29T12:32:26
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

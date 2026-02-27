@@ -7,7 +7,7 @@ lang: en
 title: "The letter from the King of kings!"
 pubDate: 2021-02-26T00:54:05
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

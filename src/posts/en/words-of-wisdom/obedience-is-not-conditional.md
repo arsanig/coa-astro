@@ -7,7 +7,7 @@ lang: en
 title: "Obedience is not conditional"
 pubDate: 2022-11-02T22:08:42
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

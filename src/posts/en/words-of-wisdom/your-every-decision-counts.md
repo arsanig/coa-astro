@@ -7,7 +7,7 @@ lang: en
 title: "Your every decision counts!"
 pubDate: 2019-11-01T12:00:05
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why Would God Entirely Destroy Sodom & Gomorrah? What About The Children?"
 pubDate: 2018-10-17T14:56:37
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The secret power of prayer!"
 pubDate: 2020-10-25T23:56:31
 tags: ["wow"]
-author: ""
+author: "Fr. John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

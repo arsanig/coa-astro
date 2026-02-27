@@ -7,7 +7,7 @@ lang: en
 title: "Taking the properties of His fire"
 pubDate: 2021-12-15T10:16:33
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

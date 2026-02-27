@@ -7,7 +7,7 @@ lang: en
 title: "Do I accept Christ as He is? Or do I search for Him with my own conditioned filters?"
 pubDate: 2019-09-16T12:00:34
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

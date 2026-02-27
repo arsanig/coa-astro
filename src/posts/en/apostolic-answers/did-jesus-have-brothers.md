@@ -7,7 +7,7 @@ lang: en
 title: "Did Jesus have brothers?"
 pubDate: 2024-01-17T12:00:31
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

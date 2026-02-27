@@ -7,7 +7,7 @@ lang: en
 title: "Seeking daily renewal in Christ!"
 pubDate: 2020-10-25T23:47:28
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

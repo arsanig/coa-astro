@@ -7,7 +7,7 @@ lang: en
 title: "Offer thanksgiving!"
 pubDate: 2023-12-20T12:00:10
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

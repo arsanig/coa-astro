@@ -7,7 +7,7 @@ lang: en
 title: "Why do we sometimes feel that the Church has so many rules?"
 pubDate: 2018-02-28T14:21:41
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

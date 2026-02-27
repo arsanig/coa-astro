@@ -7,7 +7,7 @@ lang: en
 title: "Is Judas innocent of the betrayal as he was chosen by Christ? What event led to the feet washing?"
 pubDate: 2021-03-21T23:01:55
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

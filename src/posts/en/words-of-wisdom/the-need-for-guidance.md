@@ -7,7 +7,7 @@ lang: en
 title: "The need for guidance"
 pubDate: 2022-01-28T11:05:33
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

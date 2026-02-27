@@ -7,7 +7,7 @@ lang: en
 title: "Let me lay at your feet Meditation on Wednesday of Holy Pascha"
 pubDate: 2023-04-11T02:49:12
 tags: ["wow"]
-author: ""
+author: "Fr. Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

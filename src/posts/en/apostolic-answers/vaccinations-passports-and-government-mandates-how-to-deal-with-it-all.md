@@ -7,7 +7,7 @@ lang: en
 title: "Vaccinations, passports and government mandates: how to deal with it all?"
 pubDate: 2021-09-29T10:00:57
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Jesus Prayer"
 pubDate: 2021-06-24T23:43:23
 tags: ["wow"]
-author: ""
+author: "Fr. John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

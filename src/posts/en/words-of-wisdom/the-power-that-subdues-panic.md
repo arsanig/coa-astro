@@ -7,7 +7,7 @@ lang: en
 title: "The Power that Subdues Panic"
 pubDate: 2020-10-29T00:04:29
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Internal vs External Peace"
 pubDate: 2022-06-10T09:06:12
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

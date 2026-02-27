@@ -7,7 +7,7 @@ lang: en
 title: "If God knows all things, and we have no guarantees, then why pray at all?"
 pubDate: 2020-11-04T12:08:50
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

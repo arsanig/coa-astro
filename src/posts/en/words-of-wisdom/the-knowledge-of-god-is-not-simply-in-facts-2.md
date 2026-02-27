@@ -7,7 +7,7 @@ lang: en
 title: "The knowledge of God is not simply in Facts!"
 pubDate: 2020-03-20T15:57:01
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Are you seeking?"
 pubDate: 2023-02-03T12:03:39
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

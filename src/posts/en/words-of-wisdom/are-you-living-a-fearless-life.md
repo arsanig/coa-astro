@@ -7,7 +7,7 @@ lang: en
 title: "Are you living a fearless life?"
 pubDate: 2022-10-18T21:38:07
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

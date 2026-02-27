@@ -7,7 +7,7 @@ lang: en
 title: "Why is Anger a Spiritual Passion?"
 pubDate: 2018-08-13T11:07:06
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "If God has foreknowledge, why does He CREATE people that will go to hell?"
 pubDate: 2017-08-30T00:35:50
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

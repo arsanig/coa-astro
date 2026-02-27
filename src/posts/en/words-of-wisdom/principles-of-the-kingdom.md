@@ -7,7 +7,7 @@ lang: en
 title: "Principles of the Kingdom"
 pubDate: 2022-03-03T23:27:25
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "How does the devil trick us into sin? What is spiritual warfare?"
 pubDate: 2018-05-16T01:08:55
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

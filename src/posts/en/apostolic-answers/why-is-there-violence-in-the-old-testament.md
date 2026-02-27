@@ -7,7 +7,7 @@ lang: en
 title: "Why is there violence in the Old Testament? (Violence in the OT - Part 1)"
 pubDate: 2017-02-14T21:23:16
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

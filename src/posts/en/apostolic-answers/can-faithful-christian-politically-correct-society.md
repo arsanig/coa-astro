@@ -7,7 +7,7 @@ lang: en
 title: "How can I be a faithful Christian in such a “politically correct” society?"
 pubDate: 2017-11-15T13:47:10
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

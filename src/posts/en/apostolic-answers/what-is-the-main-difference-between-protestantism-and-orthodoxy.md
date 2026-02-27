@@ -7,7 +7,7 @@ lang: en
 title: "What is the main difference between Protestantism and Orthodoxy?"
 pubDate: 2021-10-13T09:02:17
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

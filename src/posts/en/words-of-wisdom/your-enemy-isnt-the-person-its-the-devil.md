@@ -7,7 +7,7 @@ lang: en
 title: "Your enemy isn't the person, it's the devil!"
 pubDate: 2020-11-26T22:16:33
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

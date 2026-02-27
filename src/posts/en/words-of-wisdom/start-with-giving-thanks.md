@@ -7,7 +7,7 @@ lang: en
 title: "Start With Giving Thanks"
 pubDate: 2022-10-13T23:00:06
 tags: ["wow"]
-author: ""
+author: "HG Bishop Basil"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

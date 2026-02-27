@@ -7,7 +7,7 @@ lang: en
 title: "What’s wrong with Abortion?"
 pubDate: 2017-02-05T12:58:57
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

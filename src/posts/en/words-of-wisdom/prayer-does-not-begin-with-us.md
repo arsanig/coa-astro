@@ -7,7 +7,7 @@ lang: en
 title: "Prayer Does Not Begin with Us!"
 pubDate: 2020-10-25T23:28:04
 tags: ["wow"]
-author: ""
+author: "Fr. John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

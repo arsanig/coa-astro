@@ -7,7 +7,7 @@ lang: en
 title: "Remember God and Rejoice!"
 pubDate: 2021-06-30T01:42:50
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

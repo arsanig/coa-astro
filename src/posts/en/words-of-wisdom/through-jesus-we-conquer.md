@@ -7,7 +7,7 @@ lang: en
 title: "Through Jesus we conquer"
 pubDate: 2022-01-13T17:44:19
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

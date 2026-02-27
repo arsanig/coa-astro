@@ -7,7 +7,7 @@ lang: en
 title: "What is the Orthodox Christian Approach to Social Justice?"
 pubDate: 2021-03-24T11:00:45
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

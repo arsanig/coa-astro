@@ -7,7 +7,7 @@ lang: en
 title: "How do I know God's will"
 pubDate: 2023-05-17T02:51:30
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

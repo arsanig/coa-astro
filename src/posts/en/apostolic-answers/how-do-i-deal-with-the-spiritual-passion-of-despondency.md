@@ -7,7 +7,7 @@ lang: en
 title: "How do I deal with the Spiritual passion of Despondency?"
 pubDate: 2023-07-11T23:04:16
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Christ must take flesh in us!"
 pubDate: 2020-10-15T21:50:34
 tags: ["wow"]
-author: ""
+author: "Fr. John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

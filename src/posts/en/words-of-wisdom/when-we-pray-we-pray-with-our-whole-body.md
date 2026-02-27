@@ -7,7 +7,7 @@ lang: en
 title: "When we pray, we pray with our whole body"
 pubDate: 2021-10-08T11:07:56
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

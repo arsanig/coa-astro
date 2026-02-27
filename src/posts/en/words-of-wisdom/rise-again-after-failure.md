@@ -7,7 +7,7 @@ lang: en
 title: "Rise again after failure"
 pubDate: 2023-08-23T12:00:00
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "3 must-read book recommendations!"
 pubDate: 2022-04-13T09:33:14
 tags: ["wow"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

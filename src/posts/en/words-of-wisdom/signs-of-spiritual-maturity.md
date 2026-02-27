@@ -7,7 +7,7 @@ lang: en
 title: "Signs of Spiritual Maturity"
 pubDate: 2021-04-22T21:50:29
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

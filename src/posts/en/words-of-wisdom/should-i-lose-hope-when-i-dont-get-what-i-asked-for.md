@@ -7,7 +7,7 @@ lang: en
 title: "Should I lose hope when I don't get what I asked for?"
 pubDate: 2021-02-03T11:35:12
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

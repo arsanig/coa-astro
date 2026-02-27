@@ -7,7 +7,7 @@ lang: en
 title: "Be the salt of earth"
 pubDate: 2022-07-15T06:47:02
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

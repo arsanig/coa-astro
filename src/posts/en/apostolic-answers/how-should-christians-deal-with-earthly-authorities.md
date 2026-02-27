@@ -7,7 +7,7 @@ lang: en
 title: "How Should Christians Deal with Earthly Authorities?"
 pubDate: 2022-09-07T10:49:36
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

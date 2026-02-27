@@ -7,7 +7,7 @@ lang: en
 title: "Why is pornography a sin? Who am I hurting?- Part 1"
 pubDate: 2017-08-16T00:07:15
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

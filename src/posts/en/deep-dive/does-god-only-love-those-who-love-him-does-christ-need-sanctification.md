@@ -7,7 +7,7 @@ lang: en
 title: "Does God only love those who love Him? Does Christ need Sanctification?"
 pubDate: 2024-02-28T12:00:36
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

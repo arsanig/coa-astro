@@ -7,7 +7,7 @@ lang: en
 title: "Does God abandon us in difficult times?"
 pubDate: 2022-11-23T12:13:07
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

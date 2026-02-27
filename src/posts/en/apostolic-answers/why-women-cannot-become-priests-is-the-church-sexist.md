@@ -7,7 +7,7 @@ lang: en
 title: "Why women cannot become priests? Is the Church sexist?"
 pubDate: 2019-01-24T16:23:52
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

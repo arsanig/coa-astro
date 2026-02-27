@@ -7,5 +7,5 @@ lang: en
 title: "Jesus looks at the heart"
 pubDate: 2023-11-03T12:00:08
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---

@@ -7,7 +7,7 @@ lang: en
 title: "Christ is the way"
 pubDate: 2023-03-09T20:37:54
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

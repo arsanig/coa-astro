@@ -7,7 +7,7 @@ lang: en
 title: "Don’t all religions teach the same thing? Isn’t Christianity just another religious moral standard?"
 pubDate: 2021-01-27T11:46:32
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

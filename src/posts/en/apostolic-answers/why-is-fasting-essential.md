@@ -7,7 +7,7 @@ lang: en
 title: "Why is fasting essential?"
 pubDate: 2017-02-14T21:46:30
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

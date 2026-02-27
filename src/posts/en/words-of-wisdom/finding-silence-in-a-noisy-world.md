@@ -7,7 +7,7 @@ lang: en
 title: "Finding silence in a noisy world"
 pubDate: 2020-11-12T20:59:46
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

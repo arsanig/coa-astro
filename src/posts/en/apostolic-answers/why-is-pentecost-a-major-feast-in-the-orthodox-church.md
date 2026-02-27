@@ -7,7 +7,7 @@ lang: en
 title: "Why is Pentecost a major feast in the Orthodox Church?"
 pubDate: 2019-06-12T12:00:24
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

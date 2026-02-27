@@ -7,7 +7,7 @@ lang: en
 title: "Whatever you ask in my name, I will give you"
 pubDate: 2020-12-18T12:14:06
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

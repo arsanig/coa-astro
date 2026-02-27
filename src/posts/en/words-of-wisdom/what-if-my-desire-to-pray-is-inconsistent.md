@@ -7,7 +7,7 @@ lang: en
 title: "What if my desire to pray is inconsistent?"
 pubDate: 2019-12-20T12:00:56
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

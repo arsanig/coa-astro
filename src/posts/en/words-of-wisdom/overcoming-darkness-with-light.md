@@ -7,7 +7,7 @@ lang: en
 title: "Overcoming Darkness with Light"
 pubDate: 2021-08-04T12:00:01
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

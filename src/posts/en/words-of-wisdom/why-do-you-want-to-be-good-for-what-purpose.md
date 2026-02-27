@@ -7,7 +7,7 @@ lang: en
 title: "Why do you want to be good? For what purpose?"
 pubDate: 2020-10-09T08:07:25
 tags: ["wow"]
-author: ""
+author: "HG Bishop Basil"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

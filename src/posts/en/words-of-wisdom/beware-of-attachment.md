@@ -7,7 +7,7 @@ lang: en
 title: "Beware of attachment"
 pubDate: 2022-04-20T10:16:05
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

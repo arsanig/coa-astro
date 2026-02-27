@@ -7,7 +7,7 @@ lang: en
 title: "I'm the way, the truth and the life"
 pubDate: 2021-08-05T23:21:15
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

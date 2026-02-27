@@ -7,7 +7,7 @@ lang: en
 title: "As Christians, how ought we to deal with today’s society’s moral decline?"
 pubDate: 2018-03-14T11:19:02
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

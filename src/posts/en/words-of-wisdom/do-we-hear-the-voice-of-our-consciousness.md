@@ -7,7 +7,7 @@ lang: en
 title: "Do we hear the voice of our consciousness?"
 pubDate: 2021-05-28T00:41:38
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

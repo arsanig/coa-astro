@@ -7,7 +7,7 @@ lang: en
 title: "To Whom God Reveals Himself"
 pubDate: 2023-05-12T08:10:54
 tags: ["wow"]
-author: ""
+author: "HE Metropolitan Youssef"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

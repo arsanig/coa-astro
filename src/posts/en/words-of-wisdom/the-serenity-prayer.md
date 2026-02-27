@@ -7,7 +7,7 @@ lang: en
 title: "The Serenity Prayer"
 pubDate: 2021-05-20T23:42:49
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

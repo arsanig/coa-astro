@@ -7,7 +7,7 @@ lang: en
 title: "Why is the Bible, the story of salvation & love, filled with violence? (Violence in the OT - part 2)"
 pubDate: 2017-07-31T12:40:51
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

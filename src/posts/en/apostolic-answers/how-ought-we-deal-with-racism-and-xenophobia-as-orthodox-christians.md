@@ -7,7 +7,7 @@ lang: en
 title: "How ought we deal with Racism and Xenophobia as Orthodox Christians?"
 pubDate: 2019-01-24T16:07:04
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

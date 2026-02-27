@@ -7,7 +7,7 @@ lang: en
 title: "Eagerly searching for God's voice"
 pubDate: 2022-09-01T23:18:00
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

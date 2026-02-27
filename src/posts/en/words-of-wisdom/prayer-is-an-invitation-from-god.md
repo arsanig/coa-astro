@@ -7,7 +7,7 @@ lang: en
 title: "Prayer is an invitation from God"
 pubDate: 2023-03-03T17:10:27
 tags: ["wow"]
-author: ""
+author: "Fr. John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

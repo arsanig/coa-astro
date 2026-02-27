@@ -7,7 +7,7 @@ lang: en
 title: "How often should I pray? Is being regular important? What is a spiritual canon?"
 pubDate: 2017-09-27T12:06:30
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

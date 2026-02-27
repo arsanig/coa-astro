@@ -7,7 +7,7 @@ lang: en
 title: "Let Him Be Your Master"
 pubDate: 2023-11-24T12:00:05
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Have life within!"
 pubDate: 2019-06-07T12:04:13
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

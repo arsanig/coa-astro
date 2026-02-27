@@ -7,7 +7,7 @@ lang: en
 title: "Time for silence!"
 pubDate: 2021-08-17T21:06:39
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

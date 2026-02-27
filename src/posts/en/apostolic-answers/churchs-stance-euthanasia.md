@@ -7,7 +7,7 @@ lang: en
 title: "What is the Church’s stance on Euthanasia and Physician Assisted Suicide?"
 pubDate: 2017-09-20T02:03:08
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

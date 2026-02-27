@@ -7,7 +7,7 @@ lang: en
 title: "Signs of a Sleeping Christian"
 pubDate: 2023-10-04T12:00:50
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

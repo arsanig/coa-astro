@@ -7,7 +7,7 @@ lang: en
 title: "Confess to God, the Priest or to One Another?"
 pubDate: 2023-10-18T12:00:47
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Shouldn’t we pray when we feel like it?"
 pubDate: 2023-04-19T11:57:00
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

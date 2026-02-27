@@ -7,7 +7,7 @@ lang: en
 title: "When do we pray?"
 pubDate: 2021-06-01T22:29:07
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "How is the Son of God both God and man?"
 pubDate: 2019-09-11T20:56:27
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Rejoice!"
 pubDate: 2022-08-05T01:00:14
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "For the mouth speaks what the heart is full of"
 pubDate: 2021-08-19T22:36:23
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

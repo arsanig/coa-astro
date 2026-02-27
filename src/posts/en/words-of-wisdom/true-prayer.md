@@ -7,7 +7,7 @@ lang: en
 title: "True prayer"
 pubDate: 2023-03-31T01:03:08
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "If humans always needed a Messiah, why did God not save us earlier?"
 pubDate: 2019-10-16T12:00:14
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

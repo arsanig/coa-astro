@@ -7,7 +7,7 @@ lang: en
 title: "Tell Your Problems How Great God Is"
 pubDate: 2024-02-09T12:00:21
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

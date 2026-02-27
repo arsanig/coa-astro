@@ -7,7 +7,7 @@ lang: en
 title: "Slow down and listen"
 pubDate: 2022-09-23T01:26:48
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

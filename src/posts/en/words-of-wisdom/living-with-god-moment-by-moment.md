@@ -7,7 +7,7 @@ lang: en
 title: "Living with God moment by moment"
 pubDate: 2021-10-06T00:28:35
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

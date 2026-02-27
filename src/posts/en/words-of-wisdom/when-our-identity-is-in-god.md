@@ -7,7 +7,7 @@ lang: en
 title: "When our identity is in God"
 pubDate: 2023-01-25T11:08:49
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

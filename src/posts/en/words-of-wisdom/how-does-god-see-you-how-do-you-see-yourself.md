@@ -7,5 +7,5 @@ lang: en
 title: "How does God see you? How do you see yourself?"
 pubDate: 2021-05-26T11:00:54
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---

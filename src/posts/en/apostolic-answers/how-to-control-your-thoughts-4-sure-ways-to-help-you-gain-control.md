@@ -7,7 +7,7 @@ lang: en
 title: "How to control your thoughts? 4 sure ways to help you gain control."
 pubDate: 2019-02-20T12:00:39
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why is it to our advantage that Christ ascends? What does it mean to ask in Christ’s name?"
 pubDate: 2023-11-06T12:00:02
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

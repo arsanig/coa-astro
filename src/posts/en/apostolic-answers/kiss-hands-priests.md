@@ -7,7 +7,7 @@ lang: en
 title: "Why do we kiss the hands of the priests?"
 pubDate: 2017-06-21T01:00:15
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

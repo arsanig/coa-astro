@@ -7,7 +7,7 @@ lang: en
 title: "Worship in Spirit and TRUTH!"
 pubDate: 2019-07-05T11:30:25
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

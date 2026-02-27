@@ -7,7 +7,7 @@ lang: en
 title: "Life, death and neighbour"
 pubDate: 2021-09-03T12:00:52
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Don't run away from difficult situations"
 pubDate: 2022-10-28T09:58:40
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

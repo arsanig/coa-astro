@@ -7,7 +7,7 @@ lang: en
 title: "If I am predestined to bad/good works, why does God judge me?"
 pubDate: 2017-03-21T22:55:13
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Power of Miracles!"
 pubDate: 2021-05-07T10:19:59
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

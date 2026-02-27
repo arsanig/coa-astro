@@ -7,7 +7,7 @@ lang: en
 title: "What is repentance? Can God reject your repentance?"
 pubDate: 2019-11-15T12:00:41
 tags: ["wow"]
-author: ""
+author: "Fr. Abraham Wassef"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

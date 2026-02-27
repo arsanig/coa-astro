@@ -7,7 +7,7 @@ lang: en
 title: "What makes Baptism so essential for my salvation?"
 pubDate: 2017-06-27T23:32:52
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "God will never abandon us"
 pubDate: 2022-08-09T23:25:09
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

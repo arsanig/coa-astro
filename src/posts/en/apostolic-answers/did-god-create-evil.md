@@ -7,7 +7,7 @@ lang: en
 title: "Did God Create Evil?"
 pubDate: 2017-02-14T21:02:02
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

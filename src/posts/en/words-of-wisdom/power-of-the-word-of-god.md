@@ -7,7 +7,7 @@ lang: en
 title: "Power of the word of God"
 pubDate: 2023-01-20T11:24:50
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

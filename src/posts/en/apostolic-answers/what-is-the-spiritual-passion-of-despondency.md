@@ -7,7 +7,7 @@ lang: en
 title: "What Is The Spiritual Passion Of Despondency?"
 pubDate: 2023-05-31T10:34:39
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

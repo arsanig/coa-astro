@@ -7,7 +7,7 @@ lang: en
 title: "Our walk with the Lord is a work in progress"
 pubDate: 2023-08-25T12:00:50
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

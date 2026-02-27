@@ -7,5 +7,5 @@ lang: en
 title: "New Year's Promise"
 pubDate: 2023-12-27T10:55:24
 tags: ["wow"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---

@@ -7,7 +7,7 @@ lang: en
 title: "A prayer for Repentance"
 pubDate: 2022-07-22T01:07:03
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

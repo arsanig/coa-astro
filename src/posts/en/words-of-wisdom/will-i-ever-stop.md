@@ -7,7 +7,7 @@ lang: en
 title: "Will I ever stop?"
 pubDate: 2021-03-25T20:57:38
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why did Christ get baptized and receive the Holy Spirit?"
 pubDate: 2018-11-14T12:22:23
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

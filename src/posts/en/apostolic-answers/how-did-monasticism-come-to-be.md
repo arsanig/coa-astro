@@ -7,7 +7,7 @@ lang: en
 title: "How did monasticism come to be?"
 pubDate: 2017-02-14T21:31:14
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

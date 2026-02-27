@@ -7,7 +7,7 @@ lang: en
 title: "God’s Beautiful Design for the Christian Family"
 pubDate: 2023-10-08T12:00:41
 tags: ["wow"]
-author: ""
+author: "HG Bishop Basil"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Eucharist Opens Our Eyes"
 pubDate: 2023-09-13T12:00:38
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

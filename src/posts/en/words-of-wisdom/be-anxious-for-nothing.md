@@ -7,7 +7,7 @@ lang: en
 title: "Be anxious for nothing"
 pubDate: 2022-11-10T23:42:55
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

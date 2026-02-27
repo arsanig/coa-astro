@@ -7,7 +7,7 @@ lang: en
 title: "Nothing to Fear when God is with us"
 pubDate: 2023-10-11T12:00:26
 tags: ["wow"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Bring glory to God through a life of holiness"
 pubDate: 2019-09-27T12:00:22
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

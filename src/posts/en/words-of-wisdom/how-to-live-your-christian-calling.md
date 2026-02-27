@@ -7,7 +7,7 @@ lang: en
 title: "How to live your Christian calling?"
 pubDate: 2019-11-20T12:00:50
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

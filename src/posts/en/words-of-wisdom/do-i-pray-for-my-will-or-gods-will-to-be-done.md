@@ -7,7 +7,7 @@ lang: en
 title: "Do I pray for my will or God’s will to be done?"
 pubDate: 2023-11-08T12:00:58
 tags: ["wow"]
-author: ""
+author: "HG Bishop Basil"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

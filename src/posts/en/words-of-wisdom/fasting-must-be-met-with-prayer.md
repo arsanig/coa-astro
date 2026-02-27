@@ -7,7 +7,7 @@ lang: en
 title: "Fasting must be met with prayer!"
 pubDate: 2021-04-16T11:59:49
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

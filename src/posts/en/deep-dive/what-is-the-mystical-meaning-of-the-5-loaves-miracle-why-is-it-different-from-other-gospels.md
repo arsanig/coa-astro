@@ -7,7 +7,7 @@ lang: en
 title: "What is the mystical meaning of the 5 loaves miracle? Why is it different from other gospels?"
 pubDate: 2020-05-01T15:26:22
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

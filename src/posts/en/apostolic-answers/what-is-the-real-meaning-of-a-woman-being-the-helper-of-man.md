@@ -7,7 +7,7 @@ lang: en
 title: "What is the REAL meaning of a woman being the helper of man? Is there gender equality in Christianity? Shouldn’t a male hold women in high esteem?"
 pubDate: 2019-01-23T12:00:05
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

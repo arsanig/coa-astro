@@ -7,7 +7,7 @@ lang: en
 title: "How should you fast?"
 pubDate: 2019-04-10T11:30:46
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

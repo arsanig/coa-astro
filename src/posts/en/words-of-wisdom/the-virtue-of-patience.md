@@ -7,7 +7,7 @@ lang: en
 title: "The virtue of patience"
 pubDate: 2022-11-18T00:00:37
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Cost of our Christian Calling!"
 pubDate: 2019-10-09T12:00:48
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

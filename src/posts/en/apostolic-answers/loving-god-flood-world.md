@@ -7,7 +7,7 @@ lang: en
 title: "Why would a loving God FLOOD the world? (Violence in the OT - part 3)"
 pubDate: 2017-10-11T09:30:54
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

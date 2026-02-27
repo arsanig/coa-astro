@@ -7,7 +7,7 @@ lang: en
 title: "Why are Repentance and Confession so crucial in our lives? - Part 1"
 pubDate: 2017-06-07T12:47:10
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

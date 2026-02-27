@@ -7,7 +7,7 @@ lang: en
 title: "Redirect your love to God"
 pubDate: 2022-07-06T10:51:22
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Faith beyond belief"
 pubDate: 2022-03-30T20:06:39
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The ramifications of the sin of fear"
 pubDate: 2023-06-21T12:00:49
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

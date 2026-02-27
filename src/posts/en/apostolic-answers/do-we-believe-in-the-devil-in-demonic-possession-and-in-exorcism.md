@@ -7,7 +7,7 @@ lang: en
 title: "Do we believe in the devil, in demonic possession, and in exorcism?"
 pubDate: 2023-11-29T12:00:48
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

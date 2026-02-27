@@ -7,7 +7,7 @@ lang: en
 title: "The Light of Christ"
 pubDate: 2021-01-29T09:13:15
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

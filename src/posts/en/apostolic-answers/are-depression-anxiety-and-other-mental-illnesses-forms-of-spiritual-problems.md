@@ -7,7 +7,7 @@ lang: en
 title: "Are Depression, Anxiety, and other Mental Illnesses forms of Spiritual problems?"
 pubDate: 2018-04-11T22:43:52
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

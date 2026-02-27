@@ -7,7 +7,7 @@ lang: en
 title: "Why do we want to have union with God?"
 pubDate: 2021-11-04T21:33:37
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

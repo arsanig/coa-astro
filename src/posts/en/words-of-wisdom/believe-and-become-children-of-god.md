@@ -7,7 +7,7 @@ lang: en
 title: "Believe and become children of God"
 pubDate: 2023-12-15T12:00:24
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

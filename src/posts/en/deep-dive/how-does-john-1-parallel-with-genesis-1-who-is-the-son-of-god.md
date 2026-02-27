@@ -7,7 +7,7 @@ lang: en
 title: "How does John 1 parallel with Genesis 1? Who is the Son of God?"
 pubDate: 2019-09-10T11:45:27
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

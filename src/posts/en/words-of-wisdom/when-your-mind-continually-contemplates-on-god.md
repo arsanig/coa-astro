@@ -7,7 +7,7 @@ lang: en
 title: "When Your Mind Continually Contemplates on God"
 pubDate: 2024-01-31T12:00:31
 tags: ["wow"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

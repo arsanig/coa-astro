@@ -7,7 +7,7 @@ lang: en
 title: "He is the Truth"
 pubDate: 2023-12-29T12:00:27
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

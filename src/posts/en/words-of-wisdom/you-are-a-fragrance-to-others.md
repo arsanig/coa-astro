@@ -7,7 +7,7 @@ lang: en
 title: "You are a fragrance to others"
 pubDate: 2022-12-13T23:42:57
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

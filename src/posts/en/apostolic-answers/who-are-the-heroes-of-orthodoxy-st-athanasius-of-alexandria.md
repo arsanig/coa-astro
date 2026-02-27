@@ -7,7 +7,7 @@ lang: en
 title: "Who are the heroes of Orthodoxy? - St. Athanasius of Alexandria"
 pubDate: 2017-03-01T11:51:55
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

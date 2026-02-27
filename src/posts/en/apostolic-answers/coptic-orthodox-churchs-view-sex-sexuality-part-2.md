@@ -7,7 +7,7 @@ lang: en
 title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?- Part 2"
 pubDate: 2017-04-25T17:33:05
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

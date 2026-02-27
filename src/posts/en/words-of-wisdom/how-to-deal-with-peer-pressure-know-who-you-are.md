@@ -7,7 +7,7 @@ lang: en
 title: "How to deal with peer pressure. Know who you are"
 pubDate: 2023-06-07T12:00:42
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The richness of the Holy Communion!"
 pubDate: 2021-02-12T11:12:57
 tags: ["wow"]
-author: ""
+author: "Fr. Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

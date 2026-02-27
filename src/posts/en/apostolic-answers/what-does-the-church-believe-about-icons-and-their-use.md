@@ -7,7 +7,7 @@ lang: en
 title: "What does the Church believe about icons and their use?"
 pubDate: 2019-05-22T10:27:18
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

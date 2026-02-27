@@ -7,7 +7,7 @@ lang: en
 title: "Greet the Lord early in the morning"
 pubDate: 2024-01-05T12:00:51
 tags: ["wow"]
-author: ""
+author: "Fr. Joseph Dawoud"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

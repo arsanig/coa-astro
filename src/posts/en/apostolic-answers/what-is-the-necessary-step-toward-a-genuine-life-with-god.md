@@ -7,7 +7,7 @@ lang: en
 title: "What is the Necessary Step Toward a Genuine Life With God?"
 pubDate: 2018-06-11T22:07:00
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

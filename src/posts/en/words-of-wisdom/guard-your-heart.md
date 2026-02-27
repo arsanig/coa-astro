@@ -7,7 +7,7 @@ lang: en
 title: "Guard your heart"
 pubDate: 2019-06-21T10:22:49
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

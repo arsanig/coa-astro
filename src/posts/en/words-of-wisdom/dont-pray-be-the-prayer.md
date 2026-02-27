@@ -7,7 +7,7 @@ lang: en
 title: "Don't pray! Be the prayer!"
 pubDate: 2019-11-08T12:00:25
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

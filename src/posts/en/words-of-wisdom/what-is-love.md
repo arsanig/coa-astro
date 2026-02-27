@@ -7,7 +7,7 @@ lang: en
 title: "What is love?"
 pubDate: 2022-02-16T08:53:50
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

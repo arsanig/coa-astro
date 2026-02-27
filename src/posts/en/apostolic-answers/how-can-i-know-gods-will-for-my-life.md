@@ -7,7 +7,7 @@ lang: en
 title: "How can I know God’s will for my life?"
 pubDate: 2019-03-27T11:07:37
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

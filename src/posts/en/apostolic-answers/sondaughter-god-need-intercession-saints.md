@@ -7,7 +7,7 @@ lang: en
 title: "If I am the son/daughter of God, why do I need the intercession of the saints?"
 pubDate: 2017-07-19T11:43:46
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

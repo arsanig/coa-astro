@@ -7,7 +7,7 @@ lang: en
 title: "God in tribulations"
 pubDate: 2022-06-24T12:44:55
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "We are not of this world"
 pubDate: 2022-09-16T01:32:28
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

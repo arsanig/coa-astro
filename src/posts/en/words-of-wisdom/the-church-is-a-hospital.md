@@ -7,7 +7,7 @@ lang: en
 title: "The Church is a Hospital"
 pubDate: 2022-11-04T12:00:12
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

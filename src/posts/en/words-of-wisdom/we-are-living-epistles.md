@@ -7,7 +7,7 @@ lang: en
 title: "We are living epistles"
 pubDate: 2023-08-18T12:00:43
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

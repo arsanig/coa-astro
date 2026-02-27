@@ -7,7 +7,7 @@ lang: en
 title: "Why do we pray for the departed? Will our prayers change their final destination?"
 pubDate: 2018-02-01T10:12:54
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

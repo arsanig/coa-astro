@@ -7,7 +7,7 @@ lang: en
 title: "What is understood by submission in marriage? - Part 1"
 pubDate: 2017-02-14T21:58:47
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

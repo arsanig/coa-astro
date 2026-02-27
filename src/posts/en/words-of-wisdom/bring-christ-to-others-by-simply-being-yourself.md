@@ -7,7 +7,7 @@ lang: en
 title: "Bring Christ to others by simply being yourself!"
 pubDate: 2019-05-24T12:02:37
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

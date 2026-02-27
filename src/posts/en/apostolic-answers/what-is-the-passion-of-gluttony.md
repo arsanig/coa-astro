@@ -7,7 +7,7 @@ lang: en
 title: "What is the passion of Gluttony?(Passions- Part 3)"
 pubDate: 2017-05-10T00:45:09
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

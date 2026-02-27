@@ -7,7 +7,7 @@ lang: en
 title: "Let your light shine into my heart!"
 pubDate: 2021-01-20T10:59:01
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

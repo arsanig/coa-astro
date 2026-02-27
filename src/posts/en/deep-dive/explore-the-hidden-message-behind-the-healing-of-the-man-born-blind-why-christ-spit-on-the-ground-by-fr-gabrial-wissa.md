@@ -7,7 +7,7 @@ lang: en
 title: "Explore the hidden message behind the healing of the man born blind. Why Christ spit on the ground?"
 pubDate: 2020-10-22T00:20:33
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

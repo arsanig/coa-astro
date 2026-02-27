@@ -7,7 +7,7 @@ lang: en
 title: "How important is the Ascension of Christ?"
 pubDate: 2017-05-23T21:37:35
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

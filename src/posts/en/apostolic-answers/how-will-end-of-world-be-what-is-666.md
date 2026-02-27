@@ -7,7 +7,7 @@ lang: en
 title: "How will the end of the world be? What is 666?"
 pubDate: 2018-09-29T14:29:06
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

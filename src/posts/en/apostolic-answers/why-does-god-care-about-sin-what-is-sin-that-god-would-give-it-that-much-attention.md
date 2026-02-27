@@ -7,7 +7,7 @@ lang: en
 title: "Why does God care about sin? What is sin that God would give it that much attention?"
 pubDate: 2018-11-28T12:43:31
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

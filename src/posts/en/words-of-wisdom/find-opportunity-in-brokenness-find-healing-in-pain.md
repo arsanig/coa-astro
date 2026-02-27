@@ -7,7 +7,7 @@ lang: en
 title: "Find opportunity in brokenness, find healing in pain"
 pubDate: 2019-07-31T16:12:18
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

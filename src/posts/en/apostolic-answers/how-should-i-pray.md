@@ -7,7 +7,7 @@ lang: en
 title: "How should I pray?"
 pubDate: 2017-02-11T21:57:11
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

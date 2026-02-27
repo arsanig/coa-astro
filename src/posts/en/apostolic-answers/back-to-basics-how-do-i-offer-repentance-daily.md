@@ -7,7 +7,7 @@ lang: en
 title: "Back to Basics: How do I offer repentance daily?"
 pubDate: 2020-02-05T12:00:29
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

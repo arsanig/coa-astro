@@ -7,7 +7,7 @@ lang: en
 title: "Are you running away from the will of God?"
 pubDate: 2021-04-13T03:01:09
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

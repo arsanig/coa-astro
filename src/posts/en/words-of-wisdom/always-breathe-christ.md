@@ -7,7 +7,7 @@ lang: en
 title: "Always Breathe Christ!"
 pubDate: 2020-05-20T10:59:27
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why does God order war in the Old Testament? What about His command not to murder?"
 pubDate: 2020-01-29T12:00:15
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

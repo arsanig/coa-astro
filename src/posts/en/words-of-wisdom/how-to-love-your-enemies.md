@@ -7,7 +7,7 @@ lang: en
 title: "How to love your enemies"
 pubDate: 2023-11-22T12:00:37
 tags: ["wow"]
-author: ""
+author: "Fr. Mark Basily"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

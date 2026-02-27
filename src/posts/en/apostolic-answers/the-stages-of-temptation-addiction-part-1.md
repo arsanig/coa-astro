@@ -7,7 +7,7 @@ lang: en
 title: "The Stages of Temptation & Addiction: Part 1"
 pubDate: 2019-03-20T12:00:01
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

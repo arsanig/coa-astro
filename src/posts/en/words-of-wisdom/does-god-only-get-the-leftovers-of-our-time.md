@@ -7,7 +7,7 @@ lang: en
 title: "Does God only get the Leftovers of Our Time?"
 pubDate: 2020-10-25T23:22:34
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

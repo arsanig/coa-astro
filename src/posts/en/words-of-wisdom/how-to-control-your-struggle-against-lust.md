@@ -7,7 +7,7 @@ lang: en
 title: "How to control your struggle against lust?"
 pubDate: 2020-02-28T12:00:38
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

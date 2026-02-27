@@ -7,7 +7,7 @@ lang: en
 title: "Is the feast of Nativity simply Christ’s birthday?"
 pubDate: 2017-12-13T01:40:04
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

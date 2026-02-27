@@ -7,7 +7,7 @@ lang: en
 title: "Standing up for the Truth"
 pubDate: 2023-11-15T12:00:15
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

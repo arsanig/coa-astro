@@ -7,7 +7,7 @@ lang: en
 title: "Why confess to a priest and how ought it be done? - Part 3"
 pubDate: 2017-08-08T23:23:53
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

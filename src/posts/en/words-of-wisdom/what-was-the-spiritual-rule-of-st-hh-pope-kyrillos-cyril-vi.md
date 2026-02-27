@@ -7,7 +7,7 @@ lang: en
 title: "What was the spiritual rule of St. HH Pope Kyrillos (Cyril) VI?"
 pubDate: 2020-10-25T23:52:19
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why is fornication or adultery is considered a sin in Christianity?"
 pubDate: 2017-11-11T10:39:00
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

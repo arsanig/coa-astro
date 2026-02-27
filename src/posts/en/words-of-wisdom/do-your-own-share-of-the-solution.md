@@ -7,7 +7,7 @@ lang: en
 title: "Do your own share of the solution"
 pubDate: 2021-05-13T19:00:54
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Garden of Eden is NOT What You Think It is"
 pubDate: 2024-03-06T12:00:46
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Experiencing The Resurrection"
 pubDate: 2021-09-10T10:14:03
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

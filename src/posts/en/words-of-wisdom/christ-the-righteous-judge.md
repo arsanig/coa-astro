@@ -7,7 +7,7 @@ lang: en
 title: "Christ, the righteous Judge"
 pubDate: 2023-06-23T12:00:00
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p><br/>

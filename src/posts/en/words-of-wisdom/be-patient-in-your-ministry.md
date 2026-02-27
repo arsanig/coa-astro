@@ -7,7 +7,7 @@ lang: en
 title: "Be patient in your ministry&#8230;"
 pubDate: 2020-12-01T21:24:18
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

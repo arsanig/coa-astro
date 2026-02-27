@@ -7,7 +7,7 @@ lang: en
 title: "Getting over the fear of solitude"
 pubDate: 2022-03-23T09:40:19
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

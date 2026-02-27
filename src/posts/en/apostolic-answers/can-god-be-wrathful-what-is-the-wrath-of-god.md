@@ -7,7 +7,7 @@ lang: en
 title: "Can God be wrathful? What is the wrath of God?"
 pubDate: 2018-10-31T15:38:04
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

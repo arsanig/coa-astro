@@ -7,7 +7,7 @@ lang: en
 title: "Finding Christ in Liturgy"
 pubDate: 2024-02-16T12:00:20
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

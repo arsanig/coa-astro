@@ -7,7 +7,7 @@ lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-1"
 pubDate: 2017-05-16T22:20:03
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

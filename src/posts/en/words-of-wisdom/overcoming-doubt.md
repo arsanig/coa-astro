@@ -7,7 +7,7 @@ lang: en
 title: "Overcoming Doubt"
 pubDate: 2022-06-03T10:39:22
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

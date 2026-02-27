@@ -7,7 +7,7 @@ lang: en
 title: "Can you ‘bribe’ God for forgiveness? Maybe if you do this one thing… (must listen)"
 pubDate: 2020-07-15T12:00:54
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

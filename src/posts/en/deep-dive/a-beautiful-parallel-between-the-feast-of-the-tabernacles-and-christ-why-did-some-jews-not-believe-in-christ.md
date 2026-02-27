@@ -7,7 +7,7 @@ lang: en
 title: "A beautiful parallel between the feast of the tabernacles and Christ! Why did some Jews not believe in Christ?"
 pubDate: 2020-06-19T20:56:43
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

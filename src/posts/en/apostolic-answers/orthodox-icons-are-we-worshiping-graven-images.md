@@ -7,7 +7,7 @@ lang: en
 title: "Orthodox Icons: Are we worshiping graven images?"
 pubDate: 2019-05-08T11:44:20
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

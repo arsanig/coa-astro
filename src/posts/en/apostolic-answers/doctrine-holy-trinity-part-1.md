@@ -7,7 +7,7 @@ lang: en
 title: "What is the doctrine of the Holy Trinity?- Part 1"
 pubDate: 2017-10-31T22:17:57
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

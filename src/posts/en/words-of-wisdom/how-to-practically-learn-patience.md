@@ -7,7 +7,7 @@ lang: en
 title: "How to practically learn patience?"
 pubDate: 2019-07-19T11:45:52
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

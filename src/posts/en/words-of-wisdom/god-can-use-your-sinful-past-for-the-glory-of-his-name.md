@@ -7,7 +7,7 @@ lang: en
 title: "God can use your sinful past for the glory of His Name!"
 pubDate: 2024-03-01T12:00:32
 tags: ["wow"]
-author: ""
+author: "Fr. Elijah Iskander"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

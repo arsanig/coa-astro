@@ -7,7 +7,7 @@ lang: en
 title: "What is the Jesus Prayer?"
 pubDate: 2018-05-08T10:19:41
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

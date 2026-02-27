@@ -7,7 +7,7 @@ lang: en
 title: "How does Christ save the humanity through His Incarnation?"
 pubDate: 2021-11-24T11:44:27
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Why does God allow Pain and Suffering?"
 pubDate: 2018-06-05T09:05:05
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

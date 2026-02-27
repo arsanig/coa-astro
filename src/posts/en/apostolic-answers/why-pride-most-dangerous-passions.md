@@ -7,7 +7,7 @@ lang: en
 title: "Why is Pride the most dangerous of all passions?(Passions- Part 6)"
 pubDate: 2018-09-29T14:11:19
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

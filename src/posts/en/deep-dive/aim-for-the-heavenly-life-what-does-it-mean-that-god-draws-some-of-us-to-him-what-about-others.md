@@ -7,7 +7,7 @@ lang: en
 title: "Aim for the heavenly life. What does it mean that God draws some of us to Him? What about others?"
 pubDate: 2020-05-15T13:05:57
 tags: ["dd"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Fasting - Do I Really Gain from Abstaining?"
 pubDate: 2022-08-26T00:13:33
 tags: ["wow"]
-author: ""
+author: "HG Bishop Gregory"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

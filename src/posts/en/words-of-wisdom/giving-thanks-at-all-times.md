@@ -7,7 +7,7 @@ lang: en
 title: "Giving Thanks at all times!"
 pubDate: 2020-10-22T00:40:44
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

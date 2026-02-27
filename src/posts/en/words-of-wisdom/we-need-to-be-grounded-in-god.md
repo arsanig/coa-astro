@@ -7,7 +7,7 @@ lang: en
 title: "We need to be grounded in God"
 pubDate: 2023-10-27T12:00:42
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

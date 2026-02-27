@@ -7,7 +7,7 @@ lang: en
 title: "Go and preach the word!"
 pubDate: 2019-07-17T11:30:18
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

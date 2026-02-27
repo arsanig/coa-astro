@@ -7,7 +7,7 @@ lang: en
 title: "Why is St. Mary such an important figure in Christianity?"
 pubDate: 2018-05-01T01:21:51
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

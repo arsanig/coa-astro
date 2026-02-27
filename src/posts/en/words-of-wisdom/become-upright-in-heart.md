@@ -7,7 +7,7 @@ lang: en
 title: "Become upright in heart"
 pubDate: 2022-07-28T23:59:48
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

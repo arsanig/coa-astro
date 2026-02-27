@@ -7,7 +7,7 @@ lang: en
 title: "Our relationship patterns with God"
 pubDate: 2020-12-24T23:56:17
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

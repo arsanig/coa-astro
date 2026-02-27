@@ -7,7 +7,7 @@ lang: en
 title: "What is the difference between Christian service and social work?"
 pubDate: 2020-02-14T12:00:33
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

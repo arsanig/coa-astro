@@ -7,7 +7,7 @@ lang: en
 title: "Less is more"
 pubDate: 2021-12-02T13:41:57
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

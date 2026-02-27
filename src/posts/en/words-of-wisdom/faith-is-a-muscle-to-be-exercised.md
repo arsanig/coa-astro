@@ -7,7 +7,7 @@ lang: en
 title: "Faith is a muscle to be exercised"
 pubDate: 2023-02-14T23:50:36
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

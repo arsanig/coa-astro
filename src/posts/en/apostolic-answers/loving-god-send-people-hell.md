@@ -7,7 +7,7 @@ lang: en
 title: "Why Does a Loving God Send People to Hell?"
 pubDate: 2017-05-02T17:51:53
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

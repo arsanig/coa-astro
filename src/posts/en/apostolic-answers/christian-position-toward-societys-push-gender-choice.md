@@ -7,7 +7,7 @@ lang: en
 title: "What should be our Christian position toward society’s push for gender choice?"
 pubDate: 2018-02-14T15:08:53
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "The Absence of God: Where is God in times of trouble?"
 pubDate: 2019-07-10T11:10:20
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

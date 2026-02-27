@@ -7,7 +7,7 @@ lang: en
 title: "The beauty of becoming like little children!"
 pubDate: 2020-01-31T12:00:32
 tags: ["wow"]
-author: ""
+author: "HG Bishop Kyrillos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

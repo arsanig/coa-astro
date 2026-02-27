@@ -7,7 +7,7 @@ lang: en
 title: "The Church is like a Hospital"
 pubDate: 2024-01-12T12:00:32
 tags: ["wow"]
-author: ""
+author: "Fr. James Mikhail"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

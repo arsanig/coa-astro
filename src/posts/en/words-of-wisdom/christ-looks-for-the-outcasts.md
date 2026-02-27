@@ -7,7 +7,7 @@ lang: en
 title: "Christ Looks For The Outcasts"
 pubDate: 2023-06-02T09:49:44
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

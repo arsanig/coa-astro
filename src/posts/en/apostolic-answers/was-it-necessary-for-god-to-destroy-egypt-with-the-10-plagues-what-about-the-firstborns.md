@@ -7,7 +7,7 @@ lang: en
 title: "Was it necessary for God to destroy Egypt with the 10 plagues? What about the firstborns?"
 pubDate: 2019-02-06T13:45:22
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

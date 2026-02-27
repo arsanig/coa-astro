@@ -7,7 +7,7 @@ lang: en
 title: "The meaning of peace"
 pubDate: 2022-05-26T14:02:49
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

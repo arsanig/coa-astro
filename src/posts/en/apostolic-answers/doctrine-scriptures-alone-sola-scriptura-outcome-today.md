@@ -7,7 +7,7 @@ lang: en
 title: "What is the doctrine of scriptures alone (sola scriptura)? What is its outcome today?"
 pubDate: 2017-12-06T00:40:57
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

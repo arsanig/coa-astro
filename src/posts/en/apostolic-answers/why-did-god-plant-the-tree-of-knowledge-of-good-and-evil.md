@@ -7,7 +7,7 @@ lang: en
 title: "Why did God plant the Tree of Knowledge of Good and Evil?"
 pubDate: 2018-12-13T11:54:05
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

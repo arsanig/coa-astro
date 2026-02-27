@@ -7,7 +7,7 @@ lang: en
 title: "What are the passions and how do I fight them?"
 pubDate: 2017-03-15T11:04:33
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

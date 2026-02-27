@@ -7,7 +7,7 @@ lang: en
 title: "How do I live a life of resurrection?"
 pubDate: 2017-04-18T23:21:26
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

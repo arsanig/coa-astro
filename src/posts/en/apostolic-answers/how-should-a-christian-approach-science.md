@@ -7,7 +7,7 @@ lang: en
 title: "How should a Christian approach SCIENCE?"
 pubDate: 2019-06-18T11:00:19
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

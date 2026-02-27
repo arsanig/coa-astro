@@ -7,7 +7,7 @@ lang: en
 title: "Going about helping the homeless"
 pubDate: 2023-11-17T12:00:24
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

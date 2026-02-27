@@ -7,7 +7,7 @@ lang: en
 title: "Bible Contemplations: Widow of Nain’s Son"
 pubDate: 2020-10-14T09:11:34
 tags: ["wow"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

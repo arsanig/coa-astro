@@ -7,7 +7,7 @@ lang: en
 title: "Is the belief in the Holy Trinity POLYTHEISM?"
 pubDate: 2023-09-06T12:00:31
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

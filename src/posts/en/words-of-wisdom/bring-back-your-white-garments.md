@@ -7,7 +7,7 @@ lang: en
 title: "Bring back your white garments"
 pubDate: 2022-03-16T02:20:55
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Do you know the way that you've chosen to walk?"
 pubDate: 2021-07-02T01:22:17
 tags: ["wow"]
-author: ""
+author: "Fr. Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

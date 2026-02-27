@@ -7,7 +7,7 @@ lang: en
 title: "Should you address a priest as ‘father’?"
 pubDate: 2019-06-05T14:41:55
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "How Can I Practically Benefit From The Cross?"
 pubDate: 2017-04-11T20:25:15
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "Who Created God?"
 pubDate: 2017-03-07T22:04:17
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "An honor to call Him Father"
 pubDate: 2023-10-20T12:00:53
 tags: ["wow"]
-author: ""
+author: "Fr. Mark Basily"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

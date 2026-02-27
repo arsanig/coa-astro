@@ -7,7 +7,7 @@ lang: en
 title: "Struggle to be Faithful"
 pubDate: 2023-09-08T12:00:23
 tags: ["wow"]
-author: ""
+author: "Fr. Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

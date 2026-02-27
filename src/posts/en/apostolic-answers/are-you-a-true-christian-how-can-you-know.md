@@ -7,7 +7,7 @@ lang: en
 title: "Are you a true Christian? How can you know?"
 pubDate: 2018-04-18T10:32:42
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

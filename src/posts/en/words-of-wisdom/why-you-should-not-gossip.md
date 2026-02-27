@@ -7,7 +7,7 @@ lang: en
 title: "Why you should not gossip?"
 pubDate: 2019-10-04T18:25:42
 tags: ["wow"]
-author: ""
+author: "Fr. Abraham Wassef"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

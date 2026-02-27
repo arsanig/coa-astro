@@ -7,7 +7,7 @@ lang: en
 title: "What is the ORTHODOX understanding of the RANSOM?"
 pubDate: 2022-04-20T10:11:11
 tags: ["aa"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

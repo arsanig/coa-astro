@@ -7,7 +7,7 @@ lang: en
 title: "Riches and the Kingdom"
 pubDate: 2023-09-22T12:00:03
 tags: ["wow"]
-author: ""
+author: "HE Metropolitan Youssef"
 ---
 
 <p><br/>

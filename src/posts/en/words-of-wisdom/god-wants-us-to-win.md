@@ -7,7 +7,7 @@ lang: en
 title: "God wants us to win!"
 pubDate: 2021-10-15T04:55:33
 tags: ["wow"]
-author: ""
+author: "HG Bishop Angaelos"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -7,7 +7,7 @@ lang: en
 title: "What is confession? - Part 2"
 pubDate: 2017-07-05T00:10:10
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

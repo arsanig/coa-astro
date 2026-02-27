@@ -7,7 +7,7 @@ lang: en
 title: "Entering into the heart of Christ during Pascha!"
 pubDate: 2023-04-04T14:36:22
 tags: ["wow"]
-author: ""
+author: "Fr. Joseph Dawoud"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

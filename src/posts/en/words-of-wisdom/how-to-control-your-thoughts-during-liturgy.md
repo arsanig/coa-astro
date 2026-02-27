@@ -7,7 +7,7 @@ lang: en
 title: "How to control your thoughts during Liturgy?"
 pubDate: 2020-12-30T09:50:04
 tags: ["wow"]
-author: ""
+author: "Fr. Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

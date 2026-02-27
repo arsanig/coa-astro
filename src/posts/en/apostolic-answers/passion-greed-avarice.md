@@ -7,7 +7,7 @@ lang: en
 title: "What is the passion of Greed & Avarice?(Passions- Part 4)"
 pubDate: 2017-08-23T14:11:20
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

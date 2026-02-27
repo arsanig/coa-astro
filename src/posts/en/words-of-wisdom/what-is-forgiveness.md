@@ -7,7 +7,7 @@ lang: en
 title: "What is forgiveness?"
 pubDate: 2022-02-23T10:40:04
 tags: ["wow"]
-author: ""
+author: "Fr. Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

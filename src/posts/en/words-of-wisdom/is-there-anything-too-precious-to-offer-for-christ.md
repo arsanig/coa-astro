@@ -7,7 +7,7 @@ lang: en
 title: "Is there anything too precious to offer for Christ"
 pubDate: 2023-02-07T23:00:43
 tags: ["wow"]
-author: ""
+author: "Fr. Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

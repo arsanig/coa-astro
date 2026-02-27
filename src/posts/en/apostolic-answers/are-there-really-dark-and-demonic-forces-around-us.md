@@ -7,7 +7,7 @@ lang: en
 title: "Are there really dark and demonic forces around us?"
 pubDate: 2022-08-31T11:39:15
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

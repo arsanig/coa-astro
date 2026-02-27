@@ -7,7 +7,7 @@ lang: en
 title: "What is my role in being saved?"
 pubDate: 2018-11-07T12:39:32
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

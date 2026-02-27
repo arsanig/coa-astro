@@ -7,7 +7,7 @@ lang: en
 title: "Spreading peace"
 pubDate: 2021-12-29T04:06:25
 tags: ["wow"]
-author: ""
+author: "Fr. Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

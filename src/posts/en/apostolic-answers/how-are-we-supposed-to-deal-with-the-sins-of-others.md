@@ -7,7 +7,7 @@ lang: en
 title: "How are we supposed to deal with the sins of others?"
 pubDate: 2019-10-02T11:10:15
 tags: ["aa"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

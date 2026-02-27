@@ -7,7 +7,7 @@ lang: en
 title: "Overcoming bad thoughts leads to crowns"
 pubDate: 2023-02-24T05:24:48
 tags: ["wow"]
-author: ""
+author: "Fr. Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
