@@ -1,6 +1,8 @@
 ---
 import { Image } from "astro:assets";
 import type { PodcastItem } from "@utils/podcasts";
+import Banner from "@components/Banner.astro";
+import * as m from "@paraglide/messages.js";
 
 interface Props {
     podcasts: PodcastItem[];
@@ -8,6 +10,8 @@ interface Props {
 
 const { podcasts } = Astro.props;
 ---
+
+<Banner image="/assets/images/podcast.webp" description={m.podcastsBannerDesc()} />
 
 <div
     class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-4 pt-8 sm:px-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"

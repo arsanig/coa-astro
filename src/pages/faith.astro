@@ -5,47 +5,47 @@ import * as m from "@paraglide/messages.js";
 
 <Main title={`${m.faithLabel()} | ${m.siteName()}`}>
     <div class="flex flex-col gap-px bg-white border border-white">
-        <!-- Row 1: Text | Image -->
+        <!-- Row 1: Image first on mobile | Text | Image on desktop -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
-            <div class="flex flex-col justify-center bg-red-950 px-8 py-16 md:px-12 md:py-36">
+            <div class="flex flex-col justify-center bg-red-950 px-8 py-16 md:px-12 md:py-36 order-2 md:order-1">
                 <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.faithTitle1()}</h3>
                 <p class="font-barlow text-white text-base md:text-lg leading-relaxed">
                     {m.faithBody1()}
                 </p>
             </div>
             <div
-                class="parallax-cell min-h-[400px] md:min-h-[600px] bg-cover bg-center"
-                style="background-image: url('/assets/images/church.webp');"
+                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-auto min-[1025px]:bg-[-20%_50%] order-1 md:order-2"
+                style="background-image: url('/assets/images/last-supper.webp');"
             >
             </div>
         </div>
 
-        <!-- Row 2: Image | Text (text first on mobile) -->
+        <!-- Row 2: Image | Text -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
-            <div class="flex flex-col justify-center bg-pearl px-8 py-16 md:px-12 md:py-36 md:order-2">
+            <div class="flex flex-col justify-center bg-pearl px-8 py-16 md:px-12 md:py-36 order-2">
                 <h3 class="font-noto text-black text-2xl md:text-3xl mb-4">{m.faithTitle2()}</h3>
                 <p class="font-barlow text-white text-base md:text-lg leading-relaxed">
                     {m.faithBody2()}
                 </p>
             </div>
             <div
-                class="parallax-cell min-h-[400px] md:min-h-[600px] bg-cover bg-center md:order-1"
-                style="background-image: url('/assets/images/coptic-manuscripts.webp');"
+                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-auto min-[1025px]:bg-[300%_50%] order-1"
+                style="background-image: url('/assets/images/pope-tawadrous.webp');"
             >
             </div>
         </div>
 
-        <!-- Row 3: Text | Image -->
+        <!-- Row 3: Image first on mobile | Text | Image on desktop -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
-            <div class="flex flex-col justify-center bg-red-950 px-8 py-16 md:px-12 md:py-36">
+            <div class="flex flex-col justify-center bg-red-950 px-8 py-16 md:px-12 md:py-36 order-2 md:order-1">
                 <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.faithTitle3()}</h3>
                 <p class="font-barlow text-white text-base md:text-lg leading-relaxed">
                     {m.faithBody3()}
                 </p>
             </div>
             <div
-                class="parallax-cell min-h-[400px] md:min-h-[600px] bg-cover bg-center"
-                style="background-image: url('/assets/images/church.webp');"
+                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-[-50%_50%] min-[1025px]:[background-size:110%_auto] order-1 md:order-2"
+                style="background-image: url('/assets/images/chalice.webp');"
             >
             </div>
         </div>
@@ -53,13 +53,17 @@ import * as m from "@paraglide/messages.js";
 </Main>
 
 <style>
-    .parallax-cell {
-        background-attachment: fixed;
-    }
-
-    @supports (-webkit-touch-callout: none) {
+    @media (min-width: 1025px) {
         .parallax-cell {
-            background-attachment: scroll;
+            background-attachment: fixed;
+        }
+
+        @supports (-webkit-touch-callout: none) {
+            .parallax-cell {
+                background-attachment: scroll;
+                background-size: cover !important;
+                background-position: center !important;
+            }
         }
     }
 </style>
