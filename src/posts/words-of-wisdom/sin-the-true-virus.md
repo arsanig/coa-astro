@@ -12,5 +12,3 @@ tags: ["wow"]
 <p>Sin, The True Virus In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved HG Bishop Gregory Auxiliary Bishop of Southern United States.</p>
 <p>&nbsp;</p>
 <p>This video is of course used with his blessing.</p>
-
-<p>For the full Sermon : https://stgj.sharepoint.com/:u:/g/STGJ/COA/EXPoj5Rg50FDl2-hZxHGP_8BjPqJ-JaOKFd9oztZB7IdkQ</p>

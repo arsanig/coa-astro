@@ -12,5 +12,3 @@ tags: ["wow"]
 <p>Obedience: Fruit of the Living Faith</p>
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
 <p>We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ. This video is of course used with his blessing.</p>
-
-<p>For the full Sermon : https://www.youtube.com/watch?v=JcG2ZA7tXVI</p>

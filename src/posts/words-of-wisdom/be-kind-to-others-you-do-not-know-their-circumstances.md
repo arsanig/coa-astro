@@ -10,5 +10,3 @@ tags: ["wow"]
 ---
 
 <p>In the name of the Father, the Son, the Holy Spirit one God Amen We are excited to be with HG Bishop Basil Auxiliary Bishop of the Southern United States, assisting HG Bishop Youssef through the newly established Words of Wisdom branch. This video was of course used with his blessing.</p>
-<p>&nbsp;</p>
-<p>For the full Sermon : https://www.youtube.com/watch?v=1IpNbdKhw7g</p>

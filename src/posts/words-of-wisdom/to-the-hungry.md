@@ -12,5 +12,3 @@ tags: ["wow"]
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril's, Liverpool, England.</p>
 <p>&nbsp;</p>
 <p>This video is of course used with his blessing.</p>
-<p>&nbsp;</p>
-<p>For the full Sermon : https://www.youtube.com/watch?v=lIJhYWQukoo</p>

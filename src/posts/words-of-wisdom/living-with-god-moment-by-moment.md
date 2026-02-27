@@ -12,5 +12,3 @@ tags: ["wow"]
 <p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved Fr. Kyrillos Ibrahim from St. Paul American Coptic Orthodox Church. Orange County, California.</p>
 <p>&nbsp;</p>
 <p>This video is of course used with his blessing.</p>
-<p>&nbsp;</p>
-<p>For the full Sermon : <a href="https://youtu.be/Q4usBF-jRgY">https://www.youtube.com/watch?v=lIJhYWQukoo</a></p>
