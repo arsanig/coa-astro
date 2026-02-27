@@ -1,0 +1,16 @@
+---
+wp_id: 3886
+imgId: 3887
+videoId: "PsiZY8Go16s"
+imgSrc: /assets/thumbnails/3887.webp
+lang: fr
+title: "(FR) He must increase, I must decrease"
+pubDate: 2023-04-28T11:36:09
+tags: ["wow"]
+---
+(FR)
+
+
+<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
+<p>We are blessed to learn from our beloved Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia. This video is of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

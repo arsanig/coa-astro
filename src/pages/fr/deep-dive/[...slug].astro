@@ -6,11 +6,13 @@ import Post from "@layouts/Post.astro";
 export const prerender = true;
 
 export async function getStaticPaths() {
-    const posts = await getCollection("deep_dive_fr");
-    return posts.map((post) => ({
-        params: { slug: post.id },
-        props: post,
-    }));
+    const allPosts = await getCollection("posts");
+    return allPosts
+        .filter((post) => post.id.startsWith("fr/deep-dive/"))
+        .map((post) => ({
+            params: { slug: post.id.replace("fr/deep-dive/", "") },
+            props: post,
+        }));
 }
 
 type Props = CollectionEntry<"posts">;

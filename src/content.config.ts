@@ -20,60 +20,6 @@ const posts = defineCollection({
     schema: PostsCollectionSchema,
 });
 
-const apostolic_answers = defineCollection({
-    loader: glob({
-        base: "./src/posts/apostolic-answers",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const apostolic_answers_fr = defineCollection({
-    loader: glob({
-        base: "./src/posts/fr/apostolic-answers",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const words_of_wisdom = defineCollection({
-    loader: glob({
-        base: "./src/posts/words-of-wisdom",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const words_of_wisdom_fr = defineCollection({
-    loader: glob({
-        base: "./src/posts/fr/words-of-wisdom",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const deep_dive = defineCollection({
-    loader: glob({
-        base: "./src/posts/deep-dive",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
-const deep_dive_fr = defineCollection({
-    loader: glob({
-        base: "./src/posts/fr/deep-dive",
-        pattern: "*.md",
-    }),
-    schema: PostsCollectionSchema,
-});
-
 export const collections = {
     posts,
-    apostolic_answers,
-    apostolic_answers_fr,
-    words_of_wisdom,
-    words_of_wisdom_fr,
-    deep_dive,
-    deep_dive_fr,
 };

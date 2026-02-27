@@ -1,0 +1,15 @@
+---
+wp_id: 3435
+imgId: 3436
+videoId: "p9MNfUmTo0U"
+imgSrc: /assets/thumbnails/3436.webp
+lang: fr
+title: "(FR) Is Christ preparing literal mansions in Heaven? How come I pray in His Name and He doesn’t answer?"
+pubDate: 2022-05-04T12:34:55
+tags: ["dd"]
+---
+(FR)
+
+
+<p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!  In this session, we explore together the background of the Gospel of John  (john  14:1-14 ) </p>

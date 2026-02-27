@@ -1,0 +1,12 @@
+---
+wp_id: 930
+imgId: 935
+videoId: "p-V3SL9DPKQ"
+imgSrc: /assets/thumbnails/935.webp
+lang: fr
+title: "(FR) Coptic Orthodox Answers - Knowing, Living and Teaching the faith!"
+pubDate: 2017-07-12T10:06:34
+tags: ["whut"]
+---
+(FR)
+

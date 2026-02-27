@@ -18,6 +18,10 @@ const pathnames: Record<
         en: "/apostolic-answers",
         fr: "/fr/apostolic-answers",
     },
+    "/words-of-wisdom": {
+        en: "/words-of-wisdom",
+        fr: "/fr/words-of-wisdom",
+    },
     "/deep-dive": {
         en: "/deep-dive",
         fr: "/fr/deep-dive",

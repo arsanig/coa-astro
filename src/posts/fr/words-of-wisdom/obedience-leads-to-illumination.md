@@ -1,0 +1,15 @@
+---
+wp_id: 3579
+imgId: 3580
+videoId: "m9xP3DrZ9po"
+imgSrc: /assets/thumbnails/3580.webp
+lang: fr
+title: "(FR) Obedience leads to illumination"
+pubDate: 2022-09-08T22:41:12
+tags: ["wow"]
+---
+(FR)
+
+
+<p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
+<p>We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ. This video is of course used with his blessing.</p>

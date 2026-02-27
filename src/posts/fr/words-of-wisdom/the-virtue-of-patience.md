@@ -1,0 +1,16 @@
+---
+wp_id: 3670
+imgId: 3671
+videoId: "ItczVx4o6Ek"
+imgSrc: /assets/thumbnails/3671.webp
+lang: fr
+title: "(FR) The virtue of patience"
+pubDate: 2022-11-18T00:00:37
+tags: ["wow"]
+---
+(FR)
+
+
+<p>In the name of the Father, the Son, the Holy Spirit one God Amen </p>
+<p>We are blessed to learn from our beloved Fr. Kyrillos Ibrahim, from St. Paul American Coptic Orthodox Church. Orange County, California. This video is of course used with his blessing.</p>
+<p>This video was of course used with his blessing. </p>
