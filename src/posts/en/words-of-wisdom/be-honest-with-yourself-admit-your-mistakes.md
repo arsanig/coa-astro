@@ -1,8 +1,7 @@
 ---
 wp_id: 1478
-imgId: 1479
 videoId: "YYRQBHdq9bA"
-imgSrc: /assets/thumbnails/1479.webp
+imgSrc: /assets/thumbnails/YYRQBHdq9bA.webp
 lang: en
 title: "Be honest with yourself! Admit your mistakes."
 pubDate: 2019-05-03T11:00:32

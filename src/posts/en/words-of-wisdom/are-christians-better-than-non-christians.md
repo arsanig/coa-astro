@@ -1,8 +1,7 @@
 ---
 wp_id: 1656
-imgId: 1658
 videoId: "_F9gocLEH68"
-imgSrc: /assets/thumbnails/1658.webp
+imgSrc: /assets/thumbnails/_F9gocLEH68.webp
 lang: en
 title: "Are Christians better than non-Christians?"
 pubDate: 2019-08-07T12:00:37

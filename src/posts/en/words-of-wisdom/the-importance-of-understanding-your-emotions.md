@@ -1,8 +1,7 @@
 ---
 wp_id: 1628
-imgId: 1629
 videoId: "c_0TTuDI0n8"
-imgSrc: /assets/thumbnails/1629.webp
+imgSrc: /assets/thumbnails/c_0TTuDI0n8.webp
 lang: en
 title: "The importance of understanding your emotions"
 pubDate: 2019-07-12T12:00:50

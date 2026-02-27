@@ -1,8 +1,7 @@
 ---
 wp_id: 2964
-imgId: 2969
 videoId: "mpcNIEQbg3Y"
-imgSrc: /assets/thumbnails/2969.webp
+imgSrc: /assets/thumbnails/mpcNIEQbg3Y.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God and to One Another"
 pubDate: 2021-07-12T00:00:36

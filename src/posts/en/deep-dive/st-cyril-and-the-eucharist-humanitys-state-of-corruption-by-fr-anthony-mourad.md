@@ -1,8 +1,7 @@
 ---
 wp_id: 2737
-imgId: 2739
 videoId: "bg3a6HaLoxQ"
-imgSrc: /assets/thumbnails/2739.webp
+imgSrc: /assets/thumbnails/bg3a6HaLoxQ.webp
 lang: en
 title: "St Cyril and the Eucharist: Humanity's State of Corruption."
 pubDate: 2021-03-16T21:37:37

@@ -1,8 +1,7 @@
 ---
 wp_id: 1829
-imgId: 1830
 videoId: "EuljDKJO-As"
-imgSrc: /assets/thumbnails/1830.webp
+imgSrc: /assets/thumbnails/EuljDKJO-As.webp
 lang: en
 title: "Back to Basics: How do I kick-start my Prayer Life?"
 pubDate: 2019-11-13T12:00:58

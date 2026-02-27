@@ -1,8 +1,7 @@
 ---
 wp_id: 1607
-imgId: 1610
 videoId: "tyM71JkJX_Q"
-imgSrc: /assets/thumbnails/1610.webp
+imgSrc: /assets/thumbnails/tyM71JkJX_Q.webp
 lang: en
 title: "What Loving Action Could You Do Today?"
 pubDate: 2019-07-03T11:45:43

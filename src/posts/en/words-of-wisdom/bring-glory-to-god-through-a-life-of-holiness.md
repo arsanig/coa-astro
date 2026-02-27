@@ -1,8 +1,7 @@
 ---
 wp_id: 1733
-imgId: 1734
 videoId: "3qUTpwVWNwY"
-imgSrc: /assets/thumbnails/1734.webp
+imgSrc: /assets/thumbnails/3qUTpwVWNwY.webp
 lang: en
 title: "Bring glory to God through a life of holiness"
 pubDate: 2019-09-27T12:00:22

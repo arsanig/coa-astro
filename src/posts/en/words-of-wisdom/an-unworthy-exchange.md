@@ -1,8 +1,7 @@
 ---
 wp_id: 4006
-imgId: 4007
 videoId: "HeTyT3sJTyw"
-imgSrc: /assets/thumbnails/4007.webp
+imgSrc: /assets/thumbnails/HeTyT3sJTyw.webp
 lang: en
 title: "An Unworthy Exchange"
 pubDate: 2023-08-11T12:00:50

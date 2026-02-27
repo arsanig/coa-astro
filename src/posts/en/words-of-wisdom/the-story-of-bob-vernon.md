@@ -1,8 +1,7 @@
 ---
 wp_id: 2842
-imgId: 2843
 videoId: "0JK1Xv5HgGg"
-imgSrc: /assets/thumbnails/2843.webp
+imgSrc: /assets/thumbnails/0JK1Xv5HgGg.webp
 lang: en
 title: "The Story of Bob Vernon"
 pubDate: 2021-04-27T20:48:44

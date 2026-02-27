@@ -1,8 +1,7 @@
 ---
 wp_id: 2529
-imgId: 2531
 videoId: "kaJzdqP5KnY"
-imgSrc: /assets/thumbnails/2531.webp
+imgSrc: /assets/thumbnails/kaJzdqP5KnY.webp
 lang: en
 title: "Let Him be your master!"
 pubDate: 2020-12-10T05:34:17

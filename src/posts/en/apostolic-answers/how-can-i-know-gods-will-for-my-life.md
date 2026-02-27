@@ -1,8 +1,7 @@
 ---
 wp_id: 1433
-imgId: 1434
 videoId: "kk9GXFspvME"
-imgSrc: /assets/thumbnails/1434.webp
+imgSrc: /assets/thumbnails/kk9GXFspvME.webp
 lang: en
 title: "How can I know God’s will for my life?"
 pubDate: 2019-03-27T11:07:37

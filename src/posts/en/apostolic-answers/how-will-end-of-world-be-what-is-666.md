@@ -1,8 +1,7 @@
 ---
 wp_id: 1150
-imgId: 1082
 videoId: "BcSUUY4GD4g"
-imgSrc: /assets/thumbnails/1082.webp
+imgSrc: /assets/thumbnails/BcSUUY4GD4g.webp
 lang: en
 title: "How will the end of the world be? What is 666?"
 pubDate: 2018-09-29T14:29:06

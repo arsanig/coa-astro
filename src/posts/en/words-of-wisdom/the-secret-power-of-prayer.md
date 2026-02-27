@@ -1,8 +1,7 @@
 ---
 wp_id: 2417
-imgId: 2418
 videoId: "UkiAfl-gKmQ"
-imgSrc: /assets/thumbnails/2418.webp
+imgSrc: /assets/thumbnails/UkiAfl-gKmQ.webp
 lang: en
 title: "The secret power of prayer!"
 pubDate: 2020-10-25T23:56:31

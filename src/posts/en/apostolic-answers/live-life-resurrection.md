@@ -1,8 +1,7 @@
 ---
 wp_id: 846
-imgId: 447
 videoId: "qDyzmbcfzIM"
-imgSrc: /assets/thumbnails/447.webp
+imgSrc: /assets/thumbnails/qDyzmbcfzIM.webp
 lang: en
 title: "How do I live a life of resurrection?"
 pubDate: 2017-04-18T23:21:26

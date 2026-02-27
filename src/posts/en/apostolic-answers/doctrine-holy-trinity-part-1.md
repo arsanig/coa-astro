@@ -1,8 +1,7 @@
 ---
 wp_id: 995
-imgId: 681
 videoId: "JLCzWmg0RSE"
-imgSrc: /assets/thumbnails/681.webp
+imgSrc: /assets/thumbnails/JLCzWmg0RSE.webp
 lang: en
 title: "What is the doctrine of the Holy Trinity?- Part 1"
 pubDate: 2017-10-31T22:17:57

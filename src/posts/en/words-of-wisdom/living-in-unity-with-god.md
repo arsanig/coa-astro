@@ -1,8 +1,7 @@
 ---
 wp_id: 3218
-imgId: 3223
 videoId: "YIG-C8CcnU8"
-imgSrc: /assets/thumbnails/3223.webp
+imgSrc: /assets/thumbnails/YIG-C8CcnU8.webp
 lang: en
 title: "Living in unity with God"
 pubDate: 2021-12-09T21:41:25

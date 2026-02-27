@@ -1,8 +1,7 @@
 ---
 wp_id: 2164
-imgId: 2169
 videoId: "YPOz4TZWYS0"
-imgSrc: /assets/thumbnails/2169.webp
+imgSrc: /assets/thumbnails/YPOz4TZWYS0.webp
 lang: en
 title: "Do our earthly cares really distance us from God? How important is Scripture?"
 pubDate: 2020-04-24T15:26:12

@@ -1,8 +1,7 @@
 ---
 wp_id: 2298
-imgId: 2299
 videoId: "j-cKk0FWid4"
-imgSrc: /assets/thumbnails/2299.webp
+imgSrc: /assets/thumbnails/j-cKk0FWid4.webp
 lang: en
 title: "Why Christ says ‘My Father taught Me?’ Is the Son not equal to the Father?"
 pubDate: 2020-07-03T12:00:47

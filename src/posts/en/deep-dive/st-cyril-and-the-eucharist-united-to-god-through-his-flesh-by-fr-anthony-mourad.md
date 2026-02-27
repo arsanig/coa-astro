@@ -1,8 +1,7 @@
 ---
 wp_id: 2936
-imgId: 2939
 videoId: "yOFE1iuvO3Q"
-imgSrc: /assets/thumbnails/2939.webp
+imgSrc: /assets/thumbnails/yOFE1iuvO3Q.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God through His Flesh"
 pubDate: 2021-06-28T02:17:58

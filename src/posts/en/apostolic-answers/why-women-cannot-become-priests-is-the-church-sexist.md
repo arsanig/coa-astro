@@ -1,8 +1,7 @@
 ---
 wp_id: 1252
-imgId: 1225
 videoId: "RstA8PeN6Ow"
-imgSrc: /assets/thumbnails/1225.webp
+imgSrc: /assets/thumbnails/RstA8PeN6Ow.webp
 lang: en
 title: "Why women cannot become priests? Is the Church sexist?"
 pubDate: 2019-01-24T16:23:52

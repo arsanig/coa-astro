@@ -1,8 +1,7 @@
 ---
 wp_id: 2057
-imgId: 2058
 videoId: "dlq3klNfwCE"
-imgSrc: /assets/thumbnails/2058.webp
+imgSrc: /assets/thumbnails/dlq3klNfwCE.webp
 lang: en
 title: "How to control your struggle against lust?"
 pubDate: 2020-02-28T12:00:38

@@ -1,8 +1,7 @@
 ---
 wp_id: 913
-imgId: 401
 videoId: "J5qlcYK-3gE"
-imgSrc: /assets/thumbnails/401.webp
+imgSrc: /assets/thumbnails/J5qlcYK-3gE.webp
 lang: en
 title: "Why do we kiss the hands of the priests?"
 pubDate: 2017-06-21T01:00:15

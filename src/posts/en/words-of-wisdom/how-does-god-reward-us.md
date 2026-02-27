@@ -1,8 +1,7 @@
 ---
 wp_id: 2721
-imgId: 2724
 videoId: "HM6CeThzuSo"
-imgSrc: /assets/thumbnails/2724.webp
+imgSrc: /assets/thumbnails/HM6CeThzuSo.webp
 lang: en
 title: "How does God reward us?"
 pubDate: 2021-03-11T21:42:27

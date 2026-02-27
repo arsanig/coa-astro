@@ -1,8 +1,7 @@
 ---
 wp_id: 2344
-imgId: 2345
 videoId: "Nbjr7lxaDpM"
-imgSrc: /assets/thumbnails/2345.webp
+imgSrc: /assets/thumbnails/Nbjr7lxaDpM.webp
 lang: en
 title: "What is the meaning of Christ being the door by which the sheep enter?"
 pubDate: 2020-10-19T13:13:16

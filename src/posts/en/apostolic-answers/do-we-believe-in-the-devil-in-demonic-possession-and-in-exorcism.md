@@ -1,8 +1,7 @@
 ---
 wp_id: 4211
-imgId: 4212
 videoId: "vjSG7lxdsBM"
-imgSrc: /assets/thumbnails/4212.webp
+imgSrc: /assets/thumbnails/vjSG7lxdsBM.webp
 lang: en
 title: "Do we believe in the devil, in demonic possession, and in exorcism?"
 pubDate: 2023-11-29T12:00:48

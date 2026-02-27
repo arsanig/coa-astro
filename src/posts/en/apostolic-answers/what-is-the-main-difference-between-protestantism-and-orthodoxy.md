@@ -1,8 +1,7 @@
 ---
 wp_id: 3138
-imgId: 3139
 videoId: "ilvB0OyQK-s"
-imgSrc: /assets/thumbnails/3139.webp
+imgSrc: /assets/thumbnails/ilvB0OyQK-s.webp
 lang: en
 title: "What is the main difference between Protestantism and Orthodoxy?"
 pubDate: 2021-10-13T09:02:17

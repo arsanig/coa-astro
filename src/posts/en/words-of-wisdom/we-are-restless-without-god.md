@@ -1,8 +1,7 @@
 ---
 wp_id: 1958
-imgId: 1959
 videoId: "jgIcSEcOBqI"
-imgSrc: /assets/thumbnails/1959.webp
+imgSrc: /assets/thumbnails/jgIcSEcOBqI.webp
 lang: en
 title: "We are restless without God!"
 pubDate: 2020-01-22T12:00:17

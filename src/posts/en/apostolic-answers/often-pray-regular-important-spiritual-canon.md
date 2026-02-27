@@ -1,8 +1,7 @@
 ---
 wp_id: 978
-imgId: 554
 videoId: "ZLhwAJrDGEM"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/ZLhwAJrDGEM.webp
 lang: en
 title: "How often should I pray? Is being regular important? What is a spiritual canon?"
 pubDate: 2017-09-27T12:06:30

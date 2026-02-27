@@ -1,8 +1,7 @@
 ---
 wp_id: 2992
-imgId: 2993
 videoId: "AkGsf7SFlYg"
-imgSrc: /assets/thumbnails/2993.webp
+imgSrc: /assets/thumbnails/AkGsf7SFlYg.webp
 lang: en
 title: "Be careful, be watchful, it's not done yet!"
 pubDate: 2021-07-30T12:00:21

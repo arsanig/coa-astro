@@ -1,8 +1,7 @@
 ---
 wp_id: 3792
-imgId: 3794
 videoId: "UE_wYhekFb4"
-imgSrc: /assets/thumbnails/3794.webp
+imgSrc: /assets/thumbnails/UE_wYhekFb4.webp
 lang: en
 title: "Why is it vital to keep the commandments? Is true love founded on emotions?"
 pubDate: 2023-03-08T01:48:37

@@ -1,8 +1,7 @@
 ---
 wp_id: 3170
-imgId: 3171
 videoId: "FbGdFcynxqk"
-imgSrc: /assets/thumbnails/3171.webp
+imgSrc: /assets/thumbnails/FbGdFcynxqk.webp
 lang: en
 title: "Why do we want to have union with God?"
 pubDate: 2021-11-04T21:33:37

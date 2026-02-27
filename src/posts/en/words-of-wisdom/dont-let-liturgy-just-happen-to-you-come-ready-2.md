@@ -1,8 +1,7 @@
 ---
 wp_id: 2121
-imgId: 2122
 videoId: "ACcQ6WOJKXI"
-imgSrc: /assets/thumbnails/2122.webp
+imgSrc: /assets/thumbnails/ACcQ6WOJKXI.webp
 lang: en
 title: "Don't let Liturgy just happen to you, come ready!"
 pubDate: 2020-03-13T13:39:06

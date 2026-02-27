@@ -1,8 +1,7 @@
 ---
 wp_id: 1153
-imgId: 1158
 videoId: "lXrXP15RmvI"
-imgSrc: /assets/thumbnails/1158.webp
+imgSrc: /assets/thumbnails/lXrXP15RmvI.webp
 lang: en
 title: "Why Would God Entirely Destroy Sodom & Gomorrah? What About The Children?"
 pubDate: 2018-10-17T14:56:37

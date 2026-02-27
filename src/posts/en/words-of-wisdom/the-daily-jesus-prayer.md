@@ -1,8 +1,7 @@
 ---
 wp_id: 3471
-imgId: 3472
 videoId: "Sb_iobzuQ-o"
-imgSrc: /assets/thumbnails/3472.webp
+imgSrc: /assets/thumbnails/Sb_iobzuQ-o.webp
 lang: en
 title: "The Daily Jesus Prayer"
 pubDate: 2022-06-08T10:09:21

@@ -1,8 +1,7 @@
 ---
 wp_id: 2088
-imgId: 2089
 videoId: "TQYT2NOGI_I"
-imgSrc: /assets/thumbnails/2089.webp
+imgSrc: /assets/thumbnails/TQYT2NOGI_I.webp
 lang: en
 title: "How to live righteously?"
 pubDate: 2020-03-18T10:51:03

@@ -1,8 +1,7 @@
 ---
 wp_id: 2926
-imgId: 2929
 videoId: "X5TdnfZfr4A"
-imgSrc: /assets/thumbnails/2929.webp
+imgSrc: /assets/thumbnails/X5TdnfZfr4A.webp
 lang: en
 title: "Isolation is protection !"
 pubDate: 2021-06-17T23:16:49

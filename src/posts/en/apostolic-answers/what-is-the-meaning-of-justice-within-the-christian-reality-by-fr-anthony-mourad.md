@@ -1,8 +1,7 @@
 ---
 wp_id: 2905
-imgId: 2907
 videoId: "Sz5S1nkFTxA"
-imgSrc: /assets/thumbnails/2907.webp
+imgSrc: /assets/thumbnails/Sz5S1nkFTxA.webp
 lang: en
 title: "What is the meaning of Justice within the Christian reality?"
 pubDate: 2021-06-09T00:28:50

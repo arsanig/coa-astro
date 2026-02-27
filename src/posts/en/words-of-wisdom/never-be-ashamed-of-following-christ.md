@@ -1,8 +1,7 @@
 ---
 wp_id: 3621
-imgId: 3622
 videoId: "auYee_j8UVc"
-imgSrc: /assets/thumbnails/3622.webp
+imgSrc: /assets/thumbnails/auYee_j8UVc.webp
 lang: en
 title: "Never be ashamed of following Christ"
 pubDate: 2022-10-08T09:57:55

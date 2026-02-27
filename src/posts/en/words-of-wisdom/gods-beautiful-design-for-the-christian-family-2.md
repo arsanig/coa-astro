@@ -1,8 +1,7 @@
 ---
 wp_id: 4246
-imgId: 4247
 videoId: "f0oDlc8GxRA"
-imgSrc: /assets/thumbnails/4247.webp
+imgSrc: /assets/thumbnails/f0oDlc8GxRA.webp
 lang: en
 title: "God’s Beautiful Design for the Christian Family"
 pubDate: 2023-12-06T12:00:08

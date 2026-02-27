@@ -1,8 +1,7 @@
 ---
 wp_id: 1147
-imgId: 687
 videoId: "mwP0a3DEhcc"
-imgSrc: /assets/thumbnails/687.webp
+imgSrc: /assets/thumbnails/mwP0a3DEhcc.webp
 lang: en
 title: "Why is Pride the most dangerous of all passions?(Passions- Part 6)"
 pubDate: 2018-09-29T14:11:19

@@ -1,8 +1,7 @@
 ---
 wp_id: 1219
-imgId: 1225
 videoId: "bZ3CyErWCOo"
-imgSrc: /assets/thumbnails/1225.webp
+imgSrc: /assets/thumbnails/bZ3CyErWCOo.webp
 lang: en
 title: "Is sin leading you to despair? Restore your hope with God."
 pubDate: 2018-12-30T12:56:00

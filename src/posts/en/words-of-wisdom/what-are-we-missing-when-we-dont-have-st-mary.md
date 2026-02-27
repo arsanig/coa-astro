@@ -1,8 +1,7 @@
 ---
 wp_id: 2517
-imgId: 2518
 videoId: "JWvuwsuZ5Ks"
-imgSrc: /assets/thumbnails/2518.webp
+imgSrc: /assets/thumbnails/JWvuwsuZ5Ks.webp
 lang: en
 title: "What are we missing when we don't have St. Mary?"
 pubDate: 2020-12-03T23:12:49

@@ -1,8 +1,7 @@
 ---
 wp_id: 1347
-imgId: 1348
 videoId: "hbBQSxhSaug"
-imgSrc: /assets/thumbnails/1348.webp
+imgSrc: /assets/thumbnails/hbBQSxhSaug.webp
 lang: en
 title: "How to control your thoughts? 4 sure ways to help you gain control."
 pubDate: 2019-02-20T12:00:39

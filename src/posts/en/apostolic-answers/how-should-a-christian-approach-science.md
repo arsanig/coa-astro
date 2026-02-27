@@ -1,8 +1,7 @@
 ---
 wp_id: 1583
-imgId: 1584
 videoId: "BKnEXMosp2g"
-imgSrc: /assets/thumbnails/1584.webp
+imgSrc: /assets/thumbnails/BKnEXMosp2g.webp
 lang: en
 title: "How should a Christian approach SCIENCE?"
 pubDate: 2019-06-18T11:00:19

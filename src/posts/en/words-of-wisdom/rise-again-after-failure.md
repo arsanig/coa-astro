@@ -1,8 +1,7 @@
 ---
 wp_id: 4015
-imgId: 4016
 videoId: "IGfe96ZA22s"
-imgSrc: /assets/thumbnails/4016.webp
+imgSrc: /assets/thumbnails/IGfe96ZA22s.webp
 lang: en
 title: "Rise again after failure"
 pubDate: 2023-08-23T12:00:00

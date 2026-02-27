@@ -1,8 +1,7 @@
 ---
 wp_id: 3127
-imgId: 3129
 videoId: "Q4usBF-jRgY"
-imgSrc: /assets/thumbnails/3129.webp
+imgSrc: /assets/thumbnails/Q4usBF-jRgY.webp
 lang: en
 title: "Living with God moment by moment"
 pubDate: 2021-10-06T00:28:35

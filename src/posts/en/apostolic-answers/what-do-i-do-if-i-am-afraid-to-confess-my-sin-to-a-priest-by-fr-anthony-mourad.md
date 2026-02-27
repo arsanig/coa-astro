@@ -1,8 +1,7 @@
 ---
 wp_id: 3801
-imgId: 3802
 videoId: "zcbQE3G9Sik"
-imgSrc: /assets/thumbnails/3802.webp
+imgSrc: /assets/thumbnails/zcbQE3G9Sik.webp
 lang: en
 title: "What do I do if I am afraid to confess my sin to a priest?"
 pubDate: 2023-03-15T07:20:34

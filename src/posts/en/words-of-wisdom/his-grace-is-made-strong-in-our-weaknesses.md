@@ -1,8 +1,7 @@
 ---
 wp_id: 4378
-imgId: 4379
 videoId: "qksHj_uSkmI"
-imgSrc: /assets/thumbnails/4379.webp
+imgSrc: /assets/thumbnails/qksHj_uSkmI.webp
 lang: en
 title: "His grace is made strong in our weaknesses"
 pubDate: 2024-02-02T12:00:12

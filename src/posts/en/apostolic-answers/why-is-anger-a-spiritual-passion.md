@@ -1,8 +1,7 @@
 ---
 wp_id: 1143
-imgId: 1117
 videoId: "VfLhabfeMAg"
-imgSrc: /assets/thumbnails/1117.webp
+imgSrc: /assets/thumbnails/VfLhabfeMAg.webp
 lang: en
 title: "Why is Anger a Spiritual Passion?"
 pubDate: 2018-08-13T11:07:06

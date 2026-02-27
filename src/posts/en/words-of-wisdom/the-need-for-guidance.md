@@ -1,8 +1,7 @@
 ---
 wp_id: 3285
-imgId: 3286
 videoId: "Zq9DI3OxiT4"
-imgSrc: /assets/thumbnails/3286.webp
+imgSrc: /assets/thumbnails/Zq9DI3OxiT4.webp
 lang: en
 title: "The need for guidance"
 pubDate: 2022-01-28T11:05:33

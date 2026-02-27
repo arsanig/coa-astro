@@ -1,8 +1,7 @@
 ---
 wp_id: 3863
-imgId: 3864
 videoId: "tLXv4uBjD7Y"
-imgSrc: /assets/thumbnails/3864.webp
+imgSrc: /assets/thumbnails/tLXv4uBjD7Y.webp
 lang: en
 title: "&#8220;I desire to be one with You: Meditations on Thursday of Holy Pascha&#8221;"
 pubDate: 2023-04-13T03:27:57

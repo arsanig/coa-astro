@@ -1,8 +1,7 @@
 ---
 wp_id: 1926
-imgId: 1928
 videoId: "17k0Kgb7SW4"
-imgSrc: /assets/thumbnails/1928.webp
+imgSrc: /assets/thumbnails/17k0Kgb7SW4.webp
 lang: en
 title: "What is the hidden meaning of John’s baptism?"
 pubDate: 2019-09-23T18:42:51

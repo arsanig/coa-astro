@@ -1,8 +1,7 @@
 ---
 wp_id: 1012
-imgId: 554
 videoId: "xow9tcKZzFE"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/xow9tcKZzFE.webp
 lang: en
 title: "Is hell a real fire? Does God want to chastise us for eternity?"
 pubDate: 2017-11-22T10:37:23

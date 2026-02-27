@@ -1,8 +1,7 @@
 ---
 wp_id: 3489
-imgId: 3490
 videoId: "OjmPYKVJhlU"
-imgSrc: /assets/thumbnails/3490.webp
+imgSrc: /assets/thumbnails/OjmPYKVJhlU.webp
 lang: en
 title: "Forgiveness with The Lord"
 pubDate: 2022-07-02T10:11:14

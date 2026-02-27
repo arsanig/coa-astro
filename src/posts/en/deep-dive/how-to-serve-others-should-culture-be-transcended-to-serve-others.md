@@ -1,8 +1,7 @@
 ---
 wp_id: 2001
-imgId: 2002
 videoId: "jLndZqUhPss"
-imgSrc: /assets/thumbnails/2002.webp
+imgSrc: /assets/thumbnails/jLndZqUhPss.webp
 lang: en
 title: "How to genuinely serve others? Should culture be transcended for the sake of serving others?"
 pubDate: 2020-02-10T12:00:57

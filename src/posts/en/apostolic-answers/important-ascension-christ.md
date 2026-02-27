@@ -1,8 +1,7 @@
 ---
 wp_id: 889
-imgId: 683
 videoId: "l3OetVPVkXg"
-imgSrc: /assets/thumbnails/683.webp
+imgSrc: /assets/thumbnails/l3OetVPVkXg.webp
 lang: en
 title: "How important is the Ascension of Christ?"
 pubDate: 2017-05-23T21:37:35

@@ -1,8 +1,7 @@
 ---
 wp_id: 2481
-imgId: 2483
 videoId: "yB5k4fxJ8q4"
-imgSrc: /assets/thumbnails/2483.webp
+imgSrc: /assets/thumbnails/yB5k4fxJ8q4.webp
 lang: en
 title: "St Cyril and the Eucharist: Created for Union and Incorruption"
 pubDate: 2020-11-15T21:19:51

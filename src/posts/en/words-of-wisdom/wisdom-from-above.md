@@ -1,8 +1,7 @@
 ---
 wp_id: 3162
-imgId: 3163
 videoId: "nFK2mzHyvMc"
-imgSrc: /assets/thumbnails/3163.webp
+imgSrc: /assets/thumbnails/nFK2mzHyvMc.webp
 lang: en
 title: "Wisdom from Above"
 pubDate: 2021-10-28T12:56:31

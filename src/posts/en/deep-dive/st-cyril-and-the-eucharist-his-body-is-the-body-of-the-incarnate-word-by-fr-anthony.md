@@ -1,8 +1,7 @@
 ---
 wp_id: 2649
-imgId: 2651
 videoId: "sttcQ1-XhOg"
-imgSrc: /assets/thumbnails/2651.webp
+imgSrc: /assets/thumbnails/sttcQ1-XhOg.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body is the Body of the Incarnate Word."
 pubDate: 2021-02-15T11:21:57

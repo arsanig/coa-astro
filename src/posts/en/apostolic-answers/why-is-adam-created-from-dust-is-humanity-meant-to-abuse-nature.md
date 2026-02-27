@@ -1,8 +1,7 @@
 ---
 wp_id: 3814
-imgId: 3815
 videoId: "mZu-3SI9dU4"
-imgSrc: /assets/thumbnails/3815.webp
+imgSrc: /assets/thumbnails/mZu-3SI9dU4.webp
 lang: en
 title: "Why is ADAM created from DUST? Is humanity meant to ABUSE NATURE?"
 pubDate: 2023-03-24T11:13:13

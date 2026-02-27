@@ -1,8 +1,7 @@
 ---
 wp_id: 2947
-imgId: 2953
 videoId: "I2_PnHhFlGk"
-imgSrc: /assets/thumbnails/2953.webp
+imgSrc: /assets/thumbnails/I2_PnHhFlGk.webp
 lang: en
 title: "Do you know the way that you've chosen to walk?"
 pubDate: 2021-07-02T01:22:17

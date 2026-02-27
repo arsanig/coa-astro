@@ -1,8 +1,7 @@
 ---
 wp_id: 3579
-imgId: 3580
 videoId: "m9xP3DrZ9po"
-imgSrc: /assets/thumbnails/3580.webp
+imgSrc: /assets/thumbnails/m9xP3DrZ9po.webp
 lang: en
 title: "Obedience leads to illumination"
 pubDate: 2022-09-08T22:41:12

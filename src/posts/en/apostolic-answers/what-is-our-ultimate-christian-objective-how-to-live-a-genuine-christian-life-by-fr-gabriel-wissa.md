@@ -1,8 +1,7 @@
 ---
 wp_id: 2229
-imgId: 2230
 videoId: "s2RN5aGqrhs"
-imgSrc: /assets/thumbnails/2230.webp
+imgSrc: /assets/thumbnails/s2RN5aGqrhs.webp
 lang: en
 title: "What is our ultimate Christian objective? How to live a genuine Christian life?"
 pubDate: 2020-06-03T12:00:13

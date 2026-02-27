@@ -1,8 +1,7 @@
 ---
 wp_id: 1473
-imgId: 1475
 videoId: "5XufxlHXcgw"
-imgSrc: /assets/thumbnails/1475.webp
+imgSrc: /assets/thumbnails/5XufxlHXcgw.webp
 lang: en
 title: "Are you putting God in a box?"
 pubDate: 2019-05-01T12:32:30

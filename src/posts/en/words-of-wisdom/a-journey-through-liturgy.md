@@ -1,8 +1,7 @@
 ---
 wp_id: 3921
-imgId: 3922
 videoId: "jAlG_cmxtjY"
-imgSrc: /assets/thumbnails/3922.webp
+imgSrc: /assets/thumbnails/jAlG_cmxtjY.webp
 lang: en
 title: "A Journey Through Liturgy"
 pubDate: 2023-05-25T19:10:38

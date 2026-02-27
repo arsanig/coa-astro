@@ -1,8 +1,7 @@
 ---
 wp_id: 1860
-imgId: 1861
 videoId: "QPf7ntse5CY"
-imgSrc: /assets/thumbnails/1861.webp
+imgSrc: /assets/thumbnails/QPf7ntse5CY.webp
 lang: en
 title: "COA live Q&A November. 27. 2019"
 pubDate: 2019-11-27T17:39:19

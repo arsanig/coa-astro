@@ -1,8 +1,7 @@
 ---
 wp_id: 1556
-imgId: 1557
 videoId: "Y90MOlCvXnY"
-imgSrc: /assets/thumbnails/1557.webp
+imgSrc: /assets/thumbnails/Y90MOlCvXnY.webp
 lang: en
 title: "Should you address a priest as ‘father’?"
 pubDate: 2019-06-05T14:41:55

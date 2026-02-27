@@ -1,8 +1,7 @@
 ---
 wp_id: 1797
-imgId: 1798
 videoId: "w8ZdRMglBuE"
-imgSrc: /assets/thumbnails/1798.webp
+imgSrc: /assets/thumbnails/w8ZdRMglBuE.webp
 lang: en
 title: "COA Live Q&A October 30 2019"
 pubDate: 2019-11-01T07:33:55

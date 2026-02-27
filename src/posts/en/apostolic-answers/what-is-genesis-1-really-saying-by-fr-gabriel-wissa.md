@@ -1,8 +1,7 @@
 ---
 wp_id: 2035
-imgId: 2036
 videoId: "bIu0ZxQj2RY"
-imgSrc: /assets/thumbnails/2036.webp
+imgSrc: /assets/thumbnails/bIu0ZxQj2RY.webp
 lang: en
 title: "What is Genesis 1 REALLY saying?"
 pubDate: 2020-02-26T12:00:30

@@ -1,8 +1,7 @@
 ---
 wp_id: 2030
-imgId: 2031
 videoId: "CoRcqMJA9XA"
-imgSrc: /assets/thumbnails/2031.webp
+imgSrc: /assets/thumbnails/CoRcqMJA9XA.webp
 lang: en
 title: "Who does the paralytic man represent? Who is stirring these waters? Why only one person is healed?"
 pubDate: 2020-02-24T12:00:51

@@ -1,8 +1,7 @@
 ---
 wp_id: 2684
-imgId: 2685
 videoId: "nHBqwYumtpg"
-imgSrc: /assets/thumbnails/2685.webp
+imgSrc: /assets/thumbnails/nHBqwYumtpg.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Very Body of the Lord."
 pubDate: 2021-02-28T20:55:43

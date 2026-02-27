@@ -1,8 +1,7 @@
 ---
 wp_id: 1248
-imgId: 1250
 videoId: "dXNglMiIyms"
-imgSrc: /assets/thumbnails/1250.webp
+imgSrc: /assets/thumbnails/dXNglMiIyms.webp
 lang: en
 title: "How ought we deal with Racism and Xenophobia as Orthodox Christians?"
 pubDate: 2019-01-24T16:07:04

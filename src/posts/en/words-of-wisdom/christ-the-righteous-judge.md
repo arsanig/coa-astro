@@ -1,8 +1,7 @@
 ---
 wp_id: 3976
-imgId: 3977
 videoId: "mfoQYv5B6bQ"
-imgSrc: /assets/thumbnails/3977.webp
+imgSrc: /assets/thumbnails/mfoQYv5B6bQ.webp
 lang: en
 title: "Christ, the righteous Judge"
 pubDate: 2023-06-23T12:00:00

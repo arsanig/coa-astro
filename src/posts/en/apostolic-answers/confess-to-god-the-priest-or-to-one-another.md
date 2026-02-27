@@ -1,8 +1,7 @@
 ---
 wp_id: 4122
-imgId: 4123
 videoId: "OiOrMDA3UrQ"
-imgSrc: /assets/thumbnails/4123.webp
+imgSrc: /assets/thumbnails/OiOrMDA3UrQ.webp
 lang: en
 title: "Confess to God, the Priest or to One Another?"
 pubDate: 2023-10-18T12:00:47

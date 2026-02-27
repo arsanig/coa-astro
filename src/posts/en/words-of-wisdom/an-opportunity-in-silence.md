@@ -1,8 +1,7 @@
 ---
 wp_id: 2465
-imgId: 2467
 videoId: "xO8C6xrgEWc"
-imgSrc: /assets/thumbnails/2467.webp
+imgSrc: /assets/thumbnails/xO8C6xrgEWc.webp
 lang: en
 title: "An opportunity in silence"
 pubDate: 2020-11-05T14:20:50

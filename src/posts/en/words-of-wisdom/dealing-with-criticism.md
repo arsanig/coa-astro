@@ -1,8 +1,7 @@
 ---
 wp_id: 3608
-imgId: 3609
 videoId: "DaFTGJ0Bo2Y"
-imgSrc: /assets/thumbnails/3609.webp
+imgSrc: /assets/thumbnails/DaFTGJ0Bo2Y.webp
 lang: en
 title: "Dealing with criticism"
 pubDate: 2022-09-28T10:21:36

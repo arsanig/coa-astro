@@ -1,8 +1,7 @@
 ---
 wp_id: 3040
-imgId: 3042
 videoId: "eSvWm1D1ugs"
-imgSrc: /assets/thumbnails/3042.webp
+imgSrc: /assets/thumbnails/eSvWm1D1ugs.webp
 lang: en
 title: "Time for silence!"
 pubDate: 2021-08-17T21:06:39

@@ -1,8 +1,7 @@
 ---
 wp_id: 4286
-imgId: 4287
 videoId: "DgO79eegFME"
-imgSrc: /assets/thumbnails/4287.webp
+imgSrc: /assets/thumbnails/DgO79eegFME.webp
 lang: en
 title: "Offer thanksgiving!"
 pubDate: 2023-12-20T12:00:10

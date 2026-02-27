@@ -1,8 +1,7 @@
 ---
 wp_id: 1632
-imgId: 1633
 videoId: "OQEfZrw3Kdo"
-imgSrc: /assets/thumbnails/1633.webp
+imgSrc: /assets/thumbnails/OQEfZrw3Kdo.webp
 lang: en
 title: "How to hear God's voice through Scripture?"
 pubDate: 2019-07-12T10:10:01

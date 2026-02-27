@@ -1,8 +1,7 @@
 ---
 wp_id: 2339
-imgId: 2340
 videoId: "EkBgKtm9p94"
-imgSrc: /assets/thumbnails/2340.webp
+imgSrc: /assets/thumbnails/EkBgKtm9p94.webp
 lang: en
 title: "Christ must take flesh in us!"
 pubDate: 2020-10-15T21:50:34

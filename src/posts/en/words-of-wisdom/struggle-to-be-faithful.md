@@ -1,8 +1,7 @@
 ---
 wp_id: 4050
-imgId: 4098
 videoId: "J9LD6SBkN1k"
-imgSrc: /assets/thumbnails/4098.webp
+imgSrc: /assets/thumbnails/J9LD6SBkN1k.webp
 lang: en
 title: "Struggle to be Faithful"
 pubDate: 2023-09-08T12:00:23

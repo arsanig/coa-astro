@@ -1,8 +1,7 @@
 ---
 wp_id: 3832
-imgId: 3833
 videoId: "SUav54IYR6c"
-imgSrc: /assets/thumbnails/3833.webp
+imgSrc: /assets/thumbnails/SUav54IYR6c.webp
 lang: en
 title: "COA live Q&A March. 29. 2023"
 pubDate: 2023-03-31T00:58:18

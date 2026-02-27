@@ -1,8 +1,7 @@
 ---
 wp_id: 2363
-imgId: 2365
 videoId: "anPm9K9aM5k"
-imgSrc: /assets/thumbnails/2365.webp
+imgSrc: /assets/thumbnails/anPm9K9aM5k.webp
 lang: en
 title: "The Spiritual Death of the Christian Sacramental Life! (must listen)"
 pubDate: 2020-10-22T00:47:01

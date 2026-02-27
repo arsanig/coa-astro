@@ -1,8 +1,7 @@
 ---
 wp_id: 1099
-imgId: 1089
 videoId: "481HLeZQgwg"
-imgSrc: /assets/thumbnails/1089.webp
+imgSrc: /assets/thumbnails/481HLeZQgwg.webp
 lang: en
 title: "What are the Biblical proofs for the Holy Trinity?"
 pubDate: 2018-03-07T11:08:26

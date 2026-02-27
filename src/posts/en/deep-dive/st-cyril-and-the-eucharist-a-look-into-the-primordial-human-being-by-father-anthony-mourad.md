@@ -1,8 +1,7 @@
 ---
 wp_id: 2440
-imgId: 2441
 videoId: "clywSNhPLFw"
-imgSrc: /assets/thumbnails/2441.webp
+imgSrc: /assets/thumbnails/clywSNhPLFw.webp
 lang: en
 title: "St Cyril and the Eucharist: A look into the Primordial Human being!"
 pubDate: 2020-11-02T10:08:26

@@ -1,8 +1,7 @@
 ---
 wp_id: 3439
-imgId: 3440
 videoId: "c936fRFsv8s"
-imgSrc: /assets/thumbnails/3440.webp
+imgSrc: /assets/thumbnails/c936fRFsv8s.webp
 lang: en
 title: "What are you thirsty for?"
 pubDate: 2022-05-06T09:04:52

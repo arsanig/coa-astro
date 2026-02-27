@@ -1,8 +1,7 @@
 ---
 wp_id: 2303
-imgId: 2305
 videoId: "dUFLuzQrFoc"
-imgSrc: /assets/thumbnails/2305.webp
+imgSrc: /assets/thumbnails/dUFLuzQrFoc.webp
 lang: en
 title: "Where else does Christ CLEARLY say that HE IS GOD?"
 pubDate: 2020-07-10T12:00:44

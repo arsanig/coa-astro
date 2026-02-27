@@ -1,8 +1,7 @@
 ---
 wp_id: 1177
-imgId: 1178
 videoId: "lq0dNAFvYeA"
-imgSrc: /assets/thumbnails/1178.webp
+imgSrc: /assets/thumbnails/lq0dNAFvYeA.webp
 lang: en
 title: "Why did Christ get baptized and receive the Holy Spirit?"
 pubDate: 2018-11-14T12:22:23

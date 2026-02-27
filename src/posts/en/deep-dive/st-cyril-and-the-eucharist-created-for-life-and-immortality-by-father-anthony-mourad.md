@@ -1,8 +1,7 @@
 ---
 wp_id: 2508
-imgId: 2510
 videoId: "xaIS0AKPk_k"
-imgSrc: /assets/thumbnails/2510.webp
+imgSrc: /assets/thumbnails/xaIS0AKPk_k.webp
 lang: en
 title: "St Cyril and the Eucharist: Created for Life and Immortality"
 pubDate: 2020-11-30T04:29:17

@@ -1,8 +1,7 @@
 ---
 wp_id: 611
-imgId: 364
 videoId: "hTE5pY9NHzE"
-imgSrc: /assets/thumbnails/364.webp
+imgSrc: /assets/thumbnails/hTE5pY9NHzE.webp
 lang: en
 title: "How should I pray?"
 pubDate: 2017-02-11T21:57:11

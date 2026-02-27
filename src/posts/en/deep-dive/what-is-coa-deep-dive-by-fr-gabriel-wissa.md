@@ -1,8 +1,7 @@
 ---
 wp_id: 1677
-imgId: 1689
 videoId: "mALdYNBaBsY"
-imgSrc: /assets/thumbnails/1689.webp
+imgSrc: /assets/thumbnails/mALdYNBaBsY.webp
 lang: en
 title: "What is COA Deep Dive?"
 pubDate: 2019-09-02T12:00:36

@@ -1,8 +1,7 @@
 ---
 wp_id: 2491
-imgId: 2493
 videoId: "ffqRxBXJ6ck"
-imgSrc: /assets/thumbnails/2493.webp
+imgSrc: /assets/thumbnails/ffqRxBXJ6ck.webp
 lang: en
 title: "Experience the power of Humility"
 pubDate: 2020-11-19T17:58:38

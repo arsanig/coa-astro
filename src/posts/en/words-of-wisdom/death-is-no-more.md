@@ -1,10 +1,9 @@
 ---
 wp_id: 3722
-imgId: 3723
 videoId: "DMeZcnaOuM4"
-imgSrc: /assets/thumbnails/3723.webp
+imgSrc: /assets/thumbnails/DMeZcnaOuM4.webp
 lang: en
-title: "Death is no more!"
+title: "Salvation Series - Death is no more!"
 pubDate: 2022-12-24T01:26:17
 tags: ["wow"]
 author: ""

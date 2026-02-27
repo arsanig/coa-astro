@@ -1,8 +1,7 @@
 ---
 wp_id: 1567
-imgId: 1568
 videoId: "eNXtoJDbJE4"
-imgSrc: /assets/thumbnails/1568.webp
+imgSrc: /assets/thumbnails/eNXtoJDbJE4.webp
 lang: en
 title: "Have life within!"
 pubDate: 2019-06-07T12:04:13

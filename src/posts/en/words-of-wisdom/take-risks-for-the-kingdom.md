@@ -1,8 +1,7 @@
 ---
 wp_id: 4392
-imgId: 4393
 videoId: "HTkPQjgiUGU"
-imgSrc: /assets/thumbnails/4393.webp
+imgSrc: /assets/thumbnails/HTkPQjgiUGU.webp
 lang: en
 title: "Take risks for the kingdom"
 pubDate: 2024-02-14T12:00:45

@@ -1,8 +1,7 @@
 ---
 wp_id: 1169
-imgId: 1170
 videoId: "uV_1tjzAaeQ"
-imgSrc: /assets/thumbnails/1170.webp
+imgSrc: /assets/thumbnails/uV_1tjzAaeQ.webp
 lang: en
 title: "Can God be wrathful? What is the wrath of God?"
 pubDate: 2018-10-31T15:38:04

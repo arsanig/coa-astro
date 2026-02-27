@@ -1,8 +1,7 @@
 ---
 wp_id: 2764
-imgId: 2766
 videoId: "fhBCwdw-blE"
-imgSrc: /assets/thumbnails/2766.webp
+imgSrc: /assets/thumbnails/fhBCwdw-blE.webp
 lang: en
 title: "Will I ever stop?"
 pubDate: 2021-03-25T20:57:38

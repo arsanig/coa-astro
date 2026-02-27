@@ -1,8 +1,7 @@
 ---
 wp_id: 3886
-imgId: 3887
 videoId: "PsiZY8Go16s"
-imgSrc: /assets/thumbnails/3887.webp
+imgSrc: /assets/thumbnails/PsiZY8Go16s.webp
 lang: en
 title: "He must increase, I must decrease"
 pubDate: 2023-04-28T11:36:09

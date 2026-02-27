@@ -1,8 +1,7 @@
 ---
 wp_id: 2238
-imgId: 2239
 videoId: "2NX5wR1aKCo"
-imgSrc: /assets/thumbnails/2239.webp
+imgSrc: /assets/thumbnails/2NX5wR1aKCo.webp
 lang: en
 title: "Why Christ’s family didn’t believe in Him? What is the feast of Tabernacles?"
 pubDate: 2020-06-04T21:38:21

@@ -1,8 +1,7 @@
 ---
 wp_id: 3328
-imgId: 3329
 videoId: "EMj5CTx2LH8"
-imgSrc: /assets/thumbnails/3329.webp
+imgSrc: /assets/thumbnails/EMj5CTx2LH8.webp
 lang: en
 title: "Why would obedience be easy and natural?"
 pubDate: 2022-03-02T08:52:51

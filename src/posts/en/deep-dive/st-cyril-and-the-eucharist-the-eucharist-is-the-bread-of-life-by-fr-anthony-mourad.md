@@ -1,8 +1,7 @@
 ---
 wp_id: 2889
-imgId: 2893
 videoId: "dR-PL1wzEiA"
-imgSrc: /assets/thumbnails/2893.webp
+imgSrc: /assets/thumbnails/dR-PL1wzEiA.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Bread of Life"
 pubDate: 2021-05-30T23:31:52

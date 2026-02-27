@@ -1,8 +1,7 @@
 ---
 wp_id: 1870
-imgId: 1871
 videoId: "Yu42UBRLJ7s"
-imgSrc: /assets/thumbnails/1871.webp
+imgSrc: /assets/thumbnails/Yu42UBRLJ7s.webp
 lang: en
 title: "Why was Christ born of a Virgin?"
 pubDate: 2019-12-04T12:00:04

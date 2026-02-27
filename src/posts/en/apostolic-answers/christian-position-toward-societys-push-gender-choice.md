@@ -1,8 +1,7 @@
 ---
 wp_id: 1091
-imgId: 1082
 videoId: "ywCKQvuhips"
-imgSrc: /assets/thumbnails/1082.webp
+imgSrc: /assets/thumbnails/ywCKQvuhips.webp
 lang: en
 title: "What should be our Christian position toward society’s push for gender choice?"
 pubDate: 2018-02-14T15:08:53

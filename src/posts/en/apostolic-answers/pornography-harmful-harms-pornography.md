@@ -1,8 +1,7 @@
 ---
 wp_id: 991
-imgId: 554
 videoId: "EDpulPI1gH8"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/EDpulPI1gH8.webp
 lang: en
 title: "Is pornography harmful for you? What are the harms of pornography?- Part 2"
 pubDate: 2017-10-25T00:09:05

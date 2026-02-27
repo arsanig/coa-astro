@@ -1,8 +1,7 @@
 ---
 wp_id: 2135
-imgId: 2136
 videoId: "1TMfquPeG1I"
-imgSrc: /assets/thumbnails/2136.webp
+imgSrc: /assets/thumbnails/1TMfquPeG1I.webp
 lang: en
 title: "Why does God allow NATURAL DISASTERS? Why coronavirus?"
 pubDate: 2020-05-19T14:30:55

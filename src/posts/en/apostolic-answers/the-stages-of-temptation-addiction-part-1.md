@@ -1,8 +1,7 @@
 ---
 wp_id: 1425
-imgId: 1426
 videoId: "Mod_rXtCeHw"
-imgSrc: /assets/thumbnails/1426.webp
+imgSrc: /assets/thumbnails/Mod_rXtCeHw.webp
 lang: en
 title: "The Stages of Temptation & Addiction: Part 1"
 pubDate: 2019-03-20T12:00:01

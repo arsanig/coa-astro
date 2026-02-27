@@ -1,8 +1,7 @@
 ---
 wp_id: 1759
-imgId: 1760
 videoId: "i52fmnZhLpQ"
-imgSrc: /assets/thumbnails/1760.webp
+imgSrc: /assets/thumbnails/i52fmnZhLpQ.webp
 lang: en
 title: "Discover the beautiful hidden meaning behind the wedding of Cana of Galilee."
 pubDate: 2019-10-14T11:24:43

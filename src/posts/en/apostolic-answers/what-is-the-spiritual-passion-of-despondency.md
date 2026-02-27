@@ -1,8 +1,7 @@
 ---
 wp_id: 3927
-imgId: 3928
 videoId: "BAC-5LvGg4s"
-imgSrc: /assets/thumbnails/3928.webp
+imgSrc: /assets/thumbnails/BAC-5LvGg4s.webp
 lang: en
 title: "What Is The Spiritual Passion Of Despondency?"
 pubDate: 2023-05-31T10:34:39

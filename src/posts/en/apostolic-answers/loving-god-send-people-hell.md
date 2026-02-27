@@ -1,8 +1,7 @@
 ---
 wp_id: 875
-imgId: 364
 videoId: "ZLjb_0PU8FA"
-imgSrc: /assets/thumbnails/364.webp
+imgSrc: /assets/thumbnails/ZLjb_0PU8FA.webp
 lang: en
 title: "Why Does a Loving God Send People to Hell?"
 pubDate: 2017-05-02T17:51:53

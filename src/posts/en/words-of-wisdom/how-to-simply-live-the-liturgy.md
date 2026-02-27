@@ -1,8 +1,7 @@
 ---
 wp_id: 1866
-imgId: 1867
 videoId: "9KCXbLvGkP4"
-imgSrc: /assets/thumbnails/1867.webp
+imgSrc: /assets/thumbnails/9KCXbLvGkP4.webp
 lang: en
 title: "How to simply live the liturgy?"
 pubDate: 2019-11-29T12:10:14

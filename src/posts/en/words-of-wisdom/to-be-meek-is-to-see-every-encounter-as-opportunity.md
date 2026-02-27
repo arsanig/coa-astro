@@ -1,8 +1,7 @@
 ---
 wp_id: 2387
-imgId: 2389
 videoId: "Qh4Q0cpMuxg"
-imgSrc: /assets/thumbnails/2389.webp
+imgSrc: /assets/thumbnails/Qh4Q0cpMuxg.webp
 lang: en
 title: "To Be Meek is to See Every Encounter as Opportunity"
 pubDate: 2020-10-23T01:32:53

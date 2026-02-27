@@ -1,8 +1,7 @@
 ---
 wp_id: 3718
-imgId: 3719
 videoId: "I0c9Q4UOdZI"
-imgSrc: /assets/thumbnails/3719.webp
+imgSrc: /assets/thumbnails/I0c9Q4UOdZI.webp
 lang: en
 title: "All glory to God"
 pubDate: 2022-12-21T03:22:40

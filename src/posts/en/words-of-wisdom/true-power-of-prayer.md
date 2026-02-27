@@ -1,8 +1,7 @@
 ---
 wp_id: 4291
-imgId: 4292
 videoId: "41ZZhqXkhD8"
-imgSrc: /assets/thumbnails/4292.webp
+imgSrc: /assets/thumbnails/41ZZhqXkhD8.webp
 lang: en
 title: "True Power of Prayer"
 pubDate: 2023-12-22T12:00:08

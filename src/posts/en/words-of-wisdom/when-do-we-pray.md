@@ -1,8 +1,7 @@
 ---
 wp_id: 2894
-imgId: 2896
 videoId: "Sqw9EzfK1F8"
-imgSrc: /assets/thumbnails/2896.webp
+imgSrc: /assets/thumbnails/Sqw9EzfK1F8.webp
 lang: en
 title: "When do we pray?"
 pubDate: 2021-06-01T22:29:07

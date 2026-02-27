@@ -1,8 +1,7 @@
 ---
 wp_id: 4148
-imgId: 4149
 videoId: "x4f4AE5XSp0"
-imgSrc: /assets/thumbnails/4149.webp
+imgSrc: /assets/thumbnails/x4f4AE5XSp0.webp
 lang: en
 title: "We need to be grounded in God"
 pubDate: 2023-10-27T12:00:42

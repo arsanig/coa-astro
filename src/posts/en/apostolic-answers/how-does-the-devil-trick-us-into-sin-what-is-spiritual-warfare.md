@@ -1,8 +1,7 @@
 ---
 wp_id: 1131
-imgId: 1082
 videoId: "ulDATE0vJlQ"
-imgSrc: /assets/thumbnails/1082.webp
+imgSrc: /assets/thumbnails/ulDATE0vJlQ.webp
 lang: en
 title: "How does the devil trick us into sin? What is spiritual warfare?"
 pubDate: 2018-05-16T01:08:55

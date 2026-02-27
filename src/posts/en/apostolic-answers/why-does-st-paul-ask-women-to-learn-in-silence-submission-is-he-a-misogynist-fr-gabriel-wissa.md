@@ -1,8 +1,7 @@
 ---
 wp_id: 2268
-imgId: 2269
 videoId: "GEAP-8K77zQ"
-imgSrc: /assets/thumbnails/2269.webp
+imgSrc: /assets/thumbnails/GEAP-8K77zQ.webp
 lang: en
 title: "Why does St. Paul ask women to learn in silence & submission? Is he a Misogynist?"
 pubDate: 2020-06-17T16:44:07

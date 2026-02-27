@@ -1,8 +1,7 @@
 ---
 wp_id: 1709
-imgId: 1711
 videoId: "GeRDL1rbxNY"
-imgSrc: /assets/thumbnails/1711.webp
+imgSrc: /assets/thumbnails/GeRDL1rbxNY.webp
 lang: en
 title: "How is the Son of God both God and man?"
 pubDate: 2019-09-11T20:56:27

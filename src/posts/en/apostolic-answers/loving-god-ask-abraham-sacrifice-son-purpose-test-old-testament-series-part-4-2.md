@@ -1,8 +1,7 @@
 ---
 wp_id: 1035
-imgId: 554
 videoId: "C-YSSHcwsdc"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/C-YSSHcwsdc.webp
 lang: en
 title: "Why would a Loving God ask Abraham to sacrifice his son? What is the purpose of such a test? (Violence in the OT - part 4)"
 pubDate: 2018-01-16T23:25:02

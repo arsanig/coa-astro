@@ -1,8 +1,7 @@
 ---
 wp_id: 1840
-imgId: 1841
 videoId: "7RXRMEcBVzQ"
-imgSrc: /assets/thumbnails/1841.webp
+imgSrc: /assets/thumbnails/7RXRMEcBVzQ.webp
 lang: en
 title: "What is repentance? Can God reject your repentance?"
 pubDate: 2019-11-15T12:00:41

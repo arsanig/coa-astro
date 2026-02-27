@@ -1,8 +1,7 @@
 ---
 wp_id: 2449
-imgId: 2450
 videoId: "8u93I49hmyg"
-imgSrc: /assets/thumbnails/2450.webp
+imgSrc: /assets/thumbnails/8u93I49hmyg.webp
 lang: en
 title: "If God knows all things, and we have no guarantees, then why pray at all?"
 pubDate: 2020-11-04T12:08:50

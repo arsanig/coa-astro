@@ -1,8 +1,7 @@
 ---
 wp_id: 3853
-imgId: 3854
 videoId: "YrcJkpmGbec"
-imgSrc: /assets/thumbnails/3854.webp
+imgSrc: /assets/thumbnails/YrcJkpmGbec.webp
 lang: en
 title: "Be my instructor, O Lord Meditation on Tuesday of Holy Pascha"
 pubDate: 2023-04-11T02:42:44

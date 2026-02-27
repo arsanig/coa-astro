@@ -1,8 +1,7 @@
 ---
 wp_id: 2075
-imgId: 2076
 videoId: "dScCCP1FnzA"
-imgSrc: /assets/thumbnails/2076.webp
+imgSrc: /assets/thumbnails/dScCCP1FnzA.webp
 lang: en
 title: "Back to Basics: why is love so important?"
 pubDate: 2020-03-11T10:12:22

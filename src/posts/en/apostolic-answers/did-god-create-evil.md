@@ -1,8 +1,7 @@
 ---
 wp_id: 658
-imgId: 399
 videoId: "slC6wAmkFyE"
-imgSrc: /assets/thumbnails/399.webp
+imgSrc: /assets/thumbnails/slC6wAmkFyE.webp
 lang: en
 title: "Did God Create Evil?"
 pubDate: 2017-02-14T21:02:02

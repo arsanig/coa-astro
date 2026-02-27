@@ -1,8 +1,7 @@
 ---
 wp_id: 1602
-imgId: 1603
 videoId: "vbdc95j6gPE"
-imgSrc: /assets/thumbnails/1603.webp
+imgSrc: /assets/thumbnails/vbdc95j6gPE.webp
 lang: en
 title: "Guard your heart"
 pubDate: 2019-06-21T10:22:49

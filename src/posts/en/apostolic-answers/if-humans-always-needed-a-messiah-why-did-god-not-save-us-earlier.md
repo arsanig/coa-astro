@@ -1,8 +1,7 @@
 ---
 wp_id: 1763
-imgId: 1764
 videoId: "l5r2cRtdFeE"
-imgSrc: /assets/thumbnails/1764.webp
+imgSrc: /assets/thumbnails/l5r2cRtdFeE.webp
 lang: en
 title: "If humans always needed a Messiah, why did God not save us earlier?"
 pubDate: 2019-10-16T12:00:14

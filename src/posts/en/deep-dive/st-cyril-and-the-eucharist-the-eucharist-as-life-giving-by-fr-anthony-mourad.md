@@ -1,8 +1,7 @@
 ---
 wp_id: 2838
-imgId: 2840
 videoId: "I8QdtuC1LEI"
-imgSrc: /assets/thumbnails/2840.webp
+imgSrc: /assets/thumbnails/I8QdtuC1LEI.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as Life Giving."
 pubDate: 2021-04-26T08:29:04

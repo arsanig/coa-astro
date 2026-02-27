@@ -1,8 +1,7 @@
 ---
 wp_id: 3971
-imgId: 3972
 videoId: "m5c4uyX996o"
-imgSrc: /assets/thumbnails/3972.webp
+imgSrc: /assets/thumbnails/m5c4uyX996o.webp
 lang: en
 title: "The ramifications of the sin of fear"
 pubDate: 2023-06-21T12:00:49

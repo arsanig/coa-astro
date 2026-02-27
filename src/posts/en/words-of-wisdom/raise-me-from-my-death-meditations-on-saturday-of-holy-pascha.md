@@ -1,8 +1,7 @@
 ---
 wp_id: 3872
-imgId: 3873
 videoId: "pMufCgLo-nk"
-imgSrc: /assets/thumbnails/3873.webp
+imgSrc: /assets/thumbnails/pMufCgLo-nk.webp
 lang: en
 title: "Raise me from my death: Meditations on Saturday of Holy Pascha"
 pubDate: 2023-04-14T23:46:48

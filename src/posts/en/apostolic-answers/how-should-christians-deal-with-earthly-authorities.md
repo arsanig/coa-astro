@@ -1,8 +1,7 @@
 ---
 wp_id: 3566
-imgId: 3567
 videoId: "zmpDQg6XK8o"
-imgSrc: /assets/thumbnails/3567.webp
+imgSrc: /assets/thumbnails/zmpDQg6XK8o.webp
 lang: en
 title: "How Should Christians Deal with Earthly Authorities?"
 pubDate: 2022-09-07T10:49:36

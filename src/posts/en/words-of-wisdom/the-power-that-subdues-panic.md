@@ -1,8 +1,7 @@
 ---
 wp_id: 2436
-imgId: 2437
 videoId: "B8jbh0sFvn0"
-imgSrc: /assets/thumbnails/2437.webp
+imgSrc: /assets/thumbnails/B8jbh0sFvn0.webp
 lang: en
 title: "The Power that Subdues Panic"
 pubDate: 2020-10-29T00:04:29

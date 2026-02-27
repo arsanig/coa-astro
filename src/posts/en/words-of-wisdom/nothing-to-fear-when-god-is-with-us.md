@@ -1,8 +1,7 @@
 ---
 wp_id: 4112
-imgId: 4113
 videoId: "vkaC6bTxjZg"
-imgSrc: /assets/thumbnails/4113.webp
+imgSrc: /assets/thumbnails/vkaC6bTxjZg.webp
 lang: en
 title: "Nothing to Fear when God is with us"
 pubDate: 2023-10-11T12:00:26

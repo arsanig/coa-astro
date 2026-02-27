@@ -1,8 +1,7 @@
 ---
 wp_id: 3452
-imgId: 3453
 videoId: "MIVKixJ9diA"
-imgSrc: /assets/thumbnails/3453.webp
+imgSrc: /assets/thumbnails/MIVKixJ9diA.webp
 lang: en
 title: "The purpose of the Lord’s commandment"
 pubDate: 2022-05-19T23:38:07

@@ -1,8 +1,7 @@
 ---
 wp_id: 946
-imgId: 554
 videoId: "bjR_MY7fURA"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/bjR_MY7fURA.webp
 lang: en
 title: "Why is the Bible, the story of salvation & love, filled with violence? (Violence in the OT - part 2)"
 pubDate: 2017-07-31T12:40:51

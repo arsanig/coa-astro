@@ -1,8 +1,7 @@
 ---
 wp_id: 3625
-imgId: 3626
 videoId: "4FrF0y9_tzg"
-imgSrc: /assets/thumbnails/3626.webp
+imgSrc: /assets/thumbnails/4FrF0y9_tzg.webp
 lang: en
 title: "Testing God vs Seeking Him"
 pubDate: 2022-10-13T15:12:30

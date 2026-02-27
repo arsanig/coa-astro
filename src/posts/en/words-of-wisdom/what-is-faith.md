@@ -1,8 +1,7 @@
 ---
 wp_id: 2921
-imgId: 2924
 videoId: "euGIyTClZzQ"
-imgSrc: /assets/thumbnails/2924.webp
+imgSrc: /assets/thumbnails/euGIyTClZzQ.webp
 lang: en
 title: "What is faith?"
 pubDate: 2021-06-16T00:22:37

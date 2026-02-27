@@ -1,8 +1,7 @@
 ---
 wp_id: 3102
-imgId: 3103
 videoId: "PNBbaZgxU-s"
-imgSrc: /assets/thumbnails/3103.webp
+imgSrc: /assets/thumbnails/PNBbaZgxU-s.webp
 lang: en
 title: "The Comfort of Saints"
 pubDate: 2021-09-23T20:34:27

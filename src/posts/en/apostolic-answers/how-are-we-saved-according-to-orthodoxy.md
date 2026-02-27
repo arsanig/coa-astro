@@ -1,8 +1,7 @@
 ---
 wp_id: 3015
-imgId: 3017
 videoId: "zhbe851Uito"
-imgSrc: /assets/thumbnails/3017.webp
+imgSrc: /assets/thumbnails/zhbe851Uito.webp
 lang: en
 title: "How are we saved according to Orthodoxy?"
 pubDate: 2021-08-11T10:22:03

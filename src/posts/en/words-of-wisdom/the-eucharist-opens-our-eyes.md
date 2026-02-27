@@ -1,8 +1,7 @@
 ---
 wp_id: 4064
-imgId: 4065
 videoId: "36P0BzICeH4"
-imgSrc: /assets/thumbnails/4065.webp
+imgSrc: /assets/thumbnails/36P0BzICeH4.webp
 lang: en
 title: "The Eucharist Opens Our Eyes"
 pubDate: 2023-09-13T12:00:38

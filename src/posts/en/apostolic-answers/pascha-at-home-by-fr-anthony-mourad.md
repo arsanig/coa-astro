@@ -1,8 +1,7 @@
 ---
 wp_id: 2821
-imgId: 2822
 videoId: "aw62HTBqrtM"
-imgSrc: /assets/thumbnails/2822.webp
+imgSrc: /assets/thumbnails/aw62HTBqrtM.webp
 lang: en
 title: "Pascha at HOME"
 pubDate: 2021-04-21T12:00:41

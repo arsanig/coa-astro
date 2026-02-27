@@ -1,8 +1,7 @@
 ---
 wp_id: 4370
-imgId: 4371
 videoId: "UJ_AfZUUnvw"
-imgSrc: /assets/thumbnails/4371.webp
+imgSrc: /assets/thumbnails/UJ_AfZUUnvw.webp
 lang: en
 title: "God Does Not See as Man Sees"
 pubDate: 2024-01-26T12:00:32

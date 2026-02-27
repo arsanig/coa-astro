@@ -1,8 +1,7 @@
 ---
 wp_id: 4070
-imgId: 4071
 videoId: "MoesYGpgc2U"
-imgSrc: /assets/thumbnails/4071.webp
+imgSrc: /assets/thumbnails/MoesYGpgc2U.webp
 lang: en
 title: "Thoughts that kill us"
 pubDate: 2023-09-16T12:00:11

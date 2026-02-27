@@ -1,8 +1,7 @@
 ---
 wp_id: 4253
-imgId: 4254
 videoId: "3S9kdkaPt4w"
-imgSrc: /assets/thumbnails/4254.webp
+imgSrc: /assets/thumbnails/3S9kdkaPt4w.webp
 lang: en
 title: "Humility is the key to the narrow gate"
 pubDate: 2023-12-08T12:00:01

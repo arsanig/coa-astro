@@ -1,8 +1,7 @@
 ---
 wp_id: 3787
-imgId: 3788
 videoId: "HCiYsLxx1Zo"
-imgSrc: /assets/thumbnails/3788.webp
+imgSrc: /assets/thumbnails/HCiYsLxx1Zo.webp
 lang: en
 title: "Prayer is an invitation from God"
 pubDate: 2023-03-03T17:10:27

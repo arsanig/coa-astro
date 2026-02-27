@@ -1,8 +1,7 @@
 ---
 wp_id: 1031
-imgId: 447
 videoId: "MtnFd5SoZuM"
-imgSrc: /assets/thumbnails/447.webp
+imgSrc: /assets/thumbnails/MtnFd5SoZuM.webp
 lang: en
 title: "God, where are you? I don’t feel you! Should I always feel God in prayer? What is emotional spirituality?"
 pubDate: 2018-01-16T23:16:21

@@ -1,8 +1,7 @@
 ---
 wp_id: 3593
-imgId: 3594
 videoId: "CTZ0BhvDGxs"
-imgSrc: /assets/thumbnails/3594.webp
+imgSrc: /assets/thumbnails/CTZ0BhvDGxs.webp
 lang: en
 title: "What is keeping me from EXPERIENCING God?"
 pubDate: 2022-09-20T22:46:00

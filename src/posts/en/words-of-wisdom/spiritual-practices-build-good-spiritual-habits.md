@@ -1,8 +1,7 @@
 ---
 wp_id: 4081
-imgId: 4082
 videoId: "CedKmnb0eII"
-imgSrc: /assets/thumbnails/4082.webp
+imgSrc: /assets/thumbnails/CedKmnb0eII.webp
 lang: en
 title: "Spiritual Practices Build Good Spiritual Habits"
 pubDate: 2023-09-29T12:00:53

@@ -1,8 +1,7 @@
 ---
 wp_id: 3771
-imgId: 3772
 videoId: "LR1iCfyGn1k"
-imgSrc: /assets/thumbnails/3772.webp
+imgSrc: /assets/thumbnails/LR1iCfyGn1k.webp
 lang: en
 title: "Faith is a muscle to be exercised"
 pubDate: 2023-02-14T23:50:36

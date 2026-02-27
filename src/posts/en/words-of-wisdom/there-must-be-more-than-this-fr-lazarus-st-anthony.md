@@ -1,8 +1,7 @@
 ---
 wp_id: 1888
-imgId: 1889
 videoId: "e2s5H9Q0xrI"
-imgSrc: /assets/thumbnails/1889.webp
+imgSrc: /assets/thumbnails/e2s5H9Q0xrI.webp
 lang: en
 title: "There Must Be More Than This!"
 pubDate: 2019-12-06T12:00:49

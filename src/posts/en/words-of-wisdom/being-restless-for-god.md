@@ -1,8 +1,7 @@
 ---
 wp_id: 2321
-imgId: 2322
 videoId: "h_gz2QWaH24"
-imgSrc: /assets/thumbnails/2322.webp
+imgSrc: /assets/thumbnails/h_gz2QWaH24.webp
 lang: en
 title: "Being restless for God!"
 pubDate: 2020-10-07T10:36:20

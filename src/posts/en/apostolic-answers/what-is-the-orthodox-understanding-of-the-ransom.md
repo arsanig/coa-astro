@@ -1,8 +1,7 @@
 ---
 wp_id: 3400
-imgId: 3401
 videoId: "7JyiCMuAmOc"
-imgSrc: /assets/thumbnails/3401.webp
+imgSrc: /assets/thumbnails/7JyiCMuAmOc.webp
 lang: en
 title: "What is the ORTHODOX understanding of the RANSOM?"
 pubDate: 2022-04-20T10:11:11

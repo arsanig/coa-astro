@@ -1,8 +1,7 @@
 ---
 wp_id: 3651
-imgId: 3655
 videoId: "f2p-QAzmt8c"
-imgSrc: /assets/thumbnails/3655.webp
+imgSrc: /assets/thumbnails/f2p-QAzmt8c.webp
 lang: en
 title: "The Church is a Hospital"
 pubDate: 2022-11-04T12:00:12

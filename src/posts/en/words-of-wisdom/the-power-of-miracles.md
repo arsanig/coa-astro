@@ -1,8 +1,7 @@
 ---
 wp_id: 2851
-imgId: 2853
 videoId: "XGu8UqcI68E"
-imgSrc: /assets/thumbnails/2853.webp
+imgSrc: /assets/thumbnails/XGu8UqcI68E.webp
 lang: en
 title: "The Power of Miracles!"
 pubDate: 2021-05-07T10:19:59

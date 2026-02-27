@@ -1,8 +1,7 @@
 ---
 wp_id: 3629
-imgId: 4120
 videoId: "jtKW3Y2x1F0"
-imgSrc: /assets/thumbnails/4120.webp
+imgSrc: /assets/thumbnails/jtKW3Y2x1F0.webp
 lang: en
 title: "Start With Giving Thanks"
 pubDate: 2022-10-13T23:00:06

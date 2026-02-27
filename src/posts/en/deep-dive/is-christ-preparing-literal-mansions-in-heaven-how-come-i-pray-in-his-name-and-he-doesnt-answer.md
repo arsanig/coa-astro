@@ -1,8 +1,7 @@
 ---
 wp_id: 3435
-imgId: 3436
 videoId: "p9MNfUmTo0U"
-imgSrc: /assets/thumbnails/3436.webp
+imgSrc: /assets/thumbnails/p9MNfUmTo0U.webp
 lang: en
 title: "Is Christ preparing literal mansions in Heaven? How come I pray in His Name and He doesn’t answer?"
 pubDate: 2022-05-04T12:34:55

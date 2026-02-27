@@ -1,8 +1,7 @@
 ---
 wp_id: 3740
-imgId: 3741
 videoId: "xf2_wdnnTXc"
-imgSrc: /assets/thumbnails/3741.webp
+imgSrc: /assets/thumbnails/xf2_wdnnTXc.webp
 lang: en
 title: "Power of the word of God"
 pubDate: 2023-01-20T11:24:50

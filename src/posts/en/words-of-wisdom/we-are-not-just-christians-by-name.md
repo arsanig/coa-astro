@@ -1,8 +1,7 @@
 ---
 wp_id: 2911
-imgId: 2912
 videoId: "hvTyvkqGwig"
-imgSrc: /assets/thumbnails/2912.webp
+imgSrc: /assets/thumbnails/hvTyvkqGwig.webp
 lang: en
 title: "We are not just Christians by name"
 pubDate: 2021-06-11T00:23:04

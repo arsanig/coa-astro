@@ -1,8 +1,7 @@
 ---
 wp_id: 1792
-imgId: 1793
 videoId: "IBpsqg7EGSs"
-imgSrc: /assets/thumbnails/1793.webp
+imgSrc: /assets/thumbnails/IBpsqg7EGSs.webp
 lang: en
 title: "What really happened during the cleansing of the temple? Was Christ angry?"
 pubDate: 2019-10-28T12:00:04

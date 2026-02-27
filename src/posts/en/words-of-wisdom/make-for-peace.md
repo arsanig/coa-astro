@@ -1,8 +1,7 @@
 ---
 wp_id: 2959
-imgId: 2962
 videoId: "GMxevTwi9TY"
-imgSrc: /assets/thumbnails/2962.webp
+imgSrc: /assets/thumbnails/GMxevTwi9TY.webp
 lang: en
 title: "Make for Peace"
 pubDate: 2021-07-09T00:09:18

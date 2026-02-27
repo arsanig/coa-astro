@@ -1,8 +1,7 @@
 ---
 wp_id: 4174
-imgId: 4175
 videoId: "lBKcSpu0ag0"
-imgSrc: /assets/thumbnails/4175.webp
+imgSrc: /assets/thumbnails/lBKcSpu0ag0.webp
 lang: en
 title: "Why is it to our advantage that Christ ascends? What does it mean to ask in Christ’s name?"
 pubDate: 2023-11-06T12:00:02

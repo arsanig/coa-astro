@@ -1,8 +1,7 @@
 ---
 wp_id: 920
-imgId: 554
 videoId: "bqLNVVKceow"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/bqLNVVKceow.webp
 lang: en
 title: "What makes Baptism so essential for my salvation?"
 pubDate: 2017-06-27T23:32:52

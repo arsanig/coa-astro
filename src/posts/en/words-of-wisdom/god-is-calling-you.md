@@ -1,8 +1,7 @@
 ---
 wp_id: 3234
-imgId: 3236
 videoId: "Yf7nFFpEpn8"
-imgSrc: /assets/thumbnails/3236.webp
+imgSrc: /assets/thumbnails/Yf7nFFpEpn8.webp
 lang: en
 title: "God is calling you!"
 pubDate: 2021-12-21T23:28:07

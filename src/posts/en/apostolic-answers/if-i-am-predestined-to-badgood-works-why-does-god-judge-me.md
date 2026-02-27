@@ -1,8 +1,7 @@
 ---
 wp_id: 812
-imgId: 399
 videoId: "LLrKBFt1Rxc"
-imgSrc: /assets/thumbnails/399.webp
+imgSrc: /assets/thumbnails/LLrKBFt1Rxc.webp
 lang: en
 title: "If I am predestined to bad/good works, why does God judge me?"
 pubDate: 2017-03-21T22:55:13

@@ -1,8 +1,7 @@
 ---
 wp_id: 3000
-imgId: 3001
 videoId: "-7aS5zdFrts"
-imgSrc: /assets/thumbnails/3001.webp
+imgSrc: /assets/thumbnails/-7aS5zdFrts.webp
 lang: en
 title: "Overcoming Darkness with Light"
 pubDate: 2021-08-04T12:00:01

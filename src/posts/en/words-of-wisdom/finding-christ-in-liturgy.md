@@ -1,8 +1,7 @@
 ---
 wp_id: 4398
-imgId: 4399
 videoId: "03Ecb9cRRnk"
-imgSrc: /assets/thumbnails/4399.webp
+imgSrc: /assets/thumbnails/03Ecb9cRRnk.webp
 lang: en
 title: "Finding Christ in Liturgy"
 pubDate: 2024-02-16T12:00:20

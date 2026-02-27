@@ -1,8 +1,7 @@
 ---
 wp_id: 3779
-imgId: 3780
 videoId: "mcd1Lx6eUGM"
-imgSrc: /assets/thumbnails/3780.webp
+imgSrc: /assets/thumbnails/mcd1Lx6eUGM.webp
 lang: en
 title: "Overcoming bad thoughts leads to crowns"
 pubDate: 2023-02-24T05:24:48

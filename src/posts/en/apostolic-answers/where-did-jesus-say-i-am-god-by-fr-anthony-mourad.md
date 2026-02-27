@@ -1,8 +1,7 @@
 ---
 wp_id: 1781
-imgId: 1782
 videoId: "YwxVpzeiY1w"
-imgSrc: /assets/thumbnails/1782.webp
+imgSrc: /assets/thumbnails/YwxVpzeiY1w.webp
 lang: en
 title: "Where did Jesus say “I am God”?"
 pubDate: 2019-10-23T12:00:34

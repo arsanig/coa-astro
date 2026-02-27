@@ -1,8 +1,7 @@
 ---
 wp_id: 2534
-imgId: 2535
 videoId: "PI8DzyinZdI"
-imgSrc: /assets/thumbnails/2535.webp
+imgSrc: /assets/thumbnails/PI8DzyinZdI.webp
 lang: en
 title: "St Cyril and the Eucharist: Death Enters into the World"
 pubDate: 2020-12-14T08:55:08

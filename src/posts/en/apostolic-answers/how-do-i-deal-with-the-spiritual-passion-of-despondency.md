@@ -1,8 +1,7 @@
 ---
 wp_id: 3990
-imgId: 3991
 videoId: "BMqxlegakc0"
-imgSrc: /assets/thumbnails/3991.webp
+imgSrc: /assets/thumbnails/BMqxlegakc0.webp
 lang: en
 title: "How do I deal with the Spiritual passion of Despondency?"
 pubDate: 2023-07-11T23:04:16

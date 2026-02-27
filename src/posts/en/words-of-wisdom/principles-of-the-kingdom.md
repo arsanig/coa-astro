@@ -1,8 +1,7 @@
 ---
 wp_id: 3332
-imgId: 3333
 videoId: "aKHVXHpaQDk"
-imgSrc: /assets/thumbnails/3333.webp
+imgSrc: /assets/thumbnails/aKHVXHpaQDk.webp
 lang: en
 title: "Principles of the Kingdom"
 pubDate: 2022-03-03T23:27:25

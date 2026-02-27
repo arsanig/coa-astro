@@ -1,8 +1,7 @@
 ---
 wp_id: 2282
-imgId: 2283
 videoId: "iuroWCMLilI"
-imgSrc: /assets/thumbnails/2283.webp
+imgSrc: /assets/thumbnails/iuroWCMLilI.webp
 lang: en
 title: "Why ‘speak the truth in love’, when no one wants to hear it?"
 pubDate: 2020-06-24T16:50:37

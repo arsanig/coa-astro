@@ -1,8 +1,7 @@
 ---
 wp_id: 3540
-imgId: 3542
 videoId: "2GwXIiomUmE"
-imgSrc: /assets/thumbnails/3542.webp
+imgSrc: /assets/thumbnails/2GwXIiomUmE.webp
 lang: en
 title: "Forgivness has Risen from the Grave"
 pubDate: 2022-08-19T12:00:18

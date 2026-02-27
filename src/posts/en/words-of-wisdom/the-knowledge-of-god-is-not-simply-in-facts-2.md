@@ -1,8 +1,7 @@
 ---
 wp_id: 2189
-imgId: 2131
 videoId: "iPeFdGDdyXo"
-imgSrc: /assets/thumbnails/2131.webp
+imgSrc: /assets/thumbnails/iPeFdGDdyXo.webp
 lang: en
 title: "The knowledge of God is not simply in Facts!"
 pubDate: 2020-03-20T15:57:01

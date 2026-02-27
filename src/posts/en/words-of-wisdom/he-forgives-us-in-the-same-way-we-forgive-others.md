@@ -1,8 +1,7 @@
 ---
 wp_id: 2571
-imgId: 2573
 videoId: "aeeI4p5NfrY"
-imgSrc: /assets/thumbnails/2573.webp
+imgSrc: /assets/thumbnails/aeeI4p5NfrY.webp
 lang: en
 title: "He forgives us in the same way we forgive others!"
 pubDate: 2021-01-04T02:14:13

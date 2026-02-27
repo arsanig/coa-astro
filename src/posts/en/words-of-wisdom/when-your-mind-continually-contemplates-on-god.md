@@ -1,8 +1,7 @@
 ---
 wp_id: 4374
-imgId: 4375
 videoId: "Q8wwxz6VCSA"
-imgSrc: /assets/thumbnails/4375.webp
+imgSrc: /assets/thumbnails/Q8wwxz6VCSA.webp
 lang: en
 title: "When Your Mind Continually Contemplates on God"
 pubDate: 2024-01-31T12:00:31

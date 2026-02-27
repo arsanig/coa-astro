@@ -1,8 +1,7 @@
 ---
 wp_id: 3349
-imgId: 3350
 videoId: "C_ZFvrcA1XU"
-imgSrc: /assets/thumbnails/3350.webp
+imgSrc: /assets/thumbnails/C_ZFvrcA1XU.webp
 lang: en
 title: "On the Conscience"
 pubDate: 2022-03-17T15:17:34

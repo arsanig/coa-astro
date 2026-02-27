@@ -1,8 +1,7 @@
 ---
 wp_id: 671
-imgId: 364
 videoId: "MTs6XD53V9g"
-imgSrc: /assets/thumbnails/364.webp
+imgSrc: /assets/thumbnails/MTs6XD53V9g.webp
 lang: en
 title: "Was there a Liturgy in the Early Church?"
 pubDate: 2017-02-14T21:38:53

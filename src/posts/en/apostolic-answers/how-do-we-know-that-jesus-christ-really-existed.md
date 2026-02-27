@@ -1,8 +1,7 @@
 ---
 wp_id: 1303
-imgId: 1304
 videoId: "Z0xl8v-BGEM"
-imgSrc: /assets/thumbnails/1304.webp
+imgSrc: /assets/thumbnails/Z0xl8v-BGEM.webp
 lang: en
 title: "How do we know that Jesus Christ really existed?"
 pubDate: 2019-02-01T21:20:56

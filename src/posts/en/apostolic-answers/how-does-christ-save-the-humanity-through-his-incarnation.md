@@ -1,8 +1,7 @@
 ---
 wp_id: 3193
-imgId: 3194
 videoId: "pv3Gal6qbCY"
-imgSrc: /assets/thumbnails/3194.webp
+imgSrc: /assets/thumbnails/pv3Gal6qbCY.webp
 lang: en
 title: "How does Christ save the humanity through His Incarnation?"
 pubDate: 2021-11-24T11:44:27

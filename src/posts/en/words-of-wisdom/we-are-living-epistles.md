@@ -1,8 +1,7 @@
 ---
 wp_id: 4011
-imgId: 4012
 videoId: "kgH71Zruj78"
-imgSrc: /assets/thumbnails/4012.webp
+imgSrc: /assets/thumbnails/kgH71Zruj78.webp
 lang: en
 title: "We are living epistles"
 pubDate: 2023-08-18T12:00:43

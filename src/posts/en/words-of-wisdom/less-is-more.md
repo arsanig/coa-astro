@@ -1,8 +1,7 @@
 ---
 wp_id: 3209
-imgId: 3211
 videoId: "gw9YWV0A3QA"
-imgSrc: /assets/thumbnails/3211.webp
+imgSrc: /assets/thumbnails/gw9YWV0A3QA.webp
 lang: en
 title: "Less is more"
 pubDate: 2021-12-02T13:41:57

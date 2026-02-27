@@ -1,8 +1,7 @@
 ---
 wp_id: 3506
-imgId: 3507
 videoId: "yHLVzVz2E7M"
-imgSrc: /assets/thumbnails/3507.webp
+imgSrc: /assets/thumbnails/yHLVzVz2E7M.webp
 lang: en
 title: "Be the salt of earth"
 pubDate: 2022-07-15T06:47:02

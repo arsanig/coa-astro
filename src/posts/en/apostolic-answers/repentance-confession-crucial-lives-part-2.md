@@ -1,8 +1,7 @@
 ---
 wp_id: 927
-imgId: 687
 videoId: "idBDBRQjBF8"
-imgSrc: /assets/thumbnails/687.webp
+imgSrc: /assets/thumbnails/idBDBRQjBF8.webp
 lang: en
 title: "What is confession? - Part 2"
 pubDate: 2017-07-05T00:10:10

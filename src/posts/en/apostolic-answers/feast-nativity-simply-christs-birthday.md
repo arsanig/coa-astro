@@ -1,8 +1,7 @@
 ---
 wp_id: 1020
-imgId: 687
 videoId: "ScPqL_oDPMk"
-imgSrc: /assets/thumbnails/687.webp
+imgSrc: /assets/thumbnails/ScPqL_oDPMk.webp
 lang: en
 title: "Is the feast of Nativity simply Christ’s birthday?"
 pubDate: 2017-12-13T01:40:04

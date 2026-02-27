@@ -1,8 +1,7 @@
 ---
 wp_id: 3363
-imgId: 3364
 videoId: "_8J2fwZBcHI"
-imgSrc: /assets/thumbnails/3364.webp
+imgSrc: /assets/thumbnails/_8J2fwZBcHI.webp
 lang: en
 title: "Faith beyond belief"
 pubDate: 2022-03-30T20:06:39

@@ -1,8 +1,7 @@
 ---
 wp_id: 3263
-imgId: 3264
 videoId: "0aA6x-Cc-BI"
-imgSrc: /assets/thumbnails/3264.webp
+imgSrc: /assets/thumbnails/0aA6x-Cc-BI.webp
 lang: en
 title: "Through Jesus we conquer"
 pubDate: 2022-01-13T17:44:19

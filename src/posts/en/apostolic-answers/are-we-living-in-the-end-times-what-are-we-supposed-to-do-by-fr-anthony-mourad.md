@@ -1,8 +1,7 @@
 ---
 wp_id: 3297
-imgId: 3298
 videoId: "JtaNG2Os6OY"
-imgSrc: /assets/thumbnails/3298.webp
+imgSrc: /assets/thumbnails/JtaNG2Os6OY.webp
 lang: en
 title: "Are we living in the end times? What are we supposed to do?"
 pubDate: 2022-02-09T00:43:08

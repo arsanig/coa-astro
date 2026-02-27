@@ -1,8 +1,7 @@
 ---
 wp_id: 1519
-imgId: 1520
 videoId: "4ArVNLFswvs"
-imgSrc: /assets/thumbnails/1520.webp
+imgSrc: /assets/thumbnails/4ArVNLFswvs.webp
 lang: en
 title: "How to serve others? Do's & Don'ts!"
 pubDate: 2019-05-10T11:45:56

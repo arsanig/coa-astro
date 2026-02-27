@@ -1,8 +1,7 @@
 ---
 wp_id: 3510
-imgId: 3511
 videoId: "jNItov5U04c"
-imgSrc: /assets/thumbnails/3511.webp
+imgSrc: /assets/thumbnails/jNItov5U04c.webp
 lang: en
 title: "Give thanks to God"
 pubDate: 2022-07-20T02:24:37

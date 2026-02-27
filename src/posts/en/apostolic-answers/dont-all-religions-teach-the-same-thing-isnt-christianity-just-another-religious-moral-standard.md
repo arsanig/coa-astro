@@ -1,8 +1,7 @@
 ---
 wp_id: 2611
-imgId: 2613
 videoId: "SYUUG5QYatE"
-imgSrc: /assets/thumbnails/2613.webp
+imgSrc: /assets/thumbnails/SYUUG5QYatE.webp
 lang: en
 title: "Don’t all religions teach the same thing? Isn’t Christianity just another religious moral standard?"
 pubDate: 2021-01-27T11:46:32

@@ -1,8 +1,7 @@
 ---
 wp_id: 3708
-imgId: 3709
 videoId: "Asmb-2Xur6k"
-imgSrc: /assets/thumbnails/3709.webp
+imgSrc: /assets/thumbnails/Asmb-2Xur6k.webp
 lang: en
 title: "You are a fragrance to others"
 pubDate: 2022-12-13T23:42:57

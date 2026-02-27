@@ -1,8 +1,7 @@
 ---
 wp_id: 3612
-imgId: 3613
 videoId: "QwSBubPDL_s"
-imgSrc: /assets/thumbnails/3613.webp
+imgSrc: /assets/thumbnails/QwSBubPDL_s.webp
 lang: en
 title: "Detachment"
 pubDate: 2022-09-29T11:27:54

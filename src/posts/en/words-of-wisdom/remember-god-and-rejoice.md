@@ -1,8 +1,7 @@
 ---
 wp_id: 2941
-imgId: 2944
 videoId: "MvR_Ldw1ZEE"
-imgSrc: /assets/thumbnails/2944.webp
+imgSrc: /assets/thumbnails/MvR_Ldw1ZEE.webp
 lang: en
 title: "Remember God and Rejoice!"
 pubDate: 2021-06-30T01:42:50

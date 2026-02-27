@@ -1,8 +1,7 @@
 ---
 wp_id: 1127
-imgId: 1113
 videoId: "K7WXi0l7amU"
-imgSrc: /assets/thumbnails/1113.webp
+imgSrc: /assets/thumbnails/K7WXi0l7amU.webp
 lang: en
 title: "What is the Jesus Prayer?"
 pubDate: 2018-05-08T10:19:41

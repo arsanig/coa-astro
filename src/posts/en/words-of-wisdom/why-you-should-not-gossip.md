@@ -1,8 +1,7 @@
 ---
 wp_id: 1911
-imgId: 1912
 videoId: "R44NRxmPL9o"
-imgSrc: /assets/thumbnails/1912.webp
+imgSrc: /assets/thumbnails/R44NRxmPL9o.webp
 lang: en
 title: "Why you should not gossip?"
 pubDate: 2019-10-04T18:25:42

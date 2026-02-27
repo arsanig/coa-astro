@@ -1,8 +1,7 @@
 ---
 wp_id: 4163
-imgId: 3325
 videoId: "SBAAxWfb864"
-imgSrc: /assets/thumbnails/3325.webp
+imgSrc: /assets/thumbnails/SBAAxWfb864.webp
 lang: en
 title: "Be like a marathon runner"
 pubDate: 2022-02-25T19:22:33

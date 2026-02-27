@@ -1,10 +1,9 @@
 ---
 wp_id: 3704
-imgId: 3705
 videoId: "CyN3RfOmjTQ"
-imgSrc: /assets/thumbnails/3705.webp
+imgSrc: /assets/thumbnails/CyN3RfOmjTQ.webp
 lang: en
-title: "Nativity Series Christ is baptized for my sake"
+title: "Salvation Series - Christ is baptized for my sake"
 pubDate: 2022-12-09T11:30:50
 tags: ["wow"]
 author: ""

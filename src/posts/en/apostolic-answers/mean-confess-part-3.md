@@ -1,8 +1,7 @@
 ---
 wp_id: 949
-imgId: 687
 videoId: "hysC83ezxQg"
-imgSrc: /assets/thumbnails/687.webp
+imgSrc: /assets/thumbnails/hysC83ezxQg.webp
 lang: en
 title: "Why confess to a priest and how ought it be done? - Part 3"
 pubDate: 2017-08-08T23:23:53

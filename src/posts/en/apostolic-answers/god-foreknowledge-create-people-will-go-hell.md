@@ -1,8 +1,7 @@
 ---
 wp_id: 968
-imgId: 396
 videoId: "kY_ccYUspeM"
-imgSrc: /assets/thumbnails/396.webp
+imgSrc: /assets/thumbnails/kY_ccYUspeM.webp
 lang: en
 title: "If God has foreknowledge, why does He CREATE people that will go to hell?"
 pubDate: 2017-08-30T00:35:50

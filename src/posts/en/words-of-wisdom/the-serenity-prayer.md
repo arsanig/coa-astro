@@ -1,8 +1,7 @@
 ---
 wp_id: 2875
-imgId: 2877
 videoId: "FkIvMoAYS_Y"
-imgSrc: /assets/thumbnails/2877.webp
+imgSrc: /assets/thumbnails/FkIvMoAYS_Y.webp
 lang: en
 title: "The Serenity Prayer"
 pubDate: 2021-05-20T23:42:49

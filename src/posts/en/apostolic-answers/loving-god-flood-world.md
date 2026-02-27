@@ -1,8 +1,7 @@
 ---
 wp_id: 987
-imgId: 554
 videoId: "uzUk-3R7ZkA"
-imgSrc: /assets/thumbnails/554.webp
+imgSrc: /assets/thumbnails/uzUk-3R7ZkA.webp
 lang: en
 title: "Why would a loving God FLOOD the world? (Violence in the OT - part 3)"
 pubDate: 2017-10-11T09:30:54

@@ -1,8 +1,7 @@
 ---
 wp_id: 3280
-imgId: 3281
 videoId: "XUAXFasfUtc"
-imgSrc: /assets/thumbnails/3281.webp
+imgSrc: /assets/thumbnails/XUAXFasfUtc.webp
 lang: en
 title: "Knowing an incomprehensible God"
 pubDate: 2022-01-25T22:46:09

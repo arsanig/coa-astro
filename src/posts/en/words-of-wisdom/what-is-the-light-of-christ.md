@@ -1,8 +1,7 @@
 ---
 wp_id: 3966
-imgId: 3967
 videoId: "kDUpZUDYCMk"
-imgSrc: /assets/thumbnails/3967.webp
+imgSrc: /assets/thumbnails/kDUpZUDYCMk.webp
 lang: en
 title: "What is the Light of Christ"
 pubDate: 2023-06-16T12:00:48

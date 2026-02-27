@@ -1,8 +1,7 @@
 ---
 wp_id: 2916
-imgId: 2919
 videoId: "rAL0sttGn14"
-imgSrc: /assets/thumbnails/2919.webp
+imgSrc: /assets/thumbnails/rAL0sttGn14.webp
 lang: en
 title: "St Cyril and the Eucharist: Eucharist as a source of Reconciliation"
 pubDate: 2021-06-12T20:29:53

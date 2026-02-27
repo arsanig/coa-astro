@@ -4,7 +4,6 @@ import { glob } from "astro/loaders";
 const PostsCollectionSchema = z.object({
     lang: z.enum(["en", "fr"]),
     wp_id: z.number().optional(),
-    imgId: z.number().optional(),
     videoId: z.string().optional(),
     imgSrc: z.string().optional(),
     title: z.string(),

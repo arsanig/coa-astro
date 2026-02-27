@@ -1,8 +1,7 @@
 ---
 wp_id: 3166
-imgId: 3167
 videoId: "OssSA8SalGI"
-imgSrc: /assets/thumbnails/3167.webp
+imgSrc: /assets/thumbnails/OssSA8SalGI.webp
 lang: en
 title: "Don't lose confidence"
 pubDate: 2021-11-02T22:42:05

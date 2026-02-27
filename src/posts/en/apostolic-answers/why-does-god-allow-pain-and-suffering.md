@@ -1,8 +1,7 @@
 ---
 wp_id: 1134
-imgId: 1089
 videoId: "sWhEe8ZbZ9M"
-imgSrc: /assets/thumbnails/1089.webp
+imgSrc: /assets/thumbnails/sWhEe8ZbZ9M.webp
 lang: en
 title: "Why does God allow Pain and Suffering?"
 pubDate: 2018-06-05T09:05:05

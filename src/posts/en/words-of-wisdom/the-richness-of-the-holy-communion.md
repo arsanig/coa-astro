@@ -1,8 +1,7 @@
 ---
 wp_id: 2644
-imgId: 2647
 videoId: "oh6MY2H3lKM"
-imgSrc: /assets/thumbnails/2647.webp
+imgSrc: /assets/thumbnails/oh6MY2H3lKM.webp
 lang: en
 title: "The richness of the Holy Communion!"
 pubDate: 2021-02-12T11:12:57

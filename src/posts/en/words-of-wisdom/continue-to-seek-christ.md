@@ -1,8 +1,7 @@
 ---
 wp_id: 3502
-imgId: 3503
 videoId: "gJPhS84nT5s"
-imgSrc: /assets/thumbnails/3503.webp
+imgSrc: /assets/thumbnails/gJPhS84nT5s.webp
 lang: en
 title: "Continue to seek Christ"
 pubDate: 2022-07-13T11:50:03

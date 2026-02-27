@@ -1,8 +1,7 @@
 ---
 wp_id: 3462
-imgId: 3463
 videoId: "hamGyawoTWw"
-imgSrc: /assets/thumbnails/3463.webp
+imgSrc: /assets/thumbnails/hamGyawoTWw.webp
 lang: en
 title: "Have we become ashamed of Christ?"
 pubDate: 2022-06-01T10:30:13

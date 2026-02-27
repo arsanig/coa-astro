@@ -1,8 +1,7 @@
 ---
 wp_id: 1181
-imgId: 1182
 videoId: "yiDRtPCHz34"
-imgSrc: /assets/thumbnails/1182.webp
+imgSrc: /assets/thumbnails/yiDRtPCHz34.webp
 lang: en
 title: "Why does God care about sin? What is sin that God would give it that much attention?"
 pubDate: 2018-11-28T12:43:31

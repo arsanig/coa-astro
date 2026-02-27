@@ -1,8 +1,7 @@
 ---
 wp_id: 597
-imgId: 547
 videoId: "cK4nb8xCHgc"
-imgSrc: /assets/thumbnails/547.webp
+imgSrc: /assets/thumbnails/cK4nb8xCHgc.webp
 lang: en
 title: "What’s wrong with Abortion?"
 pubDate: 2017-02-05T12:58:57

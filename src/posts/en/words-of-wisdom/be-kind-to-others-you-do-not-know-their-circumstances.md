@@ -1,8 +1,7 @@
 ---
 wp_id: 1945
-imgId: 1946
 videoId: "4I9U4nnKgco"
-imgSrc: /assets/thumbnails/1946.webp
+imgSrc: /assets/thumbnails/4I9U4nnKgco.webp
 lang: en
 title: "Be kind to others&#8230; you do not know their circumstances!"
 pubDate: 2020-01-10T12:00:13

@@ -1,8 +1,7 @@
 ---
 wp_id: 3767
-imgId: 3768
 videoId: "LlmDZmMqP9E"
-imgSrc: /assets/thumbnails/3768.webp
+imgSrc: /assets/thumbnails/LlmDZmMqP9E.webp
 lang: en
 title: "One Drop of Grace"
 pubDate: 2023-02-10T00:30:45

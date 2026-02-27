@@ -1,8 +1,7 @@
 ---
 wp_id: 3240
-imgId: 3241
 videoId: "ThDoThfn4mQ"
-imgSrc: /assets/thumbnails/3241.webp
+imgSrc: /assets/thumbnails/ThDoThfn4mQ.webp
 lang: en
 title: "You are ambassadors for Christ!"
 pubDate: 2021-12-23T23:11:48

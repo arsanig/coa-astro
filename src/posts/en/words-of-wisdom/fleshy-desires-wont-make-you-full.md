@@ -1,8 +1,7 @@
 ---
 wp_id: 3293
-imgId: 3294
 videoId: "--fk_eptDlU"
-imgSrc: /assets/thumbnails/3294.webp
+imgSrc: /assets/thumbnails/--fk_eptDlU.webp
 lang: en
 title: "Fleshy desires won't make you full"
 pubDate: 2022-02-03T19:55:37

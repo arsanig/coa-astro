@@ -1,8 +1,7 @@
 ---
 wp_id: 3750
-imgId: 3751
 videoId: "DKDFQ7csRwE"
-imgSrc: /assets/thumbnails/3751.webp
+imgSrc: /assets/thumbnails/DKDFQ7csRwE.webp
 lang: en
 title: "When our identity is in God"
 pubDate: 2023-01-25T11:08:49

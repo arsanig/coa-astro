@@ -1,8 +1,7 @@
 ---
 wp_id: 673
-imgId: 681
 videoId: "4IG5UuuI0w8"
-imgSrc: /assets/thumbnails/681.webp
+imgSrc: /assets/thumbnails/4IG5UuuI0w8.webp
 lang: en
 title: "Why is fasting essential?"
 pubDate: 2017-02-14T21:46:30

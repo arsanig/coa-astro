@@ -1,8 +1,7 @@
 ---
 wp_id: 4203
-imgId: 4204
 videoId: "glFg68uk9M8"
-imgSrc: /assets/thumbnails/4204.webp
+imgSrc: /assets/thumbnails/glFg68uk9M8.webp
 lang: en
 title: "How to love your enemies"
 pubDate: 2023-11-22T12:00:37

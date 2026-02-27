@@ -1,8 +1,7 @@
 ---
 wp_id: 4430
-imgId: 4431
 videoId: "HNq0QJRD1Ak"
-imgSrc: /assets/thumbnails/4431.webp
+imgSrc: /assets/thumbnails/HNq0QJRD1Ak.webp
 lang: en
 title: "Why did Jesus Christ have to die on the cross?"
 pubDate: 2024-05-02T18:56:11

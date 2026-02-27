@@ -1,8 +1,7 @@
 ---
 wp_id: 3797
-imgId: 3798
 videoId: "OJO0EKmyAfY"
-imgSrc: /assets/thumbnails/3798.webp
+imgSrc: /assets/thumbnails/OJO0EKmyAfY.webp
 lang: en
 title: "Christ is the way"
 pubDate: 2023-03-09T20:37:54

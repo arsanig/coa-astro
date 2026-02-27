@@ -1,8 +1,7 @@
 ---
 wp_id: 2512
-imgId: 2515
 videoId: "Yiz5VshtxwQ"
-imgSrc: /assets/thumbnails/2515.webp
+imgSrc: /assets/thumbnails/Yiz5VshtxwQ.webp
 lang: en
 title: "Be patient in your ministry&#8230;"
 pubDate: 2020-12-01T21:24:18

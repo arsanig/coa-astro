@@ -1,8 +1,7 @@
 ---
 wp_id: 2155
-imgId: 2156
 videoId: "ln8CBRGeCSI"
-imgSrc: /assets/thumbnails/2156.webp
+imgSrc: /assets/thumbnails/ln8CBRGeCSI.webp
 lang: en
 title: "Where did Jesus say that He is God?"
 pubDate: 2020-04-09T14:41:07

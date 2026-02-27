@@ -1,8 +1,7 @@
 ---
 wp_id: 4207
-imgId: 4208
 videoId: "G2hBxXMSBQE"
-imgSrc: /assets/thumbnails/4208.webp
+imgSrc: /assets/thumbnails/G2hBxXMSBQE.webp
 lang: en
 title: "Let Him Be Your Master"
 pubDate: 2023-11-24T12:00:05

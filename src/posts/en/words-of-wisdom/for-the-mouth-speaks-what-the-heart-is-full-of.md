@@ -1,8 +1,7 @@
 ---
 wp_id: 3045
-imgId: 3047
 videoId: "iI1fG6ey9Ms"
-imgSrc: /assets/thumbnails/3047.webp
+imgSrc: /assets/thumbnails/iI1fG6ey9Ms.webp
 lang: en
 title: "For the mouth speaks what the heart is full of"
 pubDate: 2021-08-19T22:36:23

@@ -1,8 +1,7 @@
 ---
 wp_id: 3531
-imgId: 3532
 videoId: "hmDUCbY3-_w"
-imgSrc: /assets/thumbnails/3532.webp
+imgSrc: /assets/thumbnails/hmDUCbY3-_w.webp
 lang: en
 title: "God will never abandon us"
 pubDate: 2022-08-09T23:25:09

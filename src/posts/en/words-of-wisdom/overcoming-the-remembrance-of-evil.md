@@ -1,8 +1,7 @@
 ---
 wp_id: 3395
-imgId: 3396
 videoId: "nEleW-Heghg"
-imgSrc: /assets/thumbnails/3396.webp
+imgSrc: /assets/thumbnails/nEleW-Heghg.webp
 lang: en
 title: "Overcoming the remembrance of evil"
 pubDate: 2022-04-15T11:04:56

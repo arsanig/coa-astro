@@ -1,8 +1,7 @@
 ---
 wp_id: 2176
-imgId: 2177
 videoId: "ktoYdRXFFU0"
-imgSrc: /assets/thumbnails/2177.webp
+imgSrc: /assets/thumbnails/ktoYdRXFFU0.webp
 lang: en
 title: "Why is the Resurrection of Christ considered the feast of feasts?"
 pubDate: 2020-05-13T15:43:08

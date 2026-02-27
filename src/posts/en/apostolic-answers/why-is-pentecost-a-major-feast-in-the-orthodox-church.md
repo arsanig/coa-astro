@@ -1,8 +1,7 @@
 ---
 wp_id: 1571
-imgId: 1572
 videoId: "PPfUFOoxtY8"
-imgSrc: /assets/thumbnails/1572.webp
+imgSrc: /assets/thumbnails/PPfUFOoxtY8.webp
 lang: en
 title: "Why is Pentecost a major feast in the Orthodox Church?"
 pubDate: 2019-06-12T12:00:24

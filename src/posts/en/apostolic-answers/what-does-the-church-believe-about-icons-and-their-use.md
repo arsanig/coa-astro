@@ -1,8 +1,7 @@
 ---
 wp_id: 1543
-imgId: 1544
 videoId: "O13ZbYA9v88"
-imgSrc: /assets/thumbnails/1544.webp
+imgSrc: /assets/thumbnails/O13ZbYA9v88.webp
 lang: en
 title: "What does the Church believe about icons and their use?"
 pubDate: 2019-05-22T10:27:18

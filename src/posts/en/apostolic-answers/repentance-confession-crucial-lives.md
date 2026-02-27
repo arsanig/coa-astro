@@ -1,8 +1,7 @@
 ---
 wp_id: 901
-imgId: 553
 videoId: "5w9bdKBJZT0"
-imgSrc: /assets/thumbnails/553.webp
+imgSrc: /assets/thumbnails/5w9bdKBJZT0.webp
 lang: en
 title: "Why are Repentance and Confession so crucial in our lives? - Part 1"
 pubDate: 2017-06-07T12:47:10

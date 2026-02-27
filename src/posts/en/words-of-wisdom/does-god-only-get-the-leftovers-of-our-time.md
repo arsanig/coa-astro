@@ -1,8 +1,7 @@
 ---
 wp_id: 2392
-imgId: 2394
 videoId: "y4JFL9P9mrU"
-imgSrc: /assets/thumbnails/2394.webp
+imgSrc: /assets/thumbnails/y4JFL9P9mrU.webp
 lang: en
 title: "Does God only get the Leftovers of Our Time?"
 pubDate: 2020-10-25T23:22:34

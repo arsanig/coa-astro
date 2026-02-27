@@ -1,8 +1,7 @@
 ---
 wp_id: 2846
-imgId: 2847
 videoId: "BEfV35g1tX4"
-imgSrc: /assets/thumbnails/2847.webp
+imgSrc: /assets/thumbnails/BEfV35g1tX4.webp
 lang: en
 title: "Prayer is a relationship with God!"
 pubDate: 2021-04-29T21:26:33

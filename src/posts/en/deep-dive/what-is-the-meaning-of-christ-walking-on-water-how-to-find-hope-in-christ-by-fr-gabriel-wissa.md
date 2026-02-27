@@ -1,8 +1,7 @@
 ---
 wp_id: 2165
-imgId: 2167
 videoId: "VAfvS1FtYGU"
-imgSrc: /assets/thumbnails/2167.webp
+imgSrc: /assets/thumbnails/VAfvS1FtYGU.webp
 lang: en
 title: "What is the meaning of Christ walking on water? How to find hope in Christ?"
 pubDate: 2020-05-08T15:26:20

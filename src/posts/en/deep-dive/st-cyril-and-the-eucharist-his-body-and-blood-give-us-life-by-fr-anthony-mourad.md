@@ -1,8 +1,7 @@
 ---
 wp_id: 2866
-imgId: 2869
 videoId: "_UQ3FRfh7bk"
-imgSrc: /assets/thumbnails/2869.webp
+imgSrc: /assets/thumbnails/_UQ3FRfh7bk.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body and Blood give us Life."
 pubDate: 2021-05-16T23:24:59

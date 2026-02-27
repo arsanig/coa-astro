@@ -1,8 +1,7 @@
 ---
 wp_id: 4178
-imgId: 4179
 videoId: "RZ0rneyJ9QY"
-imgSrc: /assets/thumbnails/4179.webp
+imgSrc: /assets/thumbnails/RZ0rneyJ9QY.webp
 lang: en
 title: "Do I pray for my will or God’s will to be done?"
 pubDate: 2023-11-08T12:00:58

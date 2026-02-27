@@ -1,8 +1,7 @@
 ---
 wp_id: 4320
-imgId: 4321
 videoId: "kQyyhTGawtY"
-imgSrc: /assets/thumbnails/4321.webp
+imgSrc: /assets/thumbnails/kQyyhTGawtY.webp
 lang: en
 title: "The Church is like a Hospital"
 pubDate: 2024-01-12T12:00:32

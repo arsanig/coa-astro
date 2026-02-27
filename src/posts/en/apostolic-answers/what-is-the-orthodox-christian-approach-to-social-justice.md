@@ -1,8 +1,7 @@
 ---
 wp_id: 2752
-imgId: 2753
 videoId: "68a3iNjt2VU"
-imgSrc: /assets/thumbnails/2753.webp
+imgSrc: /assets/thumbnails/68a3iNjt2VU.webp
 lang: en
 title: "What is the Orthodox Christian Approach to Social Justice?"
 pubDate: 2021-03-24T11:00:45

@@ -1,8 +1,7 @@
 ---
 wp_id: 3320
-imgId: 3321
 videoId: "BjgcJvgxiQU"
-imgSrc: /assets/thumbnails/3321.webp
+imgSrc: /assets/thumbnails/BjgcJvgxiQU.webp
 lang: en
 title: "What is forgiveness?"
 pubDate: 2022-02-23T10:40:04

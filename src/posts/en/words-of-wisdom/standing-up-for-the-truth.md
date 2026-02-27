@@ -1,8 +1,7 @@
 ---
 wp_id: 4187
-imgId: 4188
 videoId: "WsckjqQRyA0"
-imgSrc: /assets/thumbnails/4188.webp
+imgSrc: /assets/thumbnails/WsckjqQRyA0.webp
 lang: en
 title: "Standing up for the Truth"
 pubDate: 2023-11-15T12:00:15

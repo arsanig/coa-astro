@@ -1,8 +1,7 @@
 ---
 wp_id: 4421
-imgId: 4422
 videoId: "BU_1693pSUo"
-imgSrc: /assets/thumbnails/4422.webp
+imgSrc: /assets/thumbnails/BU_1693pSUo.webp
 lang: en
 title: "The Garden of Eden is NOT What You Think It is"
 pubDate: 2024-03-06T12:00:46

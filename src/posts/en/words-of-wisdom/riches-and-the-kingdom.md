@@ -1,8 +1,7 @@
 ---
 wp_id: 4075
-imgId: 4076
 videoId: "mEL23OItbiQ"
-imgSrc: /assets/thumbnails/4076.webp
+imgSrc: /assets/thumbnails/mEL23OItbiQ.webp
 lang: en
 title: "Riches and the Kingdom"
 pubDate: 2023-09-22T12:00:03

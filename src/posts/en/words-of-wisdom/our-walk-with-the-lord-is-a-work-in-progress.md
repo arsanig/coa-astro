@@ -1,8 +1,7 @@
 ---
 wp_id: 4019
-imgId: 4020
 videoId: "VPODKWJOSsU"
-imgSrc: /assets/thumbnails/4020.webp
+imgSrc: /assets/thumbnails/VPODKWJOSsU.webp
 lang: en
 title: "Our walk with the Lord is a work in progress"
 pubDate: 2023-08-25T12:00:50

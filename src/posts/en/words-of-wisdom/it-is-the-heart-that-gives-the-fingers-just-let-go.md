@@ -1,8 +1,7 @@
 ---
 wp_id: 3034
-imgId: 3036
 videoId: "89BNl5Gt4zI"
-imgSrc: /assets/thumbnails/3036.webp
+imgSrc: /assets/thumbnails/89BNl5Gt4zI.webp
 lang: en
 title: "It is the heart that gives, the fingers just let go"
 pubDate: 2021-08-12T21:30:08

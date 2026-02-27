@@ -1,8 +1,7 @@
 ---
 wp_id: 886
-imgId: 399
 videoId: "bGtVZKvpShU"
-imgSrc: /assets/thumbnails/399.webp
+imgSrc: /assets/thumbnails/bGtVZKvpShU.webp
 lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-1"
 pubDate: 2017-05-16T22:20:03

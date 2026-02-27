@@ -1,8 +1,7 @@
 ---
 wp_id: 4387
-imgId: 4388
 videoId: "Z1I4h0u1RpQ"
-imgSrc: /assets/thumbnails/4388.webp
+imgSrc: /assets/thumbnails/Z1I4h0u1RpQ.webp
 lang: en
 title: "Tell Your Problems How Great God Is"
 pubDate: 2024-02-09T12:00:21

@@ -1,8 +1,7 @@
 ---
 wp_id: 2653
-imgId: 2695
 videoId: "0aQ4CDEkmYk"
-imgSrc: /assets/thumbnails/2695.webp
+imgSrc: /assets/thumbnails/0aQ4CDEkmYk.webp
 lang: en
 title: "How FATHERS approached Science?"
 pubDate: 2021-02-17T05:56:17

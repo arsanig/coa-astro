@@ -1,8 +1,7 @@
 ---
 wp_id: 2806
-imgId: 2808
 videoId: "-04ee_y6PKI"
-imgSrc: /assets/thumbnails/2808.webp
+imgSrc: /assets/thumbnails/-04ee_y6PKI.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist Restores Incorruptibility."
 pubDate: 2021-04-11T21:35:23

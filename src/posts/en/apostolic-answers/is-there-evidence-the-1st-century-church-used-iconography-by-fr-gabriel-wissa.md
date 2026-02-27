@@ -1,8 +1,7 @@
 ---
 wp_id: 2496
-imgId: 2498
 videoId: "kmATf28ODBo"
-imgSrc: /assets/thumbnails/2498.webp
+imgSrc: /assets/thumbnails/kmATf28ODBo.webp
 lang: en
 title: "Is there EVIDENCE the 1st century Church used ICONOGRAPHY?"
 pubDate: 2020-11-25T11:27:41

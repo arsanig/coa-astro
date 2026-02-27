@@ -1,8 +1,7 @@
 ---
 wp_id: 3878
-imgId: 3879
 videoId: "KJ0PxQ7ycaY"
-imgSrc: /assets/thumbnails/3879.webp
+imgSrc: /assets/thumbnails/KJ0PxQ7ycaY.webp
 lang: en
 title: "Shouldn’t we pray when we feel like it?"
 pubDate: 2023-04-19T11:57:00

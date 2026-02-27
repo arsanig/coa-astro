@@ -1,10 +1,9 @@
 ---
 wp_id: 3713
-imgId: 3714
 videoId: "_HluiMKeiRk"
-imgSrc: /assets/thumbnails/3714.webp
+imgSrc: /assets/thumbnails/_HluiMKeiRk.webp
 lang: en
-title: "Nativity Series - God Sympathizes with my weakness and seeks my healing"
+title: "Salvation Series - God Sympathizes with my weakness and seeks my healing"
 pubDate: 2022-12-16T01:01:00
 tags: ["wow"]
 author: ""

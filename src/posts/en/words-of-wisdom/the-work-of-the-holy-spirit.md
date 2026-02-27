@@ -1,8 +1,7 @@
 ---
 wp_id: 3055
-imgId: 3057
 videoId: "LBPZLiBbq5o"
-imgSrc: /assets/thumbnails/3057.webp
+imgSrc: /assets/thumbnails/LBPZLiBbq5o.webp
 lang: en
 title: "The work of The Holy Spirit"
 pubDate: 2021-08-26T23:59:41

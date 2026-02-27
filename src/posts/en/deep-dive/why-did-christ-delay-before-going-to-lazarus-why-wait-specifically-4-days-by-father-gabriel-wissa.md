@@ -1,8 +1,7 @@
 ---
 wp_id: 2524
-imgId: 2688
 videoId: "EtmFO8zc1Tg"
-imgSrc: /assets/thumbnails/2688.webp
+imgSrc: /assets/thumbnails/EtmFO8zc1Tg.webp
 lang: en
 title: "Why did Christ delay before going to Lazarus? Why wait specifically 4 days?"
 pubDate: 2020-12-09T08:29:37

@@ -1,8 +1,7 @@
 ---
 wp_id: 4268
-imgId: 4269
 videoId: "KKGp9CWjzDI"
-imgSrc: /assets/thumbnails/4269.webp
+imgSrc: /assets/thumbnails/KKGp9CWjzDI.webp
 lang: en
 title: "Believe and become children of God"
 pubDate: 2023-12-15T12:00:24

@@ -1,8 +1,7 @@
 ---
 wp_id: 2769
-imgId: 2771
 videoId: "5CV-0v7LKv4"
-imgSrc: /assets/thumbnails/2771.webp
+imgSrc: /assets/thumbnails/5CV-0v7LKv4.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as a Means of Healing."
 pubDate: 2021-03-28T22:36:12

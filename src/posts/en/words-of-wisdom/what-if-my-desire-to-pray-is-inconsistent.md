@@ -1,8 +1,7 @@
 ---
 wp_id: 1940
-imgId: 1941
 videoId: "fo3o_1vdHw8"
-imgSrc: /assets/thumbnails/1941.webp
+imgSrc: /assets/thumbnails/fo3o_1vdHw8.webp
 lang: en
 title: "What if my desire to pray is inconsistent?"
 pubDate: 2019-12-20T12:00:56

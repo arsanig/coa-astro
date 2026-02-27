@@ -1,8 +1,7 @@
 ---
 wp_id: 1407
-imgId: 1408
 videoId: "yav2S6wNKcM"
-imgSrc: /assets/thumbnails/1408.webp
+imgSrc: /assets/thumbnails/yav2S6wNKcM.webp
 lang: en
 title: "Find out who you truly are?!"
 pubDate: 2019-03-14T19:57:46

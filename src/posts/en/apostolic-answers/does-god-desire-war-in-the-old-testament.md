@@ -1,8 +1,7 @@
 ---
 wp_id: 1524
-imgId: 1525
 videoId: "9MeGNJU0iyk"
-imgSrc: /assets/thumbnails/1525.webp
+imgSrc: /assets/thumbnails/9MeGNJU0iyk.webp
 lang: en
 title: "Does God desire war in the Old Testament?"
 pubDate: 2019-05-15T11:30:56

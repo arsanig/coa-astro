@@ -1,8 +1,7 @@
 ---
 wp_id: 4085
-imgId: 4086
 videoId: "jzmk-oOrkYU"
-imgSrc: /assets/thumbnails/4086.webp
+imgSrc: /assets/thumbnails/jzmk-oOrkYU.webp
 lang: en
 title: "Signs of a Sleeping Christian"
 pubDate: 2023-10-04T12:00:50

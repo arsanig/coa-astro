@@ -1,8 +1,7 @@
 ---
 wp_id: 1996
-imgId: 1997
 videoId: "QPKTxNzuvcQ"
-imgSrc: /assets/thumbnails/1997.webp
+imgSrc: /assets/thumbnails/QPKTxNzuvcQ.webp
 lang: en
 title: "Don't be shy to confess to a priest!"
 pubDate: 2020-02-07T12:00:34

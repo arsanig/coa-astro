@@ -1,8 +1,7 @@
 ---
 wp_id: 4312
-imgId: 4313
 videoId: "nTS0rMIqqRA"
-imgSrc: /assets/thumbnails/4313.webp
+imgSrc: /assets/thumbnails/nTS0rMIqqRA.webp
 lang: en
 title: "Greet the Lord early in the morning"
 pubDate: 2024-01-05T12:00:51

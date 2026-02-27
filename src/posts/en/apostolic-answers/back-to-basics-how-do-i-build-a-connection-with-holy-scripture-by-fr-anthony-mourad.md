@@ -1,8 +1,7 @@
 ---
 wp_id: 1896
-imgId: 1897
 videoId: "Jv26SORdVew"
-imgSrc: /assets/thumbnails/1897.webp
+imgSrc: /assets/thumbnails/Jv26SORdVew.webp
 lang: en
 title: "Back to Basics: How do I build a connection with Holy Scripture?"
 pubDate: 2019-12-11T12:00:47

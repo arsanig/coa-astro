@@ -1,8 +1,7 @@
 ---
 wp_id: 3525
-imgId: 3526
 videoId: "NPs5hAFRJ8g"
-imgSrc: /assets/thumbnails/3526.webp
+imgSrc: /assets/thumbnails/NPs5hAFRJ8g.webp
 lang: en
 title: "Rejoice!"
 pubDate: 2022-08-05T01:00:14

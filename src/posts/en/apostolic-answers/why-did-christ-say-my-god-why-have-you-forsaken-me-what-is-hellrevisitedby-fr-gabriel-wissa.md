@@ -1,8 +1,7 @@
 ---
 wp_id: 3177
-imgId: 3178
 videoId: "-_EsBs8ziFI"
-imgSrc: /assets/thumbnails/3178.webp
+imgSrc: /assets/thumbnails/-_EsBs8ziFI.webp
 lang: en
 title: "Why did Christ say “My God, why have You forsaken Me?” What is hell?(revisited)"
 pubDate: 2021-11-10T11:27:33

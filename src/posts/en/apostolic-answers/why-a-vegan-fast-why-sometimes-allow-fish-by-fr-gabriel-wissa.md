@@ -1,8 +1,7 @@
 ---
 wp_id: 2689
-imgId: 2691
 videoId: "Rx-uVSz_1UM"
-imgSrc: /assets/thumbnails/2691.webp
+imgSrc: /assets/thumbnails/Rx-uVSz_1UM.webp
 lang: en
 title: "Why a Vegan Fast? Why sometimes allow fish?"
 pubDate: 2021-03-03T11:09:37

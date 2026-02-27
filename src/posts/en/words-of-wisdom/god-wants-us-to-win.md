@@ -1,8 +1,7 @@
 ---
 wp_id: 3143
-imgId: 3144
 videoId: "iCJYRiJc1TI"
-imgSrc: /assets/thumbnails/3144.webp
+imgSrc: /assets/thumbnails/iCJYRiJc1TI.webp
 lang: en
 title: "God wants us to win!"
 pubDate: 2021-10-15T04:55:33

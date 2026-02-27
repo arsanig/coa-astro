@@ -1,8 +1,7 @@
 ---
 wp_id: 881
-imgId: 683
 videoId: "vob1Ik9_Wc4"
-imgSrc: /assets/thumbnails/683.webp
+imgSrc: /assets/thumbnails/vob1Ik9_Wc4.webp
 lang: en
 title: "What is the passion of Gluttony?(Passions- Part 3)"
 pubDate: 2017-05-10T00:45:09

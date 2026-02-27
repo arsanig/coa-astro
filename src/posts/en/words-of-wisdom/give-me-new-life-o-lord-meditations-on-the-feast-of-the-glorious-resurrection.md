@@ -1,13 +1,12 @@
 ---
 wp_id: 3875
-imgId: 3876
 videoId: "24nUHu6tAUc"
-imgSrc: /assets/thumbnails/3876.webp
+imgSrc: /assets/thumbnails/24nUHu6tAUc.webp
 lang: en
 title: "Give me new life, O Lord: Meditations on the feast of the Glorious Resurrection"
 pubDate: 2023-04-15T19:19:43
 tags: ["wow"]
-author: ""
+author: "Fr. Anthony Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -1,8 +1,7 @@
 ---
 wp_id: 1615
-imgId: 1616
 videoId: "vASCpRvA8UE"
-imgSrc: /assets/thumbnails/1616.webp
+imgSrc: /assets/thumbnails/vASCpRvA8UE.webp
 lang: en
 title: "The Absence of God: Where is God in times of trouble?"
 pubDate: 2019-07-10T11:10:20

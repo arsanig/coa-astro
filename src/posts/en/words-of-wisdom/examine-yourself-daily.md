@@ -1,8 +1,7 @@
 ---
 wp_id: 3060
-imgId: 3062
 videoId: "Fe5t2iaEGyw"
-imgSrc: /assets/thumbnails/3062.webp
+imgSrc: /assets/thumbnails/Fe5t2iaEGyw.webp
 lang: en
 title: "Examine yourself daily"
 pubDate: 2021-09-01T00:29:10

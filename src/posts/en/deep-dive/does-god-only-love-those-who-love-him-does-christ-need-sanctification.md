@@ -1,8 +1,7 @@
 ---
 wp_id: 4415
-imgId: 4416
 videoId: "n4FkemhTXmg"
-imgSrc: /assets/thumbnails/4416.webp
+imgSrc: /assets/thumbnails/n4FkemhTXmg.webp
 lang: en
 title: "Does God only love those who love Him? Does Christ need Sanctification?"
 pubDate: 2024-02-28T12:00:36

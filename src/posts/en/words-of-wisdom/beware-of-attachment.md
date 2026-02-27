@@ -1,8 +1,7 @@
 ---
 wp_id: 3421
-imgId: 3422
 videoId: "601U_SxkVPc"
-imgSrc: /assets/thumbnails/3422.webp
+imgSrc: /assets/thumbnails/601U_SxkVPc.webp
 lang: en
 title: "Beware of attachment"
 pubDate: 2022-04-20T10:16:05

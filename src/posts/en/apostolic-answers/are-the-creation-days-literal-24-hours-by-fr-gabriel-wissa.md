@@ -1,8 +1,7 @@
 ---
 wp_id: 2006
-imgId: 2007
 videoId: "1DSA37J3Pwo"
-imgSrc: /assets/thumbnails/2007.webp
+imgSrc: /assets/thumbnails/1DSA37J3Pwo.webp
 lang: en
 title: "Are the creation days literal 24 hours?"
 pubDate: 2020-02-12T12:00:22

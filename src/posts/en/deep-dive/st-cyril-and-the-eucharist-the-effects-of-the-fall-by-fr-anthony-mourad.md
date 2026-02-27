@@ -1,8 +1,7 @@
 ---
 wp_id: 2562
-imgId: 2564
 videoId: "i5-C92IjgV0"
-imgSrc: /assets/thumbnails/2564.webp
+imgSrc: /assets/thumbnails/i5-C92IjgV0.webp
 lang: en
 title: "St Cyril and the Eucharist: The Effects of the Fall"
 pubDate: 2020-12-28T00:02:52

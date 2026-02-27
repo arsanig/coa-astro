@@ -1,8 +1,7 @@
 ---
 wp_id: 3758
-imgId: 3760
 videoId: "Br-AjyIb-t0"
-imgSrc: /assets/thumbnails/3760.webp
+imgSrc: /assets/thumbnails/Br-AjyIb-t0.webp
 lang: en
 title: "Are you seeking?"
 pubDate: 2023-02-03T12:03:39

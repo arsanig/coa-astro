@@ -1,8 +1,7 @@
 ---
 wp_id: 2594
-imgId: 2597
 videoId: "fcAgv1T8Y9M"
-imgSrc: /assets/thumbnails/2597.webp
+imgSrc: /assets/thumbnails/fcAgv1T8Y9M.webp
 lang: en
 title: "St Cyril and the Eucharist: The Dilemma and the Solution"
 pubDate: 2021-01-18T09:14:48

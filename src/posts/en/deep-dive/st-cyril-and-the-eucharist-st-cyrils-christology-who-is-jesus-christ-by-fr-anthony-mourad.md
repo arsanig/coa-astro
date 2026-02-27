@@ -1,8 +1,7 @@
 ---
 wp_id: 2622
-imgId: 2637
 videoId: "ilt74TK6M1k"
-imgSrc: /assets/thumbnails/2637.webp
+imgSrc: /assets/thumbnails/ilt74TK6M1k.webp
 lang: en
 title: "St Cyril and the Eucharist: St Cyril's Christology - Who is Jesus Christ?"
 pubDate: 2021-01-31T02:47:20

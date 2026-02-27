@@ -1,8 +1,7 @@
 ---
 wp_id: 2626
-imgId: 2628
 videoId: "0MWKH25LKlM"
-imgSrc: /assets/thumbnails/2628.webp
+imgSrc: /assets/thumbnails/0MWKH25LKlM.webp
 lang: en
 title: "Should I lose hope when I don't get what I asked for?"
 pubDate: 2021-02-03T11:35:12

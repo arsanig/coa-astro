@@ -1,8 +1,7 @@
 ---
 wp_id: 2226
-imgId: 2227
 videoId: "XGc51Wv-VaA"
-imgSrc: /assets/thumbnails/2227.webp
+imgSrc: /assets/thumbnails/XGc51Wv-VaA.webp
 lang: en
 title: "Pursue what is useful, not what feels good!"
 pubDate: 2020-05-27T16:54:44

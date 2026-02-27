@@ -1,8 +1,7 @@
 ---
 wp_id: 3267
-imgId: 3268
 videoId: "jSMKfL7MstY"
-imgSrc: /assets/thumbnails/3268.webp
+imgSrc: /assets/thumbnails/jSMKfL7MstY.webp
 lang: en
 title: "COA live Q&A January. 12. 2022"
 pubDate: 2022-01-16T01:33:40
