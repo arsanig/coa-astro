@@ -4,11 +4,12 @@ imgId: 1928
 videoId: "17k0Kgb7SW4"
 imgSrc: /assets/thumbnails/1928.webp
 lang: en
-title: "What is the hidden meaning of John’s baptism? by Fr. Gabriel Wissa"
+title: "What is the hidden meaning of John’s baptism?"
 pubDate: 2019-09-23T18:42:51
 tags: ["dd"]
+author: "Fr. Gabriel Wissa"
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john ‘1:14- 33’)</p>
-
-<p>&nbsp;</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john ‘1:14- 33’)</p>

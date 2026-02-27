@@ -7,7 +7,5 @@ lang: en
 title: "New Year's Promise"
 pubDate: 2023-12-27T10:55:24
 tags: ["wow"]
+author: ""
 ---
-
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>Let's discuss the New Year's Promise with Fr. Anthony Mourad</p>

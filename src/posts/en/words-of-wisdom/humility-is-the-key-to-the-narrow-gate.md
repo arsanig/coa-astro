@@ -7,8 +7,11 @@ lang: en
 title: "Humility is the key to the narrow gate"
 pubDate: 2023-12-08T12:00:01
 tags: ["wow"]
+author: ""
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
-<p>This video was of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>

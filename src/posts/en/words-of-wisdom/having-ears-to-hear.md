@@ -7,6 +7,9 @@ lang: en
 title: "Having Ears to Hear"
 pubDate: 2023-09-01T12:22:06
 tags: ["wow"]
+author: ""
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved Fr. John Boutros from St. Moses &amp; St. Katherine, Toronto, Canada. This video is of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved Fr. John Boutros from St. Moses &amp; St. Katherine, Toronto, Canada. This video is of course used with his blessing.</p>

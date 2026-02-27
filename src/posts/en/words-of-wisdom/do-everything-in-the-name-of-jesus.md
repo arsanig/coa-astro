@@ -7,8 +7,13 @@ lang: en
 title: "Do everything in the name of Jesus"
 pubDate: 2022-07-08T09:11:39
 tags: ["wow"]
+author: ""
 ---
 
-<p>Redirect your love to God</p>
-<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary & St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>
-<p>This video was of course used with his blessing. </p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Redirect your love to God</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>

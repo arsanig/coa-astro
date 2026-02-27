@@ -4,10 +4,12 @@ imgId: 3794
 videoId: "UE_wYhekFb4"
 imgSrc: /assets/thumbnails/3794.webp
 lang: en
-title: "Why is it vital to keep the commandments? Is true love founded on emotions? by Fr. Gabriel Wissa"
+title: "Why is it vital to keep the commandments? Is true love founded on emotions?"
 pubDate: 2023-03-08T01:48:37
 tags: ["dd"]
+author: "Fr. Gabriel Wissa"
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God, Amen</p>
-<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 15:1-27)</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (John 15:1-27)</p>

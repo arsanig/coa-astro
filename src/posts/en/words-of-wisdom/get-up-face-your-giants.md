@@ -7,9 +7,11 @@ lang: en
 title: "Get Up & Face Your Giants!"
 pubDate: 2019-07-25T10:15:52
 tags: ["wow"]
+author: ""
 ---
 
-<p>Get Up &amp; Face Your Giants!</p>
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>We are excited to be with Fr. Michael Sorial from St. Anianus, Princeton, NJ through the newly established Words of Wisdom branch.</p>
-<p>This video was of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are excited to be with Fr. Michael Sorial from St. Anianus, Princeton, NJ through the newly established Words of Wisdom branch.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>

@@ -7,6 +7,5 @@ lang: en
 title: "COA Live Q&A October 24, 2018"
 pubDate: 2018-10-26T15:28:34
 tags: ["q&a"]
+author: ""
 ---
-
-<p>COA Live Q&amp;A October 24, 2018</p>

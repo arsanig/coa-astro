@@ -7,9 +7,11 @@ lang: en
 title: "What is repentance? Can God reject your repentance?"
 pubDate: 2019-11-15T12:00:41
 tags: ["wow"]
+author: ""
 ---
 
-<p>Can God reject your repentance? What is perfect repentance?</p>
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>We are excited to be with Fr. Abraham Wassef from St. Mina Church, Holmdel, New Jersey through the newly established Words of Wisdom branch.</p>
-<p>This video was of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are excited to be with Fr. Abraham Wassef from St. Mina Church, Holmdel, New Jersey through the newly established Words of Wisdom branch.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>

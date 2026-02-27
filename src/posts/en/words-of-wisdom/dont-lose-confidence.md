@@ -7,8 +7,11 @@ lang: en
 title: "Don't lose confidence"
 pubDate: 2021-11-02T22:42:05
 tags: ["wow"]
+author: ""
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen. We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
-<p>This video is of course used with his blessing.</p>
-<p>&nbsp;</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
+<br>
+<p>&emsp;This video is of course used with his blessing.</p>

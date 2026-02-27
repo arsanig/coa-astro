@@ -7,8 +7,11 @@ lang: en
 title: "Advice from Pope Kyrillos (Cyril) VI: Prayer is everything!"
 pubDate: 2019-08-14T10:46:25
 tags: ["wow"]
+author: ""
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>We are excited to be with Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
-<p>This video was of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are excited to be with Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>

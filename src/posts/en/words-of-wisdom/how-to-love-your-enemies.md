@@ -7,7 +7,9 @@ lang: en
 title: "How to love your enemies"
 pubDate: 2023-11-22T12:00:37
 tags: ["wow"]
+author: ""
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit; One God, Amen.</p>
-<p>We are blessed to learn from our beloved Fr. Mark Basily from St Mark Church, Sydney Australia. This video is of course used with his blessing.</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved Fr. Mark Basily from St Mark Church, Sydney Australia. This video is of course used with his blessing.</p>

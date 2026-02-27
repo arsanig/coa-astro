@@ -7,7 +7,9 @@ lang: en
 title: "Redirect your love to God"
 pubDate: 2022-07-06T10:51:22
 tags: ["wow"]
+author: ""
 ---
 
-<p>Redirect your love to God</p>
-<p>Listen to some Word of Wisdom from Fr. Daniel Fanous from St. Peter & St. Paul, Berkeley NSW, Australia</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Listen to some Word of Wisdom from Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia</p>

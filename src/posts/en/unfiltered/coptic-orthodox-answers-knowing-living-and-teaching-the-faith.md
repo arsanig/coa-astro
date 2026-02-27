@@ -7,4 +7,5 @@ lang: en
 title: "Coptic Orthodox Answers - Knowing, Living and Teaching the faith!"
 pubDate: 2017-07-12T10:06:34
 tags: ["whut"]
+author: ""
 ---

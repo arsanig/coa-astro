@@ -4,10 +4,12 @@ imgId: 2305
 videoId: "dUFLuzQrFoc"
 imgSrc: /assets/thumbnails/2305.webp
 lang: en
-title: "Where else does Christ CLEARLY say that HE IS GOD? by Fr. Gabriel Wissa"
+title: "Where else does Christ CLEARLY say that HE IS GOD?"
 pubDate: 2020-07-10T12:00:44
 tags: ["dd"]
+author: "Fr. Gabriel Wissa"
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 8:31-57)</p>
-<p>&nbsp;</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (John 8:31-57)</p>

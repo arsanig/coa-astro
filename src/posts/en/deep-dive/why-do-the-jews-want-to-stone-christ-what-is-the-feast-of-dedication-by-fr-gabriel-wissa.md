@@ -4,10 +4,12 @@ imgId: 2471
 videoId: "dJz_zkzGVD0"
 imgSrc: /assets/thumbnails/2471.webp
 lang: en
-title: "Why do the Jews want to stone Christ? What is the feast of Dedication? by Fr. Gabriel Wissa"
+title: "Why do the Jews want to stone Christ? What is the feast of Dedication?"
 pubDate: 2020-11-10T20:26:24
 tags: ["dd"]
+author: "Fr. Gabriel Wissa"
 ---
 
-<p>In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (john 10:22-42)</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (John 10:22-42)</p>

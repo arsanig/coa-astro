@@ -4,12 +4,14 @@ imgId: 3268
 videoId: "jSMKfL7MstY"
 imgSrc: /assets/thumbnails/3268.webp
 lang: en
-title: "COA live Q&A January. 12. 2022 by Fr. Anthony Mourad"
+title: "COA live Q&A January. 12. 2022"
 pubDate: 2022-01-16T01:33:40
 tags: ["q&a"]
+author: "Fr. Anthony Mourad"
 ---
 
-<p>In the name of the Father, the Son and the Holy spirit one God Amen.</p>
-<p>COA live Q&amp;A January. 12. 2022 by Fr. Anthony Mourad</p>
-<p>Part 1 : https://youtu.be/jSMKfL7MstY</p>
-<p>Part 2 : https://youtu.be/kNmbWhCdNd4</p>
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;Part 1 : 
+<br>
+<p>&emsp;Part 2 : 

@@ -4,10 +4,8 @@ imgId: 3746
 videoId: "0muR2AR1Jt0"
 imgSrc: /assets/thumbnails/3746.webp
 lang: en
-title: "COA live Q&A January. 18. 2023 by Fr. Anthony Mourad"
+title: "COA live Q&A January. 18. 2023"
 pubDate: 2023-01-20T11:41:50
 tags: ["q&a"]
+author: "Fr. Anthony Mourad"
 ---
-
-<p>In the name of the Father, the Son and the Holy spirit one God Amen.</p>
-<p>COA live Q&amp;A, January. 18. 2023 by Fr. Anthony Mourad</p>

@@ -7,9 +7,12 @@ lang: en
 title: "Riches and the Kingdom"
 pubDate: 2023-09-22T12:00:03
 tags: ["wow"]
+author: ""
 ---
 
-<p></code><br />
-In the name of the Father, the Son, the Holy Spirit one God Amen</p>
-<p>We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
-<p>This video was of course used with his blessing.</p>
+<p><br/>
+In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>&emsp;We are blessed to learn from our beloved HG Metropolitan Youssef from Southern United States Diocese, USA.</p>
+<br>
+<p>&emsp;This video was of course used with his blessing.</p>
