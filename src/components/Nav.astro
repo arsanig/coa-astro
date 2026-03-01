@@ -76,11 +76,11 @@ const shopLocalized = localizePathname("/shop", languageTag());
                 if (show) {
                     requestAnimationFrame(() => {
                         htmlEl.style.opacity = "1";
-                        htmlEl.style.transform = "translateY(0)";
+                        htmlEl.style.transform = "translateX(0)";
                     });
                 } else {
                     htmlEl.style.opacity = "0";
-                    htmlEl.style.transform = "translateY(10px)";
+                    htmlEl.style.transform = "translateX(30px)";
                 }
             });
         }

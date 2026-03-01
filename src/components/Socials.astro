@@ -54,7 +54,7 @@ const animate = Astro.props.animate ?? false;
                 rel="noopener noreferrer"
                 aria-label={label}
                 class="hover:scale-125 transition-transform duration-200"
-                style={animate ? `opacity:0; transform:translateY(10px); transition: opacity 0.3s ease, transform 0.3s ease; transition-delay: ${i * 60}ms` : undefined}
+                style={animate ? `opacity:0; transform:translateX(30px); transition: opacity 0.35s ease-out, transform 0.35s ease-out; transition-delay: ${i * 70 + 150}ms` : undefined}
                 data-social-item={animate ? "true" : undefined}
             >
                 <img
