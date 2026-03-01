@@ -11,6 +11,6 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!</p>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!</p>
 <br>
-<p>&emsp;In this session, we dive deeper into John A beautiful parallel between the feast of the tabernacles and Christ! Why did some Jews not believe in Christ?  (John 7:37-53)</p>
+<p>In this session, we dive deeper into John A beautiful parallel between the feast of the tabernacles and Christ! Why did some Jews not believe in Christ?  (John 7:37-53)</p>

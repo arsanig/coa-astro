@@ -11,6 +11,6 @@ author: "Fr. Daniel Fanous"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are excited to be with Fr. Daniel Fanous from St. Peter &amp; St. Paul from Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
+<p>We are excited to be with Fr. Daniel Fanous from St. Peter &amp; St. Paul from Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

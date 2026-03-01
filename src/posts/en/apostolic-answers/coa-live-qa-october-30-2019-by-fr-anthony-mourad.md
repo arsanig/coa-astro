@@ -11,4 +11,4 @@ author: "Fr. Anthony Mourad"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Catch some answers to some pressing issues with Fr. Anthony Mourad on #COA and learn more about the Christian Orthodox Faith</p>
+<p>Catch some answers to some pressing issues with Fr. Anthony Mourad on #COA and learn more about the Christian Orthodox Faith</p>

@@ -11,4 +11,4 @@ author: "Fr. Paul Guirguis"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Listen to some Word of Wisdom from our beloved Fr. Paul Guirguis from St. Mark, Washington DC, USA. #COA #WordsofWisom</p>
+<p>Listen to some Word of Wisdom from our beloved Fr. Paul Guirguis from St. Mark, Washington DC, USA. #COA #WordsofWisom</p>

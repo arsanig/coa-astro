@@ -11,7 +11,7 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;What really happened during the cleansing of the temple? Was Christ angry?</p>
+<p>What really happened during the cleansing of the temple? Was Christ angry?</p>
 <br>
-<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!<br/>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!<br/>
 In this session, we explore together the background of the Gospel of John (John 2:12-25 )</p>

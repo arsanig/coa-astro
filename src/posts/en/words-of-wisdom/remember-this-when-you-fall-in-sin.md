@@ -11,4 +11,4 @@ author: "HG Bishop Angaelos"
 
 <p>Remember this when you fall in sin! In the name of the Father, and the Son, and the Holy Spirit, one God. Amen. We are excited to be with HG Bishop Angaelos from Diocese of London, London, England through the newly established Words of Wisdom branch.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

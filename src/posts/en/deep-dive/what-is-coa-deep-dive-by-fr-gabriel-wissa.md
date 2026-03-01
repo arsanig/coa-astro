@@ -11,5 +11,5 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!<br/>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!<br/>
 In this session, we explore together the background of the Gospel of John</p>

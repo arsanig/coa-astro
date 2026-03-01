@@ -11,6 +11,6 @@ author: "Fr. Paul Guirguis"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Obedience: Fruit of the Living Faith</p>
+<p>Obedience: Fruit of the Living Faith</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. Paul Guirguis from St. Mark, Washington DC, USA. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Paul Guirguis from St. Mark, Washington DC, USA. This video is of course used with his blessing.</p>

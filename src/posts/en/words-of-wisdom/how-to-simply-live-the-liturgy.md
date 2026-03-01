@@ -11,6 +11,6 @@ author: "HG Bishop Basil"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are excited to be with Bishop Basil Auxiliary Bishop of the Southern United States, assisting HE Metropolitan Youssef through the newly established Words of Wisdom branch.</p>
+<p>We are excited to be with Bishop Basil Auxiliary Bishop of the Southern United States, assisting HE Metropolitan Youssef through the newly established Words of Wisdom branch.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

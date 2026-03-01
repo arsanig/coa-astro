@@ -11,6 +11,6 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;If God loves us why do we need to ask saints or others to pray on our behalf? Does He for example love St. Mary more than me?</p>
+<p>If God loves us why do we need to ask saints or others to pray on our behalf? Does He for example love St. Mary more than me?</p>
 <br>
-<p>&emsp;<strong>Remember my beloved, know your faith, live your faith, and Teach your faith.</strong></p>
+<p><strong>Remember my beloved, know your faith, live your faith, and Teach your faith.</strong></p>

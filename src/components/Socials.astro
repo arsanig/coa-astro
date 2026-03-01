@@ -60,7 +60,7 @@ const animate = Astro.props.animate ?? false;
                 <img
                     src={icon}
                     alt={label}
-                    class:list={["w-5 h-5", { invert: isDark && monochrome.has(label) }]}
+                    class:list={["w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5", { invert: isDark && monochrome.has(label) }]}
                 />
             </a>
         ))

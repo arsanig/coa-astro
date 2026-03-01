@@ -11,6 +11,6 @@ author: "Fr. Peter Farrington"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Make yourself a prayer place</p>
+<p>Make yourself a prayer place</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Peter Farrington from St. Mary &amp; St. Cyril's, Liverpool, England. This video is of course used with his blessing.</p>

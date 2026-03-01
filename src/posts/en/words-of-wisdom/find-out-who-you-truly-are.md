@@ -11,4 +11,4 @@ author: "HG Bishop Angaelos"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are excited to introduce new voices on COA through the newly established Words of Wisdom branch. We are especially excited to start with HG Bishop Angaelos from London, UK. This video was of course used with his permission.</p>
+<p>We are excited to introduce new voices on COA through the newly established Words of Wisdom branch. We are especially excited to start with HG Bishop Angaelos from London, UK. This video was of course used with his permission.</p>

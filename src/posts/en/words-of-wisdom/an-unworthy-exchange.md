@@ -11,9 +11,9 @@ author: "Fr. Daniel Habib"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;<br/>
+<p><br/>
 <code></code></p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
+<p>We are blessed to learn from our beloved Fr. Daniel Habib from St. John Chrysostom. Laguna Niguel, CA.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

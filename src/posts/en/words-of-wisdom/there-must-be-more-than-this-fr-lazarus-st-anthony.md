@@ -11,4 +11,4 @@ author: "Fr. Lazarus St. Anthony"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;There must be more than this! Listen to some advice from a former Atheist Fr. Lazarus St. Anthony. This video was of course used with his blessing.</p>
+<p>There must be more than this! Listen to some advice from a former Atheist Fr. Lazarus St. Anthony. This video was of course used with his blessing.</p>

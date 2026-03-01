@@ -11,6 +11,6 @@ author: "Fr. Elijah Iskander"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. Elijah Iskander from St. Mark's Coptic Church, Sydney, Australia.</p>
+<p>We are blessed to learn from our beloved Fr. Elijah Iskander from St. Mark's Coptic Church, Sydney, Australia.</p>
 <br>
-<p>&emsp;This video is of course used with his blessing.</p>
+<p>This video is of course used with his blessing.</p>

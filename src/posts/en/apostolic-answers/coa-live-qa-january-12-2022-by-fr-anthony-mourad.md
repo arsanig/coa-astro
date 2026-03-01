@@ -11,6 +11,6 @@ author: "Fr. Anthony Mourad"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Part 1 : 
+<p>Part 1 : 
 <br>
-<p>&emsp;Part 2 : 
+<p>Part 2 : 

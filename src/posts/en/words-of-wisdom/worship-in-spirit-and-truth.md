@@ -11,6 +11,6 @@ author: "Fr. Peter Farrington"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are excited to be with Fr. Peter Farrington from St. Alban Orthodox Church, Chatham, Kent, UK through the newly established Words of Wisdom branch.</p>
+<p>We are excited to be with Fr. Peter Farrington from St. Alban Orthodox Church, Chatham, Kent, UK through the newly established Words of Wisdom branch.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

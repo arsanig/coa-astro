@@ -11,4 +11,4 @@ author: "Fr. John Boutros"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. John Boutros from St. Moses &amp; St. Katherine, Toronto, Canada. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. John Boutros from St. Moses &amp; St. Katherine, Toronto, Canada. This video is of course used with his blessing.</p>

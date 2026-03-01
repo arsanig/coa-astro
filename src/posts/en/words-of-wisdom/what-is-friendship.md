@@ -11,6 +11,6 @@ author: "Fr. Michael Sorial"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ. This video is of course used with his blessing.</p>
+<p>We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ. This video is of course used with his blessing.</p>
 <br>
-<p>&emsp;This video was of course used with his blessing.</p>
+<p>This video was of course used with his blessing.</p>

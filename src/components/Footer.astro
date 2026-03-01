@@ -1,20 +1,33 @@
 ---
 import * as m from "@paraglide/messages.js";
+import Socials from "./Socials.astro";
+import { Image } from "astro:assets";
+import coaLogo from "/public/assets/images/coa-logo-coloured.svg";
 const year = new Date().getFullYear();
 ---
 
+<div data-pagefind-ignore class="h-32 bg-gradient-to-b from-gray to-black"></div>
 <div
     data-pagefind-ignore
-    class="flex flex-col min-h-100 bg-black justify-between px-4 sm:px-8 lg:px-21 pt-8 pb-4 sm:pt-12 lg:pt-16 gap-8 sm:gap-12"
+    class="flex flex-col min-h-100 bg-black justify-between px-4 sm:px-8 lg:px-21 pb-4 sm:pt-4 lg:pt-8 gap-8 sm:gap-12"
 >
-    <div class="flex flex-col gap-2 sm:gap-4">
-        <span class="font-noto text-pearl text-2xl sm:text-3xl lg:text-4xl">{m.siteName()}</span>
-        <span class="font-barlow text-jonquil text-lg sm:text-xl lg:text-2xl">{m.slogan()}</span>
+    <div class="flex flex-row justify-between items-start">
+        <div class="flex flex-col gap-2 sm:gap-4">
+            <span class="font-noto text-pearl text-2xl sm:text-3xl lg:text-4xl">{m.siteName()}</span>
+            <span class="font-barlow text-jonquil text-lg sm:text-xl lg:text-2xl">{m.slogan()}</span>
+        </div>
+        <a href="/" class="mr-4 sm:mr-8 lg:mr-16">
+            <Image src={coaLogo} alt="Coptic Orthodox Answers" class="w-14 sm:w-20 lg:w-28 h-auto" />
+        </a>
     </div>
-    <div class="flex flex-col gap-2">
+    <div class="flex flex-col gap-4">
+        <Socials class="flex flex-row gap-4" dark />
         <hr class="text-pearl w-full" />
-        <span class="text-pearl text-xs sm:text-sm font-barlow">
-            {m.copyright({ year })}
-        </span>
+        <div class="flex flex-col sm:flex-row sm:justify-between gap-1">
+            <span class="text-pearl text-xs sm:text-sm font-barlow">{m.copyright({ year })}</span>
+            <span class="text-pearl text-xs sm:text-sm font-barlow text-right">
+                {m.dioceseCredit()} <a href="https://eccopts.ca" target="_blank" rel="noopener noreferrer" class="hover:underline">{m.dioceseName()}</a>.
+            </span>
+        </div>
     </div>
 </div>

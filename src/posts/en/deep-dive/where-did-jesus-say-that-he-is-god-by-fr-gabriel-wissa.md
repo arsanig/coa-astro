@@ -11,8 +11,8 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!</p>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive!</p>
 <br>
-<p>&emsp;In this session, we explore together the background of the Gospel of John (John 5:16-30)</p>
+<p>In this session, we explore together the background of the Gospel of John (John 5:16-30)</p>
 <br>
-<p>&emsp;<a href="https://drive.google.com/open?id=1RbR_Gi_QquEyGkTg7CL7W7ibzGVpHa6a">MP3 URL</a></p>
+<p><a href="https://drive.google.com/open?id=1RbR_Gi_QquEyGkTg7CL7W7ibzGVpHa6a">MP3 URL</a></p>

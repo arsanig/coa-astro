@@ -11,4 +11,4 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;We are blessed to learn from our beloved Desert Fathers</p>
+<p>We are blessed to learn from our beloved Desert Fathers</p>

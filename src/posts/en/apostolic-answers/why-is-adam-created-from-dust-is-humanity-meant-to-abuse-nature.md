@@ -11,4 +11,4 @@ author: "Fr. Gabriel Wissa"
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
-<p>&emsp;How should we read the story of the creation in Genesis 2 and 3? What is meant by Adam being created from the dust and God blowing into him? How should we understand Eve being created from Adam? What is the garden of Eden and the river in it? And the Tree of Life and the knowledge of Good and Evil? In this series on Genesis 2 and 3, we will be tackling those questions and more.</p>
+<p>How should we read the story of the creation in Genesis 2 and 3? What is meant by Adam being created from the dust and God blowing into him? How should we understand Eve being created from Adam? What is the garden of Eden and the river in it? And the Tree of Life and the knowledge of Good and Evil? In this series on Genesis 2 and 3, we will be tackling those questions and more.</p>

@@ -11,4 +11,4 @@ author: "HG Bishop Gregory"
 
 <p>Sin, The True Virus In the name of the Father, and the Son, and the Holy Spirit, one God. Amen. We are blessed to learn from our beloved HG Bishop Gregory Auxiliary Bishop of Southern United States.</p>
 <br>
-<p>&emsp;This video is of course used with his blessing.</p>
+<p>This video is of course used with his blessing.</p>
