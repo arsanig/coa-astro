@@ -4,7 +4,7 @@ import PostsGrid from "@components/PostsGrid.astro";
 import PostsGridWithTags from "@components/PostsGridWithTags.astro";
 import Pagination from "@components/Pagination.astro";
 
-const { posts, page, title } = Astro.props;
+const { posts, page, title, hidePagination } = Astro.props;
 const generateTags = title === "Video Library | Coptic Orthodox Answers";
 const currentPath = new URL(Astro.request.url).pathname;
 const baseUrl = currentPath.replace(/\/\d+$/, "");
@@ -12,9 +12,9 @@ const hasCustomGrid = Astro.slots.has("default");
 ---
 
 <Main title={title}>
-    <div class="bg-gray">
+    <div class:list={["bg-gray", hidePagination && "pb-16 sm:pb-21"]}>
         {hasCustomGrid ? <slot /> : generateTags ? <PostsGridWithTags posts={posts} /> : <PostsGrid posts={posts} />}
-        <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />
+        {!hidePagination && <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />}
     </div>
 
     <button

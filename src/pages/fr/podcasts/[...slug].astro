@@ -8,7 +8,7 @@ export const prerender = true;
 
 export async function getStaticPaths() {
     const playlistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
-    const podcasts = await getPodcasts(playlistId);
+    const { podcasts } = await getPodcasts(playlistId);
     return podcasts.map((podcast) => ({
         params: { slug: podcast.slug },
         props: { podcast },

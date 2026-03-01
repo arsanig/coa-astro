@@ -1,9 +1,16 @@
 ---
 import { getPlaylistItems } from "@utils/youtubeApi";
+import { fallbackShortIds } from "@utils/fallbackData";
 const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
 
-const data = await getPlaylistItems(9, shortsPlaylistId);
-const shortsIds = data?.items?.map((short) => short?.contentDetails?.videoId);
+let shortsIds: string[];
+try {
+    const data = await getPlaylistItems(9, shortsPlaylistId);
+    shortsIds = data?.items?.map((short: any) => short?.contentDetails?.videoId) ?? fallbackShortIds;
+} catch {
+    console.log("YouTube API failed, using fallback shorts data");
+    shortsIds = fallbackShortIds;
+}
 ---
 
 <div class="bg-gray px-4 py-4 sm:p-8 lg:p-21">

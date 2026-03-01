@@ -5,15 +5,21 @@ import { getPodcasts } from "@utils/podcasts";
 import { type GetStaticPathsOptions } from "astro";
 import * as m from "@paraglide/messages.js";
 
+let isFallback = false;
+
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const playlistId = import.meta.env.COA_PODCASTS_FULL_PLAYLIST_ID;
-    const podcasts = await getPodcasts(playlistId);
-    return paginate(podcasts, { pageSize: 20 });
+    const result = await getPodcasts(playlistId);
+    return paginate(result.podcasts, { pageSize: 20 }).map((route) => ({
+        ...route,
+        props: { ...route.props, isFallback: result.isFallback },
+    }));
 }
 
-const { page } = Astro.props;
+const { page, isFallback: fallback } = Astro.props;
+isFallback = fallback;
 ---
 
-<Catalog page={page} title={`${m.podcastsLabel()} | ${m.siteName()}`}>
+<Catalog page={page} title={`${m.podcastsLabel()} | ${m.siteName()}`} hidePagination={isFallback}>
     <PodsGrid podcasts={page.data} />
 </Catalog>
