@@ -1,5 +1,6 @@
 ---
 import NavLink from "./NavLink.astro";
+import Socials from "./Socials.astro";
 import { localizePathname } from "@utils/linking";
 import { languageTag } from "@paraglide/runtime";
 import * as m from "@paraglide/messages.js";
@@ -49,6 +50,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
             text={m.contactLabel()}
             route={contactLocalized}
         />
+        <Socials class="flex md:hidden flex-row gap-4 mt-auto pb-6 px-4 justify-center" animate />
     </div>
 </nav>
 
@@ -67,12 +69,28 @@ const shopLocalized = localizePathname("/shop", languageTag());
 
         let isMenuOpen = false;
 
+        function animateSocials(show: boolean) {
+            const items = navLinks!.querySelectorAll("[data-social-item]");
+            items.forEach((el) => {
+                const htmlEl = el as HTMLElement;
+                if (show) {
+                    requestAnimationFrame(() => {
+                        htmlEl.style.opacity = "1";
+                        htmlEl.style.transform = "translateY(0)";
+                    });
+                } else {
+                    htmlEl.style.opacity = "0";
+                    htmlEl.style.transform = "translateY(10px)";
+                }
+            });
+        }
+
         function toggleMenu() {
             isMenuOpen = !isMenuOpen;
-            // Type assertion since we've already checked for null
             (mobileMenu as HTMLElement).classList.toggle("hidden");
             (navLinks as HTMLElement).classList.toggle("translate-x-full");
             body.classList.toggle("overflow-hidden");
+            animateSocials(isMenuOpen);
         }
 
         menuButton.addEventListener("click", toggleMenu);

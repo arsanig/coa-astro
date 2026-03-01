@@ -1,0 +1,68 @@
+---
+interface Props {
+    class?: string;
+    dark?: boolean;
+    animate?: boolean;
+}
+
+const monochrome = new Set(["TikTok", "X"]);
+
+const links = [
+    {
+        href: "https://www.youtube.com/@CopticOrthodoxAnswers",
+        label: "YouTube",
+        icon: "/assets/images/socials/youtube.svg",
+    },
+    {
+        href: "https://www.instagram.com/copticorthodoxanswers",
+        label: "Instagram",
+        icon: "/assets/images/socials/instagram.svg",
+    },
+    {
+        href: "https://www.tiktok.com/@copticanswers",
+        label: "TikTok",
+        icon: "/assets/images/socials/tiktok.svg",
+    },
+    {
+        href: "https://open.spotify.com/show/1gI9FYMzMoeSxZy6tGjn9P",
+        label: "Spotify",
+        icon: "/assets/images/socials/spotify.svg",
+    },
+    {
+        href: "https://www.facebook.com/CopticAnswers",
+        label: "Facebook",
+        icon: "/assets/images/socials/facebook.svg",
+    },
+    {
+        href: "https://x.com/CopticAnswers",
+        label: "X",
+        icon: "/assets/images/socials/x.svg",
+    },
+];
+
+const className = Astro.props.class ?? "";
+const isDark = Astro.props.dark ?? false;
+const animate = Astro.props.animate ?? false;
+---
+
+<div class={className} data-socials-animate={animate ? "true" : undefined}>
+    {
+        links.map(({ href, label, icon }, i) => (
+            <a
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={label}
+                class="hover:scale-125 transition-transform duration-200"
+                style={animate ? `opacity:0; transform:translateY(10px); transition: opacity 0.3s ease, transform 0.3s ease; transition-delay: ${i * 60}ms` : undefined}
+                data-social-item={animate ? "true" : undefined}
+            >
+                <img
+                    src={icon}
+                    alt={label}
+                    class:list={["w-5 h-5", { invert: isDark && monochrome.has(label) }]}
+                />
+            </a>
+        ))
+    }
+</div>
