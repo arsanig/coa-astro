@@ -14,7 +14,7 @@ import * as m from "@paraglide/messages.js";
                 </p>
             </div>
             <div
-                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-auto min-[1025px]:bg-[-20%_50%] order-1 md:order-2"
+                class="min-h-[300px] sm:min-h-[400px] md:min-h-[600px] bg-cover bg-center order-1 md:order-2"
                 style="background-image: url('/assets/images/last-supper.webp');"
             >
             </div>
@@ -29,7 +29,7 @@ import * as m from "@paraglide/messages.js";
                 </p>
             </div>
             <div
-                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-auto min-[1025px]:bg-[300%_50%] order-1"
+                class="min-h-[300px] sm:min-h-[400px] md:min-h-[600px] bg-cover bg-center order-1"
                 style="background-image: url('/assets/images/pope-tawadrous.webp');"
             >
             </div>
@@ -44,26 +44,10 @@ import * as m from "@paraglide/messages.js";
                 </p>
             </div>
             <div
-                class="parallax-cell overflow-clip min-h-[400px] md:min-h-[600px] bg-cover bg-center min-[1025px]:bg-[-50%_50%] min-[1025px]:[background-size:110%_auto] order-1 md:order-2"
+                class="min-h-[300px] sm:min-h-[400px] md:min-h-[600px] bg-cover bg-center order-1 md:order-2"
                 style="background-image: url('/assets/images/chalice.webp');"
             >
             </div>
         </div>
     </div>
 </Main>
-
-<style>
-    @media (min-width: 1025px) {
-        .parallax-cell {
-            background-attachment: fixed;
-        }
-
-        @supports (-webkit-touch-callout: none) {
-            .parallax-cell {
-                background-attachment: scroll;
-                background-size: cover !important;
-                background-position: center !important;
-            }
-        }
-    }
-</style>

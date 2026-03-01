@@ -25,11 +25,14 @@ const { podcast } = Astro.props;
             <meta data-pagefind-meta={`image:https://i.ytimg.com/vi/${podcast.id}/hqdefault.jpg`} />
             <meta data-pagefind-filter="category:podcasts" />
             <h4
-                class="font-noto text-2xl sm:text-3xl md:text-4xl text-pearl text-center pb-4 sm:pb-8 md:pb-12 lg:pb-21 max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-[66%] place-self-center"
+                class="font-noto text-2xl sm:text-3xl md:text-4xl text-pearl text-center pb-2 sm:pb-3 max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-[66%] place-self-center"
                 data-pagefind-weight="10"
             >
                 {podcast.title}
             </h4>
+            <p class="font-barlow text-sm sm:text-base text-pearl/60 text-center pb-4 sm:pb-8 md:pb-12 lg:pb-21">
+                {podcast.publishedAt}
+            </p>
             <div class="relative w-full px-4 sm:px-8 md:px-16 lg:px-40 mb-4">
                 <div class="relative pb-[56.25%] h-0">
                     <iframe
