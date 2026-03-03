@@ -1,4 +1,6 @@
 ---
+import { Image } from "astro:assets";
+
 interface Props {
     class?: string;
     dark?: boolean;
@@ -57,9 +59,11 @@ const animate = Astro.props.animate ?? false;
                 style={animate ? `opacity:0; transform:translateX(30px); transition: opacity 0.35s ease-out, transform 0.35s ease-out; transition-delay: ${i * 70 + 150}ms` : undefined}
                 data-social-item={animate ? "true" : undefined}
             >
-                <img
+                <Image
                     src={icon}
                     alt={label}
+                    width={20}
+                    height={20}
                     class:list={["w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5", { invert: isDark && monochrome.has(label) }]}
                 />
             </a>

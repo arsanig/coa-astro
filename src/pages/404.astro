@@ -1,0 +1,50 @@
+---
+import { Image } from "astro:assets";
+import Head from "@components/Head.astro";
+import * as m from "@paraglide/messages.js";
+import { languageTag } from "@paraglide/runtime";
+---
+
+<html lang={languageTag()} class="h-full">
+    <head>
+        <Head title={`${m.notFoundTitle()} | ${m.siteName()}`} />
+    </head>
+    <body class="m-0 p-0 h-full flex flex-col justify-center items-center text-center gap-4 bg-black px-6">
+        <Image
+            src="/assets/images/coa-logo-coloured.svg"
+            alt={m.siteName()}
+            width={56}
+            height={91}
+            class="w-16 sm:w-20 h-auto"
+            loading="eager"
+        />
+        <h1 class="font-marcellus text-jonquil text-[2rem] leading-none mb-4">{`404 ${m.notFoundTitle()}`}</h1>
+        <p class="font-barlow text-pearl text-lg">{m.notFoundMessage()}</p>
+        <p id="countdown" class="font-barlow text-pearl/60 text-lg"></p>
+        <a id="fallback" href="/" class="font-barlow text-pearl hover:underline hover:underline-offset-6 hidden">
+            {m.notFoundAction()}
+        </a>
+    </body>
+</html>
+
+<script is:inline define:vars={{ redirectTemplate: m.notFoundRedirect({ seconds: "__SEC__" }) }}>
+    const el = document.getElementById("countdown");
+    const fallback = document.getElementById("fallback");
+    let seconds = 5;
+
+    el.textContent = redirectTemplate.replace("__SEC__", seconds);
+
+    const timer = setInterval(() => {
+        seconds--;
+        if (seconds <= 0) {
+            clearInterval(timer);
+            window.location.href = "/";
+            setTimeout(() => {
+                el.classList.add("hidden");
+                fallback.classList.remove("hidden");
+            }, 1000);
+            return;
+        }
+        el.textContent = redirectTemplate.replace("__SEC__", seconds);
+    }, 1000);
+</script>
