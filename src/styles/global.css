@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+@utility scrollbar-none {
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
 @font-face {
     font-family: 'noto-serif';
     src: url('/fonts/noto-serif/noto-serif-latin-400-normal.woff2') format('woff2');

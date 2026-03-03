@@ -35,7 +35,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
     <!-- Navigation links -->
     <div
         id="nav-links"
-        class="fixed lg:static inset-y-0 right-0 w-64 lg:w-full bg-pearl lg:bg-transparent transform translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-50 lg:z-auto flex flex-col lg:flex-row lg:justify-center lg:items-center overflow-y-auto lg:overflow-y-visible"
+        class="fixed lg:static inset-y-0 right-0 w-64 lg:w-full bg-pearl lg:bg-transparent transform translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-50 lg:z-auto flex flex-col lg:flex-row lg:justify-center lg:items-center overflow-y-auto lg:overflow-y-visible scrollbar-none"
     >
         <NavLink active={pathname === homeLocalized ? true : false} text={m.homeLabel()} route={homeLocalized} />
         <NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
