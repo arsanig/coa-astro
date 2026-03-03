@@ -1,9 +1,11 @@
 ---
 import Main from "@layouts/Main.astro";
+import Banner from "@components/Banner.astro";
 import ShortsGrid from "@components/ShortsGrid.astro";
 import * as m from "@paraglide/messages.js";
 ---
 
 <Main title={`${m.shortsLabel()} | ${m.siteName()}`}>
+    <Banner image="/assets/images/shorts-banner.webp" bgColor="bg-black" description={m.shortsBannerDesc()} />
     <ShortsGrid />
 </Main>

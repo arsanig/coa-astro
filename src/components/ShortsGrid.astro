@@ -1,11 +1,27 @@
 ---
 import { getPlaylistItems } from "@utils/youtubeApi";
 import { fallbackShortIds } from "@utils/fallbackData";
+import * as m from "@paraglide/messages.js";
+import { Image } from "astro:assets";
+
+const shortsSocials = [
+    {
+        href: "https://www.instagram.com/copticorthodoxanswers",
+        label: "Instagram",
+        icon: "/assets/images/socials/instagram.svg",
+    },
+    {
+        href: "https://www.youtube.com/@CopticOrthodoxAnswers",
+        label: "YouTube",
+        icon: "/assets/images/socials/youtube.svg",
+    },
+    { href: "https://www.tiktok.com/@copticanswers", label: "TikTok", icon: "/assets/images/socials/tiktok.svg" },
+];
 const shortsPlaylistId = import.meta.env.COA_SHORTS_PLAYLIST_ID;
 
 let shortsIds: string[];
 try {
-    const data = await getPlaylistItems(9, shortsPlaylistId);
+    const data = await getPlaylistItems(20, shortsPlaylistId);
     shortsIds = data?.items?.map((short: any) => short?.contentDetails?.videoId) ?? fallbackShortIds;
 } catch {
     console.log("YouTube API failed, using fallback shorts data");
@@ -13,13 +29,13 @@ try {
 }
 ---
 
-<div class="bg-gray px-4 py-4 sm:p-8 lg:p-21">
-    <div class="max-w-7xl mx-auto relative">
+<div class="bg-gray min-h-[66vh] px-4 py-10 sm:p-8 lg:p-21 flex flex-col items-center justify-center gap-20 sm:gap-24">
+    <div class="w-full max-w-screen-2xl relative">
         <div class="overflow-hidden">
             <div class="flex transition-transform duration-300 ease-in-out" id="carousel-track">
                 {
                     shortsIds?.map((shortId: string, index: number) => (
-                        <div class="min-w-full sm:min-w-[50%] lg:min-w-[33.333%] px-2 sm:px-4">
+                        <div class="min-w-full sm:min-w-[50%] lg:min-w-[25%] px-2 sm:px-4">
                             <div class="aspect-[9/16] w-full max-w-sm mx-auto">
                                 <iframe
                                     class="w-full h-full rounded-lg"
@@ -63,12 +79,42 @@ try {
             </svg>
         </button>
     </div>
+
+    <div class="flex flex-col items-center gap-4 bg-black/30 rounded-xl px-10 py-7 sm:px-14 sm:py-8">
+        <span class="font-barlow text-pearl text-xl sm:text-2xl">{m.watchMoreOn()}</span>
+        <div class="flex items-center gap-7 sm:gap-8">
+            {
+                shortsSocials.map(({ href, label, icon }) => (
+                    <a
+                        href={href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label={label}
+                        class="flex items-center justify-center hover:scale-125 transition-transform duration-200"
+                    >
+                        <Image
+                            src={icon}
+                            alt={label}
+                            width={20}
+                            height={20}
+                            class="w-8 h-8 sm:w-9 sm:h-9"
+                            style={
+                                label === "TikTok"
+                                    ? "filter: brightness(0) saturate(100%) invert(90%) sepia(7%) saturate(600%) hue-rotate(5deg) brightness(96%) contrast(95%);"
+                                    : undefined
+                            }
+                        />
+                    </a>
+                ))
+            }
+        </div>
+    </div>
 </div>
 
 <script>
     document.addEventListener("DOMContentLoaded", () => {
         const track = document.getElementById("carousel-track");
-        const slides = document.querySelectorAll(".min-w-full, .min-w-\\[50\\%\\], .min-w-\\[33\\.333\\%\\]");
+        const slides = document.querySelectorAll(".min-w-full, .min-w-\\[50\\%\\], .min-w-\\[25\\%\\]");
         const prevButton = document.getElementById("prev-button");
         const nextButton = document.getElementById("next-button");
 
@@ -80,7 +126,7 @@ try {
 
         function updateSlidesPerView() {
             if (window.innerWidth >= 1024) {
-                slidesPerView = 3;
+                slidesPerView = 4;
             } else if (window.innerWidth >= 640) {
                 slidesPerView = 2;
             } else {
@@ -117,6 +163,29 @@ try {
             updateSlidesPerView();
             updateCarousel();
         });
+
+        // Touch swipe support
+        let touchStartX = 0;
+        let touchEndX = 0;
+        const swipeThreshold = 50;
+
+        track.addEventListener("touchstart", (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+        }, { passive: true });
+
+        track.addEventListener("touchend", (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            const diff = touchStartX - touchEndX;
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    const maxIndex = slideCount - slidesPerView;
+                    currentIndex = Math.min(maxIndex, currentIndex + 1);
+                } else {
+                    currentIndex = Math.max(0, currentIndex - 1);
+                }
+                updateCarousel();
+            }
+        }, { passive: true });
 
         // --- YouTube IFrame Player API ---
         const players: any[] = [];

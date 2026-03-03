@@ -10,7 +10,7 @@ const hasCustomGrid = Astro.slots.has("default");
 ---
 
 <Main title={title}>
-    <div class:list={[bgColor, hidePagination && "pb-16 sm:pb-21"]}>
+    <div class:list={[bgColor, "min-h-[66vh]", hidePagination ? "pb-16 sm:pb-21" : "pb-10 sm:pb-0"]}>
         {hasCustomGrid ? <slot /> : <PostsGrid posts={posts} />}
         {!hidePagination && <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />}
     </div>

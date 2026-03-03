@@ -7,7 +7,7 @@ interface Props {
     animate?: boolean;
 }
 
-const monochrome = new Set(["TikTok", "X"]);
+const monochrome = new Set(["TikTok", "X", "Store"]);
 
 const links = [
     {
@@ -40,6 +40,11 @@ const links = [
         label: "X",
         icon: "/assets/images/socials/x.svg",
     },
+    {
+        href: "https://shop.copticorthodoxanswers.org/",
+        label: "Store",
+        icon: "/assets/images/socials/store.svg",
+    },
 ];
 
 const className = Astro.props.class ?? "";
@@ -55,8 +60,12 @@ const animate = Astro.props.animate ?? false;
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label={label}
-                class="hover:scale-125 transition-transform duration-200"
-                style={animate ? `opacity:0; transform:translateX(30px); transition: opacity 0.35s ease-out, transform 0.35s ease-out; transition-delay: ${i * 70 + 150}ms` : undefined}
+                class="flex items-center justify-center hover:scale-125 transition-transform duration-200"
+                style={
+                    animate
+                        ? `opacity:0; transform:translateX(30px); transition: opacity 0.35s ease-out, transform 0.35s ease-out; transition-delay: ${i * 70 + 150}ms`
+                        : undefined
+                }
                 data-social-item={animate ? "true" : undefined}
             >
                 <Image
@@ -64,7 +73,18 @@ const animate = Astro.props.animate ?? false;
                     alt={label}
                     width={20}
                     height={20}
-                    class:list={["w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5", { invert: isDark && monochrome.has(label) }]}
+                    class:list={[
+                        label === "Store"
+                            ? "w-6 h-6 md:w-5 md:h-5 xl:w-6 xl:h-6"
+                            : "w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5",
+                    ]}
+                    style={
+                        monochrome.has(label)
+                            ? isDark
+                                ? "filter: brightness(0) saturate(100%) invert(90%) sepia(7%) saturate(600%) hue-rotate(5deg) brightness(96%) contrast(95%);"
+                                : "filter: brightness(0) saturate(100%);"
+                            : undefined
+                    }
                 />
             </a>
         ))

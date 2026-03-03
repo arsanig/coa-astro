@@ -1,6 +1,42 @@
 ---
 import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
+import Socials from "@components/Socials.astro";
+import { Image } from "astro:assets";
+import coaLogo from "/public/assets/images/coa-logo-coloured.svg";
+
+const email = "info@copticorthodoxanswers.org";
 ---
 
-<Main title={`${m.contactLabel()} | ${m.siteName()}`} />
+<Main title={`${m.contactLabel()} | ${m.siteName()}`}>
+    <section class="bg-madder-dark min-h-[66vh] flex items-center justify-center">
+        <div
+            class="text-pearl px-6 sm:px-10 lg:px-16 py-14 sm:py-20 lg:py-24 flex flex-col items-center text-center space-y-6 max-w-3xl"
+        >
+            <div class="perspective-[800px]">
+                <Image
+                    src={coaLogo}
+                    alt="Coptic Orthodox Answers"
+                    class="w-20 h-20 sm:w-24 sm:h-24 lg:w-28 lg:h-28 animate-spin-y"
+                />
+            </div>
+            <div class="space-y-6">
+                <h1 class="font-marcellus text-2xl sm:text-3xl lg:text-4xl xl:text-5xl">
+                    {m.contactActionCall()}
+                </h1>
+                <p class="font-barlow text-sm sm:text-base lg:text-lg xl:text-xl text-pearl/85">
+                    {m.contactWelcome()}
+                    <a
+                        href={`mailto:${email}`}
+                        class="text-jonquil underline decoration-jonquil underline-offset-4 ml-1 break-all sm:break-normal"
+                    >
+                        {email}
+                    </a>
+                </p>
+            </div>
+            <div class="pt-12 sm:pt-14 lg:pt-16">
+                <Socials class="flex flex-row gap-4" dark />
+            </div>
+        </div>
+    </section>
+</Main>
