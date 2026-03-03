@@ -1,19 +1,22 @@
 {
     "name": "Coptic Orthodox Answers",
     "short_name": "COA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#171717",
+    "theme_color": "#171717",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/icon-192.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/icon-512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
-    ],
-    "theme_color": "#171717",
-    "background_color": "#171717",
-    "display": "standalone"
+    ]
 }
