@@ -11,8 +11,7 @@ interface Props {
 const { podcasts } = Astro.props;
 ---
 
-<Banner image="/assets/images/podcast.webp" description={m.podcastsBannerDesc()} />
-
+<Banner image="/assets/images/podcast-banner.webp" description={m.podcastsBannerDesc()} />
 <div
     class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-4 pt-8 sm:px-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
 >
@@ -30,10 +29,12 @@ const { podcasts } = Astro.props;
                     />
                 </div>
                 <div class="flex flex-col pt-4">
-                    <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-xl sm:text-2xl text-pearl line-clamp-2">
+                    <span class="group-hover:underline group-hover:underline-offset-4 font-barlow text-xl sm:text-2xl md:text-base lg:text-base xl:text-lg 2xl:text-2xl text-pearl line-clamp-2">
                         {podcast.title}
                     </span>
-                    <span class="font-barlow text-base text-jonquil mt-2">{podcast.publishedAt}</span>
+                    <span class="font-barlow text-base md:text-xs lg:text-xs xl:text-sm 2xl:text-base text-jonquil mt-2">
+                        {podcast.publishedAt}
+                    </span>
                 </div>
             </a>
         ))

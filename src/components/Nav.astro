@@ -21,7 +21,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
     <!-- Mobile menu button -->
     <button
         id="mobile-menu-button"
-        class="md:hidden fixed top-4 right-4 z-40 p-2 rounded-md hover:bg-madder text-pearl transition-colors bg-pearl/10 backdrop-blur-sm"
+        class="lg:hidden fixed top-4 right-4 z-40 p-2 rounded-md hover:bg-madder text-pearl transition-colors bg-pearl/10 backdrop-blur-sm"
         aria-label="Toggle menu"
     >
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -35,7 +35,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
     <!-- Navigation links -->
     <div
         id="nav-links"
-        class="fixed md:static inset-y-0 right-0 w-64 md:w-full bg-pearl md:bg-transparent transform translate-x-full md:translate-x-0 transition-transform duration-300 ease-in-out z-50 md:z-auto flex flex-col md:flex-row md:justify-center md:items-center"
+        class="fixed lg:static inset-y-0 right-0 w-64 lg:w-full bg-pearl lg:bg-transparent transform translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-50 lg:z-auto flex flex-col lg:flex-row lg:justify-center lg:items-center overflow-y-auto lg:overflow-y-visible"
     >
         <NavLink active={pathname === homeLocalized ? true : false} text={m.homeLabel()} route={homeLocalized} />
         <NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
@@ -50,7 +50,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
             text={m.contactLabel()}
             route={contactLocalized}
         />
-        <Socials class="flex md:hidden flex-row gap-4 mt-auto pb-6 px-4 justify-center" animate />
+        <Socials class="flex lg:hidden flex-row gap-4 mt-auto pt-4 pb-6 px-8 justify-start" animate />
     </div>
 </nav>
 

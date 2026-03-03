@@ -24,17 +24,31 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'inknut-antiqua';
+    src: url('/fonts/inknut-antiqua/inknut-antiqua-latin-300-normal.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
 @theme {
     --font-noto: 'noto-serif', 'sans-serif';
     --font-barlow: 'barlow', 'sans-serif';
     --font-marcellus: 'marcellus', 'sans-serif';
+    --font-inknut: 'inknut-antiqua', 'serif';
     --text-tiny: 0.7rem; 
     --text-x-tiny: 0.65rem; 
     --color-pearl: #E6DECA;
     --color-jonquil: #FFCF00;
     --color-madder: #A31621;
     --color-gray: #332F31;
-    --color-dd: #0A1E65;
+    --color-dd-blue: #101126;
+    --color-dd-blue-bg: #0c0d18;
+    --color-aa-purple: #29242b;
+    --color-aa-purple-bg: #1e1b21;
+    --color-wow-green: #19341a;
+    --color-wow-green-bg: #121a13;
 
     --animate-glow: glow 3s ease-in-out infinite;
 
