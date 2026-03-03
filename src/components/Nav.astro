@@ -35,7 +35,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
     <!-- Navigation links -->
     <div
         id="nav-links"
-        class="fixed lg:static inset-y-0 right-0 w-64 lg:w-full bg-transparent transform translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-50 lg:z-auto flex flex-col lg:flex-row lg:justify-center lg:items-center overflow-y-auto lg:overflow-y-visible scrollbar-none"
+        class="fixed lg:static inset-y-0 right-0 w-64 lg:w-full transition-transform duration-300 ease-in-out z-50 lg:z-auto flex flex-col lg:flex-row lg:justify-center lg:items-center overflow-y-auto lg:overflow-y-visible scrollbar-none"
     >
         <NavLink active={pathname === homeLocalized ? true : false} text={m.homeLabel()} route={homeLocalized} />
         <NavLink active={pathname === podLocalized ? true : false} text={m.podcastsLabel()} route={podLocalized} />
@@ -54,15 +54,29 @@ const shopLocalized = localizePathname("/shop", languageTag());
     </div>
 </nav>
 
+<style>
+    @reference "@styles/global.css";
+
+    #nav-links {
+        @apply invisible translate-x-full bg-transparent;
+    }
+    #nav-links.open {
+        @apply visible translate-x-0 bg-pearl;
+    }
+    @media (min-width: 1024px) {
+        #nav-links {
+            @apply visible translate-x-0;
+        }
+    }
+</style>
+
 <script>
     document.addEventListener("DOMContentLoaded", () => {
         const menuButton = document.getElementById("mobile-menu-button");
         const mobileMenu = document.getElementById("mobile-menu");
         const navLinks = document.getElementById("nav-links");
-        const body = document.body;
 
-        // Early return if any required elements are missing
-        if (!menuButton || !mobileMenu || !navLinks || !body) {
+        if (!menuButton || !mobileMenu || !navLinks) {
             console.error("Required navigation elements not found");
             return;
         }
@@ -70,8 +84,7 @@ const shopLocalized = localizePathname("/shop", languageTag());
         let isMenuOpen = false;
 
         function animateSocials(show: boolean) {
-            const items = navLinks!.querySelectorAll("[data-social-item]");
-            items.forEach((el) => {
+            navLinks!.querySelectorAll("[data-social-item]").forEach((el) => {
                 const htmlEl = el as HTMLElement;
                 if (show) {
                     requestAnimationFrame(() => {
@@ -85,36 +98,30 @@ const shopLocalized = localizePathname("/shop", languageTag());
             });
         }
 
-        function toggleMenu() {
-            isMenuOpen = !isMenuOpen;
-            (mobileMenu as HTMLElement).classList.toggle("hidden");
-            (navLinks as HTMLElement).classList.toggle("translate-x-full");
-            if (isMenuOpen) {
-                (navLinks as HTMLElement).classList.remove("bg-transparent");
-                (navLinks as HTMLElement).classList.add("bg-pearl");
-            } else {
-                (navLinks as HTMLElement).addEventListener("transitionend", () => {
-                    if (!isMenuOpen) {
-                        (navLinks as HTMLElement).classList.remove("bg-pearl");
-                        (navLinks as HTMLElement).classList.add("bg-transparent");
-                    }
-                }, { once: true });
-            }
-            body.classList.toggle("overflow-hidden");
-            animateSocials(isMenuOpen);
+        function openMenu() {
+            if (isMenuOpen) return;
+            isMenuOpen = true;
+            mobileMenu!.classList.remove("hidden");
+            navLinks!.classList.add("open");
+            document.body.classList.add("overflow-hidden");
+            animateSocials(true);
         }
 
-        menuButton.addEventListener("click", toggleMenu);
-        mobileMenu.addEventListener("click", toggleMenu);
+        function closeMenu() {
+            if (!isMenuOpen) return;
+            isMenuOpen = false;
+            mobileMenu!.classList.add("hidden");
+            navLinks!.classList.remove("open");
+            document.body.classList.remove("overflow-hidden");
+            animateSocials(false);
+        }
 
-        // Close menu when clicking a link
-        const links = navLinks.querySelectorAll("a");
-        links.forEach((link) => {
-            link.addEventListener("click", () => {
-                if (isMenuOpen) {
-                    toggleMenu();
-                }
-            });
+        menuButton.addEventListener("click", () => (isMenuOpen ? closeMenu() : openMenu()));
+        mobileMenu.addEventListener("click", closeMenu);
+        mobileMenu.addEventListener("touchend", (e) => {
+            e.preventDefault();
+            closeMenu();
         });
+        navLinks.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
     });
 </script>
