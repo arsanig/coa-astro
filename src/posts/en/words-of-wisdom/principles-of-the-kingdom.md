@@ -14,3 +14,5 @@ author: "Fr. Peter Saad"
 <p>We are blessed to learn from our beloved Fr. Peter Saad from St. Peter &amp; St. Paul, Montreal, Canada. This video is of course used with his blessing.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=a7WYGxAUvz0" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

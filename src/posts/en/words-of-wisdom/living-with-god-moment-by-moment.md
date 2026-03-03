@@ -14,3 +14,5 @@ author: "Fr. Kyrillos Ibrahim"
 <p>We are blessed to learn from our beloved Fr. Kyrillos Ibrahim from St. Paul American Coptic Orthodox Church. Orange County, California.</p>
 <br>
 <p>This video is of course used with his blessing.</p>
+<br>
+<p><a href="https://youtu.be/NFIhqIYINq4" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

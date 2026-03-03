@@ -14,3 +14,5 @@ author: "Fr. Michael Sorial"
 <p>We are excited to introduce new voices on COA through the newly established Words of Wisdom branch. We are excited to be with Fr.Michael Sorial from St. Anianus Princeton, NJ</p>
 <br>
 <p>This video was of course used with his permission.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=Q_CZxDQxEiw&t=258s" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

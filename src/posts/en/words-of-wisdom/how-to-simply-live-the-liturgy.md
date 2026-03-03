@@ -14,3 +14,5 @@ author: "HG Bishop Basil"
 <p>We are excited to be with Bishop Basil Auxiliary Bishop of the Southern United States, assisting HE Metropolitan Youssef through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=Z8I5DOC3ZF0&feature=youtu.be&t=9216" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

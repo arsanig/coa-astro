@@ -14,3 +14,5 @@ author: "Fr. Joseph Dawoud"
 <p>We are blessed to learn from our beloved Fr. Joseph Dawoud from St. Mark &amp; St. Mary of Egypt, Ottawa, Canada. This video is of course used with his blessing.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=ZovX-Ux5H6s&ab_channel=CopticSkopos" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

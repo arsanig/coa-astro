@@ -14,3 +14,5 @@ author: "Fr. Daniel Fanous"
 <p>We are excited to be with Fr. Daniel Fanous, from St. Peter &amp; St. Paul, Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://soundcloud.com/upperroommedia/let-him-be-your-master-fr-daniel-fanous-1?in=paulymank/sets/fr-daniel-fanous" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

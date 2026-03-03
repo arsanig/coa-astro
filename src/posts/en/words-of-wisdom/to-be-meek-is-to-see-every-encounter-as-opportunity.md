@@ -14,3 +14,5 @@ author: "Fr. Kyrillos Ibrahim"
 <p>We are excited to be with Fr. Kyrillos Ibrahim, from St. Paul American Coptic Orthodox Church, Orange County, California through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://subsplash.com/upperroommedia/lb/mi/+4xct9mx" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

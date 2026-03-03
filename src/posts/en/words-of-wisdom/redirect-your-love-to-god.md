@@ -12,3 +12,5 @@ author: "Fr. Daniel Fanous"
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
 <br>
 <p>Listen to some Word of Wisdom from Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=egdMyIhkQ6I" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

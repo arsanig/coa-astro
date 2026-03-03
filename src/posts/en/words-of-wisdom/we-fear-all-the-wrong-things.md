@@ -14,3 +14,5 @@ author: "Fr. Kyrillos Mourad"
 <p>We are excited to be with Fr. Kyrillos Mourad, from St. Mary, Montreal, Canada through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=X-dkBN_M7WE&t=9258s" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

@@ -14,3 +14,5 @@ author: "Fr. Peter Farrington"
 <p>We are excited to be with Fr. Peter Farrington from St.Mary &amp;St. Cyril's Orthodox Church, Liverpool, UK through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://subsplash.com/upperroommedia/lb/mi/+vj3r7cn" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

@@ -14,3 +14,5 @@ author: "HG Bishop Gregory"
 <p>We are excited to be with our beloved HG Bishop Gregory, Auxiliary Bishop of Southern United States through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://soundcloud.com/suscopts/abba-give-me-a-word-repeated-sins-will-i-ever-stop-by-hg-bishop-gregory" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

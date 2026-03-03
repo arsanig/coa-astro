@@ -14,3 +14,5 @@ author: "Fr. Kyrillos Ibrahim"
 <p>We are excited to be with our beloved Fr. Kyrillos Ibrahim from St. Paul American Coptic Orthodox Church, Orange County, California,  through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://soundcloud.com/upperroommedia/keeping-vigil-with-god-fr-kyrillos-ibrahim" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

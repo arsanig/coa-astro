@@ -14,3 +14,5 @@ author: "Fr. Paul Guirguis"
 <p>We are excited to be with Fr. Paul Guirguis, from St. Mark, Washington DC, USA through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://youtu.be/Y7Phpef-7Lo?si=dsOe5Bj5fG0OESan" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

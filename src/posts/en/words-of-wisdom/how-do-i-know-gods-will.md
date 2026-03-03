@@ -14,3 +14,5 @@ author: "HG Bishop Angaelos"
 <p>We are blessed to learn from our beloved HG Bishop Angaelos from Diocese of London, London, England. This video is of course used with his blessing.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://youtu.be/sQEik0KjKGI" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

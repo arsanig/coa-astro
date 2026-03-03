@@ -14,3 +14,5 @@ author: "HG Bishop Angaelos"
 <p>We are excited to be with our beloved HG Bishop Angaelos from Diocese of London, London, England through the newly established Words of Wisdom branch.</p>
 <br>
 <p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=QBfm_yncJgw" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>
