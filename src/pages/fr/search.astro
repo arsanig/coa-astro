@@ -77,16 +77,6 @@ import synonyms from "@utils/synonyms.json";
     <template id="page-ellipsis-template">
         <span class="text-pearl text-sm md:text-base">...</span>
     </template>
-
-    <button
-        id="back-to-top"
-        aria-label="Back to top"
-        class="fixed bottom-6 right-4 z-40 hidden sm:!hidden p-2 rounded-full bg-pearl/10 backdrop-blur-sm text-pearl hover:bg-madder transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
-    >
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
-        </svg>
-    </button>
 </Main>
 
 <script id="synonyms-data" type="application/json" set:html={JSON.stringify(synonyms)} />

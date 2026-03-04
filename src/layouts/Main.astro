@@ -17,5 +17,48 @@ const { title, description, image } = Astro.props;
             <slot />
         </main>
         <Footer />
+
+        <button
+            id="back-to-top"
+            aria-label="Back to top"
+            class="fixed bottom-6 right-4 z-40 hidden p-2 rounded-full bg-madder text-pearl transition-all duration-300 opacity-0 translate-y-4 cursor-pointer"
+        >
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5"></path>
+            </svg>
+        </button>
+
+        <script>
+            const backToTop = document.getElementById("back-to-top");
+            if (backToTop) {
+                window.addEventListener(
+                    "scroll",
+                    () => {
+                        if (window.scrollY > 300) {
+                            backToTop.classList.remove("hidden");
+                            requestAnimationFrame(() => {
+                                backToTop.classList.remove("opacity-0", "translate-y-4");
+                                backToTop.classList.add("opacity-100", "translate-y-0");
+                            });
+                        } else {
+                            backToTop.classList.add("opacity-0", "translate-y-4");
+                            backToTop.classList.remove("opacity-100", "translate-y-0");
+                            backToTop.addEventListener(
+                                "transitionend",
+                                () => {
+                                    if (window.scrollY <= 300) backToTop.classList.add("hidden");
+                                },
+                                { once: true },
+                            );
+                        }
+                    },
+                    { passive: true },
+                );
+
+                backToTop.addEventListener("click", () => {
+                    window.scrollTo({ top: 0, behavior: "smooth" });
+                });
+            }
+        </script>
     </body>
 </html>
