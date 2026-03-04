@@ -346,8 +346,6 @@ const videoTypesData = videoTypes.map((t) => ({
             </style>
         </div>
     </div>
-    <!-- Wave: Our Videos → Documentary -->
-    <div class="wave-separator wave-to-madder" aria-hidden="true"></div>
 
     <!-- Documentary Initiative -->
     <div class="bg-pearl py-12 sm:py-16 md:py-20 lg:py-24">
@@ -414,75 +412,6 @@ const videoTypesData = videoTypes.map((t) => ({
     </div>
 
     <style>
-        /* --- Wavy section separators --- */
-        .wave-separator {
-            position: relative;
-            height: 120px;
-            overflow: hidden;
-            z-index: 1;
-        }
-        .wave-separator::before,
-        .wave-separator::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 200%;
-            height: 100%;
-            background-size: 50% 100%;
-            clip-path: url("#wavy-clip");
-        }
-        .wave-separator::before {
-            animation: wave-drift-1 7s linear infinite;
-            opacity: 0.5;
-        }
-        .wave-separator::after {
-            animation: wave-drift-2 5s linear infinite;
-            transform: translateX(-5%);
-        }
-        .wave-to-madder {
-            background-color: var(--color-madder);
-        }
-        .wave-to-madder::before {
-            background-image: linear-gradient(135deg, #a31621, #e6deca);
-        }
-        .wave-to-madder::after {
-            background-image: linear-gradient(135deg, #d9ccb5, #a31621);
-        }
-        @keyframes wave-drift-1 {
-            0% {
-                background-position: 0 0;
-                transform: translateX(0);
-            }
-            100% {
-                background-position: 84.375% 0;
-                transform: translateX(-42.1875%);
-            }
-        }
-        @keyframes wave-drift-2 {
-            0% {
-                background-position: 10% 0;
-                transform: translateX(-5%);
-            }
-            50% {
-                transform: translateX(-26.09375%);
-            }
-            100% {
-                background-position: 94.375% 0;
-                transform: translateX(-47.1875%);
-            }
-        }
-        @media (min-width: 640px) {
-            .wave-separator {
-                height: 150px;
-            }
-        }
-        @media (min-width: 1024px) {
-            .wave-separator {
-                height: 180px;
-            }
-        }
-
         /* --- Documentary image glow effect --- */
         .doc-image-wrapper {
             position: relative;
@@ -553,9 +482,16 @@ const videoTypesData = videoTypes.map((t) => ({
         const trigger = document.getElementById("doc-image-trigger");
         const modal = document.getElementById("doc-modal");
         const closeBtn = document.getElementById("doc-modal-close");
-        if (trigger && modal && closeBtn) {
-            const open = () => modal.classList.add("is-open");
-            const close = () => modal.classList.remove("is-open");
+        const body = document.body;
+        if (trigger && modal && closeBtn && body) {
+            const open = () => {
+                modal.classList.add("is-open");
+                body.style.overflow = "hidden";
+            };
+            const close = () => {
+                modal.classList.remove("is-open");
+                body.style.overflow = "";
+            };
             trigger.addEventListener("click", open);
             closeBtn.addEventListener("click", close);
             modal.addEventListener("click", (e) => {
