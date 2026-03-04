@@ -3,8 +3,7 @@ import { languageTag } from "@paraglide/runtime";
 
 const currentLang = languageTag();
 const otherLang = currentLang === "en" ? "fr" : "en";
-const currentPath = new URL(Astro.request.url).pathname;
-// For English, remove /fr prefix, for French add /fr prefix
+const currentPath = new URL(Astro.request.url).pathname.replace(/\.html$/, "");
 const otherLangPath = otherLang === "en" ? currentPath.replace(/^\/fr/, "") || "/" : `/fr${currentPath}`;
 ---
 
