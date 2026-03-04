@@ -38,11 +38,11 @@ const { title, description, image } = Astro.props;
                             backToTop.classList.remove("hidden");
                             requestAnimationFrame(() => {
                                 backToTop.classList.remove("opacity-0", "translate-y-4");
-                                backToTop.classList.add("opacity-100", "translate-y--4");
+                                backToTop.classList.add("opacity-100", "translate-y-0");
                             });
                         } else {
                             backToTop.classList.add("opacity-0", "translate-y-4");
-                            backToTop.classList.remove("opacity-100", "translate-y--4");
+                            backToTop.classList.remove("opacity-100", "translate-y-0");
                             backToTop.addEventListener(
                                 "transitionend",
                                 () => {
