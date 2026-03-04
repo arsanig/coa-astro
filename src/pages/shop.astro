@@ -1,26 +1,32 @@
 ---
 import Main from "@layouts/Main.astro";
 import Banner from "@components/Banner.astro";
+import { Image } from "astro:assets";
 import * as m from "@paraglide/messages.js";
+
+import sweatshirtBlack from "/public/assets/images/coa-sweatshirt-black.webp";
+import shirtMaryNavy from "/public/assets/images/coa-shirt-mary-navy.webp";
+import shirtJesusWhite from "/public/assets/images/coa-shirt-jesus-white.webp";
+import sweatshirtQuoted from "/public/assets/images/coa-sweatshirt-quoted.webp";
 
 const products = [
     {
-        src: "/assets/images/coa-sweatshirt-black.webp",
+        src: sweatshirtBlack,
         alt: "COA Black Sweatshirt",
         href: "https://shop.copticorthodoxanswers.org/products/coa-my-redeemer",
     },
     {
-        src: "/assets/images/coa-shirt-mary-navy.webp",
+        src: shirtMaryNavy,
         alt: "COA Navy Mary T-Shirt",
         href: "https://shop.copticorthodoxanswers.org/products/coa-st-mary-navy-youth",
     },
     {
-        src: "/assets/images/coa-shirt-jesus-white.webp",
+        src: shirtJesusWhite,
         alt: "COA My Beloved White T-Shirt",
         href: "https://shop.copticorthodoxanswers.org/products/coa-my-beloved",
     },
     {
-        src: "/assets/images/coa-sweatshirt-quoted.webp",
+        src: sweatshirtQuoted,
         alt: "COA Quoted Sweatshirt",
         href: "https://shop.copticorthodoxanswers.org/products/nation-of-the-cross-hoodie",
     },
@@ -61,7 +67,7 @@ const products = [
                                     class="group block rounded-xl overflow-hidden"
                                 >
                                     <div class="relative overflow-hidden rounded-xl">
-                                        <img
+                                        <Image
                                             src={product.src}
                                             alt={product.alt}
                                             class="w-full object-contain transition-transform duration-700 group-hover:scale-105"

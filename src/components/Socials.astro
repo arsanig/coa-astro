@@ -73,11 +73,7 @@ const animate = Astro.props.animate ?? false;
                     alt={label}
                     width={20}
                     height={20}
-                    class:list={[
-                        label === "Store"
-                            ? "w-6 h-6 md:w-5 md:h-5 xl:w-6 xl:h-6"
-                            : "w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5",
-                    ]}
+                    class="w-5 h-5 md:w-4 md:h-4 xl:w-5 xl:h-5"
                     style={
                         monochrome.has(label)
                             ? isDark

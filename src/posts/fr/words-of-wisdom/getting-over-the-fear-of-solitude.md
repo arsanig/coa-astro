@@ -1,0 +1,16 @@
+---
+wp_id: 3354
+videoId: "An7hMqoUuJ4"
+imgSrc: /assets/thumbnails/An7hMqoUuJ4.webp
+lang: fr
+title: "Getting over the fear of solitude"
+pubDate: 2022-03-23T09:40:19
+tags: ["wow"]
+author: "Fr. Daniel Fanous"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>We are blessed to learn from our beloved Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia. This video is of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=pXeLgt8CkcA" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

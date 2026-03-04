@@ -1,0 +1,14 @@
+---
+wp_id: 3616
+videoId: "JnhqCn-jAiM"
+imgSrc: /assets/thumbnails/JnhqCn-jAiM.webp
+lang: fr
+title: "Why does the Son call the Father greater? Why the Father gives the Son a command? Are they equal?"
+pubDate: 2022-10-05T10:36:26
+tags: ["dd"]
+author: "Fr. Gabriel Wissa"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>Study with us the Gospel of John on Coptic Orthodox Answers Deep Dive! In this session, we explore together the background of the Gospel of John (John 14:15-31 )</p>

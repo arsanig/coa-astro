@@ -1,0 +1,16 @@
+---
+wp_id: 3957
+videoId: "QTZDRnNwI6A"
+imgSrc: /assets/thumbnails/QTZDRnNwI6A.webp
+lang: fr
+title: "5 tips to enhance Bible studying"
+pubDate: 2023-06-09T12:00:02
+tags: ["wow"]
+author: "Fr. Michael Sorial"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>We are blessed to learn from our beloved Fr. Michael Sorial from St. Anianus, Princeton, NJ.</p>
+<br>
+<p>This video is of course used with his blessing.</p>

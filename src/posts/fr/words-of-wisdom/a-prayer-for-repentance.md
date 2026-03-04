@@ -1,0 +1,14 @@
+---
+wp_id: 3515
+videoId: "x-M0fdTap3w"
+imgSrc: /assets/thumbnails/x-M0fdTap3w.webp
+lang: fr
+title: "A prayer for Repentance"
+pubDate: 2022-07-22T01:07:03
+tags: ["wow"]
+author: "HG Bishop Gregory"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>We are blessed to learn from our beloved HG Bishop Gregory Auxiliary Bishop of Southern United States. This video is of course used with his blessing.</p>

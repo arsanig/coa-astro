@@ -1,0 +1,18 @@
+---
+wp_id: 3034
+videoId: "89BNl5Gt4zI"
+imgSrc: /assets/thumbnails/89BNl5Gt4zI.webp
+lang: fr
+title: "It is the heart that gives, the fingers just let go"
+pubDate: 2021-08-12T21:30:08
+tags: ["wow"]
+author: "Fr. Peter Saad"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>We are excited to be with our beloved Fr. Peter Saad from St. Peter &amp; St. Paul, Montreal, Canada through the newly established Words of Wisdom branch.</p>
+<br>
+<p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://www.youtube.com/watch?v=YR0Q3S5dkHw" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>

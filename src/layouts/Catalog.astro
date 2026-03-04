@@ -3,13 +3,13 @@ import Main from "@layouts/Main.astro";
 import PostsGrid from "@components/PostsGrid.astro";
 import Pagination from "@components/Pagination.astro";
 
-const { posts, page, title, hidePagination, bgColor = "bg-gray" } = Astro.props;
+const { posts, page, title, description, image, hidePagination, bgColor = "bg-gray" } = Astro.props;
 const currentPath = new URL(Astro.request.url).pathname;
 const baseUrl = currentPath.replace(/\/\d+$/, "");
 const hasCustomGrid = Astro.slots.has("default");
 ---
 
-<Main title={title}>
+<Main title={title} description={description} image={image}>
     <div class:list={[bgColor, "min-h-[66vh]", hidePagination ? "pb-16 sm:pb-21" : "pb-10 sm:pb-0"]}>
         {hasCustomGrid ? <slot /> : <PostsGrid posts={posts} />}
         {!hidePagination && <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl={baseUrl} />}

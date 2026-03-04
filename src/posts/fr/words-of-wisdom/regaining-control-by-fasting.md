@@ -1,0 +1,18 @@
+---
+wp_id: 2704
+videoId: "uudxGRIH8t0"
+imgSrc: /assets/thumbnails/uudxGRIH8t0.webp
+lang: fr
+title: "Regaining control by fasting!"
+pubDate: 2021-03-04T20:21:53
+tags: ["wow"]
+author: "Fr. Daniel Fanous"
+---
+
+<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<br>
+<p>We are excited to be with our beloved Fr. Daniel Fanous from St. Peter &amp; St. Paul, Berkeley NSW, Australia through the newly established Words of Wisdom branch.</p>
+<br>
+<p>This video was of course used with his blessing.</p>
+<br>
+<p><a href="https://soundcloud.com/upperroommedia/regaining-control-by-fasting?in=paulymank/sets/fr-daniel-fanous" target="_blank" rel="noopener noreferrer" class="hover:underline hover:underline-offset-4">Click here to view the full sermon →</a></p>
