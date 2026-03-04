@@ -1,21 +1,569 @@
 ---
 import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
+import { localizePathname } from "@utils/linking";
+import { languageTag } from "@paraglide/runtime";
+
+const videoTypes = [
+    {
+        label: () => m.podcastsLabel(),
+        description: () => m.podcastsBannerDesc(),
+        image: "/assets/images/podcast-banner.webp",
+        path: "/podcasts",
+    },
+    {
+        label: () => m.shortsLabel(),
+        description: () => m.shortsBannerDesc(),
+        image: "/assets/images/shorts-banner.webp",
+        path: "/shorts",
+    },
+    {
+        label: () => m.aaLabel(),
+        description: () => m.aaBannerDesc(),
+        image: "/assets/images/aa-banner.webp",
+        path: "/apostolic-answers",
+    },
+    {
+        label: () => m.ddLabel(),
+        description: () => m.ddBannerDesc(),
+        image: "/assets/images/dd-banner.webp",
+        path: "/deep-dive",
+    },
+    {
+        label: () => m.wowLabel(),
+        description: () => m.wowBannerDesc(),
+        image: "/assets/images/wow-banner.webp",
+        path: "/words-of-wisdom",
+    },
+];
+const lang = languageTag();
+const videoTypesData = videoTypes.map((t) => ({
+    label: t.label(),
+    description: t.description(),
+    image: t.image,
+    path: localizePathname(t.path as `/${string}`, lang),
+}));
 ---
 
 <Main title={m.siteName()} description={m.homePageDescription()} image="/assets/images/church.webp">
-    <div class="min-h-[45vh] bg-[url(/assets/images/coptic-manuscripts.webp)] bg-cover bg-center bg-no-repeat">
-        <div class="bg-black/50 min-h-[45vh] flex flex-col justify-center">
+    <!-- Hidden SVG clipPath for wavy separators -->
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        style="position:absolute;width:0;height:0;pointer-events:none;z-index:-9999"
+        aria-hidden="true"
+    >
+        <defs>
+            <clipPath id="wavy-clip" clipPathUnits="objectBoundingBox">
+                <path
+                    d="M-.0273,0H1.0273V.92C.9746.92.9746,1,.9219,1S.8691.92.8164.92.7637,1,.7109,1,.6582.92.6055.92.5527,1,.5,1,.4473.92.3945.92.3418,1,.2891,1,.2363.92.1836.92.1309,1,.0781,1,.0254.92-.0273.92Z"
+                >
+                </path>
+            </clipPath>
+        </defs>
+    </svg>
+
+    <div class="min-h-[50vh] bg-[url(/assets/images/coptic-manuscripts.webp)] bg-cover bg-center bg-no-repeat">
+        <div class="bg-black/50 min-h-[50vh] flex flex-col justify-center">
             <h3
-                class="text-center bg-madder/80 text-jonquil p-4 sm:p-6 md:p-8 lg:p-14 text-xl sm:text-2xl md:text-3xl lg:text-4xl font-noto"
+                class="font-marcellus text-center bg-madder/70 text-jonquil p-4 sm:p-6 md:p-8 lg:p-14 text-xl sm:text-2xl md:text-3xl lg:text-5xl"
             >
                 {m.homePageTitle()}
             </h3>
             <p
-                class="text-center px-4 sm:px-8 md:px-16 lg:px-[22%] py-8 sm:py-10 md:py-12 lg:py-14 bg-white/80 text-black text-base sm:text-lg md:text-xl lg:text-2xl font-barlow"
+                class="font-marcellus text-center align-middle bg-white/90 text-black px-4 sm:px-8 md:px-16 lg:px-[20%] py-8 sm:py-10 md:py-12 lg:py-14 text-base sm:text-lg md:text-xl lg:text-3xl"
             >
                 {m.homePageDescription()}
             </p>
         </div>
     </div>
+    <div class="bg-gray py-8 sm:py-12 md:py-16 lg:py-20">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <h4
+                class="font-marcellus text-pearl text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-4 sm:mb-6 md:mb-8"
+            >
+                {m.homeInfoTitle()}
+            </h4>
+            <p
+                class="font-marcellus text-pearl text-lg sm:text-xl md:text-2xl lg:text-3xl text-center mb-8 sm:mb-12 md:mb-16"
+            >
+                {m.homeInfoSubtitle()}
+            </p>
+            <div class="video-carousel">
+                {
+                    videoTypesData.map((_, i) => (
+                        <input
+                            type="radio"
+                            name="video-slider"
+                            id={`video-slide-${i + 1}`}
+                            class="video-carousel-radio"
+                            checked={i === 0}
+                            aria-label={`Show ${videoTypesData[i].label}`}
+                        />
+                    ))
+                }
+                <div class="video-carousel-thumbnails">
+                    {
+                        videoTypesData.map((type, i) => (
+                            <label
+                                for={`video-slide-${i + 1}`}
+                                class="video-carousel-thumb"
+                                style={`--thumb-bg: url(${type.image})`}
+                                title={type.label}
+                            >
+                                <span class="sr-only">{type.label}</span>
+                            </label>
+                        ))
+                    }
+                </div>
+                <ul class="video-carousel-slides">
+                    {
+                        videoTypesData.map((type, i) => (
+                            <li class="video-carousel-slide" data-slide={i + 1}>
+                                <a href={type.path} class="video-carousel-slide-link">
+                                    <p class="video-carousel-slide-desc font-marcellus text-pearl">
+                                        {type.description}
+                                    </p>
+                                    <span class="video-carousel-slide-cta font-marcellus text-jonquil">Regarder →</span>
+                                </a>
+                            </li>
+                        ))
+                    }
+                </ul>
+            </div>
+
+            <style>
+                .video-carousel {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 24px;
+                    max-width: 700px;
+                    margin: 0 auto;
+                }
+
+                .video-carousel-radio {
+                    position: absolute;
+                    left: -9999px;
+                }
+
+                /* --- Slides area --- */
+                .video-carousel-slides {
+                    order: 1;
+                    position: relative;
+                    width: 100%;
+                    height: 400px;
+                    list-style: none;
+                    margin: 0;
+                    padding: 0;
+                }
+                .video-carousel-slide {
+                    position: absolute;
+                    inset: 0;
+                    border-radius: 50%;
+                    background-size: 100%;
+                    background-position: top;
+                    background-repeat: no-repeat;
+                    background-color: black;
+                    overflow: hidden;
+                    opacity: 0;
+                    pointer-events: none;
+                    box-shadow: 0 8px 25px 0 rgba(16, 39, 112, 0.1);
+                    transition: all 0.5s ease;
+                }
+                .video-carousel-slide[data-slide="1"] {
+                    background-image: url(/assets/images/podcast-banner.webp);
+                }
+                .video-carousel-slide[data-slide="2"] {
+                    background-image: url(/assets/images/shorts-banner.webp);
+                }
+                .video-carousel-slide[data-slide="3"] {
+                    background-image: url(/assets/images/aa-banner.webp);
+                }
+                .video-carousel-slide[data-slide="4"] {
+                    background-image: url(/assets/images/dd-banner.webp);
+                }
+                .video-carousel-slide[data-slide="5"] {
+                    background-image: url(/assets/images/wow-banner.webp);
+                }
+
+                #video-slide-1:checked ~ .video-carousel-slides .video-carousel-slide[data-slide="1"],
+                #video-slide-2:checked ~ .video-carousel-slides .video-carousel-slide[data-slide="2"],
+                #video-slide-3:checked ~ .video-carousel-slides .video-carousel-slide[data-slide="3"],
+                #video-slide-4:checked ~ .video-carousel-slides .video-carousel-slide[data-slide="4"],
+                #video-slide-5:checked ~ .video-carousel-slides .video-carousel-slide[data-slide="5"] {
+                    opacity: 1;
+                    pointer-events: auto;
+                    border-radius: 16px;
+                }
+
+                .video-carousel-slide-link {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-end;
+                    height: 100%;
+                    padding: 24px 28px;
+                    text-decoration: none;
+                    background: linear-gradient(
+                        to top,
+                        rgba(0, 0, 0, 0.92) 0%,
+                        rgba(0, 0, 0, 0.75) 30%,
+                        rgba(0, 0, 0, 0.3) 55%,
+                        transparent 75%
+                    );
+                    border-radius: 13px;
+                }
+                .video-carousel-slide-link:hover .video-carousel-slide-cta {
+                    text-decoration: underline;
+                }
+                .video-carousel-slide-label {
+                    font-size: 1.35rem;
+                    margin-bottom: 8px;
+                    color: var(--color-jonquil);
+                    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+                }
+                .video-carousel-slide-desc {
+                    font-size: 0.95rem;
+                    line-height: 1.5;
+                    margin: 0 0 12px 0;
+                    color: var(--color-pearl);
+                    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+                }
+                .video-carousel-slide-cta {
+                    font-size: 1rem;
+                    color: var(--color-jonquil);
+                    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+                }
+
+                /* --- Bubble thumbnails --- */
+                .video-carousel-thumbnails {
+                    order: 2;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    gap: 12px;
+                    justify-content: center;
+                    z-index: 10;
+                }
+                .video-carousel-thumb {
+                    cursor: pointer;
+                    display: inline-block;
+                    width: 56px;
+                    height: 56px;
+                    border: 3px solid rgba(230, 222, 202, 0.5);
+                    background: var(--thumb-bg) center/cover;
+                    box-sizing: border-box;
+                    transition: all 0.2s ease;
+                    animation: bubble-morph 6s linear infinite alternate forwards;
+                    animation-play-state: paused;
+                }
+                .video-carousel-thumb:hover {
+                    border-color: var(--color-jonquil);
+                    box-shadow: 0 4px 16px rgba(255, 207, 0, 0.3);
+                }
+
+                #video-slide-1:checked ~ .video-carousel-thumbnails label:nth-child(1),
+                #video-slide-2:checked ~ .video-carousel-thumbnails label:nth-child(2),
+                #video-slide-3:checked ~ .video-carousel-thumbnails label:nth-child(3),
+                #video-slide-4:checked ~ .video-carousel-thumbnails label:nth-child(4),
+                #video-slide-5:checked ~ .video-carousel-thumbnails label:nth-child(5) {
+                    transform: scale(1.3);
+                    border-color: var(--color-jonquil);
+                    box-shadow: 0 8px 25px 0 rgba(255, 207, 0, 0.3);
+                    animation-play-state: running;
+                }
+
+                @keyframes bubble-morph {
+                    0%,
+                    100% {
+                        border-radius: 63% 37% 54% 46% / 55% 48% 52% 45%;
+                    }
+                    14% {
+                        border-radius: 40% 60% 54% 46% / 49% 60% 40% 51%;
+                    }
+                    28% {
+                        border-radius: 54% 46% 38% 62% / 49% 70% 30% 51%;
+                    }
+                    42% {
+                        border-radius: 61% 39% 55% 45% / 61% 38% 62% 39%;
+                    }
+                    56% {
+                        border-radius: 61% 39% 67% 33% / 70% 50% 50% 30%;
+                    }
+                    70% {
+                        border-radius: 50% 50% 34% 66% / 56% 68% 32% 44%;
+                    }
+                    84% {
+                        border-radius: 46% 54% 50% 50% / 35% 61% 39% 65%;
+                    }
+                }
+
+                /* --- Utilities --- */
+                .sr-only {
+                    position: absolute;
+                    width: 1px;
+                    height: 1px;
+                    padding: 0;
+                    margin: -1px;
+                    overflow: hidden;
+                    clip: rect(0, 0, 0, 0);
+                    white-space: nowrap;
+                    border: 0;
+                }
+
+                /* --- Responsive --- */
+                @media (min-width: 640px) {
+                    .video-carousel-thumb {
+                        width: 64px;
+                        height: 64px;
+                    }
+                }
+                @media (min-width: 1024px) {
+                    .video-carousel-slides {
+                        height: 450px;
+                    }
+                    .video-carousel-thumb {
+                        width: 72px;
+                        height: 72px;
+                    }
+                }
+                @media (max-width: 639px) {
+                    .video-carousel-slides {
+                        height: 300px;
+                    }
+                    .video-carousel-thumb {
+                        width: 48px;
+                        height: 48px;
+                    }
+                    .video-carousel-slide-link {
+                        padding: 16px 20px;
+                    }
+                    .video-carousel-slide-label {
+                        font-size: 1.1rem;
+                    }
+                    .video-carousel-slide-desc {
+                        font-size: 0.85rem;
+                    }
+                }
+            </style>
+        </div>
+    </div>
+    <!-- Wave: Our Videos → Documentary -->
+    <div class="wave-separator wave-to-madder" aria-hidden="true"></div>
+
+    <!-- Documentary Initiative -->
+    <div class="bg-pearl py-12 sm:py-16 md:py-20 lg:py-24">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row items-center gap-8 md:gap-12 lg:gap-16">
+                <div class="w-full md:w-1/3 flex justify-center">
+                    <button
+                        id="doc-image-trigger"
+                        class="doc-image-wrapper relative cursor-pointer border-0 bg-transparent p-0 focus:outline-none focus:ring-2 focus:ring-jonquil/50 rounded-lg"
+                        aria-label="Voir l'image de l'initiative documentaire en plein écran"
+                    >
+                        <img
+                            src="/assets/images/coa-documentary-initiative.webp"
+                            alt="Initiative documentaire COA"
+                            class="doc-image w-full max-w-xs rounded-lg shadow-xl"
+                            loading="lazy"
+                        />
+                    </button>
+                </div>
+                <div class="w-full md:w-2/3 text-center md:text-left">
+                    <h4 class="font-marcellus text-gray text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">
+                        {m.docTitle()}
+                    </h4>
+                    <p class="font-marcellus text-gray/90 text-base sm:text-lg md:text-xl leading-relaxed">
+                        {m.docDescription()}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Image Modal -->
+    <div id="doc-modal" class="doc-modal" role="dialog" aria-modal="true" aria-label="Image de l'initiative documentaire">
+        <button id="doc-modal-close" class="doc-modal-close" aria-label="Fermer">&times;</button>
+        <img
+            src="/assets/images/coa-documentary-initiative.webp"
+            alt="Initiative documentaire COA"
+            class="doc-modal-img"
+        />
+    </div>
+
+    <!-- Podcast Excerpt -->
+    <div class="bg-gray py-12 sm:py-16 md:py-20 lg:py-24">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <h4
+                class="font-marcellus text-pearl text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-8 sm:mb-12"
+            >
+                {m.podcastExcerptTitle()}
+            </h4>
+            <div class="max-w-3xl mx-auto aspect-video rounded-lg overflow-hidden shadow-xl">
+                <iframe
+                    width="100%"
+                    height="100%"
+                    src="https://www.youtube.com/embed/m3IphXhMRL8?autoplay=1&mute=1"
+                    title="Extrait de balado COA"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                    loading="lazy"
+                >
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        /* --- Wavy section separators --- */
+        .wave-separator {
+            position: relative;
+            height: 120px;
+            overflow: hidden;
+            z-index: 1;
+        }
+        .wave-separator::before,
+        .wave-separator::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 200%;
+            height: 100%;
+            background-size: 50% 100%;
+            clip-path: url("#wavy-clip");
+        }
+        .wave-separator::before {
+            animation: wave-drift-1 7s linear infinite;
+            opacity: 0.5;
+        }
+        .wave-separator::after {
+            animation: wave-drift-2 5s linear infinite;
+            transform: translateX(-5%);
+        }
+        .wave-to-madder {
+            background-color: var(--color-madder);
+        }
+        .wave-to-madder::before {
+            background-image: linear-gradient(135deg, #a31621, #e6deca);
+        }
+        .wave-to-madder::after {
+            background-image: linear-gradient(135deg, #d9ccb5, #a31621);
+        }
+        @keyframes wave-drift-1 {
+            0% {
+                background-position: 0 0;
+                transform: translateX(0);
+            }
+            100% {
+                background-position: 84.375% 0;
+                transform: translateX(-42.1875%);
+            }
+        }
+        @keyframes wave-drift-2 {
+            0% {
+                background-position: 10% 0;
+                transform: translateX(-5%);
+            }
+            50% {
+                transform: translateX(-26.09375%);
+            }
+            100% {
+                background-position: 94.375% 0;
+                transform: translateX(-47.1875%);
+            }
+        }
+        @media (min-width: 640px) {
+            .wave-separator {
+                height: 150px;
+            }
+        }
+        @media (min-width: 1024px) {
+            .wave-separator {
+                height: 180px;
+            }
+        }
+
+        /* --- Documentary image glow effect --- */
+        .doc-image-wrapper {
+            position: relative;
+        }
+        .doc-image {
+            transition:
+                transform 0.3s ease,
+                box-shadow 0.3s ease;
+            animation: doc-glow 3s ease-in-out infinite;
+        }
+        .doc-image-wrapper:hover .doc-image {
+            transform: scale(1.03);
+        }
+        @keyframes doc-glow {
+            0%,
+            100% {
+                box-shadow:
+                    0 4px 20px rgba(163, 22, 33, 0.3),
+                    0 0 0 0 rgba(163, 22, 33, 0);
+            }
+            50% {
+                box-shadow:
+                    0 8px 30px rgba(163, 22, 33, 0.5),
+                    0 0 40px 8px rgba(163, 22, 33, 0.2);
+            }
+        }
+
+        /* --- Modal --- */
+        .doc-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            z-index: 9999;
+            background: rgba(0, 0, 0, 0.92);
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+        }
+        .doc-modal.is-open {
+            display: flex;
+        }
+        .doc-modal-close {
+            position: absolute;
+            top: 16px;
+            right: 24px;
+            background: none;
+            border: none;
+            color: var(--color-pearl);
+            font-size: 2.5rem;
+            cursor: pointer;
+            z-index: 10;
+            line-height: 1;
+            transition: color 0.2s;
+        }
+        .doc-modal-close:hover {
+            color: var(--color-jonquil);
+        }
+        .doc-modal-img {
+            max-width: 90vw;
+            max-height: 90vh;
+            object-fit: contain;
+            border-radius: 8px;
+            box-shadow: 0 0 60px rgba(0, 0, 0, 0.6);
+        }
+    </style>
+
+    <script>
+        const trigger = document.getElementById("doc-image-trigger");
+        const modal = document.getElementById("doc-modal");
+        const closeBtn = document.getElementById("doc-modal-close");
+        if (trigger && modal && closeBtn) {
+            const open = () => modal.classList.add("is-open");
+            const close = () => modal.classList.remove("is-open");
+            trigger.addEventListener("click", open);
+            closeBtn.addEventListener("click", close);
+            modal.addEventListener("click", (e) => {
+                if (e.target === modal) close();
+            });
+            document.addEventListener("keydown", (e) => {
+                if (e.key === "Escape") close();
+            });
+        }
+    </script>
 </Main>
