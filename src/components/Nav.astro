@@ -4,7 +4,8 @@ import Socials from "./Socials.astro";
 import { localizePathname } from "@utils/linking";
 import { languageTag } from "@paraglide/runtime";
 import * as m from "@paraglide/messages.js";
-const pathname = new URL(Astro.request.url).pathname;
+const rawPathname = new URL(Astro.request.url).pathname;
+const pathname = rawPathname === "/" ? "/" : rawPathname.replace(/\/$/, "");
 
 const homeLocalized = localizePathname("/", languageTag());
 const wowLocalized = localizePathname("/words-of-wisdom", languageTag());

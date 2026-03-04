@@ -19,6 +19,6 @@ type Props = CollectionEntry<"posts">;
 const post = Astro.props;
 ---
 
-<Main title={post.data.title}>
+<Main title={post.data.title} description={`${post.data.title} — Words of Wisdom by Coptic Orthodox Answers.`} image={post.data.imgSrc}>
     <Post {...post} category="words-of-wisdom" />
 </Main>

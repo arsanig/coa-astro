@@ -5,7 +5,7 @@ import ShortsGrid from "@components/ShortsGrid.astro";
 import * as m from "@paraglide/messages.js";
 ---
 
-<Main title={`${m.shortsLabel()} | ${m.siteName()}`}>
+<Main title={`${m.shortsLabel()} | ${m.siteName()}`} description={m.shortsBannerDesc()} image="/assets/images/shorts-banner.webp">
     <Banner image="/assets/images/shorts-banner.webp" bgColor="bg-black" description={m.shortsBannerDesc()} />
     <ShortsGrid />
 </Main>

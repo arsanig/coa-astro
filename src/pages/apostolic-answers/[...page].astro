@@ -17,7 +17,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<Catalog page={page} title={`${m.aaLabel()} | ${m.siteName()}`} bgColor="bg-gray">
+<Catalog page={page} title={`${m.aaLabel()} | ${m.siteName()}`} description={m.aaBannerDesc()} image="/assets/images/aa-banner.webp" bgColor="bg-gray">
     <Banner image="/assets/images/aa-banner.webp" description={m.aaBannerDesc()} bgColor="bg-aa-purple" />
     <PostsGrid posts={page.data} />
 </Catalog>

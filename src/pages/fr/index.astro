@@ -3,7 +3,7 @@ import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
 ---
 
-<Main>
+<Main title={m.siteName()} description={m.homePageDescription()} image="/assets/images/church.webp">
     <div class="min-h-[45vh] bg-[url(/assets/images/coptic-manuscripts.webp)] bg-cover bg-center bg-no-repeat">
         <div class="bg-black/50 min-h-[45vh] flex flex-col justify-center">
             <h3

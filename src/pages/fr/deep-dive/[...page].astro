@@ -17,7 +17,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<Catalog page={page} title={`${m.ddLabel()} | ${m.siteName()}`} bgColor="bg-gray">
+<Catalog page={page} title={`${m.ddLabel()} | ${m.siteName()}`} description={m.ddBannerDesc()} image="/assets/images/dd-banner.webp" bgColor="bg-gray">
     <Banner image="/assets/images/dd-banner.webp" description={m.ddBannerDesc()} bgColor="bg-dd-blue" />
     <PostsGrid posts={page.data} />
 </Catalog>

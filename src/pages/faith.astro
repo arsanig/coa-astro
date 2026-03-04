@@ -3,7 +3,7 @@ import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
 ---
 
-<Main title={`${m.faithLabel()} | ${m.siteName()}`}>
+<Main title={`${m.faithLabel()} | ${m.siteName()}`} description={m.faithMeta()}>
     <div class="flex flex-col gap-px bg-white border border-white">
         <!-- Row 1: Image first on mobile | Text | Image on desktop -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">

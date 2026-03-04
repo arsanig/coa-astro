@@ -46,6 +46,10 @@ const pathnames: Record<
         en: "/search",
         fr: "/fr/search",
     },
+    "/shop": {
+        en: "/shop",
+        fr: "/fr/shop",
+    },
 };
 
 export function localizePathname(

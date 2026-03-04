@@ -20,6 +20,6 @@ const { page, isFallback: fallback } = Astro.props;
 isFallback = fallback;
 ---
 
-<Catalog page={page} title={`${m.podcastsLabel()} | ${m.siteName()}`} hidePagination={isFallback}>
+<Catalog page={page} title={`${m.podcastsLabel()} | ${m.siteName()}`} description={m.podcastsBannerDesc()} image="/assets/images/podcast-banner.webp" hidePagination={isFallback}>
     <PodsGrid podcasts={page.data} />
 </Catalog>
