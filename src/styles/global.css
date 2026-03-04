@@ -7,6 +7,16 @@
     }
 }
 
+@media (max-width: 767px) {
+    html, body {
+        scrollbar-width: none;
+    }
+    html::-webkit-scrollbar,
+    body::-webkit-scrollbar {
+        display: none;
+    }
+}
+
 @font-face {
     font-family: 'noto-serif';
     src: url('/fonts/noto-serif/noto-serif-latin-400-normal.woff2') format('woff2');
