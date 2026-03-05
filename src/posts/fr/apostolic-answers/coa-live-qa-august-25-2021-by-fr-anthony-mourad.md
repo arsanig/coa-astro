@@ -6,5 +6,5 @@ lang: fr
 title: "COA live Q&A August. 25. 2021"
 pubDate: 2021-08-26T23:34:50
 tags: ["q&a"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---

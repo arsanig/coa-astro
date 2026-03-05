@@ -1,12 +1,12 @@
 ---
 wp_id: 3363
-videoId: "_8J2fwZBcHI"
-imgSrc: /assets/thumbnails/_8J2fwZBcHI.webp
+videoId: "Y9Y_4yuVwJs"
+imgSrc: /assets/thumbnails/Y9Y_4yuVwJs.webp
 lang: fr
 title: "Faith beyond belief"
 pubDate: 2022-03-30T20:06:39
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

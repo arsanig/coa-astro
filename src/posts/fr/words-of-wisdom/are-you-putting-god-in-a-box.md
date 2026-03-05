@@ -6,7 +6,7 @@ lang: fr
 title: "Are you putting God in a box?"
 pubDate: 2019-05-01T12:32:30
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

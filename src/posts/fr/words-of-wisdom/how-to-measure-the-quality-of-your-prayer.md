@@ -6,7 +6,7 @@ lang: fr
 title: "How to measure the quality of your prayer?"
 pubDate: 2019-10-25T16:00:00Z
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

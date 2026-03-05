@@ -6,7 +6,7 @@ lang: fr
 title: "Prayer is a relationship with God!"
 pubDate: 2021-04-29T21:26:33
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

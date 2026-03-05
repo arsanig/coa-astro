@@ -6,7 +6,7 @@ lang: fr
 title: "Christian Love vs Worldly love!"
 pubDate: 2019-09-20T16:00:13Z
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

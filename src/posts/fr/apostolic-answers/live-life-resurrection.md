@@ -3,32 +3,44 @@ wp_id: 846
 videoId: "qDyzmbcfzIM"
 imgSrc: /assets/thumbnails/qDyzmbcfzIM.webp
 lang: fr
-title: "How do I live a life of resurrection?"
-pubDate: 2017-04-18T23:21:26
+title: "Comment puis-je vivre une vie de résurrection?"
+pubDate: 2017-04-18T23:21:26.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>We wish you a blessed feast of the holy resurrection. This feast is very important to us and has given us the true meaning of real life.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>The Cross and the Resurrection of Christ have been told to be events that are two sides of one coin. This means that since God died in His Humanity, and because He is the source of life, when He is raised it happens very naturally.</p>
+<p>Tout d'abord, j'aimerais vous souhaiter une belle fête de la Sainte Résurrection, une fête très importante pour nous qui a donné un vrai sens à nos vies.</p>
 <br>
-<p>Bishop Raphael has demonstrated this concept in a beautiful example. He used a paper and says the paper represents the Humanity of Christ. He dips the paper in water where the water represents the divinity of Christ. Now we have a wet paper (one incarnate God—fully human and fully divine).</p>
+<p>Lorsqu'on  parle  de  la  croix  et  de  la  résurrection, certains  disent que les  deux  événements représentent les deux côtés d'une même médaille. Qu'entend-on par-là? Voici... Puisque Dieu a connu la mort de sa nature humaine et puisque qu'il est source de  vie,  lorsqu'il  ressuscite, c'est très naturel pour lui de le faire, justement parce qu'il est source de vie.</p>
 <br>
-<p>When any human dies his soul separates from his body. So looking at the paper example, as God died the soul separates from the body so we tear the paper in half. However in the example the paper is still wet. This means that God’s divinity has not departed from His humanity for a single moment or a twinkling of an eye. The body and the soul are still both human and divine. Since both parts of the paper are wet, we can stick them back together. This is how Christ was raised from the dead. His divinity joined His soul to His body.</p>
+<p>Sa Grâce, l'Évêque Raphaël, se sert d'une très belle analogie pour illustrer ceci. Il prend un morceau  de  papier  et  dit:  ceci  représente  la nature  humaine  du  Christ.  Il  trempe ensuite le papier dans de l'eau, laquelle symbolise la nature divine du Christ. À présent, nous avons un morceau  de papier mouillé.  Dans  cet  état,  le  papier  symbolise  le  Dieu  incarné,  pleinement humain et pleinement divin.</p>
 <br>
-<p>Christ’s resurrection has been passed on to us to enjoy eternal life with Him. In 1 Corinthians 15:20, St Paul says: “But now Christ is risen from the dead, and has become the firstfruits of those who have fallen asleep.” The firstfruits are the first batch of fruits that someone reaps in harvest time. The verse is saying that Christ has demonstrated to us the way of salvation and He went through it personally but He expects others to follow in that path.</p>
+<p>Ceci dit, quand un humain décède, son âme se sépare de son corps. Et puisque le Christ a connu  la  mort  de  sa  nature  humaine,  ici,  nous  allons  séparer  son  âme  de  son  corps.  À présent, imaginons que  cette  partie-ci  représente  son  âme.  Le  papier  est  toujours mouillé.</p>
 <br>
-<p>When Christ died, He expects me to also die to the world; and as He was raised, He expects me to also be raised and conquer sin and tribulation (I am walking in His footsteps).</p>
+<p>Ainsi,  comme  nous  l'affirmons  durant  la  liturgie,  la  divinité  n'a  pas  quitté  son  humanité une seule seconde, ni même le temps d'un clin d'œil. Son âme est à la fois humaine et divine et son corps est humain et divin aussi. Alors, comment peut-on recoller les deux morceaux? Je vais essayer... Je les colle ensemble, si on veut, profitant du fait qu'ils sont toujours mouillés.</p>
 <br>
-<p>This concept can be better explained if we look at the life of the caterpillar. The caterpillar lives a normal life where it eats, sleeps and walks very slowly. However, it knows that it needs to die from that environment, so it goes into a cocoon and after sometime it is raised as a glorious butterfly. It becomes a different being completely.</p>
+<p>C'est donc la nature divine du Christ qui a rendu sa résurrection naturelle. Saint Paul dit ce qui suit au chapitre 15 de sa première Épître aux Corinthiens:</p>
 <br>
-<p>We need to become a new creation in Christ and we need to take the resurrection of Christ and make it ours.</p>
+<p>« Mais  maintenant,  Christ  est  ressuscité  des  morts,  il  est  les  prémices  de  ceux  qui sont morts. » (1 Corinthiens 15:20) Que dit-on en fait? Les prémices, ici, sont les premiers fruits que l'on obtient au moment de la récolte.  Et puisqu'on obtient  cette  première  récolte,  on peut  s'attendre  à  une  deuxième récolte,  et  une  troisième,  et  une  quatrième.  Ce  verset  exprime  donc  que  le  Christ  nous  a montré le chemin vers le salut en l'empruntant lui-même, mais qu'il s'attend à ce que d'autres le suivent sur ce chemin.</p>
 <br>
-<p>To live a true life of resurrection, we regularly need to abide in Christ through partaking of the Eucharist. His holy Body and Blood will truly transform us into a new creation. Unlike the caterpillar whose body is transformed into a different creature; through abiding in Christ, each human will be raised, in heaven, with his/her own personal body in a glorified state.</p>
+<p>En  mourant  lui-même, il  s'attend  à  ce que  nous mourions, nous  aussi, devant  le  monde.  Et comme  il est  ressuscité,  nous  ressusciterons  aussi. Nous  viendrons à  bout  du  péché  et surmonterons les  épreuves, comme il  l'a fait  lui-même.  Nous marchons dans  ses  pas.  Mais pour  que  tout  ceci  se  produise,  il nous faut  mourir,  rejoindre  ceux  qui  sont morts,  tel  que mentionné dans le verset que nous venons de lire.</p>
 <br>
-<p><strong>                                     Remember know your faith, live your faith and</strong></p>
+<p>Le meilleur  exemple que  j'aie pu  trouver dans  la  nature pour  illustrer  ceci,  c'est celui de  la chenille. Celle-ci mène une vie des plus normales, se nourrissant de feuilles et se déplaçant très lentement. Mais elle n'est pas bête! Elle sait qu'elle devra mourir dans cet environnement.</p>
 <br>
-<p><strong>                                                                  teach your faith</strong></p>
+<p>Elle s'enferme donc dans un cocon et après un certain temps, elle réapparaît sous la forme d'un  magnifique  papillon.  Elle  est  maintenant  devenue  une  créature totalement différente.</p>
+<br>
+<p>Auparavant, elle mangeait, maintenant elle boit. Elle marchait, maintenant elle vole. Elle est devenue si fière et si belle. C'est comme si le Christ nous disait: Je veux que vous mouriez dans ce monde; je veux que vous mouriez avec le péché pour en venir à bout, que votre âme monte au ciel et que vous viviez une véritable vie de résurrection. Comme disait saint Paul:</p>
+<br>
+<p>« Si quelqu'un est en Christ, il est une nouvelle créature... » (2 Corinthiens 5:17) Il nous faut devenir cette nouvelle créature. Il faut nous approprier la résurrection du Christ pour en  faire la nôtre.  Il nous faut  ressusciter  avec  lui.  Il nous faut  donc  mourir  pour  pouvoir ressusciter avec lui. Ainsi, nous vivrons en lui, et par sa grâce, nous vivrons une véritable vie de résurrection.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>
+<br>
+<p>Note (à l'écran seulement) Pour vivre une vraie  vie  de résurrection, nous devons être en communion avec le Christ de façon régulière en prenant part à l'Eucharistie. Grâce à son corps et son sang sacrés, nous  serons  véritablement  transformés  en  une  nouvelle création. Contrairement à la chenille qui devient une créature différente,  chaque  humain,  en  communiant  avec  le  Christ, sera ressuscité, au ciel, avec son propre corps, et dans un état glorifié.</p>

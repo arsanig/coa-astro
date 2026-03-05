@@ -6,7 +6,7 @@ lang: fr
 title: "God has questions"
 pubDate: 2022-10-20T23:11:05
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "We are called to be the light of the world."
 pubDate: 2021-06-04T00:12:03
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

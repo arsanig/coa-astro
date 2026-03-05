@@ -6,7 +6,7 @@ lang: fr
 title: "The Story of Bob Vernon"
 pubDate: 2021-04-27T20:48:44
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

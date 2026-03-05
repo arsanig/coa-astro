@@ -3,34 +3,68 @@ wp_id: 1091
 videoId: "ywCKQvuhips"
 imgSrc: /assets/thumbnails/ywCKQvuhips.webp
 lang: fr
-title: "What should be our Christian position toward society’s push for gender choice?"
-pubDate: 2018-02-14T15:08:53
+title: "Que devrait être la position des chrétiens face au droit que certains réclament de choisir leur identité sexuelle?"
+pubDate: 2018-02-14T15:08:53.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>We thank one of our viewers that asked today’s crucial question. I believe that answering this question from an Orthodox perspective is more important now than ever. <strong>The question is “What should be our Christian position toward society’s push for gender choice?”</strong></p>
+<p>Au Père et au fils, le Saint-Esprit, le Dieu Unique. Amen.</p>
 <br>
-<p>Why is this question important?</p>
+<p>Nous  tenons  à  remercier  l'un  des  adeptes  de  notre  chaîne  qui  nous  a  soumis  la  question cruciale d'aujourd'hui. Maintenant plus que jamais, je crois qu'il est important d'apporter des réponses à cette question du point de vue orthodoxe. Voici la question: Quelle devrait être la position des chrétiens face au droit que certains réclament de choisir leur identité sexuelle?</p>
 <br>
-<p>Well, recently in the West, there has been an excessive push toward liberality in choosing one’s gender. In Canada, there are already gender-neutral signs on bathrooms in schools and in the work place. How are we, as Orthodox Christians, ought to react to this?</p>
+<p>En quoi est-ce important? Eh bien, depuis tout récemment, la société occidentale semble être le  théâtre  d'une  poussée  excessive  de  certains  groupes  qui  cherchent  à  faire  libéraliser  le choix  de  l'identité  sexuelle  chez  un  individu.  Au  Canada,  on  peut  déjà  trouver  des  affiches annonçant  des  latrines  sans  distinction  de  genre,  tant  dans les  écoles  ou  sur  les  lieux  de travail. Comment devrions-nous réagir à tout ceci en tant que chrétiens orthodoxes?</p>
 <br>
-<p>Now, before tackling this topic, <strong>I want to be clear that we do not condemn or defame anyone</strong>. I am very conscious that some people are truly suffering from gender confusion as a result from sin and corruption in this world. And some are deeply wounded.  However, I am also aware that many more people adopt this attitude as a lifestyle. In either case, as Orthodox Christians, our objective is not to judge anyone but to speak the truth in love.  Having emphasized this, let us start answering the question by going back to the creation account.</p>
+<p>Avant d'entrer dans le cœur du sujet, je tiens à préciser que nous n'avons nullement l'intention de  condamner  ni  de  diffamer  qui  que  ce  soit.  Je  suis  parfaitement  conscient  que  certaines personnes vivent de véritables souffrances face à leur identité sexuelle, résultat du péché et de la corruption de ce monde. Et certaines se sentent très blessées. Mais je sais aussi que d'autres, plus nombreux encore, adoptent cette attitude pour en faire leur style de vie. Dans un  cas  comme  dans  l'autre,  les  chrétiens  orthodoxes  ne  sont  pas  là  pour  juger  qui  que  ce soit, mais pour parler de vérité avec amour. Ceci dit, nous allons maintenant nous pencher sur la question, en commençant par un rappel du récit de la création. Au chapitre 1 de la Genèse, Dieu a dit:</p>
 <br>
-<p>In Genesis 1, God said: “Let Us make man [anthropos; human being] in Our image and according to Our likeness.  So God created man in His own image; in the image of God He created him; male and female He created them.” So, as we all know, humans are created in the image of the Trinitarian God.   It doesn’t stop there. God says, “<strong>in the image of God He created him; male and female He created them.”</strong> <strong>Here, we find a direct link between gender and being created in the image of God.</strong> The key to understand the Orthodox position on this subject is to understand that the gender is much more than just a sexual organ.</p>
+<p>« (...) Faisons  l'homme [du  grec άνθρωπος (ánthropos), être  humain] à  notre  image, selon notre ressemblance...</p>
 <br>
-<p><strong>Gender affects persons to the very core of their being. It goes beyond the physical body to affect the soul and spirit. In other words, all you do is affected by your gender.</strong> The way you think, the way you pray, the way you love your spouse or friends, the way you deal with your children, the way you deal with conflicts or deal with work.  Generally speaking, men and women deal very differently with these subjects and this is obvious from the many books out there that discuss males and females whether within marriage context or otherwise.</p>
+<p>Dieu  créa  l'homme  à  son  image,  il  le  créa  à  l'image  de  Dieu,  il  créa  l'homme  et  la femme. » (Genèse 1:26-27) Les humains furent donc créés à l'image du Dieu trinitaire. Mais l'histoire ne s'arrête pas là.</p>
 <br>
-<p>For instance, both men and women work and take care of their children. Their priorities are different. When there is a time-conflict between work and children, women tend to prioritize their children, while men tend to prioritize their work. Work is extremely important for a man and this doesn’t mean that it is not important for a woman, of course it is, but not at the same level as for the man. Of course, there are numerous such examples, but it is not the purpose of this video. <strong>The crucial point to take home here is that everything you do is shaped by your gender.</strong> <strong>Our gender is directly related to who we are and how we ought to live. It is an integral part of our identity</strong>.  <strong>The question now becomes “well shouldn’t I be free to change my identity?” Well, from a Christian point of view, no I don’t have this option.</strong></p>
+<p>Dieu a également dit: Il le créa à l'image de Dieu, il créa l'homme et la femme. Nous constatons ici qu'il y a un lien direct entre le genre d'une personne et le fait qu'elle soit créée à l'image de Dieu.  La  clé  pour  bien  comprendre  la  position  orthodoxe sur  le  sujet  d'aujourd'hui, c'est  de comprendre que le genre est beaucoup plus qu'un organe sexuel.</p>
 <br>
-<p><strong>As humans, having been created in the image of God, we ought to be working into being transformed into His likeness from glory to glory within my person. God has called each one of us with a special calling.</strong> As described by St. Paul in 1st Corinthians 12, every member of the Church, the Body of Christ is given specific gifts for the edifying of the Church. And with these gifts, a purpose is given to each one. A purpose in life. A purpose in the service. A purpose to bring healing to others. A purpose in being the light of the world in our special own way. This purpose has been given to each one by God, through our personalities, for the sake of peace and harmony within the human community.</p>
+<p>Le genre d'une personne l'affecte au plus profond de son être. Il influence non seulement son physique, mais aussi son âme et sa pensée. Autrement dit, tout ce qu'elle fait est déterminé par  son genre:  sa façon  de  penser,  sa façon  de  prier,  sa façon  d'aimer son  conjoint  ou  ses ami(e)s, sa façon d'agir avec ses enfants, sa façon de gérer les conflits ou d'affronter le travail.</p>
 <br>
-<p><strong>My personal purpose in this life is directly related to my gender. If I choose to change my gender, I will not be able to fulfill the purpose God has for me in this world.</strong> True life and personal fulfillment are found in drawing closer to God to be healed. Drawing away from God and giving in to my personal desires will not give me any true comfort, joy or happiness. <strong>A gender change will not heal my wounds</strong>. The wounds are still there but I just look different. In addition, my Godly purpose is now in jeopardy. However, the most crucial factor that must be considered is that as Christians, we believe that we keep our personalities in heaven. And, again, this personality includes gender.</p>
+<p>D'ordre  général,  les  hommes  et  les  femmes gèrent  ces  situations de  façon  très  différente.</p>
 <br>
-<p>When St. Ignatius, the disciple of St. Peter, was captured and was on his way to Rome to be martyred, some Christians wanted to stop his martyrdom. He, then, wrote his epistle to the Romans and, in it, he said the following: <strong>“It’s better for me to die in Christ Jesus than to be king over the ends of the earth. I seek Him who died for our sake. I desire Him who rose for us. The pangs of birth are upon me</strong>… [meaning he is about to born] Do not give the world one who desires to belong to God, nor deceive him with material things. Suffer me to receive the pure light. When I shall have arrived there. I shall become a human being. Suffer me to follow the example of the passion of my God<strong>.”   St. Ignatius is here affirming the true understanding of becoming a true human being. </strong>A human that is incorrupt, that is perfect just as God had created him in the beginning before the fall.  What is striking, is that he claims that this complete renewed perfected being will be realized in heaven.  what is St. Ignatius saying here? He is saying that he will truly become his real self in heaven.</p>
+<p>Pour s'en convaincre, il suffit de penser au nombre de livres qui traitent des hommes et des femmes en contexte matrimonial ou autre.</p>
 <br>
-<p>St. Ignatius is not the only one that claims this. Actually, science claims the same. Dr. Thomas Fleischmann, an emergency physician, who dealt with over 2,000 cases of near-death experiences confirms this. He shares how those people died, having zero brain activity, and then came back to life and explained what happened to them during their near-death experiences. After much scientific analysis, he presented his findings in a very interesting TEDx video where he asserted that those patients kept their personalities once their soul was outside their body. It is a very interesting video that I encourage you to watch so I will include the link in the video description below. Given this understanding, that we keep our personalities in the after-life, it only makes sense to deal with our wounds here on earth. To seek healing through our encounter with God. Through prayer and partaking of the Eucharist. This is precisely the purpose of God’s incarnation: to heal suffering men and women. If you are personally suffering from this problem or suffering from any other problem that results from this worldly corruption we live in, let us all, together, as the Body of Christ, approach God and seek healing.</p>
+<p>Par  exemple, de  nos  jours, les  hommes aussi  bien  que les  femmes  travaillent  et  prennent soin des enfants. Mais leurs priorités diffèrent. Lorsque le travail entre en conflit avec le soin des enfants, les femmes ont tendance à prioriser les enfants, tandis que les hommes penchent pour le travail. Le travail est très important pour l'homme. Ça ne signifie pas pour autant qu'il importe  peu  à  la  femme:  elle  s'en  soucie  également,  mais  peut-être  pas  au  même titre que l'homme. Bien sûr, nous pourrions donner plusieurs exemples de ce genre, mais ce n'est pas le but ici. Ce qu'il faut retenir, essentiellement, c'est que tout ce qu'une personne fait dépend de son genre. C'est lui  qui détermine qui nous sommes et notre façon de vivre. Il fait partie intégrante de notre identité.</p>
 <br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>Sur ce, la question devient: mais alors, ne devrais-je pas pouvoir changer mon identité comme bon me semble?</p>
+<br>
+<p>Eh bien, du point de vue chrétien, non, nous n'avons pas cette liberté. Puisque les humains ont été créés à l'image de Dieu, nous devons veiller à nous transformer de plus en plus, afin de lui ressembler de gloire en gloire. Chacun de nous a reçu de Dieu une vocation particulière.</p>
+<br>
+<p>Comme  saint  Paul  le  mentionne  dans  sa  première  Épître  aux  Corinthiens, au chapitre  12, tous les membres de l'Église, du corps du Christ, ont reçu des dons nécessaires à l'édification de l'Église. Grâce à ces dons, chacun a un rôle jouer: donner un sens à sa vie, se mettre au service des autres, guérir les autres, être la lumière du monde à notre façon. Chacun de nous, grâce à la personnalité que Dieu lui a donnée , doit veiller à ce que règne la paix et l'harmonie au sein de sa communauté.</p>
+<br>
+<p>Ceci dit, le rôle qu'on nous a confié sur le plan personnel dépend directement de notre genre.</p>
+<br>
+<p>En décidant de changer de genre, nous ne pouvons plus jouer le rôle que Dieu nous a confié.</p>
+<br>
+<p>Son plan est donc mis en péril. C'est en nous rapprochant de Dieu pour obtenir sa guérison que  nous  pouvons  vraiment  vivre  et  nous  accomplir.  Le  fait  de  nous  distancer  de  lui  et  de céder  à nos  propres  désirs ne  procure  aucun réconfort,  ni  joie,  ni  bonheur.  Un  changement de genre ne guérit pas les blessures; celles-ci persistent. Seule notre apparence est changée.</p>
+<br>
+<p>Mais en tant que chrétiens, le facteur le plus important à considérer, c'est que nous conservons notre personnalité une fois rendus au ciel. Et notre genre nous suit.</p>
+<br>
+<p>Lorsque saint Ignace, disciple de Pierre, fut capturé et emmené à Rome pour y être martyrisé, certains chrétiens ont voulu empêcher son martyre. Sa réaction fut d'écrire aux Romains, afin d'exprimer ceci:</p>
+<br>
+<p>Ce paragraphe fait allusion à 1 Corinthiens 12:4-11, lequel est renforcé plus tard à 1 Corinthiens 12:27-31.</p>
+<br>
+<p>«  Je  préfère  mourir  avec  le  Christ  Jésus  plutôt  que  de  régner  en  roi dans tous  les coins  de  la  terre. Je  cherche  celui  qui  est  mort  pour  nous.  Je  désire  celui  qui  est ressuscité pour nous. Je sens les douleurs de la naissance qui approchent... [il est sur le point de naître]. Ne remettez pas au monde celui qui souhaite appartenir à Dieu et ne le  tentez  pas  par  des  biens  matériels.  Laissez-moi  m'exposer  à  la  lumière  pure.</p>
+<br>
+<p>Lorsque  j'y  serai,  je  deviendrai  un  être  humain.  Laissez-moi  prendre  exemple  sur  la passion de mon Dieu. » (Saint Ignace d'Antioche) - [traduction libre] Saint Ignace, ici, explique en quoi consiste le fait de devenir un véritable humain. Un humain sans corruption, parfait, tel que Dieu l'a créé au commencement, avant la chute. Mais ce qui est frappant dans son discours, c'est qu'il déclare que cet être complet, renouvelé et parfait le sera, une  fois  rendu  au  ciel.  Donc,  que  dit  saint  Ignace?  Il  dit  que  c'est  au  ciel  qu'il  sera vraiment lui-même.</p>
+<br>
+<p>Saint Ignace n'est pas le seul à avoir fait cette déclaration. La science abonde dans le même sens. Le docteur Thomas Fleischmann, un médecin d'urgence qui a vu passer plus de deux mille patients ayant vécu une expérience de mort imminente, le confirme. Il explique que ces personnes étaient mortes, sans activité cérébrale aucune, mais qu'elles sont revenues à elles et ont raconté ce qu'elles avaient vécu.</p>
+<br>
+<p>Après  de  longues  analyses  scientifiques,  il  a  présenté  ses  résultats  dans  une  vidéo  TEDx très  intéressante  où  il  affirme  que  ces  patients  avaient  conservé  leur  personnalité  pendant qu'ils avaient quitté leur corps. Je vous encourage à regarder cette vidéo. Le lien vous sera fourni ci-dessous, dans la zone de description.</p>
+<br>
+<p>Compte tenu du fait que notre personnalité nous suit dans l'au-delà, il vaut mieux composer avec nos blessures ici sur terre et demander à être guéris en rencontrant Dieu dans la prière et  en  prenant  part  à  l'Eucharistie. C'est  justement  le  but  de  l'incarnation  de  Dieu:  guérir  les souffrances des hommes et des femmes. Si vous souffrez personnellement de ce problème ou  de  tout  autre difficulté résultant  de  la  corruption  du  monde  dans  lequel  nous  vivons, tournez-vous  tous  ensemble  en  tant  que  membres  du  corps  du  Christ  et  implorez sa guérison.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>
+<br>
+<p>Veuillez noter que le lien suggéré dans cette vidéo n'est plus disponible. Nous vous prions de nous en excuser.</p>

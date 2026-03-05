@@ -6,7 +6,7 @@ lang: fr
 title: "The hope for those who have no hope and the help of those who have no helpers"
 pubDate: 2021-11-25T23:07:36
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

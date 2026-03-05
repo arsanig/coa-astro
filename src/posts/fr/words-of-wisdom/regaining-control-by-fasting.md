@@ -6,7 +6,7 @@ lang: fr
 title: "Regaining control by fasting!"
 pubDate: 2021-03-04T20:21:53
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

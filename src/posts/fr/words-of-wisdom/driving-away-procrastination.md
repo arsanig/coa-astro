@@ -6,7 +6,7 @@ lang: fr
 title: "Driving away procrastination"
 pubDate: 2021-12-17T01:10:59
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Living in unity with God"
 pubDate: 2021-12-09T21:41:25
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

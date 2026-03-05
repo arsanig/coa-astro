@@ -6,7 +6,7 @@ lang: fr
 title: "Don't let Liturgy just happen to you, come ready!"
 pubDate: 2020-03-13T13:39:06
 tags: ["wow"]
-author: "Fr. John Boutros"
+author: "Père John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

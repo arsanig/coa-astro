@@ -1,12 +1,12 @@
 ---
 wp_id: 1661
-videoId: "wBMF1IVBpp0"
-imgSrc: /assets/thumbnails/wBMF1IVBpp0.webp
+videoId: "ilaw5nUsLyI"
+imgSrc: /assets/thumbnails/ilaw5nUsLyI.webp
 lang: fr
 title: "Advice from Pope Kyrillos (Cyril) VI: Prayer is everything!"
 pubDate: 2019-08-14T10:46:25
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

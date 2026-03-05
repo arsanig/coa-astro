@@ -3,10 +3,10 @@ wp_id: 1031
 videoId: "MtnFd5SoZuM"
 imgSrc: /assets/thumbnails/MtnFd5SoZuM.webp
 lang: fr
-title: "God, where are you? I don’t feel you! Should I always feel God in prayer? What is emotional spirituality?"
-pubDate: 2018-01-16T23:16:21
+title: 'Seigneur, où es-tu?'
+pubDate: 2018-01-16T23:16:21.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

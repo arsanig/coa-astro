@@ -6,7 +6,7 @@ lang: fr
 title: "Sin is a disease"
 pubDate: 2023-09-08T16:00:36Z
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

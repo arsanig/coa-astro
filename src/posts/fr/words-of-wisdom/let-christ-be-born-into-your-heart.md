@@ -6,7 +6,7 @@ lang: fr
 title: "Let Christ be born into your heart"
 pubDate: 2022-08-12T16:00:12Z
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

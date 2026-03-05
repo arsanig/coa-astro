@@ -6,7 +6,7 @@ lang: fr
 title: "God’s Beautiful Design for the Christian Family"
 pubDate: 2023-12-06T12:00:08
 tags: ["wow"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

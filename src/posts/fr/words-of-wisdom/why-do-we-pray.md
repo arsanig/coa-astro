@@ -6,7 +6,7 @@ lang: fr
 title: "Why do we pray?"
 pubDate: 2021-05-11T21:53:53
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Are you blinded by your own ego or perceptions?"
 pubDate: 2019-10-11T12:57:42
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Let God take control"
 pubDate: 2021-02-18T23:37:16
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

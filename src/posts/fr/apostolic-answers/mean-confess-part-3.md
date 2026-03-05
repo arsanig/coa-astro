@@ -3,38 +3,58 @@ wp_id: 949
 videoId: "hysC83ezxQg"
 imgSrc: /assets/thumbnails/hysC83ezxQg.webp
 lang: fr
-title: "Why confess to a priest and how ought it be done? - Part 3"
-pubDate: 2017-08-08T23:23:53
+title: 'La confession - Partie 3: Pourquoi se confesser à un prêtre et comment le faire?'
+pubDate: 2017-08-08T23:23:53.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Previously in our first video we discussed the meaning of repentance and we discovered that repentance is the change of mind and direction back to God.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>In the second video we looked into the mystery of confession, what it means and why God instituted it as means of salvation. We saw that there can exist confessions of faith and confessions of sins and in both we are called to speak using the same language as god according to the standards He has revealed to us.</p>
+<p>Mes  bien chers  frères,  heureux  de  vous  retrouver. Aujourd'hui,  nous  allons  conclure  notre série  en  trois  parties consacrée  au repentir  et à la  confession,  ainsi  qu'aux  raisons  qui expliquent pourquoi ces activités sont essentielles à la vie d'un croyant chrétien. Si vous étiez des nôtres jusqu'ici, vous vous souvenez sans doute de notre première vidéo où nous nous étions penchés sur le sens du repentir. Nous avions alors découvert que c'est un changement d'esprit,  un  changement  de  direction  qui  nous  ramène  vers  Dieu.  Dans  la  deuxième  vidéo, nous avons  centré  notre  attention  sur  le sacrement de  confession, afin  de  comprendre  sa signification et les raisons pour lesquelles Dieu l'a introduit comme moyen d'obtenir le salut.</p>
 <br>
-<p>In today’s video we will speak to the question of why we confess to a priest and how we ought to confess.</p>
+<p>Nous avons aussi vu que nous pouvons confesser notre foi ou confesser nos péchés, et que dans  les  deux  cas,  nous  sommes  appelés  à  utiliser  le  même  vocabulaire,  les  mêmes  mots que Dieu nous a révélés, comme une norme à suivre. Enfin, dans la vidéo d'aujourd'hui, nous expliquerons pourquoi nous nous confessons à un prêtre et comment nous devrions le faire.</p>
 <br>
-<p>Many people will shy away from confession because they are ashamed to speak their sins to a priest. They adopt an attitude of why can’t I confess my sins to God, after all God already knows all that I have done. If we speak honestly, although we say that God is present everywhere and knows our actions, if we were aware of His presence in our lives at all times we wouldn’t’ have sinned at all and its precisely because we don’t acknowledge God’s presence in our lives, the Lord has instituted the Church as a means to reveal His Divine presence amongst us here on earth.</p>
+<p>Entrons tout de suite dans le cœur du sujet.</p>
 <br>
-<p>The Lord has chosen the Church and those who are appointed to Holy orders (Bishops and priests) to be his manifestations among us all.   The mysteries of the Church are the gifts that God grants to the Christian believers and all of these are administered by the Lord Himself through those who have been granted the mystery of the priest hood.   What this means is that when we partake of the mysteries, it is our Lord Jesus Christ who is present amongst us and His presence is manifested in the person of the Bishop or in the person of the Priest. This is manifested in confession.</p>
+<p>Plusieurs  personnes  cherchent  à  éviter  la  confession,  car  elles  ont  honte  de  parler  de  leurs fautes  devant  un  prêtre. Elles adoptent  une  attitude  qui peut  se  traduire  ainsi: Pourquoi  ne puis-je  pas  me  confesser directement  à  Dieu?  Après  tout,  il est déjà au  courant  de tout  ce que  j'ai  fait.  Eh  bien, en  toute  honnêteté,  nous  avons  beau  dire  que  Dieu est  toujours  là  et qu'il sait ce que nous faisons, mais si nous étions si convaincus qu'il nous observe en tout où que nous soyons, nous n'oserions pas pécher devant lui, n'est-ce pas? C'est justement parce que  nous  n'avons  pas  conscience de sa  présence dans  nos  vies  que  le  Seigneur  a  fondé l'Église, afin de révéler sa présence divine parmi nous, ici sur terre.</p>
 <br>
-<p>For instance when our Lord Jesus was preparing His disciples and Holy apostles to go into the world and begin their ministry, the lord tells them when He appears to them after His resurrection: “So Jesus said to them again, “Peace to you! As the Father has sent Me, I also send you. And when He had said this, He breathed on <em>them,</em> and said to them, Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you retain the <em>sins</em> of any, they are retained.” John 20:21-23</p>
+<p>Le Seigneur a choisi l'Église et ceux qui sont affectés aux ordres sacrés, c'est-à-dire les évêques et les prêtres, pour manifester sa présence parmi nous. Les sacrements de l'Église sont des cadeaux que Dieu accorde aux croyants chrétiens et ils sont tous administrés par le Seigneur lui-même, par l'entremise de ceux auxquels on a confié la prêtrise. Cela signifie que lorsque nous prenons part aux sacrements, c'est Notre-Seigneur Jésus-Christ qui est là parmi nous, se manifestant en personne à travers l'évêque ou le prêtre. Et c'est pareil lors d'une confession, mes frères.</p>
 <br>
-<p>The Lord could not be any clearer, He is saying what I have said and done for the world now you my disciples also do and He gives them the Holy Spirit and grants them the power of loosening and binding sins.</p>
+<p>Prenons comme exemple le moment où notre Seigneur préparait ses disciples et ses apôtres à aller de par le monde pour débuter leur ministère. Allons voir ce que le Seigneur leur a dit lorsqu'il  est  apparu  devant  eux  après  être  ressuscité. Le  passage  est  tiré de l'Évangile  selon saint Jean, chapitre 20, versets 21 à 23:</p>
 <br>
-<p>St John Chrysostom writes a book in the 4<sup>th</sup> century called ‘ On the priesthood’ and he comments beautifully saying the following: “ Priest have received a power which God has given neither to angels nor archangels. It was said to the, His disciples, whatsoever you shall bind in earth shall be bound in heaven and whatsoever you shall loose shall be loosed. Temporal rulers have indeed the power of binding but they can only bind the body, priests, in contrast, can bind with a bond which pertains to the soul itself and transcends the very heavens. Did God not give them all the powers of heaven? Whose sins you shall forgive He says they are forgiven, whose sins you shall retain they are retained. What greater power is there than this.   The Father has given all judgment to the Son and now I see the Son placing all this power in the hands of men his priests his bishops. They are raised to this dignity as if they are already gathered up to heaven.”</p>
+<p>« Jésus leur dit de nouveau: La paix soit avec vous! Comme le Père m'a envoyé, moi aussi je vous envoie.</p>
 <br>
-<p>When we build up the confidence to go see our father of confession the priest we are following a process that is instituted by God and has been observed since the very early church.</p>
+<p>Après ces paroles, il souffla sur eux, et leur dit: Recevez le Saint Esprit.</p>
 <br>
-<p>Now that we have seen why we confess to a priest let’s take a moment and discuss how we ought to confess. Let’s first clarify between three separate and unique conversations that can be held with a priest. The first one is the one we are talking about today which is true confession, usually a 15-20 minute dialogue where I speak my sins aloud to God before a priest and can sometime include a prescribed spiritual canon given by the priest to help in repentance. We ought to prepare ahead of time through prayer and offering sincere repentance and come ready to list out our confessions with an attitude that is free of excuses and justifications. At the end of this the priest prays the absolution over the believer and the mystery is complete.</p>
+<p>Ceux  à  qui  vous  pardonnerez  les  péchés,  ils  leur  seront  pardonnés;  et ceux  à  qui vous les retiendrez, ils leur seront retenus. » (Jean 20:21-23) Le Seigneur ne saurait être plus clair: Comme le Père m'a envoyé, moi le Seigneur, le Fils du Père, son ambassadeur et son image, moi aussi je vous envoie. En essence, il est en train de dire: ce que j'ai dit et fait pour le monde, maintenant c'est à vous, mes disciples, de le faire aussi. Puis il leur envoie l'Esprit Saint et leur confère le pouvoir de délier ou de lier les péchés.</p>
 <br>
-<p>The second type of conversation that can be held with the priest is that of spiritual counseling where we come to the priest with questions and concerns not always revolving around confession of sins. Often times we have believers that have their father of confession as a spiritual counselor as well. Sometimes people can have two fathers one for confession and the other as a spiritual counselor.</p>
+<p>Au  4è  siècle, saint  Jean  Chrysostome  a  écrit  un livre  intitulé Sur  la  prêtrise dans  lequel  il commente ceci d'une très belle façon:</p>
 <br>
-<p>The third type of conversation is one that can be therapeutic in nature. Although we can speak to our spiritual fathers about anything there is nothing wrong when priests advice their children to seek professional help when it is needed. The priest is there to administer the mysteries of the Church to believers and to guide them to God but he is not specialized in professional aspects like academics, psychological or medical advice therefore you shouldn’t be offended in anyway if your priest (out of genuine love for you) guides you to seek a professional for your own sake in matters he cannot best advice you.</p>
+<p>«  Les  prêtres ont  reçu  un  pouvoir  que  Dieu  n'a  pas  accordé  aux  anges  ni  aux archanges.  Il  leur  a  dit [à  ses  disciples]:  'Tout  ce  que  vous  lierez  sur la terre  sera  lié dans  le  ciel,  et  tout  ce  que  vous  délierez  sera  délié.' Les  chefs  séculiers  ont effectivement le pouvoir de lier, mais ils ne peuvent lier que le corps. Les prêtres, par ailleurs, peuvent lier à l'aide d'un lien qui s'adapte à l'âme et transcende le ciel même. [Dieu] ne  leur  a-t-il  pas  donné  tous  les  pouvoirs  du  ciel? 'Ceux  à  qui  vous  pardonnez les  péchés,  dit-il,  seront  pardonnés;  ceux que  vous  condamnez  pour  leurs  péchés seront condamnés.' Peut-il  y  avoir  un  plus  grand  pouvoir? [, dit  saint  Jean.] Le  Père a confié  toute  forme  de  jugement  au  Fils.  Et  maintenant,  je vois  que le  Fils  remet  tout son pouvoir entre les mains des hommes [ses prêtres, ses évêques]. Ils sont élevés au rang  de  sa  dignité, comme  s'ils  étaient  déjà  rassemblés au ciel.  »  (Saint  Jean Chrysostome, Sur la prêtrise 3:5) - [traduction libre] Mes frères, tout a donc été clarifié. Lorsque nous prenons notre courage à deux mains et que nous rencontrons notre père confesseur, le prêtre, nous entrons dans un processus que Dieu a mis en place et qui est observé depuis les tout débuts de l'Église.</p>
 <br>
-<p>We conclude that our relationship with our father of confession is one that is crucial in the life of the orthodox believer. So if any of us are hesitant to come forward and offer true and sincere repentance let us be encouraged by the grace of God. Let us hold true God’s promises, let us set aside our pride and our shame and let us go to Gods priests.   Let us humbly confess our sins, all of this for the sake of the remission of our sins and our salvation</p>
+<p>Maintenant  que  nous  avons  vu  pourquoi  nous nous  confessons  à  un  prêtre,  prenons quelques  instants  pour  expliquer  comment  nous  devrions  effectuer  cette  confession.  Tout d'abord, précisons qu'il y a trois différents types de conversation que l'on peut avoir avec le prêtre.</p>
 <br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>Le  premier  type  est  celui  dont  nous  avons  parlé  aujourd'hui,  soit  la  véritable  confession.</p>
+<br>
+<p>Celle-ci  dure généralement de  15  à  20  minutes pendant  lesquelles la  personne confie ses péchés à Dieu à voix haute, devant le prêtre. Ce dernier peut parfois prescrire un canon pour aider  la  personne à  se  repentir.  Il  faut  s'y préparer d'avance  par  la  prière,  être  animé  d'un sincère  désir  de  se  repentir, être  prêt  à  dresser  la  liste  de  ses  confessions, et adopter une attitude dépourvue  de  raisons  et  de justifications.  Au  terme  de  cette  démarche,  le  prêtre adresse au fidèle la prière d'absolution et le sacrement prend fin.</p>
+<br>
+<p>Le deuxième type de conversation possible est la consultation spirituelle. C'est une occasion de rencontrer le prêtre pour lui poser des questions ou lui faire part d'inquiétudes qui ne sont pas toujours en lien avec la confession de péchés. Il arrive souvent qu'un fidèle ait un père confesseur qui  soit  également  son conseiller  spirituel.  D'autres  ont  parfois deux  personnes différentes,  deux  pères  distincts:  l'un  est  le  confesseur,  l'autre  est  le  conseiller. Les  deux situations sont tout à fait acceptables du point de vue de l'Église.</p>
+<br>
+<p>Le troisième type de conversation que l'on rencontre parfois est de nature thérapeutique. Je tiens à préciser que l'on peut discuter de tout avec son père spirituel, mais il faut aussi savoir qu'il n'y a rien de mal à ce que le père suggère à certains de ses fidèles d'avoir recours à une aide  professionnelle, au  besoin.  N'oublions  pas  que  le  prêtre  est  là  pour  administrer  les sacrements de l'Église et pour orienter les croyants vers Dieu. Par contre, il ne peut remplacer un professionnel, spécialiste des questions théoriques, psychologiques ou même médicales.</p>
+<br>
+<p>Ainsi,  il  ne  faut surtout pas  vous offusquer si  votre  prêtre, faisant  preuve  d'une  véritable affection à votre égard, vous suggère de consulter un professionnel sur certaines questions où il n'est pas en mesure lui-même de bien vous conseiller.</p>
+<br>
+<p>Nous  allons  conclure,  mes  frères,  en  confirmant  une  fois  de  plus  que  notre  relation  avec notre père confesseur est cruciale dans la vie d'un croyant orthodoxe. Quiconque parmi vous, jeune  ou  moins  jeune,  hésite  à  s'avancer  pour  se  repentir  honnêtement  et  sincèrement, laissez-vous inspirer par la grâce de Dieu. Ayez confiance aux promesses qu'il nous a faites.</p>
+<br>
+<p>Mettez  de  côté  votre orgueil  et  la  honte  que  vous  éprouvez  et  consultez  un  prêtre  de  Dieu.</p>
+<br>
+<p>Confessez humblement vos fautes. Faites tout ceci pour la rémission de vos péchés et pour votre salut.</p>
+<br>
+<p>N'oubliez pas, mes frères:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

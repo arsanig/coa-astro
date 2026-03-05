@@ -3,8 +3,8 @@ wp_id: 1797
 videoId: "w8ZdRMglBuE"
 imgSrc: /assets/thumbnails/w8ZdRMglBuE.webp
 lang: en
-title: "COA Live Q&A October 30 2019"
-pubDate: 2019-11-01T07:33:55
+title: "COA Live Q&A"
+pubDate: 2019-10-30T07:33:55
 tags: ["q&a"]
 author: "Fr. Anthony Mourad"
 ---

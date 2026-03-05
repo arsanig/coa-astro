@@ -3,50 +3,48 @@ wp_id: 669
 videoId: "5EThvmKSGc4"
 imgSrc: /assets/thumbnails/5EThvmKSGc4.webp
 lang: fr
-title: "How did monasticism come to be?"
-pubDate: 2017-02-14T21:31:14
+title: "Comment le monachisme est-il apparu?"
+pubDate: 2017-02-14T21:31:14.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Why is monasticism such an essential part of the Orthodox tradition and how did it begin?</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>To begin answering this question we need to look back at history.  <strong>In the first couple of centuries after the resurrection of our Lord Jesus Christ, the Church and those who were faithful underwent a tremendous amount of persecution.  Those who were persecuted would offer their lives to the Church literally in the form of martyrdom. </strong></p>
+<p>Aujourd'hui, nous nous posons la question suivante: Comment le monachisme a-t-il commencé et pourquoi occupe-t-il une place essentielle au sein de la tradition orthodoxe? Pour trouver des  éléments  de  réponse,  il  nous  faut prendre un  peu  de  recul  et  examiner les  faits historiques.</p>
 <br>
-<p><strong>The word martyrdom (<em>Martyria</em>) literally means to be able to be a <em>witness</em>.  This is what the Church did for centuries.  Christians would offer their lives and shed their blood for the sake of the their faith, their Church, and the Lord Jesus Christ.  They would do this constantly until the early 4<sup>th</sup> century (the year 313 AD) where a new righteous emperor arises named Constantine. </strong></p>
+<p>Ceux d'entre  vous qui ont étudié  l'histoire savent que  pendant  les  deux  premiers  siècles suivant la résurrection du Seigneur Jésus-Christ, l'Église et les croyants étaient grandement persécutés. Ceux  que  l'on  tourmentait allaient  jusqu'à  offrir  leur  vie  à  l'Église,  devenant carrément des martyrs. Comme vous le savez, le mot martyre ou μαρτυρία (martyría) signifie témoignage au sens strict. Et c'est exactement le rôle que prenait l'Église. Pendant plusieurs siècles, sous l'empire qui les persécutait, les chrétiens offraient leur vie. Leur sang était versé au nom de la foi, au nom du Seigneur Jésus-Christ, au nom de l'Église.</p>
 <br>
-<p>Constantine was a man whose heart was touched by God so he can work with the Church.  <strong>In the year 313 AD this new emperor created an edict in which Christianity is not only acceptable but he began to abolish the notion of persecution against Christians.</strong></p>
+<p>Ils se  sont offerts ainsi  sans  relâche jusqu'au  début  du  4 è siècle,  plus  précisément jusqu'en l'an 313, alors qu'un nouvel empereur prit les commandes, un empereur juste connu sous le nom  de  Constantin. Dieu avait touché le cœur de Constantin, afin  qu'il  travaille de concert avec l'Église, si bien qu'en 313, il publia un décret affirmant non seulement que le christianisme était acceptable, mais aussi que la persécution des chrétiens devait prendre fin.</p>
 <br>
-<p>Now that persecution has died down, how was a Christian going to offer his life to the Church?</p>
+<p>Que  s'est-il produit-il alors? Dès  cet  instant,  les choses ont commencé à  changer. En  effet, au cours des siècles précédents, les gens avaient pris l'habitude d'offrir leur sang, d'offrir leur vie, parce que c'était la mode de descendre dans la rue pour déclarer qu'ils étaient chrétiens et  qu'ils  acceptaient  de  mourir  de  leur  plein  gré.  Mais  maintenant  qu'ils  n'étaient  plus persécutés,  qu'allaient-ils faire?  Comment allaient-ils  consacrer  leur  vie  à  l'Église? Et c'est ainsi que plusieurs en sont venus à contempler l'idée du monachisme.</p>
 <br>
-<p>This question led many to the notion of monasticism.</p>
+<p>Donc, nous venons de voir comment les choses ont commencé à changer. Et bien entendu, ce changement s'est fait graduellement. À mesure que la persécution s'estompait, les gens se mirent à chercher de nouveaux moyens de consacrer leur vie à  l'Église, au nom de leur foi.</p>
 <br>
-<p>There was still a movement among people who wanted to offer their lives to the Church and this led to the rising of a character extremely important in history named St Anthony the Great.</p>
+<p>C'est dans ce contexte qu'est apparu un personnage très marquant de l'histoire, en particulier de l'histoire chrétienne: saint Antoine le Grand.</p>
 <br>
-<p><strong>In the early 4<sup>th</sup> century this young man enters a Church and hears a reading of the Bible and with a simple verse his entire life is flipped upside down and he decided that he wants to offer himself as a sacrifice to the Church and to God.  Despite the fact that he never shed his blood, St Anthony the Great, the founder of monasticism, became the first person to introduce this idea of offering myself as a sacrifice by offering my will, my mind, and body and my entire life for the sake of living an ascetic relationship with our Lord Jesus Christ.</strong></p>
+<p>Au  début  du  4 è siècle,  ce  jeune  homme est entré dans  une  église au  moment  où  l'on procédait à la lecture de la Bible. À l'écoute d'un seul verset, sa vie entière fut bouleversée et  il  décida de s'offrir  en  sacrifice  à  l'Église  et  à  Dieu. Et  même  s'il  n'avait pas  versé une goutte de  son  sang,  saint Antoine  le  Grand,  fondateur  du  monachisme, devint  le  premier  à suggérer que l'on puisse s'offrir en sacrifice en donnant sa volonté, son esprit, son corps, sa vie  entière  pour  une  vie d'ascèse avec  le  Seigneur  Jésus-Christ. Sous  l'influence de  saint Antoine,  plusieurs furent  séduits et  se  rendirent au  désert  de  Scété, là  où  il jetait  déjà les fondements de la vie monastique.</p>
 <br>
-<p>Through St Anthony the Great, many were attracted to come to the desert where he founded this idea of the monastic life.</p>
+<p>Ceci  dit,  nous  savons  que  saint  Antoine  n'était  pas  seul. Saint  Paul  l'Ermite  était  avec  lui.</p>
 <br>
-<p><strong>St Anthony wasn’t alone, with him was the great St Paul the hermit.  After St Anthony also was St Pachomius of Alexandria.  St Pachomius the Great begins to take this idea of an ascetic personal life in the desert to another level (through a revelation from our Lord Jesus Christ) that he is to create communities in these deserts so people can come together and recognize the Lord in a monastic and ascetic movement but within small communities.</strong></p>
+<p>Plus tard, il y eut également saint Pacôme d'Alexandrie. Saint Pacôme le Grand reprit cette idée  de  vie ascétique  personnelle dans  le  désert  et  la  poussa un  cran  plus  loin.  Par  suite d'une  révélation  de Notre-Seigneur  Jésus-Christ,  il  créa de petites communautés  dans les déserts,  afin  que  les  gens puissent se  rassembler et  reconnaître le  Seigneur  Jésus-Christ dans un élan monastique et ascétique, mais en version communautaire. Bientôt, fin du 4 è et début du 5 è siècle, on assiste à une explosion de magnifiques communautés qui s'installent dans les déserts d'Égypte, là où le mouvement monastique tout entier commence à prospérer.</p>
 <br>
-<p>In the late 4<sup>th</sup> century and the beginning of the 5<sup>th</sup> century, we see an explosion of beautiful different communities that now exist in the deserts of Egypt where you see the entire monastic movement beginning to flourish.</p>
+<p>Et les choses ne s'arrêtent pas là. Bien que tout ait commencé en Égypte, on voit arriver des personnages  tels  que le  grand saint  Basile  de  Césarée.  Celui-ci  se  rend  en  Égypte  et observe  ce  qui  s'y  passe.  Et  comme  il  a toujours  été porté  à  vouloir entretenir  une  relation personnelle  d'ascèse  avec  le  Christ, il revient  chez  lui  pour  y  démarrer  lui aussi  un mouvement monastique. De nos jours, on peut voir qu'à partir des petits déserts d'Égypte, le monachisme  s'est  répandu  sur  la  planète  toute  entière,  alors  que  des  milliers,  voire  des millions  de  gens  dans  l'histoire,  hommes  et  femmes,  se  sont  offerts en  sacrifices vivants à Notre-Seigneur Jésus-Christ, lui consacrant leur volonté, leur esprit et leur vie entière. C'est une bénédiction d'avoir ainsi des centaines de milliers de moines et de sœurs partout dans le monde qui soutiennent l'Église par les prières qu'ils adressent aux fidèles jour et nuit.</p>
 <br>
-<p>It didn’t end there.  <strong>Despite the fact that it began in Egypt, we saw people like the great St Basil of Caesarea who came to Egypt and observed what’s happening and he took what he saw and brought it back to his home and began a monastic movement there. </strong></p>
+<p>Cependant, n'allons pas nous imaginer que les personnes qui adoptent une vie monastique le  font dans  le  but  de fuir  le  monde, parce  qu'ils  sont incapables  d'y  faire  face. Bien  au contraire! L'Église  orthodoxe  est  d'avis  que  ces  personnes  sont  capables de  résister  à  de grandes  tentations  et  que  leur  vie  est  remplie  d'épreuves,  même  si  elles sont  coupées  du monde. Pour bien comprendre, allons voir ce qui est lu durant la cérémonie d'ordination des moines de l'Église copte orthodoxe. Le texte est tiré du livre du Siracide, au chapitre 2:</p>
 <br>
-<p>Today we see monasticism has flourished from the small deserts of Egypt to the great globe we have today where a multitude of people have offered themselves as living sacrifices to the Lord Jesus Christ.</p>
+<p>« Mon  fils  lorsque  tu  entreras  au  service  de  Dieu,  demeure  ferme  dans  la  justice et dans la crainte, et prépare ton âme à la tentation.</p>
 <br>
-<p><strong>Let us not make the mistake to think that people that fled the world to monasticism have fled the world because they are too weak.  On the contrary, the true belief of the Church is that those who are called to monasticism are those who are capable of enduring a lot of temptation.  Those people live a life full of struggles despite the fact that they are far from this world</strong>.<strong>The following is a reading from the rites of the ordination of a monk within the Coptic Orthodox Church. We read from Sirach chapter 2:</strong></p>
+<p>Humilie  ton cœur et  attends  patiemment;  prête  l'oreille,  et  reçois  les  paroles  de  la sagesse, et ne te hâte point au temps de l'épreuve.</p>
 <br>
-<p><strong>“Son, when you apply yourself to the service of God, stand in justice and in fear, and prepare your soul for temptation.  Humble your heart and persevere.  Incline your ear, and accept the words of understanding.  And you should not hurry away in the time of distress.  Endure steadfastly for God.  Join yourself to God, and persevere, so that your life may increase in the very end” Sirach 2:1-3</strong></p>
+<p>Souffre les retards de Dieu; demeure uni à Dieu, et attends patiemment, afin que ta vie s'accroisse en vue de la fin. » (Siracide 2:1-3) - [version Fillion] Cette notion  de  persévérance  est  capitale  à  notre  compréhension.  Rappelons  que  ceux  qui sont appelés  à la vocation monastique sont ceux  qui ne  peuvent être  des  martyrs  de  sang, mais  qui,  en  revanche, offrent  leur  volonté  et  leur  vie.  La  persévérance  est donc  un enjeu majeur. Et en tant que tenants de la foi orthodoxe, nous croyons que les moines sont soutenus par l'Esprit Saint. Encore ici, pour comprendre, servons-vous d'une citation de saint Antoine le  Grand.  Ses  propos  font partie de la  catéchèse  qui  est  lue durant  le  rituel  d'ordination  de l'Église copte. Ça va comme suit:</p>
 <br>
-<p>The notion of persevering is one that is crucial to understand.  Those who are called to monasticism are those who couldn’t offer their lives with blood as martyrs so instead they offered their will.</p>
+<p>«  L'esprit  qui  descend  sur  le  baptême  sacré est  le même  qui  vient s'imprégner  sur la vie  monastique  et  qui  purifie  celui  qui  devient  moine.  »  (Saint  Antoine  le  Grand) - [traduction libre] On  peut  remarquer,  encore  ici,  la  notion  de  vocation  et  de consécration. Alors,  mes  bien chers  frères,  nous  avons  appris  aujourd'hui  que  le  monachisme  a  commencé  par  le  besoin ressenti dans l'âme des tous les chrétiens d'appeler son Créateur et de lui dire: Je veux être uni  à  toi  et  m'offrir  à  toi.  À  l'époque  où  l'Église n'en  était qu'à  ses  débuts,  plusieurs  ont  eu l'occasion  d'offrir  leur  vie en  versant  leur  sang  et  le  monachisme  d'aujourd'hui  continue  de donner la possibilité à tout être vivant de s'offrir, sans toutefois devoir payer de son sang.</p>
 <br>
-<p><strong>We believe in the Orthodox faith that those who are monastics are sustained by the Holy Spirit. </strong></p>
+<p>N'oubliez pas:</p>
 <br>
-<p><strong>To understand this, we quote St Anthony the great who says the following: “The Spirit that comes down upon the Holy Baptism, the same comes down on the form of monasticism and purifies him who becomes a monk”</strong></p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p><strong>Monasticism began with a need for every Christian soul to cry out to its Creator and say ‘I want to be united to You and offer myself to You.’  In the early Church many had the chance to offer their lives in the shedding of blood and monasticism today offers every living soul the possibility of offering its life yet again without the necessity of shedding blood.</strong></p>
-<br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "How to serve others? Do's & Don'ts!"
 pubDate: 2019-05-10T11:45:56
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

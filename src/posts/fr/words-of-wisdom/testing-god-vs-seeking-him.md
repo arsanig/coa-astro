@@ -6,7 +6,7 @@ lang: fr
 title: "Testing God vs Seeking Him"
 pubDate: 2022-10-13T15:12:30
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

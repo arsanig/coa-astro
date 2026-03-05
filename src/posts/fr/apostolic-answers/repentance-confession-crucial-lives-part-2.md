@@ -3,42 +3,46 @@ wp_id: 927
 videoId: "idBDBRQjBF8"
 imgSrc: /assets/thumbnails/idBDBRQjBF8.webp
 lang: fr
-title: "What is confession? - Part 2"
-pubDate: 2017-07-05T00:10:10
+title: 'La confession - Partie 2: Qu''est-ce que ça signifie de se confesser?'
+pubDate: 2017-07-05T00:10:10.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Welcome back my beloved to the second part of our series about Repentance and Confession and why the are so crucial in the life of the Christian believer. In our previous video we took the time to understand the Orthodox understanding of Repentance and how it brings about a change of direction or orientation in the life of the believer. And now we tackle the subject of confession and will attempt to dig deeper to understand why the Lord has given to his Church this mystery as one of the means to salvation.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Let us first begin with the word confession - otherwise known in Greek as Homologeia. Now this word Homologeia is comprised of two words - Homo meaning the “same” and logeia meaning “word” or “account”. What this translates into is that confession is rooted in this deep understanding that we ought to have the same words, thoughts, and convictions as Christ! What he has declared we declare, what he has preached we preach. And it is this then leads us to further understand, that my confession, my declaration of the truth - that same word - can take on one of tow types of confession. A confession of faith, and a confession of sin.</p>
+<p>Mes bien chers frères, je suis heureux de vous retrouver pour cette deuxième partie de notre série qui traite du repentir et de la confession, des questions si essentielles dans la vie d'un croyant chrétien. Dans la vidéo précédente, nous avons pris le temps de comprendre ce que représente le repentir du point de vue orthodoxe, et comment il entraîne un changement de direction ou d'orientation dans la vie d'un croyant.  Cette fois-ci, nous allons nous consacrer à la  confession  et  creuser  davantage,  afin  de  comprendre  pourquoi  le  Seigneur  a introduit ce sacrement dans son Église, en guise de moyen d'obtenir le salut.</p>
 <br>
-<p>We have said that confession has two types: confession of faith, and a confession of sin. The first is an affirmative stance on declaring - in the same words - the faith of the church. And this is clearly identified in the liturgical life of the church. For instance, our creed is a great example of the confession of our faith! “Truly we believe in one God”! We use the same words - setup by the church - to declare our beliefs. Again we see this in the at the end of the liturgy where the priest and the deacon before the distribution of the mysteries,  pray what is called “the confession”. The priest says “Amen, Amen, Amen, I believe, I believe, I believe, AND CONFESS to the last breath, that this is the life giving flesh…” And again the deacon replies by saying “Amen, Amen, Amen, I believe, I believe, I believe that this is true Amen!”</p>
+<p>Commençons  par  le  mot confession,  aussi  connu  sous  le  nom  de ομολογία  (omología) en grec. Ce  terme  est  composé  de  deux  mots: όμοιος (ómios),  qui signifie identique, et λόγια (lógia), qui signifie mot ou récit. Tout cela doit nous amener à la profonde réalisation que la confession  existe  du  moment  qu'elle  est  pratiquée  à  l'aide  des  mêmes  termes,  pensées  et convictions  que  le  Christ. S'il  déclare  quelque  chose,  nous  le  déclarons  aussi. Ce  qu'il prêchait,   nous  le  prêchons  aussi. Et en   poussant   l'explication  un   peu  plus  loin,   on comprendre que cette admission, cette déclaration de vérité, cette même parole peut donner lieu à deux types de confession: la confession de la foi et la confession de ce qui constitue un péché.</p>
 <br>
-<p>It is these types of affirmative confessions of faith that the lord speaks to his disciples about in Luke chapter 12where he says:</p>
+<p>Nous venons de mentionner qu'il existe deux types de confession: celle de la foi et celle du péché. La première est une position qui confirme, dans les mêmes termes, la déclaration de foi de l'Église. Ceci se reflète clairement dans la vie liturgique de l'Église. Par exemple, notre Credo  est  une  excellente  façon  de  confesser  notre foi: En  toute  vérité,  nous  croyons  en  un seul Dieu! Nous nous servons des mêmes paroles que l'Église pour annoncer nos croyances.</p>
 <br>
-<p>8 “Also I say to you, whoever confesses Me before men, him the Son of Man also will confess before the angels of God. (Luke 12:8 NKJV)</p>
+<p>On peut également l'entendre en fin de liturgie, juste avant la communion, alors que le prêtre et le diacre font la prière de confession. Le prêtre dit: Amen! Amen! Amen! Je crois, je crois, je  crois et  je  confesse  jusqu'à  mon  dernier  souffle  que  ceci  est  le  corps  qui  donne  la  vie...</p>
 <br>
-<p>Furthermore, we see in Romans chapter 10 St Paul explaining:</p>
+<p>Puis le diacre reprend: Amen! Amen! Amen! Je crois, je crois, je crois, en toute vérité, qu'il en est  ainsi. Amen! C'est  ce  genre  de  confession  de  foi  que  le  Seigneur  prononce devant  ses disciples au chapitre 12 de l'Évangile selon saint Luc. On peut lire ceci, au verset 8:</p>
 <br>
-<p>9 that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. 10 For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation. (Romans 10:9-10 NKJV)</p>
+<p>« Je vous le dis, quiconque me confessera devant les hommes, le Fils de l'homme le confessera aussi devant les anges de Dieu. » (Luc 12:8) De plus, en examinant ce que saint Paul affirme au chapitre 10 de son Épître aux Romains, tout devient clair au verset 9:</p>
 <br>
-<p>Here therefore, we have two great scriptural references of how an affirmative statement of one’s faith, is very much a confession in that it speaks of God in the SAME WORDS as were handed down to us by Christ.</p>
+<p>« Si  tu  confesses  de  ta  bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.</p>
 <br>
-<p>Now the second type of confession is that confession of sin. To understand this, let us take a step back and remove ourselves from the role of the sinner who will expose his or her personal sin. In doing so let us ask the question: “do we have the same definition of sins as Christ and His Church”? When we see a person bending the truth for personal gain, do we use the SAME WORD - Homologeia - as Christ - do we call it a lie?! When we see a person taking something that is not his without consent - do we use the SAME WORD - Homologeia - as Christ - do we call that theft? Confession of sin therefore is calling it as it is! Its when I can truly confess my sin -  without excuse, justification or embellishment - and call it what it is! I have lied, I have stolen, I have lusted, I have gossiped, etc.</p>
+<p>Car c'est en croyant du cœur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut... » (Romains 10:9-10) Dans cet extrait, on peut clairement reconnaître deux importantes allusions aux Écritures, à savoir que nous sommes tout à fait dans l'esprit d'une confession lorsque nous affirmons nos croyances, puisque nous sommes en train d'évoquer Dieu dans les mêmes termes que ceux qui nous ont été légués par le Christ.</p>
 <br>
-<p>We must be careful because the devil tempts all of us to use different words when speaking of our actions, thoughts and lives. Rather than calling sins what they truly are, he temps us to use different words. He masks lust and calls it love. He disguises greed and calls it ambition. He covers pride and arrogance and calls it assertiveness. However we as Christians must be bold enough to proclaim the truth, and call out sin for what it truly is.</p>
+<p>Allons-y  maintenant  avec  le  second  type  de  confession:  la  confession  du  péché.  Pour comprendre  ceci,  prenons  un  peu  de  recul  en  laissant  de  côté  le  rôle  du  pécheur  qui  veut avouer son  péché  lors  d'une  confession.  Et  ce  faisant,  posons-nous  la  question  suivante:</p>
 <br>
-<p>Confession therefore, as we seen and explained it, is the revelation of what dwells in a persons heart in matters of both faith and sin. And the benchmark we use, as Orthodox Christians to pronounce both our faith and our sins, are the Homologeia - the SAME WORDS as the Church.</p>
+<p>Notre  définition  du  péché  est-elle  la  même  que  celle  du  Christ  et  de  son  Église?  Lorsqu'on constate  qu'une  personne  tourne  la  vérité  à  son  avantage, emploie-t-on le  même  terme (omología) que  le  Christ; dit-on  que  c'est  un  mensonge?  Et  en  voyant  quelqu'un  s'emparer sans permission de ce qui ne lui appartient pas, emploie-t-on le même terme (omología) que le Christ; dit-on que c'est un vol? Ainsi, la confession du péché, c'est appeler les choses par leur  vrai  nom.  C'est  lorsque  je  parviens à confesser  mes  fautes  et à les  nommer  telles quelles, sans y ajouter de faux prétextes, d'explications ou de fioritures: j'ai menti... j'ai volé... j'ai nourri des fantasmes... j'ai comméré...</p>
 <br>
-<p>All this can be summed up beautifully by quoting the 5th litany of the 9th hour prayer of the Coptic Orthodox Church:</p>
+<p>Il nous faut être prudent, car le diable nous incite tous à employer des termes différents pour parler de nos gestes, de nos pensées, et même de nos vies. Au lieu de nous laisser parler du péché tel qu'il est vraiment, il nous invite à la tentation, afin que nous décrivions les choses autrement. Il cache la luxure en appelant ça de l'amour; il travestit l'avarice en parlant plutôt d'ambition; il déguise l'orgueil et l'arrogance en les remplaçant par l'affirmation de soi. Malgré cela,  comme  chrétiens, nous  devons  avoir  assez  de  courage  pour  dire  la  vérité  et  déclarer nos fautes sans détours.</p>
 <br>
-<p>“O You who accepted unto Him the confession of the thief on the cross, accept us unto you, O Good One, we who deserve the sentence of death because of our sins. We all confess our sins with him, acknowledging Your divinity, and cry out with him, saying, “Remember us, O Lord, when you come into Your Kingdom.”</p>
+<p>La confession, comme nous venons de l'expliquer, est la révélation de ce qui se cache dans le cœur d'une personne en matière de foi et de péché. Et en tant que chrétiens orthodoxes, c'est  l'Église  qui  nous  sert  de  point  de  repère pour  déclarer  notre  foi  aussi  bien  que  nos péchés, dans les mêmes mots, l'omología. On peut résumer tout ceci de très belle façon en citant la 5 è litanie de la Prière de la 9 è Heure de l'Église copte orthodoxe:</p>
 <br>
-<p>Now that we know in these past 2 videos have discussed what Repentance and Confession are in the eyes of the Orthodox Church, we will conclude our series in the next video by speaking to why confess to a priest, and how we ought to confess. The Lord guide you and keep you always my beloved.</p>
+<p>« Ô Toi qui as accepté la confession du brigand sur la croix, accepte-nous, ô Dieu bon, nous qui sommes condamnés à la mort à cause de nos péchés. Avec lui, nous confessons nos  péchés, et  proclamons  Ta  divinité,  et  nous  nous  écrions tous: « Souviens-Toi  de nous,  ô  Seigneur,  quand  nous  viendrons  dans  Ton  Royaume.  »» (L'Agpeya,  la  None, Prière  de  la  Neuvième  Heure,  5è  litanie) - [St-Takla.org french, Coptic  Orthodox  Church Heritage] Nous nous confessons  et  nous proclamons ta  divinité.  Maintenant  que  nous  avons  vu  ces deux  parties (ces  deux  vidéos)  et  que  nous  avons  discuté  du  repentir  et  de  la  confession d'après la tradition de l'Église orthodoxe, nous allons conclure cette série avec  la prochaine vidéo,  où  nous  verrons  pourquoi  nous  nous  confessons  à  un  prêtre  et  comment  nous devrions le faire. Que le Seigneur vous guide et vous protège, mes bien chers frères!</p>
 <br>
-<p>Until next time, remember to Know your faith, live your faith, and Teach your faith.</p>
+<p>D'ici là...</p>
 <br>
-<p>To God be the Glory, now and forever Amen.</p>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "His grace is made strong in our weaknesses"
 pubDate: 2024-02-02T12:00:12
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

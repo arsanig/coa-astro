@@ -6,7 +6,7 @@ lang: fr
 title: "Take risks for the kingdom"
 pubDate: 2024-02-14T12:00:45
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -3,76 +3,68 @@ wp_id: 597
 videoId: "cK4nb8xCHgc"
 imgSrc: /assets/thumbnails/cK4nb8xCHgc.webp
 lang: fr
-title: "What’s wrong with Abortion?"
-pubDate: 2017-02-05T12:58:57
+title: "Pourquoi l'Église s'oppose-t-elle à l'avortement?"
+pubDate: 2017-02-05T12:58:57.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p><strong>The perspective and the stance of the church are neither to condemn people nor make them feel guilty for any past choices or any choices they are contemplating on making today.  This is an extremely difficult choice for many people and the church recognizes that.  The church recognizes also that in some very extreme situations these decisions are extremely hard to make.</strong></p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p><strong>However, to be clear, the perspective of the church is not one to be politically correct or where we attempt to make amends for very emotional situations.  The church attempts at all times to shed light on very dark situations.</strong></p>
+<p>Aujourd'hui,  nous  tentons  de  répondre  à  une  question  qui  est  particulièrement  chargée  en émotions, une question très controversée: Qu'y a-t-il de mal à se faire avorter? Quelle est la position de l'Église envers un tel geste?</p>
 <br>
-<p>To answer the question on hand properly we need to recognize how severe this situation is now worldwide. According to certain statistics, <strong>on a global level, 40-50 million abortions are performed yearly across the globe.  This equates to 125,000 abortions every day.</strong></p>
+<p>Avant de commencer, il  faut être parfaitement clair: la position de l'Église ne cherche pas à condamner  les  gens  ni  à  les  culpabiliser  pour  les  choix  qu'ils  auraient  faits  par  le  passé  ou pour  toute  décision  qu'ils  envisagent  de  prendre  aujourd'hui.  Ce  choix est extrêmement difficile pour plusieurs personnes. l'Église le reconnaît et admet que dans certaines situations des plus extrêmes, les décisions sont très difficiles à prendre.</p>
 <br>
-<p><strong>To understand the magnitude of this we are not going to discuss the rights of people, whether or not they have the choice to abort because the church is not attempting to overstep people’s choices.</strong></p>
+<p>Mais il faut aussi préciser que la position de l'Église n'a rien de politique: elle n'essaie pas de se montrer  politiquement  correcte  pas  plus  qu'elle  n'essaie  de se  racheter  face  à une situation très émotive. Ce qu'elle espère en tout temps, c'est de pouvoir faire la  lumière sur des  situations  très  pénibles. Et  en  toute  honnêteté,  nous  savons  qu'elles  peuvent  devenir extrêmement  complexes et  délicates et  nous  prions  pour  tous  ceux  et  celles  qui  y  sont confrontés.</p>
 <br>
-<p><strong>However, what the church attempts to do is to try to  understand how it is that God defines life and what is the true meaning of the sanctity of life that God has given us.  </strong></p>
+<p>Afin  de  tenter  une  réponse  appropriée,  examinons  la  gravité  de  la  situation telle  qu'elle  se présente actuellement à l'échelle mondiale. Selon certaines statistiques, de 40 à 50 millions d'avortements sont pratiqués chaque année sur la planète. Pensez-y un peu. Ceci représente 000 avortements par jour. Pour saisir toute l'ampleur du phénomène, nous ne discuterons pas forcément des droits de ces personnes ni du choix qu'elles ont ou non de se faire avorter: l'Église ne souhaite pas faire de déclarations ni outrepasser son mandat lorsqu'il est question des choix des personnes. Cependant, elle tentera de comprendre comment Dieu définit la vie et ce que représente la vie sacrée que Dieu nous a donnée.</p>
 <br>
-<p><strong>If you search out the word abortion in all of scripture, you will not find it</strong>.  The word itself is not clearly defined.  This poses the question of why does the church have an opinion on a matter not even referenced in scripture?</p>
+<p>Avant de préciser ce que signifie ce caractère sacré de la vie pour nous, les chrétiens, il est très important de prendre le temps d'examiner ce que les Écritures ont à nous dire à ce sujet.</p>
 <br>
-<p><strong>It is important that we know that despite the fact that the act of abortion is not mentioned explicitly in scripture, the taking of an innocent life is clearly condemned in scripture.  </strong></p>
+<p>C'est très intéressant de constater qu'en cherchant le mot avortement, on ne le trouve nulle part  dans  les  Écritures;  le  mot  lui-même  n'est  pas  clairement  défini.  Ainsi,  certains  pourront se  poser  la  question: Mais  alors pourquoi  l'Église  se  permet-elle  d'émettre  une  opinion  sur quelque chose qui n'apparaît même pas dans les Écritures?</p>
 <br>
-<p>Examples of this in the Old Testament are in Exodus 20:13, or in Leviticus 24:17.  In the New Testament, Christ Himself condemns the taking of an innocent of life in John 8:12 and Matthew 26:52</p>
+<p>En  bien,  il  est  important  de  noter  ceci:  malgré  le  fait  que l'acte  d'avortement  ne  soit pas mentionné  explicitement  dans  les  Écritures, celles-ci condamnent  très  clairement  le  fait  de prendre une  vie  innocente. Et  plusieurs  exemples  en  témoignent.  Il  suffit  de  chercher  et  de consulter certains extraits,  tels  que  l'Exode,  au  chapitre  20,  verset  13,  ou  le  Lévitique,  au chapitre 24, verset 17. En cherchant dans le Nouveau Testament, on constate que le Christ lui-même, lorsqu'il prend la parole dans l'Évangile selon saint Jean, au chapitre 8, verset 12, condamne  l'idée de  prendre  une  vie  innocente.  On  le retrouve aussi  dans  l'Évangile  selon saint  Matthieu,  au  chapitre  26,  verset  52.  Les  Écritures  sont  remplies  de  passages  qui attestent  que  la  vie  appartient  à  Dieu  et  que  personne  ne  devrait décider  de  prendre  la  vie d'une autre personne.</p>
 <br>
-<p>Scripture is full with the understanding that life belongs to God and no one should take a stance where they take life from another.</p>
+<p>Pour bien comprendre ceci, que faudrait-il penser de l'idée de prendre une vie innocente par le biais de l'avortement? Comme vous le savez,  les chrétiens orthodoxes ne se limitent pas seulement  à  consulter  les  Écritures;  ils  regardent  l'ensemble  de  la  tradition  sacrée.  Et  ce faisant, nous découvrons que les Pères de l'Église en avaient long à dire sur le sujet, et pas seulement eux: les douze Apôtres aussi, comme en témoigne leur enseignement. Prenons le temps d'aller voir ce que nous enseigne la tradition. Si l'on s'en remet à la Didachè, qu'on appelle aussi la Doctrine des Apôtres, on peut lire ce qui suit, au chapitre 2, passage 1:</p>
 <br>
-<p>Orthodox Christians do not simply look at scripture but take a look at Holy Tradition.</p>
+<p>« Vous ne devez pas recourir à l'avortement ni détruire un nouveau-né. » (Didachè 2:1) - [traduction libre] Une indication très claire que le geste était condamné par l'Église du siècle premier... Saint Basile le Grand aussi, dans sa Lettre canonique, au Canon 2, avait clairement écrit à l'Église du 4 è siècle:</p>
 <br>
-<p>When we look at holy tradition, we see that the fathers of the church had quite a lot to say about this.  Not only the fathers of the church but also the teachings of the disciples (the Didache) themselves.</p>
+<p>«  Que  celle  qui  obtient  l'avortement  fasse  pénitence  pendant  dix  ans,  que  l'embryon soit  complètement  formé  ou  pas.  »  (Saint  Basile  le  Grand,  Première  lettre  canonique, canon 2) - [traduction libre] Ce  qu'on  peut  déduire  de  ces  écrits,  c'est  que  dès  le  départ,  que  ce  soit  au  1 er ou  au  4 è siècle, l'Église s'est prononcée très clairement contre l'idée de prendre une vie innocente et c'est  toujours  sa  position  aujourd'hui, même  si  on ne fait  que  discuter  d'avortement.</p>
 <br>
-<p>In the Didache we see in Chapter 2 passage 1 where it clearly mentions “You shall not procure an abortion, nor destroy a new born child”</p>
+<p>Maintenant,  si  on  pousse  le  concept  un  peu  plus  loin,  il  faut  préciser  à  quel  moment  Dieu considère que la vie commence.</p>
 <br>
-<p>St Basil the Great, in his first Canonical letter in Canon 2 clearly writes to the church in the 4<sup>th</sup> century and says: “Let her who procures abortion undergoes ten years penance whether the embryo is perfectly formed or not”.</p>
+<p>Comment alors peut-on saisir l'importance de la vie et combien elle est sacrée aux yeux de Dieu? Essayons de cerner ce qui constitue notre identité du point de vue orthodoxe.</p>
 <br>
-<p><strong>The early mind of the church, whether it is the 1<sup>st</sup> century, 4<sup>th</sup> or even until now, had an understanding that an innocent life should not be taken even if it is within the confinement of the concept of abortion.  </strong></p>
+<p>Voyez-vous,  dans  la  liturgie  de  saint  Grégoire  le Théologien,  il  est  dit  que «  Dieu  l'a  amené dans l'existence à partir du néant. » Nous reconnaissons donc que Dieu est vraiment celui qui donne la vie. Il est la vie elle-même et de lui émane tout ce qui existe, même la notion d'être humain. Il est donc celui qui insuffle la vie à l'être humain, à cette personne qu'il a créée.</p>
 <br>
-<p><strong> </strong>Taking this further, to understand the importance and the sanctity of life in the eyes of God we must understand when does life begin in His eyes?</p>
+<p>Et s'il a créé chaque être humain et lui a insufflé la vie, à quel moment la vie débute-t-elle?</p>
 <br>
-<p>To understand this we have to attempt to understand the notion of personhood.</p>
+<p>On  ne  peut  pas  se  limiter  à  ce  que  le  monde  et  la  société  d'aujourd'hui  nous  inculquent,  à savoir  que  la  vie  débute  au  moment  où  un  enfant  est  mis  au  monde par accouchement.</p>
 <br>
-<p>In the liturgy of St Gregory the theologian, he talks about how it is that “God brought him into existence out of none existence.” So we recognize by this that God is truly the life giver.  He is Life and from him precedes all those things that exist (including Human Beings).  He breathes life into that person that He created.</p>
+<p>Voyez-vous,  pour  nous,  la  question  n'est  pas  de  savoir  à  quel  moment  nous  faisons  notre entrée  physique  dans  le  monde  en  sortant  du  ventre  de  notre  mère,  mais  c'est  plutôt  de déterminer ce qui suit: À quel moment Dieu a-t-il voulu nous amener dans l'existence? À quel moment a-t-il insufflé la vie en nous?</p>
 <br>
-<p>Knowing this about God, at what point can we say life begins? We cannot limit this notion to the moment where a child is born and brought to the world through delivery.</p>
+<p>Pour  bien  comprendre  ceci,  prenons  quelques  exemples  tirés  des  Écritures.  On  peut clairement  y  voir  que  l'Église comprend l'importance  de reconnaître et  de  célébrer  la  vie utérine,  bien  avant  l'accouchement.  Par  exemple,  rappelons-nous  l'extrait  qui  raconte  que saint Jean Baptiste, qui était toujours dans le ventre de sa mère, Élizabeth, fut accueilli par le Seigneur Jésus-Christ qui était toujours dans le ventre de sa sainte mère, Théotokos: l'enfant d'Élizabeth  a  sauté  de  joie  lorsqu'il  a  senti  la  présence du  Seigneur  Dieu et  Sauveur.  Dans cet  exemple,  on  peut  voir  la  vie  se  manifester  de  deux  façons:  d'abord,  dans  le  fait que  le Seigneur Dieu et Sauveur ait déjà adopté la forme du Verbe incarné alors qu'il était toujours dans le ventre de sa mère, et qu'ensuite, la vie qui habitait au sein d'Élizabeth était vraiment celle d’une personne vivante qui saute de joie lorsque le Seigneur et Sauveur se manifeste.</p>
 <br>
-<p><strong>To us it’s not a matter of when it is we enter into the world physically when we exit the womb of our mother but rather we ask the question at what point did God will us into existence? At what point did He breathe life into us?</strong></p>
+<p>On  peut  également  remarquer ceci  dans la  vie  liturgique  de  l'Église.  Celle-ci  souligne  le moment  de  la  conception  du  Seigneur  Dieu  et  Sauveur  Jésus-Christ  par  le  festin  de l'Annonciation, où l'ange Gabriel annonce que le Saint-Esprit descendra sur la Vierge Marie, qu'elle  tombera  enceinte  et qu'elle  mettra  au  monde  un  enfant qui  deviendra  le  Sauveur  du monde.</p>
 <br>
-<p>Here are a few examples from Sceipture: the church celebrates and recognizes life in the womb even before the moment of delivery.  This is seen in the passage where St John the Baptist in Elizabeth’s womb is greeted by our Lord Jesus Christ who is in the womb of St Mary, the Theotokos.   The child LEAPS for joy from recognizing the presence of the Lord God and Savior.  In this case we see life is demonstrated in 2 ways:</p>
+<p>Nous célébrons aussi l'Annonciation de la Sainte Vierge Théotokos elle-même, et par toutes ces choses, l'Église démontre qu'elle reconnaît l'existence de la vie dès la conception, alors que Dieu a créé cette vie, et pas nécessairement au moment que la science tente de fixer en s'appuyant  sur  des  valeurs  psychologiques  ou  sur  des  mesures  médicales  ou  scientifiques.</p>
 <br>
-<p>1) In the fact that the Lord, is very much the Word incarnate while He is still in the womb of His mother</p>
+<p>Ce n'est pas à la science ni au monde médical de nous dire à quel moment la vie commence.</p>
 <br>
-<p>2) In the fact that the life in Elizabeth is a living person as he leaps for joy when the Lord comes into his presence.</p>
+<p>C'est au législateur lui-même, lui qui nous a clairement montré que la vie débute dès l'instant où il décide de la créer.</p>
 <br>
-<p>We also have examples in the liturgical life. The church celebrates the moment of conception of the Lord, in the feast of the annunciation when the angel Gabriel announces that the Holy Spirit will descend on the Holy Virgin Mary and she will conceive and give birth to the child who will be the Savior of the world.</p>
+<p>Le livre de Jérémie nous explique ceci en termes très clairs, lorsqu'il rapporte les propos du Seigneur Dieu. Allons consulter Jérémie au chapitre 1, verset 5:</p>
 <br>
-<p>We also celebrate the annunciation of the Holy Virgin Theotokos herself and through all of these things the Church demonstrates that life exists and willed by God at the moment of conception and not necessarily at a specific moment that science tries to define.</p>
+<p>« Avant que je t'eusse formé dans le ventre de ta mère, je te connaissais, et avant que tu fusses sorti de son sein, je t'avais consacré, je t'avais établi prophète des nations. » (Jérémie 1:5) Ce  qui  nous  est  révélé  ici,  à  vous  et  moi,  c'est  que  même  avant  que  nous  soyons  formés dans l'utérus, le Seigneur Dieu nous connaît, car il a décidé de nous créer. Nous sommes le fruit de son œuvre avant toute chose. Il nous façonne dans le ventre de notre mère. Cela ne se  limite  pas  à  un  temps  précis  ni  à  un  moment  précis  dans  l'utérus;  c'est  le  moment  où  le Seigneur Dieu dit Je veux t'amener dans l'existence.</p>
 <br>
-<p><strong>It is not up to science or the medical world to tell us at what point a life is alive.  It is up to the life giver himself who demonstrated to us that when He wills a life into existence that life truly does exist.</strong></p>
+<p>C'est pourquoi l'Église est ferme sur sa position et affirme sans détours que le fait de prendre une vie  innocente par l'avortement n'est pas un geste qu'elle peut appuyer ou défendre. Au contraire, elle souhaite que toute vie que Dieu a créée puisse voir le jour.</p>
 <br>
-<p>This is seen clearly in the book of Jeremiah 1:5 “Before I formed you in the womb I knew you, and before you were born, I consecrated you.  I appointed you a prophet to the nations”</p>
+<p>Répétons-le, cette affirmation ne cherche pas à minimiser ni à ignorer que certaines situations puissent être très délicates. On pourra peut-être parler de ces situations exceptionnelles dans une  autre  vidéo,  mais  pour  l'instant,  la  norme  est établie:  devant  Dieu  qui  donne  la  vie, chaque vie créée ne devrait être enlevée pour aucune raison que ce soit.</p>
 <br>
-<p><strong>This reveals that even before the forming in the womb, the Lord God knows you and me because He has willed us into existence.   We are first and foremost the work of His handiwork.We are molded by Him in the womb.  This is not limited to a specific time frame.</strong></p>
+<p>N'oubliez pas:</p>
 <br>
-<p><strong>Because of this the church stands firmly saying that the taking of an innocent life through abortion is not something that it can stand for or defend. On the contrary, we desire that every life that is brought into existence by God may be able to see light.</strong></p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p><strong> </strong><strong>This statement doesn’t undermine or disregard that there are some situations that are very difficult.  </strong></p>
-<br>
-<p><strong>For now the standard is set, in the eyes of God the life giver, every life He has willed into existence should not be taken for any reason. </strong></p>
-<br>
-<p><strong>In situations where someone has in the past committed an abortion, the Church calls you to a life of repentance.  Through the mysteries/sacraments God can forgive and absolve all transgressions; however we must first come to Him in repentance acknowledging our sins.  </strong></p>
-<br>
-<p><strong>In cases where someone is contemplating an abortion for any reason, the church encourages you to not act hastily but to speak to a Spiritual father in the Church who can guide and inspire you to make the right decisions.   </strong></p>
-<br>
-<p><strong> </strong><strong>Remember, know your faith, live your faith and teach your faith</strong></p>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

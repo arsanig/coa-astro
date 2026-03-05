@@ -6,7 +6,7 @@ lang: fr
 title: "Love above all things"
 pubDate: 2022-11-25T11:17:08
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

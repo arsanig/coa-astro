@@ -6,7 +6,7 @@ lang: fr
 title: "Carrying the Cross is a lifelong process"
 pubDate: 2022-02-11T02:01:48
 tags: ["wow"]
-author: "Fr. Lazarus St. Anthony"
+author: "Père Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

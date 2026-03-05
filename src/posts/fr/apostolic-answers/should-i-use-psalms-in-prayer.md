@@ -3,26 +3,54 @@ wp_id: 748
 videoId: "MX2hNk8P-YU"
 imgSrc: /assets/thumbnails/MX2hNk8P-YU.webp
 lang: fr
-title: "Should I use Psalms in prayer?"
-pubDate: 2017-02-22T11:14:36
+title: "Les psaumes peuvent-ils servir de prières?"
+pubDate: 2017-02-22T11:14:36.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Prayer is a deep conversation with God, but there are many ways to converse with Him. One of these ways is to pray with psalms. The word “psalms” in Hebrew means “praises.” However, many people ask <strong>if they should be praying with psalms</strong>? That question raises another one: <strong>What did the early church do? Did she pray with psalms too? </strong>Christ has given to the early church, to the apostles, a Way of Life—the Holy Tradition. When we see what they did and how they prayed, that counts because the Church was evidently extremely strong as it is shown in the book of Acts.</p>
+<p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>In chapters 3 &amp; 4 of the book of Acts, we find that beautiful story of St. Peter that healed the man that was lame at the gate of the temple. In Acts 3, he heals him and in Acts 4, the Jews are questioning St. Peter and St. John and are not happy about the miracle because it was in the name of Jesus. Therefore, after being threatened, St. Peter left with St. John to join their companions. <strong>In Acts 4:23-26, the apostles raised their voice to God in prayer and prayed a psalm.</strong> In Acts 3:1, 10:9, you find the timing of these psalms. They both prayed the sixth at nine hours because <strong>in the Jewish tradition, the prayers are from the psalms because these are the works and words of the Holy Spirit through the men of God.</strong> In Ephesians 5, <strong>St. Paul says that when we sing a melody from our heart to the Lord, we should be using psalms, hymns and spiritual songs. By this, it is implied that we are filled with the Holy Spirit by praying the psalms. </strong></p>
+<p>Peut-on prier à l'aide des psaumes? Pour répondre à cette question, il faudrait voir comment l'Église priait à  ses  débuts.  Se  servait-on  des  psaumes  ou  pas?  Nous  savons  que c'est le Christ lui-même qui a instauré la sainte tradition, la vie de l'Église, auprès des apôtres et de l'Église  naissante. Il  importe  donc  de  vérifier comment  ils  procédaient,  comment  ils  priaient, car  leur  façon  de  faire  était  visiblement  très  influente,  comme  on  peut  le  constater  dans  le livre des Actes des apôtres.</p>
 <br>
-<p>Why are psalms so important? <strong>The more we pray with psalms, the more we realize how great is God and we remind ourselves who He is.</strong> <strong>The psalms remind us that God is Pantocrator Almighty, and consequently, we should not fear. They remind us that God is good and merciful. As we are praying, we realize that God is just and wise. Therefore, since we are reminded of all these things, our relationship with God deepens through the psalms.</strong></p>
+<p>Les chapitres 3 et 4 de ce livre proposent un très beau récit, celui de saint Pierre qui guérit un boiteux se trouvant à la porte du temple. La guérison a lieu au chapitre 3. Puis, au chapitre 4, saint  Pierre  et  saint  Jean sont interrogés  par  les  Juifs, car ceux-ci sont plutôt  mécontents d'apprendre qu'on a guéri au nom de Jésus.</p>
 <br>
-<p>Another aspect of <strong>the psalms </strong>in the Agpeya is that they <strong>are prophetical</strong>. We hence see the prophecies about Christ, written by the men of God, that were fulfilled many years later.</p>
+<p>Saint Pierre, après avoir subi leurs menaces, quitte les lieux en compagnie de saint Jean et ils retournent tous deux auprès de leurs compagnons. Un peu plus loin, aux versets 23 à 26, on apprend que les apôtres ont élevé leurs voix vers Dieu en priant un psaume. D'ailleurs, à Actes  3:1  et  à  Actes  10:9,  on  précise  même  les  heures  où  ces  psaumes ont  été priés  par saint Jean et saint Pierre: à la 6 è et à la 9 è heure. Il faut savoir que dans la tradition juive, les prières  étaient  souvent  centrées  sur  les  psaumes,  puisqu'ils  étaient  perçus  comme  des œuvres de l'Esprit Saint dont les paroles avaient été prononcées par des hommes de Dieu à l'origine. Allons voir ce que l'Épître aux Éphésiens peut nous dire à ce sujet:</p>
 <br>
-<p>However, one main thing about the psalms is declared to us by St. John Cassian: <em>“the constant singing of the psalms is designed to produce a persistent compunction, a repentance within us, so that the mind, slimmed down, may not have a taste for the things of earth and will turn, instead to behold the things of heaven. And if we carelessly neglect these, then of necessity the mind, filled with the squalor of sin, turns soon and comes rushing toward the domain of the flesh. “</em> In other words, <strong>the purpose of the word of God, the Bible, and the psalms are to leads us to repentance</strong>. When we realize that we haven’t fulfilled a commandment in the last days, when we realize that we have been fearful when we should not, <strong>we are led to repentance through the psalms</strong>. <strong>We are guided and directed by the word of God in prayer.</strong> <strong>And when we do this, our mind and heart will be lifted up to God.</strong></p>
+<p>« Ne  vous  enivrez  pas  de  vin:  c'est  de  la  débauche.  Soyez,  au  contraire,  remplis  de l'Esprit; entretenez-vous par des psaumes, par des hymnes, et par des cantiques spirituels, chantant et célébrant de tout votre cœur les louanges du Seigneur. » (Éphésiens 5:18-19) Ici, saint Paul nous dit que lorsque nous chantons au Seigneur de tout notre cœur, lui adressant ainsi nos prières, nous devrions lui chanter des psaumes, des hymnes et des chants spirituels.</p>
 <br>
-<p>Finally, <strong>there is a big difference between praying and reading the psalms.</strong> When we read them, the words of God connect with our mind, but this connection fails to attain our heart. <strong>When we pray with the psalms, we pray with our mind, heart, soul, and strength.</strong> Therefore, we pray with our entire being. Consequently, we attain a deeper level of prayer; we taste God in a different more enjoyable way. However, many people are reading the psalms instead of praying them. In turn, they don’t enjoy the prayer. The problem is not in the psalms. We ought to pray the psalms rather than reading them.</p>
+<p>Et au verset juste avant, on suggère qu'en procédant de cette façon, nous serons remplis de l'Esprit. Il y a donc quelque chose de spécial dans le fait d'avoir recours à des psaumes pour prier.</p>
 <br>
-<p>If you are not using the psalms in prayer, you are missing out. You should give it another chance to truly pray the psalms from the bottom of your heart, and you will taste prayer in a deeper way.</p>
+<p>Mais  qu'est-ce  qui  les  rend  si  importants?  Ce  qu'il  faut  comprendre,  c'est  qu'en  priant  à l'aide des psaumes, ceux-ci nous rappellent sans cesse qui est Dieu: c'est le Pantocrator, le Tout-Puissant, et nous n'avons rien à craindre. Ils nous rappellent que Dieu est bon, qu'il est miséricordieux, qu'il est juste. Par la prière, nous réalisons à quel point il est simple, tout en étant sage. Nous réalisons toutes ces choses. Notre lien avec lui s'approfondit. Et grâce aux psaumes, nous apprenons à mieux le connaître.</p>
 <br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>En  voici  un  exemple.  On  trouve  ceci  dans  le  livre  des  heures,  un  outil  de  tradition  copte orthodoxe. Dans la prière du matin, on prie le Psaume 26 comme ceci:</p>
+<br>
+<p>« L'Éternel  est  ma  lumière  et  mon  salut:  de  qui  aurais-je  crainte?  L'Éternel  est  le soutien de ma vie: de qui aurais-je peur?</p>
+<br>
+<p>Quand  des  méchants  s'avancent  contre  moi  pour  dévorer  ma  chair,  ce  sont  mes persécuteurs et mes ennemis qui chancellent et tombent.</p>
+<br>
+<p>Si une armée se campait contre moi, mon cœur n'aurait aucune crainte; si une guerre s'élevait contre moi, je serais malgré cela plein de confiance. » (Psaume 26 de l'Agpeya) Peu importe qu'une guerre ou une armée se dresse contre nous, nous demeurons confiants.</p>
+<br>
+<p>Pourquoi? Parce que Dieu est notre lumière. Dieu est notre salut. C'est tout ça que les psaumes nous rappellent lorsque nous nous en servons pour prier.</p>
+<br>
+<p>De  plus,  les  psaumes  qui  font  partie  de  la  prière  des  heures  de  l'Agpeya  ont  un  caractère prophétique. Ils n'ont pas été choisis au hasard. On y trouve les prophéties du Christ, ce qui nous aide à toujours les avoir en tête. Ils furent écrits par des hommes de Dieu au temps de l'Ancien Testament. Saint Jean Cassien a fait la déclaration suivante à propos de ces psaumes:</p>
+<br>
+<p>« Le fait de chanter constamment les psaumes a pour but de nous placer dans un état de  componction [de  repentir] en permanence, de  sorte que  nos  pensées  soit  réduites au  point  de  ne  plus  avoir  envie  de  se  tourner vers  les  choses  matérielles  et  qu'elle tendent  plutôt  vers  les  choses  célestes.  Si  nous  les  négligeons  sans  scrupule,  nos pensées  cherchent  leur  nourriture  dans  la  sordidité  du  péché  et  se  ruent bientôt  sur tout ce que le domaine de la chair veut bien leur offrir. » (Saint Jean Cassien, Conférences, sect.17) - [traduction libre] Jean Cassien explique que la Parole de Dieu, la Bible et les psaumes visent à nous amener à nous repentir au moment où nous prenons conscience que nous n'avons pas respecté tel ou tel commandement dans les jours précédents, ou que nous avons eu peur alors qu'il n'y avait  rien  à  craindre.  Ainsi,  en  priant  à  l'aide  des  psaumes  et  en nous  repentant  dans  nos prières,  la  Parole  de  Dieu  nous  guide  et  nous  oriente.  Et  ce  faisant,  nos  pensées  et  nos cœurs s'élèvent vers Dieu. Jean Cassien ajoute que si nous n'utilisons pas les psaumes, nos pensées s'orientent vers les choses matérielles.</p>
+<br>
+<p>Ce psaume de l'Agpeya correspond au Psaume 27 dans la Bible.</p>
+<br>
+<p>Enfin, mentionnons qu'il y a une grande différence entre le fait de prier à l'aide des psaumes et le fait de lire les psaumes. En lisant les psaumes, les paroles divines atteignent les pensées, mais ne se rendent pas au cœur. En priant à l'aide des psaumes, nous  prions  avec  nos pensées, notre cœur, notre âme et notre force. Nous prions de tout notre être.</p>
+<br>
+<p>Ainsi, le fait de prier à l'aide des psaumes nous permet d'accéder à un niveau plus profond de prière. Notre expérience de Dieu devient différente. Nous éprouvons une joie à son contact.</p>
+<br>
+<p>Malheureusement, plusieurs personnes prient les psaumes (ou croient prier les psaumes) et n'en  tirent  aucun  plaisir,  même  qu'elles  les  trouvent  ennuyants.  Mais  en  réalité,  c'est  parce qu'elles n'ont pas su les prier. Le problème ne vient pas des psaumes, mais du fait qu'elles se soient limitées à les lire.</p>
+<br>
+<p>En omettant de prier les psaumes, vous ratez la cible. Je vous encourage à leur donner une seconde chance, une véritable chance, et à les prier du fond du cœur. Vous verrez que vos prières auront soudain un goût très différent.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>

@@ -3,44 +3,78 @@ wp_id: 2176
 videoId: "ktoYdRXFFU0"
 imgSrc: /assets/thumbnails/ktoYdRXFFU0.webp
 lang: fr
-title: "Why is the Resurrection of Christ considered the feast of feasts?"
-pubDate: 2020-05-13T15:43:08
+title: "Pourquoi la Fête de la Résurrection est-elle considérée comme étant la fête des fêtes?"
+pubDate: 2020-05-13T15:43:08.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Le  calendrier  liturgique  de  l'Église  copte  orthodoxe  comporte  plusieurs  fêtes.  Mais  il  y  en  a une qui détient le titre de fête des fêtes: la sainte et glorieuse Fête de la Résurrection. Restez des nôtres, afin de découvrir pourquoi cette fête est si importante pour tous les chrétiens.</p>
 <br>
-<p>There are many feasts in the liturgical calendar of the Church. But there is one that holds the title of the Feast of Feasts - The Holy and Glorious feast of the Resurrection. Stay tuned to find out why this feast is a big deal to all Christians!</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Why is the feast of the resurrection considered the feast of all feasts? Said differently, why is it such a big deal among Christians? In order to answer this question properly, we must consider a few important things. Many other religions speak symbolically of “dying to oneself”, or the importance of recreation, or new life…and while these themes and patterns are found in a variety of expressions, no faith other than Christianity is willing to make the extremely bold claim that our God took on the form of a servant, became human, and even died in the flesh for our sakes. But He did not simply die - he defeated death in rising from the dead! This unique claim is the cornerstone of our faith - Our God is the author of life and has even conquered death. For this reason, we no longer fear death - dare I say we look forward to it - because we believe that He will raise us up also into everlasting life with Him.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>My beloved I would like you to consider the following - if anyone were to somehow disprove the resurrection of Christ, or to somehow refute the resurrection and make us all believe, that without a shadow of a doubt, that Christ never rose from the dead, then our entire Christian faith would be dismantled. Truth be told, the event of the resurrection of our Lord Jesus Christ is single handedly responsible for what gives our Christin faith its meaning and purpose. As a matter of fact, these are the words of St Paul the Apostle - not my own! You see, there were people within the Corinthian community that were arguing that the resurrection of Christ didn’t happen, or that it didn’t matter. And when St Paul hears of this, he immediately takes action and writes to his spiritual children there to explain that the resurrection of the Lord is in fact indispensable! St Paul begins by explaining how this tradition was handed down through first hand eye witness accounts:</p>
+<p>Pourquoi considère-t-on la glorieuse Fête de la Résurrection comme étant la fête des fêtes?</p>
 <br>
-<p><b><i>“3 For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, 4 and that He was buried, and that He rose again the third day according to the Scriptures, 5 and that He was seen by Cephas, then by the twelve. 6 After that He was seen by over five hundred brethren at once, of whom the greater part remain to the present, but some have fallen asleep. 7 After that He was seen by James, then by all the apostles. 8 Then last of all He was seen by me also, as by one born out of due time.” (1 Corinthians 15: 3-8) </i></b></p>
+<p>Autrement  dit,  pourquoi  les  chrétiens en sont-ils  si  fervents? Pour  bien  répondre  à  cette question,  il  faut  tenir  compte  de  quelques  facteurs  importants.  Plusieurs  religions  invitent leurs fidèles à se mettre au rancart, à se reconstruire, à se faire une nouvelle vie. Et bien que ces thèmes et ces modèles soient véhiculés par une variété de courants religieux, seule la foi chrétienne ose proclamer haut et fort que notre Dieu a pris la forme d'un serviteur, s'est fait humain et est mort pour nous.</p>
 <br>
-<p>Notice how Paul emphasizes that both the Lord’s death and his resurrection are according to the Scriptures. He is pointing to the fact that this was not mere coincidence of circumstance, but rather that this is preordained before all time and the scriptures prophesy and point to their necessity. He then goes on to explain that the Lord’s appearance after his death was not mere hearsay and rumor, but rather hundreds, including Paul himself, saw the Lord alive after his crucifixion and burial. Paul then explains the dangers of denying the resurrection of the Lord:</p>
+<p>Mais il n'est pas seulement mort: il a vaincu la mort en ressuscitant des morts. Cette déclaration unique est le fondement de notre foi. Notre Dieu est l'auteur de la vie et il a conquis la mort.</p>
 <br>
-<p><b><i>“12 Now if Christ is preached that He has been raised from the dead, how do some among you say that there is no resurrection of the dead? 13 But if there is no resurrection of the dead, then Christ is not risen. 14 And if Christ is not risen, then our preaching is empty and your faith is also empty. 15 Yes, and we are found false witnesses of God, because we have testified of God that He raised up Christ, whom He did not raise up—if in fact the dead do not rise. 16 For if the dead do not rise, then Christ is not risen. 17 And if Christ is not risen, your faith is futile; you are still in your sins! 18 Then also those who have fallen asleep in Christ have perished. 19 If in this life only we have hope in Christ, we are of all men the most pitiable.</i></b><b><i> (1 Corinthians 15: 12-17) </i></b></p>
+<p>Grâce  à  ceci,  nous  n'avons  plus  à  craindre  la  mort,  même  que  j'oserais  dire  que  nous l'anticipons,  parce  que  nous  croyons  au  fait  que  nous  serons  ressuscités nous  aussi, pour une vie éternelle avec lui.</p>
 <br>
-<p>I want us to pay attention to how St Paul doesn’t make his argument is not based on historical or scientific proofs - and this isn’t because there is a lack of evidence. No not at all! Rather, St Paul makes a much more impactful argument, which is that ‘If you’re right, then our faith is useless, and we are all mislead and even liars!’ And More importantly, we are all still in our sins and under the bondage of death!</p>
+<p>Mes bien chers frères, j'aimerais que vous preniez en considération ce qui suit. Si quelqu'un en arrivait à réfuter la résurrection du Christ ou nous faire croire sans l'ombre d'un doute que le  Christ  n'est  jamais  revenu  du  séjour  des  morts,  alors  notre  foi  chrétienne toute  entière s'écroulerait.</p>
 <br>
-<p>St Paul finally makes the crucial point that in His resurrection - in His victory over death itself - that this is the way that the Lord offers life to all those who have been overcome by death:</p>
+<p>À vrai dire, la résurrection de Notre-Seigneur Jésus-Christ est, à elle seule, la raison d'être de la foi chrétienne. D'ailleurs, c'est saint Paul Apôtre qui l'a dit; pas moi. Voyez-vous, il y avait des  personnes  au  sein de  la  communauté  corinthienne  qui  prétendaient  que  la  résurrection du  Christ  n'avait  pas  eu  lieu  ou  qu'elle  était  sans  importance.  Et  lorsque  saint  Paul  eût entendu ceci, il était intervenu sur le champ en écrivant à ses enfants spirituels, afin de leur expliquer  que  la  résurrection  du  Seigneur était,  en  fait,  indispensable.  Saint  Paul  leur  avait expliqué  que  la  tradition  était  née  de  témoignages oculaires de  premier  plan. Allons  lire ensemble:</p>
 <br>
-<p><b><i>“20 But now Christ is risen from the dead, and has become the firstfruits of those who have fallen asleep. 21 For since by man came death, by Man also came the resurrection of the dead. 22 For as in Adam all die, even so in Christ all shall be made alive.</i></b><b><i>” (1 Corinthians 15: 20-22) </i></b></p>
+<p>« Je  vous  ai  enseigné  avant  tout,  comme  je  l'avais  aussi  reçu,  que  Christ  est  mort pour nos péchés, selon les Écritures; qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures; et qu'il est apparu à Céphas, puis aux douze.</p>
 <br>
-<p>And this is the point of Christianity - He came that we may have life - His life! So just as in Adam, our forefather, we have all inherited corruption, alienation from God, and ultimately death, in Christ Jesus, we are rendered incorrupt, our relationship with God is restored, and we are given life anew. To deny the resurrection, or act as if its no big deal, is so say that we are still in our former state of hopelessness.</p>
+<p>Ensuite,  il  est  apparu  à  plus  de  cinq  cents  frères  à  la  fois,  dont  la  plupart  sont encore vivants, et dont quelques-uns sont morts.</p>
 <br>
-<p>In the liturgy of St Basil that is prayed in the Coptic Orthodox Church, there is a very powerful sentence that strikes me every time I pray it. We say:</p>
+<p>Ensuite, il est apparu à Jacques, puis à tous les apôtres.</p>
 <br>
-<p><b><i>“He loved His own who were in the world, and, as a ransom on our behalf, gave Himself up unto death, [death] which reigned over us, whereby we were bound and sold on account of our sins.” [Liturgy of St Basil - Coptic Orthodox Rite]</i></b></p>
+<p>Après eux tous, il m'est aussi apparu à moi, comme à l'avorton; » (1 Corinthiens 15:3-8) Prenez  note  de l'accent que  met  saint  Paul sur  le  fait  que  la  mort  et  la  résurrection  du Seigneur sont toutes deux conformes aux Écritures. Il fait remarquer que ce ne sont pas des coïncidences ou le fruit du hasard, mais plutôt que ces événements étaient calculés depuis le début  des  temps  et  que les  Écritures les  avaient  annoncés, précisant  même qu'ils  étaient nécessaires. Puis il poursuit son explication en disant que l'apparition du Seigneur après sa mort n'était pas une rumeur, puisque des centaines de gens, y compris lui-même, avait vu le Seigneur vivant après qu'il eût été crucifié et mis au tombeau. Paul prévient ensuite que de nier la résurrection du Seigneur présente des dangers. Poursuivons la lecture:</p>
 <br>
-<p>I want us to notice how we speak here of death as if it were a tyrant that held us captive - “death which reigned over us” - “we were bound and sold”. And this is precisely how we perceive death - as an oppressor or monster of some sort, that enslaved humanity because all human souls, before the resurrection of Christ, were doomed to spend eternity in Hades. And so this monster called death needed to be destroyed - and who better to this than Him who is life! St Cyril of Alexandria addresses this by explaining this it is through the death of Christ, and His resurrection, that he defeats this enemy of humanity. Lets read together what St Cyril says:</p>
+<p>« Or,  si  l'on  prêche  que  Christ  est  ressuscité  des  morts,  comment  quelques-uns parmi vous disent-ils qu'il n'y a point de résurrection des morts?</p>
 <br>
-<p><b><i>“</i></b><b><i>For the sake of all he tasted death. Although by nature he was life and was himself the resurrection, he surrendered his own body to death. By his ineffable power he trampled upon death in his own flesh that he might become the firstborn from the dead and the first fruits of those who have fallen asleep…Even if the resurrection of the dead may be said to be through a man, the man we know it is through is the Word begotten of God. The power of death has been destroyed through him. </i></b><b><i>[St Cyril of Alexandria - Letter</i></b><b><i> 17.11</i></b><b><i>]</i></b></p>
+<p>S'il n'y a point de résurrection des morts, Christ non plus n'est pas ressuscité.</p>
 <br>
-<p>No wonder the resurrection is so important to us as Christians - it is the very fulfillment of the liberation of God’s people! He destroys the enemy by demonstrating that He is life - the very antidote of death. And when death came face to face, with the God-Man Jesus Christ - it was destroyed and lost its eternal grip on humanity. We were restored in His resurrection, and this why all Christians both die with Him, and rise with Him in the mystery of baptism - that we may all share in His victory over death.</p>
+<p>Et si Christ n'est pas ressuscité, notre prédication est donc vaine, et [notre] foi aussi est vaine.</p>
 <br>
-<p>So during this period of the glorious days of the resurrection, lets remember why we chant the anthem of Orthodoxy for 50 straight days: <b><i>“Chris is risen from the dead, trampling down death by death and upon those in the tombs bestowing life.”</i></b> It is because we believe that this is what restored our hope for true and eternal life. Lets also remember why we salute one another with the greeting of “Christ is risen” - it’s because of the importance and the power of the Lord’s victory and salvation.</p>
+<p>Il  se  trouve  même  que  nous  sommes  de  faux  témoins  à  l'égard  de  Dieu,  puisque nous  avons  témoigné  contre  Dieu  qu'il  a  ressuscité  Christ,  tandis  qu'il  ne  l'aurait pas ressuscité, si les morts ne ressuscitent point.</p>
 <br>
-<p>My beloved, for all these reasons, we celebrate the feast of the resurrection with great joy! It is truly the feast of feasts. For these reasons will not only celebrate a past event - rather we live a real, timeless, and everlasting victory as Christians - Khristos Anesti! Christ is risen my beloved. Glory be to the Risen Lord!</p>
+<p>Car si les morts ne ressuscitent point, Christ non plus n'est pas ressuscité.</p>
+<br>
+<p>Et  si  Christ  n'est  pas  ressuscité,  votre  foi  est  vaine,  vous  êtes  encore  dans  vos péchés, et par conséquent aussi ceux qui sont morts en Christ sont perdus.</p>
+<br>
+<p>Si  c'est  dans  cette  vie  seulement  que  nous  espérons  en  Christ,  nous  sommes  les plus malheureux de tous les hommes. » (1 Corinthiens 15:12-19) J'aimerais que nous prêtions attention au fait que les arguments de saint Paul ne s'appuient pas sur des preuves historiques ou scientifiques. Et ce n'est pas dû à un manque de preuves.</p>
+<br>
+<p>Pas  du  tout!  Saint  Paul  avance  un  argument  qui  a  beaucoup  plus  de  poids  en  disant:  si  ce que  vous  dites  est  vrai  et  que  notre foi  est  inutile,  que  nous  sommes  dupes, ou  même que nous mentons, c'est  parce que  nous  sommes  toujours  dans le  péché  et  que  nous  sommes les esclaves de la mort.</p>
+<br>
+<p>Saint Paul met le point final à son argumentation en affirmant que par sa résurrection et sa mort, le Seigneur offre la vie à tous ceux qui sont été anéantis par la mort:</p>
+<br>
+<p>« Mais  maintenant,  Christ  est  ressuscité  des  morts,  il  est  les  prémices  de  ceux  qui sont morts.</p>
+<br>
+<p>Car,  puisque  la  mort  est  venue  par  un  homme,  c'est  aussi  par  un  homme  qu'est venue la résurrection des morts.</p>
+<br>
+<p>Et comme tous meurent en Adam, de même aussi tous revivront en Christ... » (1 Corinthiens 15:20-22) Et  c'est  justement  la  raison  d'être  du  christianisme.  Il  est  venu  pour  nous  donner  la  vie,  sa vie. Ainsi, par l'entremise de notre ancêtre Adam, nous avons hérité de la corruption, avons été  séparés  de  Dieu,  et avons ultimement reçu  la  mort.  Maintenant,  grâce  à  Jésus,  nous redevenons exempts de corruption, notre relation avec Dieu est rétablie et nous connaissons de nouveau la vie. Le fait de nier la résurrection ou son importance, c'est dire que nous sommes toujours dans l'étant précédent, sans espoir, et voués à la mort.</p>
+<br>
+<p>Dans la liturgie de saint Basile que nous prions au sein de l'Église copte orthodoxe, il y a une phrase très percutante qui me fait réagir chaque fois que je la prie. La voici:</p>
+<br>
+<p>« Lui qui a tant aimé les siens qui sont dans le monde qu’Il s’est livré à la mort pour notre rédemption; cette mort qui régnait sur nous et qui nous tenait enchaînés à cause de nos fautes. » (Liturgie de saint Basile) - [traduction de la Paroisse Saint Mina et Saint Mercurious, Colombes, France] Répétons-le, ceci est tiré de la liturgie de saint Basile. J'aimerais vous faire remarquer que ce passage parle de la mort comme d'un tyran qui nous tenait captifs: cette mort qui régnait sur nous et qui nous tenait enchaînés à cause de nos fautes. Et c'est précisément la perception que  nous  en  avons:  un  oppresseur ou  un  monstre  quelconque  qui  asservissait l'humanité, puisque  toutes  les  âmes  humaines,  avant  la  résurrection  du  Christ,  étaient  condamnées  à vivre en enfer pour l'éternité.</p>
+<br>
+<p>Il fallait que ce monstre appelé la mort soit détruit. Et qui d'autre aurait pu le faire à part celui- là  même  qui  est  la  vie?  Saint  Cyrille  d'Alexandrie  nous  explique  ceci  en  disant  que  c'est grâce à la mort et à la résurrection du Christ que ce dernier a défait l'ennemi de l'humanité.</p>
+<br>
+<p>Allons lire ensemble ce que saint Cyrille a à nous dire sur le sujet:</p>
+<br>
+<p>« Il a goûté à la mort pour nous tous. Même s'il était la vie et la résurrection de par sa nature, il a abandonné son propre corps à la mort. Par sa puissance ineffable, il a foulé la mort dans sa chair, afin d'être le premier-né d'entre les morts et le premier fruit de ceux  qui  s'étaient  endormis...  Même  si on  dit  que la  résurrection  d'entre  les  morts s'est opérée par  l'entremise  d'un  homme,  nous  savons  que  celui  qui  l'a  vécue  est  le Verbe issu  de  Dieu.  La  puissance  de  la  mort  a  été  anéantie  par  lui.  »  (Saint  Cyrille d'Alexandrie, Lettre 17.11) - [traduction libre] On comprend pourquoi la résurrection est si importante au cœur des chrétiens! C'est elle qui a mené à l'épanouissement et à la libération du peuple de Dieu. Le Christ a détruit l'ennemi en  démontrant qu'il  est  la  vie  même,  l'antidote  contre  la mort.  Et  lorsque  la  mort  est  arrivée face à face avec le Dieu-homme qu'est Jésus-Christ, elle a été anéantie et a perdu son emprise éternelle sur l'humanité. Nous avons été restaurés par sa résurrection. Et c'est pourquoi tous les  chrétiens  meurent  avec  lui  et  ressuscitent  avec  lui  à  travers  le  sacrement  du  baptême, afin de vivre avec lui sa victoire sur la mort.</p>
+<br>
+<p>Durant  cette  glorieuse  période où  nous commémorons la  résurrection,  prenons  conscience de  la  raison  pour  laquelle  nous  chantons  l'hymne  de  notre  orthodoxie  pendant  50  jours: Le Christ est ressuscité des morts en écrasant la mort par la mort, donnant la vie à ceux qui sont descendus  dans  le sépulcre. C'est  grâce  à  tout ceci  que  nous  pouvons  vraiment  aspirer  de nouveau à la vie éternelle. Rappelons-nous aussi pourquoi nous nous saluons mutuellement en disant: le Christ est ressuscité. C'est pour souligner l'importance et la puissance de la victoire et du salut du Seigneur.</p>
+<br>
+<p>Mes bien chers frères, pour toutes ces raisons, c'est avec une grande joie que nous célébrons la  Fête  de  la  Résurrection.  C'est  vraiment  la  fête  des  fêtes.  Et pour  les  chrétiens, c'est  plus qu'une  simple  célébration  d'un événement  du  passé; c'est  une  véritable  victoire:  réelle, intemporelle et  éternelle. Xριστóς ανέστη!  (Hristós anésti!). Le  Christ  est  ressuscité,  mes frères. Gloire au Christ ressuscité!</p>
+<br>
+<p>Merci  d'avoir  regardé  cette  vidéo.  Ne manquez  pas  de  regarder  nos  vidéos  précédentes  en visitant et en vous abonnant à notre chaîne. Si cette vidéo vous a été bénéfique, partagez-la avec vos ami(e)s.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>

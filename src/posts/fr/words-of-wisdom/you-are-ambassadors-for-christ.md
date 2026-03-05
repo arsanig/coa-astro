@@ -6,7 +6,7 @@ lang: fr
 title: "You are ambassadors for Christ!"
 pubDate: 2021-12-23T23:11:48
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

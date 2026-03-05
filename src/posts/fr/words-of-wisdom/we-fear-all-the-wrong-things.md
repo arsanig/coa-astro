@@ -6,7 +6,7 @@ lang: fr
 title: "We Fear All The Wrong Things!"
 pubDate: 2020-10-25T23:33:38
 tags: ["wow"]
-author: "Fr. Kyrillos Mourad"
+author: "Père Kyrillos Mourad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

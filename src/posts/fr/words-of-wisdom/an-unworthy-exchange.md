@@ -6,7 +6,7 @@ lang: fr
 title: "An Unworthy Exchange"
 pubDate: 2023-08-11T12:00:50
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

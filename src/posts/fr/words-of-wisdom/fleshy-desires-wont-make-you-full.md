@@ -6,7 +6,7 @@ lang: fr
 title: "Fleshy desires won't make you full"
 pubDate: 2022-02-03T19:55:37
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

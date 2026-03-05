@@ -3,34 +3,46 @@ wp_id: 812
 videoId: "LLrKBFt1Rxc"
 imgSrc: /assets/thumbnails/LLrKBFt1Rxc.webp
 lang: fr
-title: "If I am predestined to bad/good works, why does God judge me?"
-pubDate: 2017-03-21T22:55:13
+title: 'Si je suis prédestiné à faire de bonnes ou mauvaises œuvres, pourquoi Dieu me juge-t-il?'
+pubDate: 2017-03-21T22:55:13.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p><strong>If God already knows what I am going to do in the future then why does He judge me on my actions?If He knows I will commit sins then why does He judge me on them? Similarly, if He knows what I’m going to pray about then why am I actually praying? Why do I go through the motions of life and not let things happen as God willed them to be.</strong></p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>All these questions address the issue of man’s free will in the face of God’s foreknowledge.</p>
+<p>Si Dieu sait déjà ce que je vais faire, pourquoi me juge-t-il sur ce que je fais? S'il sait que je vais commettre la faute X ou Y, pourquoi me juge-t-il sur ces fautes? Et s'il connaît à l'avance ce  pourquoi  je  vais  prier,  pourquoi  dois-je  quand  même  prier?  Toutes ces  questions supposent  que Dieu  sait  tout  d'avance  et  que  je  n'ai  pas  d'autre  choix  que  de  faire  ces choses, mais où est mon libre arbitre dans tout ça? Et pourquoi me soumettre aux aléas de la vie?  Pourquoi  même  me  donnerais-je la  peine  de  participer  à cette  vie?  Pourquoi ne  pas laisser  les  choses  aller  et  laisser  Dieu  planifier  ma  vie entière, telle qu'il  l'a  éventuellement écrite  dans  son  grand  livre?  Ce  sont  là  de  très  bonnes  questions,  mais  elles  ont  toute une seule réponse en commun.</p>
 <br>
-<p>These questions are leading towards discussing the difference between foreknowledge and predestination. When we say someone is predestined to something, it is often perceived that the life of that individual is written down for him. That is actually not the case. <strong>Events do not happen because God knows them, on the contrary God knows them because they happen.</strong></p>
+<p>Ainsi,   nous   abordons   la   fameuse   question   de   la   prescience   de   Dieu   et   de   notre prédestination.  Lorsque  les  gens  entendent  dire  que  nous  sommes  prédestinés  à  quelque chose,  ils interprètent mal  ce  que  cela  signifie  et  pensent que leur vie  est  écrite  à  l'avance, mais ce n'est pas le cas. Les choses n'arrivent pas parce que Dieu les connaît d'avance, non!</p>
 <br>
-<p>A person may believe that his/her life story is written by God and that he/she has to abide by what’s written by Him. That’s not how it works though. Since God is beyond (or greater than) time (so God does know what my story is like) He isn’t the one doing the writing, it is actually me who is doing that by practicing my own free will. The fact that God knows how I’m writing my story is what we call foreknowledge.</p>
+<p>En réalité, Dieu les connaît parce qu'elles arrivent. Et qu'est-ce que ça veut dire? Je vais vous donner deux exemples...</p>
 <br>
-<p>In God’s foreknowledge He predestines me. In other words, if God foreknows I’m about to do something good He will predestine (help me, guide me, support me and direct me) me to do it (because He knows my intention).</p>
+<p>Pour le premier exemple, je reviens à l'idée du grand livre où tout est écrit... Les gens pensent que Dieu y écrit l'histoire de leur vie et qu'ils doivent ensuite respecter ce qui est écrit, mais ce  n'est  pas  comme  ça  que  les  choses  se  passent.  Dans  les  faits,  puisque Dieu  est  au- dessus du temps, il sait ce qui est écrit dans ce livre, mais ce n'est pas lui qui écrit l'histoire; c'est moi qui l'écris, de mon propre chef. Mais puisque Dieu sait ce que j'écris, on dit qu'il en a la prescience. Il est au-dessus du temps; il me voit. Il sait que je vais faire ceci ou cela.</p>
 <br>
-<p><strong>Predestination is explained by St Paul in Romans 8:28-30: “And we know that all things work together for good to those who love God, to those who are the called according to His purpose. For whom He foreknew, He also predestined to be conformed to the image of His Son, that He might be the firstborn among many brethren. Moreover whom He predestined, these He also called; whom He called, these He also justified; and whom He justified, these He also glorified”</strong></p>
+<p>Ainsi, par sa prescience, il me prédestine. Et qu'est-ce que ça signifie? Puisqu'il sait quand je suis sur le point de faire une bonne chose, il me dit: Je veux que tu utilises ce que tu fais de bien pour le salut des autres, alors vas-y, fais-le. Je te prédestine à le faire, puisque je sais d'avance ce que tu vas faire.</p>
 <br>
-<p><strong>I have been glorified because I have been justified, because I have been called, because I have been predestined, because God foreknew that I will choose Him. God’s entire plan for me is based on my choice of actually choosing Him.</strong></p>
+<p>Voici  un  autre  exemple.  Imaginez  que  vous  être  en  train  de  regarder  un  film,  que  vous  le mettez sur pause et que vous repassez plusieurs fois la même scène. En faisant cela, c'est comme si vous étiez en train de jouer le rôle de Dieu. Vous regardez la scène du film, mais puisque vous l'avez déjà vue, vous savez d'avance ce qui va se passer.</p>
 <br>
-<p><strong>What about people that choose evil? Does God predestine them, in the same way we explained earlier, to do evil?</strong></p>
+<p>Vous regardez les acteurs faire ce que vous attendez d'eux, mais êtes-ce vous qui contrôlez les  acteurs?  Non,  mais  vous  savez  que  qu'ils  vont  faire,  parce  que  vous  avez  vu  la  scène plusieurs fois  déjà.  De  la  même  façon,  Dieu,  puisqu'il  est  au-dessus  du  temps,  voit  et  sait d'avance ce que vous allez faire, alors pour lui, vous êtes prédestinés à faire ces choses. En réalité,  c'est  moi  qui  contrôle  ma  vie,  pas  Dieu.  Dieu  est  amour.  Il  m'offre le libre  choix  de l'aimer  en  retour  et  il  me  dit: Choisis-moi,  choisis  de  faire  le  bien.  Si  je  désire  faire  le  bien, Dieu me supportera, m'aidera et me dirigera dans cette bonne action. Encore une fois, cette idée de prédestination est expliquée au chapitre 8 de l'Épître aux Romains, versets 28 à 30.</p>
 <br>
-<p><strong>John 3:16 is very clear in saying that Christ was sent to save the entire world. It is not the will of God for people to do evil. If someone chooses to do evil God allows him to do so because of that person’s free will however it is not the will of God for that person to do evil. God’s will for that person is in fact for him to be saved.</strong></p>
+<p>C'est saint Paul qui parle:</p>
 <br>
-<p>Moving on to prayer, do we still need to go through the motion of prayers if God already knows how things will turn out? The answer is yes because if God knows that I will pray (because of His foreknowledge), He will act based on those prayers. For example if I pray to God with regards to an important decision I need to make, God will answer my prayers by steering me towards the right decision. God will put, in a specific time frame, an answer to those prayers. If I don’t pray then I shouldn’t expect an answer from God.</p>
+<p>« Nous  savons,  du  reste,  que  toutes  choses  concourent  au  bien  de  ceux  qui  aiment Dieu, de ceux qui sont appelés selon son dessein. [Ce verset semble dire qu'il y a une raison pour que certaines personnes soient interpelées, mais il clarifie ensuite en disant:] Car  ceux  qu'il  a  connus  d'avance,  il  les  a  aussi  prédestinés  à  être  semblables  à l'image de son Fils... [Donc, Dieu a prédestiné ceux qu'il connaissait d'avance, n'est-ce pas? Puis, il poursuit avec le verset 30:] Et  ceux  qu'il  a  prédestinés,  il  les  a  aussi  appelés;  et  ceux  qu'il  a  appelés,  il  les  a aussi justifiés; et ceux qu'il a justifiés, il les a aussi glorifiés. » (Romains 8:28-30) J'ai donc été glorifié, après avoir été justifié, après avoir été appelé, après avoir été prédestiné, après  que  Dieu  ait  vu  d'avance  que  je  le  choisirais.  Ainsi,  tout  ce  plan  de  Dieu  repose  sur mon  choix  de  le  suivre.  Et  qu'en  est-il  de  ceux  qui  choisissent  de  faire  le  mal?  Est-ce  que Dieu les prédestine à cela aussi, selon notre compréhension des choses?</p>
 <br>
-<p><strong>Remember know your faith, live your faith and</strong></p>
+<p>Le chapitre 3, verset 16 de l'Évangile selon saint Jean est très clair. Dieu a envoyé son Fils unique pour le salut du monde entier. Dieu ne souhaite pas que les gens fassent le mal. Si quelqu'un  est  affecté  d'avance  ou  prédestiné  à  faire  le  mal, cela  ne  suit  pas  notre  schème habituel  de  pensée.  Ce n'est  pas  comme  si  Dieu  avait  voulu  qu'il fasse le  mal,  pas  du  tout!</p>
 <br>
-<p><strong> teach your faith</strong></p>
+<p>Dieu  désire  le  salut  de  cette  personne,  mais  puisqu'elle  a  choisi  de  faire  le  mal,  Dieu  lui permet de faire le mal. En revanche, si c'était lui qui décidait, il voudrait que cette personne fasse le bien.</p>
+<br>
+<p>Quelle place doit-on accorder à la prière dans tout ça? Ai-je vraiment besoin de prier ou est- ce que les choses vont éventuellement arriver comme prévu? Eh bien, si, par sa prescience, Dieu sait d'avance le contenu de mes prières, il va agir d'après ces prières. Par exemple, si j'adresse  une  prière  à  Dieu pour  qu'il  m'aide  à prendre  une  décision  importante,  Dieu s'appuiera  sur  ma  prière  pour  me  guider  et  me  diriger.  Il  déterminera  un  temps  précis  pour me répondre. Par sa préscience, il me fournira une réponse, sachant que j'ai prié en ce sens.</p>
+<br>
+<p>Et il me fournira cette réponse au moment opportun, tel que je l'ai demandé dans ma prière.</p>
+<br>
+<p>Mais  si  je  ne  prie  pas,  la  réponse  ne  viendra  pas.  Inutile  de  m'attendre  à  une  réponse  de Dieu  si  je  ne  le  prie  pas.  J'en  obtiendrai  une si  je  prie.  La  prière  est  donc  d'une  extrême importance. Et oui, je vais effectivement obtenir la réponse à ma prière.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>

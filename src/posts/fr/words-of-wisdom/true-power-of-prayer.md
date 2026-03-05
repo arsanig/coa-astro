@@ -6,7 +6,7 @@ lang: fr
 title: "True Power of Prayer"
 pubDate: 2023-12-22T12:00:08
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -3,68 +3,76 @@ wp_id: 4211
 videoId: "vjSG7lxdsBM"
 imgSrc: /assets/thumbnails/vjSG7lxdsBM.webp
 lang: fr
-title: "Do we believe in the devil, in demonic possession, and in exorcism?"
-pubDate: 2023-11-29T12:00:48
+title: 'Do we believe in the devil, in demonic possession, and in exorcism?'
+pubDate: 2023-11-29T12:00:48.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Croyons-nous  vraiment  au  diable?  N'est-ce  pas  dépassé  de  croire aux  gens  possédés  du démon  et  à  l'exorcisme?  Maintenant  que nous savons  que les problèmes de  santé mentale sont bien réels, l'Église ne devrait-elle pas abandonner les croyances démodées à propos du diable  et des démons?  Si  vous  avez  déjà  entendu ces arguments en  vous  demandant comment l'Église réagit à de telles d'attaques, demeurez des nôtres: cette vidéo s'adresse à vous.</p>
 <br>
-<p>Isn’t believing in demonic possession and exorcism outdated? Now that we know of real mental health challenges, shouldn’t the church drop these outdated ideas of believing in the devil and demons? If you’ve ever heard these forms of arguments made, and if you’ve ever wondered what the church answers to such accusation, then this video is for you.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>What does the Church believe about demonic possession and exorcisms? Are these still relevant issues that the Church has to deal with? The simple and easiest answer is - you better believe it! Demonic possession and satanic attacks are very real, and the Holy Church continues to minister to people who suffer at the hands of demons every single day.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Its important to note that unfortunately, many people, and even some Christians today would like to ignore the reality of demonic warfare by simply labeling it as mental health issues. These same people accuse the church of being outdated and even scold clergy who talk of exorcisms as if they are misleading people to believe in things that they claim to be irrational. And when we speak to such people and dig a little deeper, you discover that they simply don’t believe in the devil. While they might claim to believe in Holy Scripture, they believe the idea of the devil was simply made up to control the masses and that no such being actually exists. Well the simple rebuttal to all this the following: you cannot possibly claim to believe in the Holy Bible and not believe in the devil and his legions of demons. Period.</p>
+<p>Quelles sont  les  croyances  de  l'Église en  matière  d'exorcisme  et de gens  possédés  du démon? Croyez-vous vraiment qu'il existe un être qu'on appelle le diable? L'Église considère- t-elle que ces problèmes sont toujours des enjeux pertinents auxquels elle est confrontée? La réponse  la  plus  simple  et  la  plus  facile  à  cette  question  est: sans aucun  doute! Les  gens possédés  et  les  assauts  sataniques  sont  bien  réels  et chaque  jour  que  Dieu  fait,  la  Sainte Église doit traiter avec des personnes qui sont aux prises avec des démons.</p>
 <br>
-<p>Scripture is clear that the devil is in enmity with God and us, and that he and his legions desire our fall and separation from God.</p>
+<p>C'est malheureux, force est de le préciser, que de nombreuses personnes, même parmi les Chrétiens, cherchent à contourner l'idée d'une guerre démoniaque en lui collant l'étiquette de problème de santé mentale. Ces mêmes personnes accusent l'Église d'être vieux jeu et vont même jusqu'à réprimander le clergé quand il ose parler d'exorcisme, car selon eux, il cherche à faire croire à des phénomènes complètement absurdes. Et lorsqu'on fait une analyse plus approfondie  de ces  personnes,  on  découvre tout  simplement qu'elles ne  croient  pas  au diable. D'un côté, elles clament qu'elles croient aux Saintes Écritures, et de l'autre, elles nient l'existence  du diable et  prétendent  que  ce n'est  qu'un  subterfuge inventé de  toutes  pièces dans le but de contrôler les masses.</p>
 <br>
-<p>In Genesis chapter 3 we are introduced to the serpent whom the Lord curses:</p>
+<p>Eh  bien,  tout  ce  qu'on  peut  répondre  à  cela,  c'est  qu'on  ne  peut  prétendre  de  croire  aux Saintes  Écritures  sans  croire  aussi  au  diable  et  à  ses  légions.  Les  Écritures  sont  claires: le diable  est  empreint  d'hostilité  envers  Dieu  et  nous-mêmes,  et  ses  légions  n'ont  d'autre  but que de nous faire tomber et de nous séparer de Dieu. Le chapitre 3 de la Genèse nous présente le serpent que le Seigneur maudit:</p>
 <br>
-<p>“I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.” (Genesis 3:15)</p>
+<p>« Je  mettrai  inimitié  entre  toi  et  la  femme,  entre  ta  postérité  et  sa  postérité:  celle-ci t'écrasera la tête, et tu lui blesseras le talon. » (Genèse 3:15) Plus  loin,  Jean  l'évangéliste,  dans  l'Apocalypse,  décrit  ce  même  serpent  comme  étant  un grand dragon:</p>
 <br>
-<p>Later on John the Evangelist in the book of revelation describes this same serpent as the great dragon:</p>
+<p>« (...) il  fut  précipité,  le  grand  dragon,  le serpent  ancien,  appelé  le  diable  et  Satan, celui qui séduit toute la terre... » (Apocalypse 12:9) Le Seigneur Jésus lui-même, alors qu'il s'adressait à ses disciples, a confirmé son existence en disant ceci:</p>
 <br>
-<p>“…the great dragon was cast out, that serpent of old, called the Devil and Satan, who deceives the whole world…” (Revelation 12:9)</p>
+<p>« (...) Je voyais Satan tomber du ciel comme un éclair. » (Luc 10:18) Et  saint  Pierre  enseigna ce  qui  suit,  afin  de  nous inviter, nous  tous  en  tant  que  croyants,  à demeurer prudents:</p>
 <br>
-<p>The Lord Jesus himself, when speaking to His disciples, confirms his existence by saying:</p>
+<p>« Soyez  sobres,  veillez.  Votre  adversaire,  le  diable,  rôde  comme  un  lion  rugissant, cherchant qui il dévorera.</p>
 <br>
-<p>“I saw Satan fall like lightning from heaven.” (Luke 10-18)</p>
+<p>Résistez-lui... » [dit saint Pierre] (1 Pierre 5:8-9) Tous ces versets, et plusieurs autres encore, indiquent clairement que le diable existe. Ainsi, de refuser d'y croire et de nier son existence équivaut à contredire les Saintes Écritures.</p>
 <br>
-<p>And again, St Peter warns all believers to be careful by teaching:</p>
+<p>Ceci dit, qu'en est-il de l'exorcisme et des gens possédés du démon? Ces phénomènes sont- ils bien réels ou s'agit-il de personnes qui souffrent de maladies mentales? Encore ici, nous devons faire appel aux Écritures. En étudiant les Évangiles, on estime que près du tiers des miracles que Jésus a faits visaient à exorciser des gens aux prises avec un démon. Pour être clair,  Jésus  a  fait  de  nombreux  miracles dans  le  but  de  guérir  des  personnes  d'un  malaise physique, ce qui représente un type précis d'intervention. Un autre type d'intervention comprend les  gens  possédés  du  démon.  Pourquoi  donc  les  gens  confondent-ils  les  interventions  de Jésus auprès des personnes possédées avec celles où il ne fait que soulager les souffrances de gens atteint d'une maladie quelconque?</p>
 <br>
-<p>“Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour. Resist him…” (1 Peter 5:8)</p>
+<p>En fait, les Évangiles eux-mêmes rapportent que même les démons qui ont déjà possédé des gens parlent du Christ et en témoignent. On en a un bel exemple dans l'Évangile selon saint Matthieu qui  raconte  que le  Seigneur a  fait  la rencontre d'hommes  possédés qui vivaient dans leur sépulcre. Allons lire ensemble:</p>
 <br>
-<p>All of these verses, and many more like them, clearly point to the existence of the devil. So to not believe in him, and deny his very existence, is to stand against the Holy Scriptures.</p>
+<p>« Lorsqu'il  fut  à  l'autre  bord,  dans  le  pays  des  Gadaréniens,  deux  démoniaques, sortant  des  sépulcres,  vinrent  au-devant  de  lui.  Ils  étaient  si  furieux  que  personne n'osait passer par là.</p>
 <br>
-<p>But what about demonic possessions and exorcisms - are they real, or is it simply people who suffer with mental illnesses? Well again, let’s turn to scripture. It is estimated that when studying the gospels, almost one third of Jesus miracles and healings were directed towards exorcising demons. Now to be clear, Jesus performed many miracles where he healed people of their bodily ailments, and that is a category on its own. Just as demonic possession is also its own category. Why then would anyone believe that Jesus’ direct ministry of liberating people from demonic possession be confused with him dealing with people who are suffering from certain forms of illnesses. In fact, the gospels themselves witness that even the demons themselves who had possessed the people, even they speak up and witness to Christ.</p>
+<p>Et voici, ils s'écrièrent: Qu'y a-t-il entre nous et toi, Fils de Dieu? Es-tu venu ici pour nous tourmenter avant le temps?</p>
 <br>
-<p>A great example of this is found in the gospel of Matthew, where the Lord encounters men who were demon possessed and even living in the tombs. Let’s read together:</p>
+<p>Il y avait loin d'eux un grand troupeau de pourceaux qui paissaient. [Et] les  démons  priaient  Jésus,  disant:  Si  tu  nous  chasses,  envoie-nous  dans  ce troupeau de pourceaux.</p>
 <br>
-<p>28 When He had come to the other side, to the country of the Gergesenes, there met Him two demon-possessed men, coming out of the tombs, exceedingly fierce, so that no one could pass that way. 29 And suddenly they cried out, saying, “What have we to do with You, Jesus, You Son of God? Have You come here to torment us before the time?”</p>
+<p>Il leur dit: Allez!... » (Matthieu 8:28-32) En  étudiant  ce  texte, tout  comme plusieurs  autres  d'ailleurs,  il  est  évident  que  les  démons reconnaissent  la  grandeur  du  Christ.  Ils vont  même  jusqu'à l'appeler Fils  de  Dieu et à se soumettre à  ses  ordres  et à son  autorité.  La  fin  de  l'extrait  explique  aussi  que  les  esprits impurs et démoniaques furent envoyés dans le troupeau de pourceaux et qu'ils furent noyés.</p>
 <br>
-<p>30 Now a good way off from them there was a herd of many swine feeding. 31 So the demons begged Him, saying, “If You cast us out, permit us to go away into the herd of swine.” 32 And He said to them, “Go.” (Matthew 8:28-32)</p>
+<p>Le Seigneur n'aurait pas agi de la sorte s'il avait été en présence de maladies mentales. De toute  évidence, l'auteur  de  cet  Évangile  a  voulu fidèlement relater cette curieuse rencontre entre le Seigneur Jésus et les démons déchus, ainsi que leur échange.</p>
 <br>
-<p>When studying this text, and many others like it, it is clear that the demons recognize the greatness of Christ. They even call Him “Son of God” and are subject to his very command and authority. The end of the passage even describes how the unclean demonic spirits were cast into the heard of swine and were drowned. The Lord would not have done so if this was simply a case of mental illness. Clearly the gospel writer wanted to faithfully convey this intriguing encounter and exchange between the Lord Jesus and these fallen demons.</p>
+<p>Ce même pouvoir du Christ fut transmis à l'Église par le Seigneur lui-même, via les apôtres.</p>
 <br>
-<p>Now it is this same authority of Christ that Lord himself hands down to the Church through the apostles. The Lord had sent them out two by two to spread the gospel and upon their return, they witness saying:</p>
+<p>Le  Seigneur  les  a  envoyés  deux  par  deux  pour  qu'ils  répandent  le  message  de  l'Évangile.</p>
 <br>
-<p>“Lord, even the demons are subject to us in Your name.” (Luke 10-17)</p>
+<p>Lorsqu'ils sont revenus de leur mission, ils ont rendu le témoignage suivant:</p>
 <br>
-<p>It is here that we first see the beginning of how the Lord bestows upon the Church the gift of being able to exorcise demons and to liberate those who are tormented by demonic attacks. And this gift, given to Church until today that all glory may be given to God who has given us the authority to cast out Satan. St Cyril of Alexandria explains this beautifully by saying the following:</p>
+<p>« (...) Seigneur, les démons mêmes nous sont soumis en ton nom. » (Luc 10:17) C'est  ici  que  nous  voyons  pour  la  première  fois  le  Seigneur  conférer  à  l'Église  le pouvoir d'exorciser les démons et de libérer ceux qui sont tourmentés par leurs attaques. Ce pouvoir lui fut accordé jusqu'à ce jour, afin que toute gloire soit rendue à Dieu, lui qui nous a fourni le moyen  de  chasser  Satan.  Saint  Cyrille  d'Alexandrie  a  une  très  belle  façon  d'expliquer  ceci.</p>
 <br>
-<p>“The authority that they [the apostles] carried to rebuke evil spirits and the power of crushing Satan was not given to them that they might be regarded with admiration. It was given to them so that Christ would be glorified by their means. Those whom they taught would believe that he was by nature God and the Son of God. He was invested with so great glory and supremacy and might, as to be even able to bestow upon others the power of trampling Satan under their feet.” [St Cyril of Alexandria - COMMENTARY ON LUKE, HOMILY 64]</p>
+<p>Voici ce qu'il dit:</p>
 <br>
-<p>It was not of their own power that they were casting out demons, but rather by the power of God who is creator and master over all beings. And in being obedient to Him and calling on His name, the apostles - and now even the Church - casts out demons so that all glory may be given to God!</p>
+<p>« Le  pouvoir  dont  ils [les  apôtres] se  servent  pour  réprimander  les  mauvais  esprits et écraser Satan ne leur a pas été conféré dans le but d'être admirés. Il leur fut accordé, afin  que le  Christ  soit glorifié  à  travers  leurs actions.  Ceux  à  qui ils  ont  enseigné  ont cru  en  la  nature  divine  de  Dieu  et  du  Fils  de  Dieu.  Ce  dernier  était  investi  de tant  de gloire, de suprématie et de puissance qu'il confia à d'autres le pouvoir d'écraser Satan sous leurs pieds. » (Saint Cyrille d'Alexandrie, Commentaire sur Luc, Homélie 64) - [traduction libre] Voyez-vous, ce n'était pas eux qui détenaient le pouvoir de chasser les démons. C'était plutôt le  pouvoir  de  Dieu,  Créateur  et  Maître  de  tous  les  êtres  vivants.  En  lui  obéissant  et  en prononçant son nom, les apôtres, et maintenant l'Église, chassent les démons, afin que toute gloire soit rendue à Dieu.</p>
 <br>
-<p>We later see in Scripture how Christ himself gave this power and ability to the Apostles when establishing the Church after His resurrection. He tells them in the gospel of St Mark:</p>
+<p>Un peu plus loin dans les Écritures, on peut voir que le Christ lui-même a donné ce pouvoir et cette faculté aux apôtres lorsqu'il a fondé l'Église après qu'il eût été ressuscité. Voici ce qu'il leur dit, d'après l'Évangile selon saint Marc:</p>
 <br>
-<p>“And these signs will follow those who believe: In My name they will cast out demons; they will speak with new tongues; 18 they will take up serpents; and if they drink anything deadly, it will by no means hurt them; they will lay hands on the sick, and they will recover.” (Mark 16:17-18)</p>
+<p>« Voici  les  miracles  qui  accompagneront  ceux  qui  auront  cru:  en  mon  nom,  ils chasseront les démons; ils parleront de nouvelles langues; ils  saisiront  des  serpents;  s'ils  boivent  quelque  breuvage  mortel,  il  ne  leur  feront point de mal; ils imposeront les mains aux malades, et les malades, seront guéris. » (Marc 16:17-18) Les apôtres eux-mêmes ont transmis ces dons de l'Esprit Saint à leur propres disciples, les chefs de l'Église, afin que l'Esprit Saint puisse poursuivre son œuvre à travers la succession apostolique. Écoutez bien cet extrait tiré des Constitutions apostoliques, lesquelles nous ont été transmises de génération en génération par les apôtres de Notre-Seigneur Jésus-Christ:</p>
 <br>
-<p>The Apostles themselves then took these gifts and handed them down to their own disciples, the leaders of the Church, that the Holy Spirit may continue his work through apostolic succession. Listen to the following passage from the Apostolic Constitutions, handed down to us by the very apostles of our Lord Jesus:</p>
+<p>« Ces dons [ceux dont on fait mention au chapitre 16 de l'Évangile selon saint Marc] nous ont d'abord été confiés à nous, les apôtres, alors que nous nous apprêtions à prêcher l'Évangile à tous les hommes. Plus tard, ils furent nécessairement octroyés à d'autres qui, grâce aux apôtres, étaient devenus des croyants. Ces dons n'ont pas été accordés pour  avantager  ceux  qui  allaient  s'en  servir,  mais  pour  convaincre  les  non-croyants, ceux  que  la parole  n'avait  pas  suffi  à  persuader,  afin  que  la  puissance  des  miracles puisse les humilier. » (Constitutions apostoliques) - [traduction libre] Ce pouvoir d'exorciser les démons qui possèdent et tourmentent les gens a persisté jusqu'à ce  jour  au  sein  de  la  Sainte  Église  et  l'on  s'en  sert  pour  libérer  les  gens  de  cette  forme  de souffrance spirituelle, laquelle est beaucoup plus fréquente qu'on le croit.</p>
 <br>
-<p>“These gifts [as mentioned in Mark 16] were first bestowed on us the apostles when we were about to preach the gospel to every creature. Later they of necessity were afforded to others who had by the apostles come to believe. These gifts were not given for the advantage of those who perform them, but for the conviction of the unbelievers, that those whom the word did not persuade, the power of signs might put to shame.” [Apostolic Constitutions]</p>
+<p>Alors si certains hésitent encore à croire en l'existence du diable ou qu'ils ont fini par croire que l'exorcisme  et les  gens  possédés  tiennent  de  la  fiction, c'est  qu'ils  ont  été  dupés.  Le malin continue de faire la guerre à toute l'humanité, car l'idée que tous les humains aient été créés à l'image et à la ressemblance de Dieu le répugne.</p>
 <br>
-<p>This gift of exorcising demons that possess and torment people, is preserved in the Holy Church until today, and is being used to free people from this form of spiritual suffering much more commonly than many might believe.</p>
+<p>Nous  ne  réalisons  peut-être  pas  à  quel  point  nous  sommes  opprimés  par  les  démons  qui nous entourent, mais il est clair que le diable travaille avec acharnement, afin d'en arriver à posséder et oppresser le plus grand nombre d'enfants de Dieu que possible. Bien que seules certaines  personnes  de  l'Église  possèdent  le  don  d'exorciser  (car  ce  don  de  l'Esprit  Saint n'est pas donné à tout le monde), nous pouvons tout de même prendre part au combat.</p>
 <br>
-<p>And so, if anyone out there still hesitates to believe in the devil, or has come to believe that demonic possession and exorcism aren’t real, then they have been deceived. The evil one continues to wage war against all humanity because he is repulsed by the fact that all humans are created in God’s image and likeness. And while we might not realize how much demonic oppression surrounds us, it is clear that the devil is hard at work attempting to ‘possess’ and oppress as many of God’s children as possible. Now, while only some in the church have the gift of Exorcism - because its is indeed a gift of the Holy Spirit not given to all - we can still do our part in fighting the good fight. Our calling is to be like to apostles - to go out into the world and with the name of Jesus reclaim all of creation back to God - starting with our hearts. Let us offer ourselves to God and ask him to liberate and free us of all that might oppress and enslave our souls. And in so doing, may we also, like the apostles, come running back to Him, excited to have participated in the work of the kingdom of God.</p>
+<p>Nous sommes invités à faire comme les apôtres: aller de par le monde au nom de Jésus et ramener toute la création vers Dieu, en commençant par notre cœur. Offrons-nous à Dieu et demandons-lui de nous libérer de tout ce qui pourrait nous oppresser et asservir notre âme.</p>
+<br>
+<p>Ce faisant, nous pourrons aussi, tout comme les apôtres, nous empresser de revenir vers lui, heureux d'avoir participé à l'œuvre même du royaume de Dieu.</p>
+<br>
+<p>Merci  d'avoir  regardé  cette  vidéo.  Ne manquez  pas  de  regarder  nos  vidéos  précédentes  en visitant et en vous abonnant à notre chaîne. Si cette vidéo vous a été bénéfique, partagez-la avec vos ami(e)s.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>

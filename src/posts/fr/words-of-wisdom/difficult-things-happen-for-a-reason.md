@@ -6,7 +6,7 @@ lang: fr
 title: "Difficult things happen for a reason"
 pubDate: 2023-11-10T12:00:20
 tags: ["wow"]
-author: "Fr. Elijah Iskander"
+author: "Père Elijah Iskander"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

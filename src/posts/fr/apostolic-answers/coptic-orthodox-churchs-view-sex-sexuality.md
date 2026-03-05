@@ -3,54 +3,74 @@ wp_id: 829
 videoId: "zoz170ynjsQ"
 imgSrc: /assets/thumbnails/zoz170ynjsQ.webp
 lang: fr
-title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?"
-pubDate: 2017-04-05T01:02:14
+title: 'Le sexe et la sexualité - Partie 1: Quel est le point de vue de l''Église copte orthodoxe en matière de sexe et de sexualité?'
+pubDate: 2017-04-05T01:02:14.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>This is a loaded question and many people will shy away from it due to the sensitivity surrounding the subject.  <strong>Sex has, unfortunately, become something that is extremely misunderstood and poorly portrayed in mainstream media.</strong>  Because of this the average Christian would rather treat the subject as an elephant in the room and act that it isn’t there.  Sex and sexuality however is a topic that needs to be addressed.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p><strong>We need to clarify that the Bible and the Church teach that Sexuality </strong><strong>is one of God’s blessed gifts to humanity.  </strong>We often deal with sexuality as if it is evil. In reality, when properly expressed within the mystery of marriage, sexuality becomes something beautiful and an intimate expression of the love that God has placed inside of us.</p>
+<p>Quel est le point de vue de l'Église copte orthodoxe en matière de sexe et de sexualité? Voilà une question embarrassante que plusieurs tentent souvent d'éviter, compte tenu de la nature sensible associée au  thème  de la  sexualité. Malheureusement,  le  sexe  est  devenu  un  sujet extrêmement mal compris que les médias traditionnels illustrent de façon très peu élogieuse.</p>
 <br>
-<p><strong>The Orthodox Church clearly says that sex and sexuality serve three major purposes within the marital relationship between a husband and a wife:</strong></p>
+<p>Par conséquent, le chrétien moyen a tendance à se sentir dépassé dès qu'on aborde le sujet.</p>
 <br>
-<p><strong>1) To express the intimate and passionate love to one another </strong></p>
+<p>C'est gros, c'est énorme, ça dérange, si bien qu'on finit par faire comme si ça n'existait pas, mais le sujet est bien réel et il faut l'aborder.</p>
 <br>
-<p><strong>2) To help the believer fight the passions of lust that we face in a very sex saturated society </strong></p>
+<p>D'entrée de jeu, soyons très clairs sur les préceptes de notre foi. La sexualité est un don de Dieu,  un  cadeau  béni  de  Dieu.  Trop  souvent,  nous  traitons  la  sexualité  comme  si  c'était quelque  chose  de  mal en  soi,  alors  qu'en  réalité,  lorsque exprimée adéquatement  dans  le cadre du sacrement du mariage, elle devient une très belle chose, une expression intime de l'amour que Dieu a mis en nous.</p>
 <br>
-<p><strong>3) To give way to the gift of procreation</strong></p>
+<p>L'Église orthodoxe dit clairement que le sexe et la sexualité assument trois fonctions majeures au sein des relations entre un mari et son épouse.</p>
 <br>
-<p>In this video we will tackle the first two points and we will leave the subject of procreation to another time.</p>
+<p>Premièrement: Exprimer l'amour intime et passionné qu'ils éprouvent l'un pour l'autre.</p>
 <br>
-<p>[It is important before going further to understand the two terms passion and lust.  The viewer needs to watch the previous videos discussing those terms, before this video.  This will help the viewer properly understand what is meant by human sexuality vs the passion of lust.]</p>
+<p>Deuxièmement: Aider le croyant à combattre la passion de luxure qui nous est transmise par une société saturée de sexe.</p>
 <br>
-<p>Before we attempt to tackle the first two purposes of sex (mentioned earlier) we need to ask two questions.</p>
+<p>Et la dernière, mais non la moindre: Ouvrir la voie au cadeau qui nous est donné de pouvoir procréer.</p>
 <br>
-<p>Why do some people have such a negative outlook on sexuality? And if we think that sexuality is something bad and sinful, then how can God be the author of human sexuality?</p>
+<p>Cette vidéo traitera des deux premières fonctions et nous discuterons de la procréation plus tard, dans une autre vidéo.</p>
 <br>
-<p>Let us make something clear.  <strong>Everything that is created by God (specifically </strong>those<strong> attributes that relate to the image of God which all human were created on) is not just good but is <u>very good</u> </strong><strong>(Genesis 1:31</strong><strong>).</strong>  This means that when the human being uses and expresses all the God given faculties in a <strong>proper way as intended by God</strong>, <strong>in the proper time and proper place,</strong> these things lead to <strong>edification and even to salvation.  </strong>This includes the expression of love through the means of marital relations and sexuality.</p>
+<p>Avant de continuer notre présentation d'aujourd'hui, il est important de préciser aux gens qui nous écoutent que certains termes, tels que les passions, et en particulier la luxure, doivent être bien compris avant de passer à la suite. Ces sujets ont déjà été traités dans des vidéos précédentes.  Nous  vous encourageons fortement à regarder ces  vidéos,  si  possible avant de continuer celle-ci. Vous serez ainsi en mesure de mieux comprendre ce que nous tentons d'expliquer en parlant de sexualité humaine.</p>
 <br>
-<p>This is not where most people face a problem.  The debate really happens when we speak of sex outside of the marital covenant without any selfless acts of love or intention of eternal commitment to another person.  It is outside of that where we have an issue.  <strong>In other words when we take God’s gifts and we direct them towards the self rather than towards God, they become destructive, they develop into passions and can lead to eternal death.  This is where the Church cries out and warns us.</strong></p>
+<p>À présent, examinons les deux premières fonctions que l'on attribue au sexe et à la sexualité, sans toutefois prioriser l'une ou l'autre. La première, c'est l'importance d'exprimer cette forme d'amour des plus intimes et passionnées que puissent exprimer un mari et son épouse, et la deuxième, c'est de combattre la luxure.</p>
 <br>
-<p>To make matters clear, let’s take an example<strong>.  If we were to take a big sharp chef’s knife and place it in the hands of a toddler who runs around and bumps into everything and everyone, the knife in this case is considered extremely dangerous and a hazard.  However, if we place the same knife in the hands of a world class Chef, the knife becomes a tool to create a wonderful meal.  The problem is not the knife; it is the person that will hold the knife, the context and the purpose of its use.  Extrapolating the example to the subject of sexuality we can see where the confusion comes from.  The Church does not condemn sex or say that it is bad! The Church’s stance has always been that sex outside of what God has intended for us is not just bad but destructive.  Within the boundaries of what God has intended it to be, sex is wondrous and a beautiful thing.  </strong></p>
+<p>Pour ce faire, j'aimerais commencer par deux questions importantes. Tout d'abord: Pourquoi certaines personnes ont-elles une  perception  si  négative  de  la  sexualité?  Ensuite:  Si l'on conclut que la sexualité est effectivement quelque chose de mal, comment peut-on la percevoir comme étant immorale, alors que c'est Dieu qui en est l'auteur?</p>
 <br>
-<p>We read in Genesis 2:24 after God created Eve from Adam’s rib; “Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh.” <strong>Our Lord Jesus Christ quoted that very passage in his response to the Pharisees on the subject of divorce</strong><strong>: “But from the beginning of the creation God made them male and female, for this reason a man shall leave his father and mother and be joined to his wife and the two shall become one flesh; so then they are no longer two, but one flesh.  Therefore what God has joined together, let no man separate.” (Mark 10:6-9).</strong></p>
+<p>Soyons très clairs: tout ce que Dieu a créé, en particulier les caractéristiques qui définissent l'image de Dieu d'après laquelle nous avons été créés, toutes ces choses sont non seulement de bonnes choses, mais de très bonnes choses. Ceci implique que si l'être humain se sert des facultés  et  des  habiletés  que  Dieu  lui  a  données,  et  qu'il le  fait au  bon endroit,  au  bon moment et  en  s'inspirant  de  Dieu, elles ne  peuvent  que  mener à  son  édification  et  à  son salut. Et ceci comprend l'amour exprimé dans les relations maritales et la sexualité.</p>
 <br>
-<p><strong>Some people interpret this union between man and woman (‘becoming one flesh’) as strictly allegorical but the Church has never limited it to the spiritual meaning of union.  Clearly, as per God’s design, the union of one flesh also involves the physical intimate nature of marital love.  </strong></p>
+<p>Pour la plupart des gens, tout ceci ne pose aucun problème. C'est plutôt quand on parle de sexe  en  dehors  des liens du  mariage que  le  début  s'anime,  là  où  l'amour  est  pratiqué de façon intéressée et sans intention de s'engager envers l'autre à long terme. Voilà le contexte qui dérange!  Répétons-le,  ceci  est  directement  relié à  ce  dont nous  avons discuté dans  les vidéos précédentes à propos des passions et de la luxure. Si nous nous servons de ce que Dieu  nous  a  donné,  afin  de  nourrir  nos  propres  intérêts au lieu d'en rediriger  les  fruits  vers Dieu,  ceux-ci  deviennent  destructeurs.  Ils se  transforment  en  passions, lesquelles peuvent éventuellement  nous  conduire à  la  mort  éternelle.  C'est pourquoi l'Église  nous  interpelle  en disant prenez garde!</p>
 <br>
-<p><strong>Our Lord Jesus Christ also adds to the text of Genesis in His own words ‘so then they are no longer two, but one flesh’.  He even highlights that it is God who has joined them together.  This reveals to us the deep and mysterious beauty of the union between husband and wife.  </strong></p>
+<p>Imaginons, par exemple, un grand couteau de chef bien affilé... Si l'on remet un tel couteau à un  enfant  joyeux  qui  court  partout,  qui  saute  dans  les  bras  des  gens,  qui heurte des  objets sur  son passage  et  qui  se  promène en  agitant les  bras,  le  couteau  devient  tout  à  coup  un objet  très  dangereux,  susceptible  de  causer  de  graves  blessures.  Par  ailleurs,  le  même couteau  remis à un  chef  de  calibre  international  peut  devenir  un  outil  servant  à  créer  de magnifiques et succulents plats.</p>
 <br>
-<p><strong>There was a time in the early Church when many thought it was appropriate to attack both marriage and marital relations. In the 4<sup>th</sup> century, many believed that it was best to remain celibate and await the coming of the Lord</strong>.  It was believed that marriage may even cost a person their eternal life<strong>.  However, in 340 AD, after the first council of Nicea, a local senate assembled at Gangra (a city of modern day Turkey) and the senate of bishops there made it a point to defend the honor of marriage and marital relations and they came out with the following Canon.</strong></p>
+<p>Voyez-vous, le problème, ce n'est pas le couteau. C'est la personne, le contexte et la raison pour  laquelle  on  s'en  sert. Et  c'est  à  ce  niveau-là  que  l'on  risque  de  brouiller  les  cartes  en matière de sexualité. L'Église n'a jamais prétendu que le sexe lui-même était une mauvaise chose, mais elle a toujours soutenu qu'en le pratiquant dans un contexte autre que celui que Dieu  avait  prévu  est  non  seulement mauvais,  mais  dévastateur.  Si l'on  s'en  tient  au cadre que  Dieu  a  établi  pour  notre  salut,  soit  un  homme  et  une  femme  partageant  une  relation maritale fondée sur l'amour exprimé mutuellement et de façon altruiste, alors la sexualité est une chose merveilleuse et belle.</p>
 <br>
-<p><strong>“If anyone should condemn marriage, or abominate and condemn a woman who is a believer and devout, and sleeps with her own husband, as though she could not enter the Kingdom [of Heaven] let him be anathema.”  Anathema here means ‘excommunicated”</strong> (Canon 1 of the Synod of Gangra).</p>
+<p>Il est important de noter ce que le livre de la Genèse nous raconte à propos de la création de l'être humain. L'auteur avance quelque chose de très intéressant lorsqu'il dit que la femme a été créée à partir d'une côte de l'homme. Plus tard, dans le Nouveau Testament, le Seigneur Jésus-Christ cite lui-même  ce  passage  en  s'adressant  aux  pharisiens  à  propos  du  divorce.</p>
 <br>
-<p><strong>This tells us that the Church has always seen marriage and marital relations as something that is honorable and worthy of the mystery of matrimony.</strong>  If that wasn’t the Church’s view how then would the Church tolerate its priests being married and establish families of many children.</p>
+<p>Allons  lire ensemble  ces  deux  extraits,  afin  de mieux comprendre  notre  conception  de  la sexualité. Commençons par le chapitre 2 de la Genèse, au verset 24:</p>
 <br>
-<p>In conclusion, <strong>we should note that the Church has never been ignorant to the fact that society has turned human sexuality into something that is depraved and a source of great evil in our lives.</strong>  Tragedies like human trafficking, child abuse, addiction to pornography and addiction to a whole variety of sexual activities and sexually transmitted diseases, are all on the rise.  <strong>The church encourages everyone to realize that part of the solution to those lusts and manifestations of evil is to embrace the proper and noble understanding of what God intended for sexuality to be amongst us.   It is when we aspire to patiently endure and fight these lusts for the sake of embracing a greater gift in the future (sexuality in this case) that we can find the courage and the support of the Holy Spirit to preserve us without sin until the appointed time that is set by God.  </strong></p>
+<p>« C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et ils deviendront une seule chair. » (Genèse 2:24) Dans le Nouveau Testament, au chapitre 10 de l'Évangile selon saint Marc, voici ce qu'a dit le Seigneur Jésus:</p>
 <br>
-<p><strong>                                Remember know your faith, live your faith and</strong></p>
+<p>« Mais au commencement de la création, Dieu fit l'homme et la femme; c'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux deviendront une seule chair. Ainsi ils ne sont plus deux, [dit-il,] mais ils sont une seule chair.</p>
 <br>
-<p><strong>                                                          teach your faith</strong></p>
+<p>Que l'homme donc ne sépare pas ce que Dieu a joint. » (Marc 10:6-9) Plusieurs  interprètent  le  fait  de devenir  une  seule  chair au  sens  figuré,  mais  l'Église  n'y  a jamais vu une union strictement spirituelle. De toute évidence, Dieu avait voulu que l'union de la chair implique aussi l'intimité physique de l'amour marital. D'ailleurs, vous remarquerez que le Christ y ajoute ses propres paroles, insistant sur le fait qu'ils ne sont plus deux, mais (...) une seule chair. Il va même jusqu'à dire que c'est Dieu qui les a joints, ce qui nous fait voir la profonde et mystérieuse beauté de l'union entre un mari et son épouse.</p>
+<br>
+<p>Par ailleurs, il fut un temps, dans les débuts de l'Église, où plusieurs croyaient approprié de s'attaquer avec véhémence au mariage et aux relations maritales. Nous savons qu'il en était ainsi, surtout  durant  les  quatre  premiers  siècles  de  l'Église  apostolique,  alors  que  plusieurs croyaient  qu'il  valait  mieux  vivre  dans  le  célibat  et  attendre  l'avènement  du  Seigneur, car selon eux,  le  mariage risquait  de  leur  coûter  la  vie  éternelle. Puis en  l'an  340  de  notre  ère, après  le premier Concile  de  Nicée,  un  synode  provincial  fut  tenu  à  Gangres, une ancienne ville jadis située  sur  le  territoire  de  la Turquie actuelle. Par  la  grâce  de  Dieu,  les  évêques qui en  firent partie  se  firent  un  devoir  de  défendre  l'honneur  du  mariage  et  des  relations maritales, ce qui permit de formuler la règle suivante, premier canon du Synode de Gangres:</p>
+<br>
+<p>« Si  quelqu'un  blâme  le  mariage  et  déteste  ou  blâme  celle  qui  en  étant  par  ailleurs chrétienne et pieuse dort avec son mari, comme ne pouvant entrer dans le royaume de Dieu,  qu'il  soit  anathème.  »  (Canon  1  du  Synode  de  Gangres) - [traduction tirée  du  site des Vrais Chrétiens Orthodoxes, http://orthodoxievco.net/] Le  mot anathème signifie excommunié.  Ce  que  le  canon  nous  dit  à  vous  et  moi,  c'est  que l'Église a toujours considéré le mariage et les relations maritales comme étant honorables et dignes du sacrement matrimonial. Autrement, comment pourrait-elle tolérer de voir ses prêtres se marier et fonder des familles de plusieurs enfants? Pensez-y un instant.</p>
+<br>
+<p>Pour conclure cette présentation, il faut noter que l'Église n'a jamais fermé les yeux sur le fait que la société ait perverti la sexualité et qu'elle en ait fait une source de nombreux maux dans nos  vies.  Des calamités,  telles que  le  trafic  humain,  l'abus  des  enfants,  la  dépendance  à  la pornographie et à une panoplie d'activités sexuelles, sans oublier les maladies transmissibles sexuellement, tous ces phénomènes sont à la hausse.</p>
+<br>
+<p>En conséquence, l'Église encourage tous et chacun à réaliser qu'une partie de la solution à cette luxure et aux maux qu'elle entraîne passe par la compréhension adéquate et honorable de l'intention que Dieu avait en ce qui concerne l'expression de la sexualité. Si nous aspirons à  surmonter  et  à  combattre  la  luxure  dans  l'optique  de  jouir  plus  tard  d'un don  encore plus grand, c'est-à-dire d'une sexualité telle que Dieu l'a conçue, nous trouverons alors le courage, avec  l'aide  de  l'Esprit  Saint,  de  nous  protéger  du  péché  jusqu'au  moment  où  Dieu  jugera opportun de nous faire ce cadeau.</p>
+<br>
+<p>N'oubliez pas, mes frères:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>
+<br>
+<p>Autres suggestions de vidéos:</p>
+<br>
+<p>Les passions - Partie 1: Que sont les passions et comment les combattre?</p>
+<br>
+<p>Les passions - Partie 2: Qu'est-ce que la luxure?</p>

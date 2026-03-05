@@ -6,7 +6,7 @@ lang: fr
 title: "A beautiful story of mercy: How to deal with one who has sinned?"
 pubDate: 2019-06-26T20:33:53Z
 tags: ["wow"]
-author: "Fr. Anthony Paul"
+author: "Père Anthony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

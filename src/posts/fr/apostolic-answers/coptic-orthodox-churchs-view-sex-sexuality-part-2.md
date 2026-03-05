@@ -3,58 +3,68 @@ wp_id: 868
 videoId: "JuKVOL1Am-M"
 imgSrc: /assets/thumbnails/JuKVOL1Am-M.webp
 lang: fr
-title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?- Part 2"
-pubDate: 2017-04-25T17:33:05
+title: 'Le sexe et la sexualité - Partie 2: Quel est le point de vue de l''Église copte orthodoxe en matière de sexe et de sexualité?'
+pubDate: 2017-04-25T17:33:05.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Today we continue with our second video on the question of “<b>What is the Coptic Orthodox Church’s view on Sex and Sexuality?</b>”In our first video we began by explaining that the Orthodox Church says that there are mainly three purposes for the way that God designed human sexuality:</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p><b> 1) </b><b>For husband and wife </b><b>to express an intimate and</b><b> passionate love for one another</b></p>
+<p>Nous poursuivons  aujourd'hui  avec  cette  deuxième  vidéo  consacrée  à  la  question  suivante:</p>
 <br>
-<p><b> 2) to help the believer fight the passions of lust </b><b>that is ever so present in today's world </b></p>
+<p>Quel  est  le  point  de  vue  de  l'Église  copte  orthodoxe  en  matière  de  sexe  et  de  sexualité?</p>
 <br>
-<p><b>3) to allow for the great blessing of life in procreation.</b></p>
+<p>Notre première vidéo nous a permis d'expliquer que d'après l'Église orthodoxe, Dieu a conçu la sexualité humaine pour trois raisons.</p>
 <br>
-<p>In the previous video we focused on the first two of these, and today we will look at how Sex and Sexuality is created by God in order for humanity to procreate.</p>
+<p>Premièrement: Pour que le mari et son épouse puissent exprimer l'amour intime et passionné qu'ils éprouvent l'un pour l'autre.</p>
 <br>
-<p>Now before we continue, lets take a moment to remind our viewers that as Orthodox Christians, <b>our </b><b>faith tells</b><b> us very clearly that Sex and Sexuality, as intended by God, is a beautiful and wondrous thing</b>. And although the world has exploited human sexuality and  turned into something “dirty and taboo” <b>we must as Christians recognize it as a gift from God that should be treated with respect and dignity, and not simply as a selfish means to personal pleasure</b>.</p>
+<p>Deuxièmement: Pour aider le croyant à combattre la passion de luxure qui est omniprésente dans le monde d'aujourd'hui.</p>
 <br>
-<p>St John Chrysostom says it best in the book On Marriage and Family Life - He explains that Sex is not Evil, but if not controlled, it can become a hindrance to someone who wants to approach God. Like in everything else in our lives, and in order to make sure we fulfill our potential in Christ Jesus, we then should seek to understand what has God intended for us to do with this gift.</p>
+<p>Troisièmement: Pour permettre cette grande bénédiction qu'est la vie grâce à la procréation.</p>
 <br>
-<p>If the viewer wants to know more about what we discussed previously in regards to this, I recommend that you watch the first part of this series before moving forward. As for the rest of us, let us now move on to the subject of God’s intention for procreation.</p>
+<p>Dans la première vidéo, nous avions centré notre attention sur les deux premières raisons ci- dessus. Aujourd'hui, nous nous pencherons sur le fait que Dieu a créé le sexe et la sexualité de manière à ce que l'humanité soit en mesure de procréer.</p>
 <br>
-<p>It is interesting to see how when God created man in His image, God wanted to share many of His unique attributes with humanity. Even that of Creating life! Now it is no coincidence that the means by which God has allowed humanity to partake in Creation and the bringing forth of human life is through sexual expression. <b>My beloved, God as a master craftsman intended for this same act to be filled with passionate and intimate love.</b> Rest assured this is no coincidence, this is divine providence! <strong>Now, it is through this same love - Eros - that the greatest GIFT of love is given. And what is the perfect gift of love - it is life! </strong></p>
+<p>Avant d'aller plus loin, arrêtons-nous un instant pour rappeler à ceux qui nous écoutent qu'en tant que chrétiens orthodoxes, notre foi nous dit clairement que le sexe et la sexualité sont de merveilleux  concepts, si l'on  s'en  tient  à l'intention que Dieu avait au  départ.  Et  bien  que  le monde ait exploité la sexualité humaine et en ait fait un concept obscène et tabou, nous, les chrétiens,  devons  reconnaître  que  c'est  un  cadeau  de  Dieu  qui  devrait  être  traité  avec respect et dignité, au lieu d'être vu comme un moyen égoïste de se faire plaisir.</p>
 <br>
-<p>This specific purpose of love giving way to life is very clearly found within the first chapters of Scripture. In Genesis chapter 1, God not only blesses His human creation, but he even commands them to procreate. Let us read this passage together:</p>
+<p>Saint Jean Chrysostome le dit très bien dans son livre intitulé Sur le mariage et la vie familiale.</p>
 <br>
-<p><b>“So God created man in His own image; in the image of God He created him; male and female He created them. Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that moves on the earth.”</b> <b>(Genesis 1:27-28) </b></p>
+<p>Il  explique  que  le  sexe  n'est  pas  mauvais  en  soi,  mais  que  s'il  n'est  pas  encadré,  il  peut devenir  une  entrave  pour  celui  qui  veut  entrer  en  contact  avec Dieu.  Et  comme pour tout autre aspect de la vie, si l'on veut s'assurer d'atteindre notre plein potentiel en Jésus-Christ, il faut chercher à comprendre ce que Dieu a voulu que nous fassions de ce cadeau. Pour ceux qui  sont  à  l'écoute  et  qui  voudraient  en savoir plus sur  les  contenus  que  nous  avons  déjà abordés à  ce  sujet,  je  vous  encourage  à  regarder  la  première vidéo de  cette  série  avant d'aller plus loin. Pour les autres, allons-y maintenant avec l'intention que Dieu avait en ce qui a trait à la procréation.</p>
 <br>
-<p>Notice how The Lord God first blesses them and then gives the command to be fruitful and multiply. Now clearly this passage has always been understood as a direct command to procreate. <strong>We see God do this again only 8 chapters later in Genesis chapter 9 when again he blesses Noah and his sons after the flood and commands them also to “</strong><b>Be fruitful and multiply, and fill the earth</b><b>”</b>. You see my beloved what this tells you and I is that sexuality as intended by God in marital relations is first blessed and because of this blessing the Lord grants humanity the gift of new life in childbearing. Now some have gone as far as saying this blessing was given before the fall, therefore it is void because of the introduction of Sin. However, as Orthodox Christians we believe that in Jesus Christ and His incarnation, all of humanity is once again restored to the first estate. The blessing therefore that the Lord spoke on the First man and woman still very much applies today. St Augustine explains this as follows:</p>
+<p>Il est  intéressant  de constater  qu'en  créant l'homme  à  son  image, Dieu  ait  voulu partager avec lui plusieurs de ses attributs, y compris celui de pouvoir créer la vie. En effet, ce n'est pas une coïncidence qu'il ait choisi la sexualité pour permettre à l'homme de prendre part à la création  en  générant  lui-même  une  vie  humaine.  Mes  frères,  Dieu,  notre  maître  artisan, voulait que ce geste soit rempli d'amour passionné et intime. Soyez assurés que ce n'est pas l'effet du hasard: c'est une providence divine.</p>
 <br>
-<p><b>The nuptial blessing, however, whereby the pair, joined in marriage, were to increase and multiply and fill the earth, remained in force even when they sinned. Yet it was given before they sinned, for its purpose was to make it clear that the procreation of children is a part of the glory of marriage and not of the punishment of sin. </b><b>St Augustine - </b><b>CITY OF GOD 14.21.9</b></p>
+<p>C'est par ce même amour, eros, que le grand don d'amour nous est offert. Et quel est le don d'amour par  excellence?  C'est  la  vie!  Cette fonction  spécifique  de l'amour  de  pouvoir engendrer  la  vie  est  très  clairement  décrite  dès  les  premiers  chapitres  des  Écritures.  Au chapitre 1 de la Genèse, non seulement Dieu bénit-il l'homme qu'il a créé, mais il va même jusqu'à lui donner l'ordre de procréer. Allons lire ensemble ce passage:</p>
 <br>
-<p>Our bringing forth of children therefore through the sexual marital act is a blessed act that the Lord has intended not only for our good, but for the good of all mankind.</p>
+<p>« Dieu  créa  l'homme  à  son  image,  il  le  créa  à  l'image  de  Dieu,  il  créa  l'homme  et  la femme.</p>
 <br>
-<p><b>What we have seen thus far is how the Church views sex and sexuality as a part of a larger picture of God’s intention to bless us, unite us to one another, and unite us to himself</b>.</p>
+<p>Dieu  les  bénit,  et  Dieu  leur  dit:  Soyez  féconds,  multipliez,  remplissez  la  terre,  et l'assujettissez; et dominez sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui se meut sur la terre. » (Genèse 1:27-28) Remarquez que le Seigneur Dieu commence par les bénir avant de les inviter à être féconds et  à  se  multiplier.  Évidemment,  ce  passage  a  toujours  été  interprété  comme  étant  un  ordre formel de procréer. À peine huit chapitres plus tard, au chapitre 9 de la Genèse, Dieu répète la  même  commande,  bénissant  Noé  et ses  fils après  le  déluge et  leur  ordonnant  d'être féconds, de se multiplier et de peupler toute la terre. Voyez-vous, mes frères, ceci nous indique que la sexualité, exprimée dans le cadre que Dieu a établi, soit celui des relations maritales, est d'abord bénie de Dieu, et que ce faisant, il nous accorde le pouvoir de créer une nouvelle vie grâce à la maternité.</p>
 <br>
-<p>The process looks something like this:</p>
+<p>Certains sont allés jusqu'à affirmer que cette bénédiction fut accordée avant la chute, ce qui viendrait invalider tout ceci, puisque le péché est entré dans nos vies. Par contre, en tant que chrétiens orthodoxes, nous croyons que grâce à Jésus-Christ et à son incarnation, l'humanité tout entière fut ramenée à son état primordial. Ainsi, la bénédiction que le Seigneur a accordée au premier homme et à la première femme est tout aussi valable aujourd'hui. Voici l'explication de Saint Augustin:</p>
 <br>
-<p><b>Firstly:</b> When a man and woman desire to be to be wed as an expression of their love for each other, the Lord God blesses them and unites them in this great mystery of matrimony.<b></b></p>
+<p>« Cependant, la bénédiction nuptiale, [dit-il,] laquelle implique deux individus joints par les liens du mariage et appelés à croître, à se multiplier et à remplir la terre, continua de s'appliquer même après qu'ils eurent péché. Ainsi, elle leur fut accordée avant qu'ils ne pèchent, afin de leur montrer clairement que le fait d'engendrer des enfants constitue l'honneur du mariage et non le châtiment du péché. » (Saint Augustin, La cité de Dieu, Livre 14, chapitre 21.9) - [traduction libre] Voyez-vous,  le  fait  d'engendrer  des  enfants après  avoir  pratiqué l'acte  sexuel  au  sein  du mariage est un  acte béni  du  Seigneur,  puisqu'il nous fut  accordé  non  seulement  pour  notre bien, mais pour le bien de toute l'humanité.</p>
 <br>
-<p><b>Secondly:</b> Now that they are united in Spirit, they come together and unite physically to express the love they have for each other through sexual marital relations.</p>
+<p>Jusqu'à  présent,  nous avons  expliqué  le  point  de  vue  de  l'Église  en  matière  de  sexe  et  de sexualité. Ce sont des composantes d'un contexte plus large que Dieu a mis en place pour nous bénir, nous unir les uns aux autres et nous unir à lui. Le processus va comme suit:</p>
 <br>
-<p><b>Finally</b><b>:</b> the Lord continues to bless them by granting them the gift of their love in the form of another life they will nurture and love. And in the process they become a new entity - a family - a Church!</p>
+<p>Premièrement: Un homme et une femme désirent s'unir et se marier, afin d'exprimer l'amour qu'ils  éprouvent  l'un  pour  l'autre.  Le  Seigneur  Dieu  les  bénit  et  les  unit grâce  au grand sacrement du mariage.</p>
 <br>
-<p>If we turn to the prayers found within the liturgical rite of the Crowning Marriage ceremony of the Coptic Church, there is a passage within the First Matrimonial Prayer that the priest prays that perfectly describes this process that we speak of.</p>
+<p>Deuxièmement:  Maintenant  qu'ils  sont  unis  de  façon  spirituelle,  ils  s'unissent  physiquement par des relations sexuelles, exprimant ainsi leur amour dans un cadre marital.</p>
 <br>
-<p><b>“We ask You, also, now, O our King, to join your servants (…) to be united to each other in one body, and to enter into the law of joy, and to abide in Your truthful teachings. </b></p>
+<p>Finalement: Le Seigneur continue de les bénir et pour faire fructifier leur amour,  il leur accorde de créer une nouvelle vie dont ils pourront prendre soin et qu'ils pourront aimer. Et bientôt, ils deviennent une nouvelle entité, une famille, une église.</p>
 <br>
-<p><b>Grant them a living fruit out of the womb so that they rejoice in the birth of children and have quiet and peaceful times. Prepare them for every good work though Christ Jesus our Lord.” (First Matrimonial Prayer - Crowning Liturgy</b><b> of the Coptic Orthodox Church</b><b>) </b></p>
+<p>En  consultant  les  prières qui font  partie  du  rite  liturgique  de  l'office  du couronnement  de l'Église copte  orthodoxe,  on  trouve  un  passage  tiré  de  la première  prière  matrimoniale.</p>
 <br>
-<p>Ultimately what we realize from all that we have discussed, is that if the Lord God expresses a blessing <b>BEFORE</b> the union of man and woman, and <b>AGAIN</b> he expresses another great blessing in the granting of children and procreation. And If the Lord has chosen this blessed physical union of man and woman as a means by which he will allow us to share in the process by which He creates new life, then sex and sexuality as the Lord has intended it, must truly be an amazing and mysterious thing.</p>
+<p>Prononcé par le prêtre, ce passage décrit bien le processus que nous venons de décrire. Le prêtre dit ce qui suit:</p>
 <br>
-<p><b>        Remember</b><b> my beloved, know your faith, li</b><b>ve your faith, </b><b>teach your faith</b></p>
+<p>« Nous te demandons également en ce jour, ô notre Roi, de joindre tes serviteurs (N. et N.), afin qu'ils soient unis l'un à l'autre en un seul corps, qu'ils vivent dans les règles de la joie et qu'ils respectent tes préceptes de vérité. Accorde-leur le fruit vivant du sein maternel, afin qu'ils se réjouissent de la naissance de leurs enfants et qu'ils connaissent des jours calmes et paisibles. Prépare-les à toutes les bonnes œuvres qu'ils accompliront par le   Christ Jésus   notre   Seigneur.   »  (Première   prière  matrimoniale,   Office   du couronnement de l'Église copte orthodoxe) - [traduction libre] Prépare-les à toutes les bonnes œuvres, dit-il. Voyez-vous, au bout du compte, après tout ce dont  nous  avons  discuté,  nous  réalisons  que  le  Seigneur  Dieu  accorde  sa  bénédiction  à l'union de l'homme et de la femme, et répétons-le, il le manifeste aussi en leur accordant des enfants  et  la  capacité  de  procréer.  Et  si  le  Seigneur  a  choisi  de  bénir  cette  union  physique entre un homme et une femme, afin de nous permettre de connaître le mécanisme par lequel il  crée une  nouvelle  vie,  c'est que  le  sexe  et  la sexualité,  tel  qu'il  les  a  conçus,  doivent  être des choses vraiment merveilleuses et sacrées.</p>
+<br>
+<p>N'oubliez pas, mes frères:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu maintenant et toujours. Amen.</p>
+<br>
+<p>Autre suggestion de vidéo:</p>
+<br>
+<p>Le sexe et la sexualité - Partie 1: Quel est le point de vue de l'Église copte orthodoxe en matière de sexe et de sexualité?</p>

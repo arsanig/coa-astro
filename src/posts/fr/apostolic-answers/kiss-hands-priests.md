@@ -3,22 +3,44 @@ wp_id: 913
 videoId: "J5qlcYK-3gE"
 imgSrc: /assets/thumbnails/J5qlcYK-3gE.webp
 lang: fr
-title: "Why do we kiss the hands of the priests?"
-pubDate: 2017-06-21T01:00:15
+title: "Pourquoi baise-t-on les mains du prêtre?"
+pubDate: 2017-06-21T01:00:15.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Most people answer and say because the priest touches the body and blood of Christ, therefore let’s take a part of that blessing. However, if I think about it more logically <b>your own lips have touched the body and blood of Christ</b>. So, why those blessed lips take the blessing of the priest’s hands? To be able to truly understand, the answer to that question I must ask myself a different question. <b>What is the priesthood? Who is the priest?</b> Most people will answer and say the priest is a representative of Christ on earth or the priest is a symbol of Christ. However, both are incorrect. <b>So, what is the</b><b> priesthood?</b></p>
+<p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Let us look at the bible, in Acts 2:1-4. This is when the disciples became Christian. In other words, the holy spirit came down upon them on the day of Pentecost.  However, if we go a little bit deeper and go back to John 20.  This is the same day of resurrection, in the evening, so it is fifty day before the Pentecost.  Christ appeared to them and did something very weird. In John 20:22-23 (NKJV<b>)</b><b> we read “</b><b>and when he had said this, he breathed on them, and said to them, receive the holy spirit. 23 if you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.”</b> Christians receive the holy spirit once <b>how come they receive it twice?</b> We should understand this is when Christ appeared to them and gave them the priesthood; that is why this different quality of the Holy Spirit is linked the forgiveness and retaining of sins. So, this is something very sacramental very mysterious in this priesthood, and we must understand that.</p>
+<p>La  question  d'aujourd'hui  est  très  intéressante.  Pourquoi  baise-t-on  les mains  du  prêtre?  La plupart des gens répondront que c'est parce que le prêtre a été en contact avec le corps et le sang  du  Christ.  Par  conséquent,  ils  veulent  prendre  part  à  cette  bénédiction. Pourtant, si l'on  aborde  la question de façon  plus  logique,  les  lèvres  des fidèles  ont déjà été en  contact avec  le  Christ.  Alors, pourquoi des  lèvres  déjà  bénies  voudraient-elles en  plus recevoir  la bénédiction des mains du prêtre?</p>
 <br>
-<p>Now let us dig in even deeper.  If we look to the Passover meal, the last super, we have Christ sitting at the table with His disciples around him. Obviously, we know about the Holy Trinity: the Father, the Son, and the Holy Spirit, one God, Amen).  The second person in the Trinity; the Son of God is sitting in the flesh at this table and He breaks His own body. <b>So, we have the </b><b>S</b><b>on of </b><b>G</b><b>od braking the </b><b>S</b><b>on of </b><b>G</b><b>od.</b> This is exactly what happens every single liturgy that we pray. <b>We have the </b><b>s</b><b>on of </b><b>G</b><b>od</b><b>,</b><b> in the priest</b><b>,</b><b> breaking the </b><b>S</b><b>on of </b><b>G</b><b>od in the bread.</b> So, the priesthood is not a representation of Christ, rather it is the presence of Christ.  When we hear our families in Upper Egypt say: “Christ has visited us today”, when a priest comes in their home, because they have understood that sacramentally, mystically, the actual presence of Christ was there in their house. That is why also, all sacraments are performed by priests. Communion, confession, baptism all them by a priest. You can’t have a layman perform to sacrament. because he doesn’t have the actual presence of Christ in him in this mystical priesthood that God has given to certain people to serve him.</p>
+<p>Pour vraiment comprendre les réponses à ces questions, il faut s'en poser une autre: En quoi consiste  le  sacerdoce? Qu'est-ce qu'un  prêtre? La  plupart  des gens  diront que  le prêtre  est un  représentant  du  Christ  ou  qu'il  symbolise  le  Christ. Mais aucun  de ces  énoncés n'est exact. Alors, qu'est-ce que le sacerdoce?</p>
 <br>
-<p>Finally, there are many quotes from the Church Fathers about the priesthood, but I will only use one for the sake of time. <b>“</b><b>L</b><b>et all reverence the deacons as an appointment of Jesus Christ, and the bishop as Jesus Christ, who is the son of the </b><b>F</b><b>ather, and the presbyters as the Sanhedrin of </b><b>G</b><b>od, and assembly of the </b><b>A</b><b>postles. Apart from these, there is no church” </b><b> </b> <b>(</b><b>Saint Ignatius: letter to the </b><b>Trallians</b><b> chapter 3</b><b>)</b><b>.</b>  So, things are clear from the Bible, from the Church Fathers, and from our apostolic tradition. So, let us come back to the original question: why do we kiss the hand of the priest?  We kiss the hands of the priest, because mystically we are kissing the hand of Christ himself that is in that priest, in the sacrament of that priesthood. But, the priest removes his hand out of humility and imitating our fathers the monks.</p>
+<p>Allons consulter la Bible. Au chapitre 2 des Actes des apôtres, versets 1 à 4, il est question du moment où les disciples sont devenus chrétiens. Autrement dit, l'Esprit Saint est descendu sur eux durant la Pentecôte et ils sont devenus chrétiens. Ils se sont mis à parler dans des langues étrangères. Bref, nous connaissons l'histoire. Mais si l'on creuse un peu plus loin et qu'on  remonte  au  chapitre  20  de  Jean, on  se  retrouve  au  jour  de  la  résurrection,  50  jours avant  la  Pentecôte,  dans  la  soirée.  Le  Christ  était  alors  apparu devant  les disciples  et avait fait une chose plutôt bizarre. Écoutez bien:</p>
 <br>
-<p><b>             </b><b>Remember</b><b>;</b><b> know your faith, live your faith, </b></p>
+<p>« Après ces paroles, il souffla sur eux, et leur dit: Recevez le Saint-Esprit.</p>
 <br>
-<p><b>                    and teach your faith.      </b></p>
+<p>Ceux  à  qui  vous  pardonnerez  les  péchés,  ils  leur  seront  pardonnés;  et  ceux  à  qui vous les retiendrez, ils leur seront retenus. » (Jean 20:22-23) Un instant! Les chrétiens ne reçoivent l'Esprit Saint qu'une seule fois. Comment se fait-il que ceux-ci l'aient reçu deux fois? Il faut comprendre que ceci est arrivé au moment où le Christ leur  est  apparu  et  qu'il  leur  a  confié  le  sacerdoce.  Il  les  a  ordonnés  évêques.  L'Esprit  Saint qui leur fut accordé avait donc un mandat plus spécial cette fois-ci, étant lié au pardon ou à la rétention  des  péchés. Il  y  avait  quelque  chose  de  très  rituel  et  mystérieux  dans ce  type  de sacerdoce, et il faut en tenir compte.</p>
+<br>
+<p>À  présent,  examinons  les choses  un  peu  plus  en  profondeur.  Considérons  d'abord  le  repas de la Pâque juive, la dernière Cène. Nous savons que le Christ est à table avec ses disciples.</p>
+<br>
+<p>Nous savons aussi comment est constituée la Sainte Trinité: le Père, le Fils et le Saint-Esprit, le Dieu unique. Amen. Ainsi, la deuxième hypostase ou personne de la Trinité, le Fils de Dieu, est assis à la table, en chair et en os, et il rompt le pain qui représente son corps. Le Fils de Dieu rompt le Fils de Dieu.</p>
+<br>
+<p>C'est exactement ce qui se passe chaque fois que nous prions la liturgie. Le Fils de Dieu est présent à la fois dans le prêtre et dans le pain qui est rompu. Le Fils de Dieu rompt le Fils de Dieu. Ainsi, le sacerdoce est plus qu'une simple représentation du Christ. C'est la présence même du Christ. Lorsque nous conversons avec nos familles de la Haute-Égypte et qu'elles affirment que le Christ leur a rendu visite, elles font allusion au prêtre qui est venu les voir à domicile,  car elles ont  compris  que de façon  rituelle  et  mystique,  le  Christ est en  lui,  donc avec eux dans la maison.</p>
+<br>
+<p>C'est aussi la raison qui explique pourquoi tous les sacrements sont administrés par le prêtre.</p>
+<br>
+<p>La  communion,  la  confession,  le  baptême... c'est  le  prêtre  qui  en  a  la  charge.  Il n'est pas question  qu'un  profane  vienne  s'improviser comme administrateur  des sacrements. Et  cela ne saurait arriver, car un tel individu n'aurait pas la présence du Christ en lui. Dieu a accordé le sacerdoce mystique à certaines personnes seulement, afin qu'elles le servent.</p>
+<br>
+<p>Enfin,  allons  voir ce  qu'en  disent  les Pères  de  l'Église. Plusieurs se  sont  exprimés sur  le sacerdoce, mais faute de temps, nous n'en citerons qu'un seul: saint Ignace d'Antioche. Saint Ignace est né en l'an 35 de notre ère et nous a quittés en l'an 110. Il a donc vécu au premier siècle. On dit de lui qu'il  était un disciple  immédiat de saint Pierre Apôtre. Dans  sa  lettre  aux Tralliens, au chapitre 3, voici ce qu'il disait:</p>
+<br>
+<p>« Que tous révèrent les diacres comme Jésus-Christ [il fait allusion au premier niveau du sacerdoce, celui que l'on attribue aux diacres], comme aussi l'évêque [le Christ est vraiment présent dans l'évêque], qui est l'image du Père, et les presbytres [les prêtres] comme le sénat de Dieu et comme l'assemblée des Apôtres: sans eux on ne peut parler d'Églises. » (Saint Ignace, Lettre aux Tralliens, chapitre 3, Hommage aux diacres) - [traduction tirée du site http://seigneurjesus.free.fr/lettreignacetralliens.htm] Les choses sont claires dans la Bible, dans les écrits des Pères de l'Église et dans la tradition apostolique.  Alors, revenons à  notre  question  du  début:  Pourquoi baise-t-on  les  mains  du prêtre? Nous  le  faisons, car de  façon  mystique,  nous  baisons  la  main  du  Christ  lui-même, lequel est présent dans ce prêtre qui administre le sacerdoce.</p>
+<br>
+<p>Mais souvent, le prêtre retire sa main. Il devrait la laisser tendue, puisque c'est une bénédiction pour  le  peuple,  mais  il  la  retire  par souci  d'humilité  et  pour faire  comme font nos  pères,  les moines. Voilà pourquoi nous baisons les mains du prêtre!</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>

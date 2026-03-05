@@ -6,7 +6,7 @@ lang: fr
 title: "What is faith?"
 pubDate: 2021-06-16T00:22:37
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

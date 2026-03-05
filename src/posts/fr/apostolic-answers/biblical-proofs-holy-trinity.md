@@ -3,66 +3,58 @@ wp_id: 1099
 videoId: "481HLeZQgwg"
 imgSrc: /assets/thumbnails/481HLeZQgwg.webp
 lang: fr
-title: "What are the Biblical proofs for the Holy Trinity?"
-pubDate: 2018-03-07T11:08:26
+title: 'La Sainte Trinité - Partie 2: Où peut-on trouver des preuves de l''existence de la Sainte Trinité dans la Bible?'
+pubDate: 2018-03-07T11:08:26.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>“Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit”</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>For those of you who have listened to the first video, we discussed  What the <b>Doctrine</b> of the <b>Holy</b> <b>Trinity</b> is. If you have not yet done so, I would suggest you watch that video prior to this one. It will set the foundation for the discussion we will have in this video.</p>
+<p>Mes bien chers frères, nous poursuivons aujourd'hui notre série sur la Sainte Trinité en nous posant  la  question  suivante: Où  peut-on  trouver  des  preuves de l'existence  de la  Sainte Trinité  dans  la  Bible?  Pour  ceux  et  celles  d'entre  vous  qui  avez  regardé  certaines  de  nos vidéos,  vous  vous  souviendrez  que  la  toute  première  était  consacrée  à  la  doctrine  sur  la Sainte  Trinité.  Dans  le  cas  contraire,  je  vous  suggère  d'aller  voir cette  vidéo  avant  celle-ci, afin de préparer le terrain pour la discussion que nous allons avoir d'aujourd'hui.</p>
 <br>
-<p>Now, in the first video we discussed what the Orthodox Christian faith teaches about the Holy Trinity: One God: which is 3persons or <b>hypostasis</b>, in one <b>essence</b>. But where did we get all this information? As a matter of fact, the word “Trinity” does not appear anywhere in all of <b>scripture</b>, so what scriptural evidence and <b>Biblical</b> passages does the Church use to explain how it formulated it doctrine of the Trinity. Well lets go ahead and see what some of those passages are.</p>
+<p>Donc,  dans  cette  première  vidéo,  nous  avons  parlé  de  ce  que  la  foi  chrétienne  orthodoxe nous enseigne sur la Sainte Trinité: un Dieu unique, constitué de trois personnes ou hypostases, puisant dans une seule et même essence. Mais où avons-nous trouvé tous ces renseignements?</p>
 <br>
-<p>Now lets be very clear my beloved, although the Bible may not explicitly use certain terminologies and words, or address specific themes, it does not mean that the implicit doctrines found within Scripture have nothing to say on the subject. While the Bible may well be silent in addressing specific subjects or using specific terms, when we combine what is explicitly taught within scripture along with the wealth of knowledge received from Holy Tradition, we can formulate all the necessary teachings of the Church as revealed to us by the Holy Spirit.</p>
+<p>En réalité, le mot Trinité n'apparaît nulle part dans les Écritures. Alors quels passages de la Bible  ont  pu  servir  de  preuves  pour  que  l'Église  en  arrive  à  formuler  sa thèse  sur la  Sainte Trinité? Eh bien, allons consulter certains de ces passages.</p>
 <br>
-<p>For instance, as we stated, the term Trinity does not appear in the Bible. But the Bible does very clearly, and several times over refer to God as Father, Son, and Holy Spirit. Lets take a look at only a few of the many cases:</p>
+<p>Avant  de  procéder,  mes  frères,  il  importe  de  préciser  que  même  s'il  y  a  certains  termes  de vocabulaire qui ne sont pas explicitement utilisés dans la Bible, ceci ne veut pas dire que les thèses  implicites  qui  s'y  trouvent  n'ont  rien  à  nous  apprendre  sur  un  sujet  donné.  Certains thèmes ne sont peut-être pas abordés directement dans la Bible, mais en combinant ce que disent les Écritures avec les vastes connaissances que la sainte tradition nous a transmises, l'Église a su articuler toutes les leçons pertinentes que le Saint-Esprit nous a apprises.</p>
 <br>
-<p>Genesis1: 1-3</p>
+<p>Par exemple, nous l'avons dit, le mot Trinité n'est pas utilisé dans la Bible. Mais à plusieurs endroits, on y parle clairement de Dieu comme étant le Père, le Fils et le Saint-Esprit. Allons lire quelques-uns de ces nombreux extraits. Tout d'abord, la Genèse, au chapitre 1:</p>
 <br>
-<p>“1 In the beginning God created the heavens and the earth. 2 The earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God was hovering over the face of the waters. 3 Then God said, “Let there be light”; and there was light.”</p>
+<p>« Au commencement, Dieu créa les cieux et la terre.</p>
 <br>
-<p>In this first example, at the very opening words of Holy Scripture, we suddenly see the appearance of God almighty, the Father, the unbegotten, who is the source of everything. Then we also see His Holy Spirit that hovers over the waters, and finally we Hear the Word of God, spoken by Him and through His Word he creates all the universe. This is the same Word that John spoke of in the opening passages of His Gospel when he says “In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made.” So there you have it, in the very first verses of scripture, we see Father, Son, and Spirit - the Co-Essential Holy Trinity!</p>
+<p>La  terre  était  informe  et  vide:  il  y  avait  des  ténèbres  à  la  surface  de  l'abîme,  et l'esprit de Dieu se mouvait au-dessus des eaux. [Et] Dieu dit: Que la lumière soit! Et la lumière fut. » (Genèse 1:1-3) Dans ce premier exemple, soit dès les premiers mots des Écritures, le Dieu tout-puissant, le Père, l'Éternel qui est à l'origine de tout ce qui existe, nous apparaît tout-à-coup. Puis, son Esprit plane au-dessus des eaux. Et enfin, le Verbe de Dieu se fait entendre de sa bouche même, et par le Verbe, il crée tout l'univers. C'est ce même Verbe auquel Jean fait référence dans les premières lignes de son Évangile:</p>
 <br>
-<p>Later on in that same first chapter of Genesis God does something interesting when He is about to create humanity and scripture says:</p>
+<p>« Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était  Dieu.</p>
 <br>
-<p>Genesis 1: 26</p>
+<p>Elle était au commencement avec Dieu.</p>
 <br>
-<p>“Then God said, “Let Us make man in Our image, according to Our likeness”</p>
+<p>Toutes choses ont été faites par elle, et rien de ce qui a été fait n'a été fait sans elle. » (Jean 1:1-3) Nous avons tout ici! Les premiers versets des Écritures mentionnent le Père, le Fils et l'Esprit, soit la Sainte Trinité consubstantielle. Un peu plus loin dans ce même chapitre de la Genèse, il  se  produit  quelque  chose  d'intéressant  au  moment  où  Dieu  est  sur  le  point  de  créer l'humanité, ce que les Écritures nous rapportent comme ceci:</p>
 <br>
-<p>Here we are introduced to something interesting. Although the author of the book of Genesis has always spoken about God in the singular form, he suddenly quotes God saying that He is an “US”. “Let us create man in our image, according to our likeness!” We now see a different side to God, that He is one, and yet He is diverse. He us unity, and yet community! Yet another scriptural reference to how we understand the Trinity.</p>
+<p>« Puis Dieu dit: Faisons l'homme à notre image, selon notre ressemblance... » (Genèse 1:26) Voici ce qu'il y a d'intéressant ici. Bien que l'auteur de la Genèse ait toujours parlé de Dieu au singulier, soudain, il le cite à la première personne du pluriel: Faisons l'homme à notre image, selon notre ressemblance. Nous découvrons ainsi une autre caractéristique de Dieu: il est à la  fois  unique  et  diversifié.  C'est  une  unité  en  soi,  mais  il  est  aussi  une  communauté.  Voilà donc un autre passage des Écritures qui confirme que nous avons affaire à une Trinité. Puis, si  nous passons  tout  de  suite à  ce  que  le Christ enseignait après  sa  résurrection,  nous constatons  qu'il  demande  à  ses  disciples  de  répandre  l'Évangile  aux  quatre  vents  en  leur disant ceci:</p>
 <br>
-<p>And then we fast forward to the teachings of Christ Himself after the Resurrection where he is commissioning the disciples to spread the gospel everywhere and He says:</p>
+<p>« Allez,  faites  de  toutes  les  nations  des  disciples,  les baptisant  au  nom  du  Père,  du Fils et du Saint Esprit » (Matthieu 28:19) Le fait qu'il insiste pour qu'ils soient baptisés au nom des trois, c'est-à-dire le Père, le Fils et le  Saint-Esprit,  démontre  clairement  qu'il  est  impossible  de  connaître  le  Dieu  unique  sans passer par les trois personnes qui le constituent. Et dans les premières années qui ont suivi l'Ascension  du  Christ,  saint  Paul  avait  très  bien  compris  cette  réalité,  car  il  avait  dès  lors instauré la formule que l'Église utilise encore de nos jours, c'est-à-dire de bénir les gens au nom  de  la  Trinité.  Voici  ce  que  saint  Paul  nous  enseigne  dans  sa  deuxième  Épître  aux Corinthiens:</p>
 <br>
-<p>Matthew 29:19</p>
+<p>« Que  la  grâce  du  Seigneur  Jésus  Christ,  l'amour  de  Dieu,  et  la  communication  du Saint Esprit, soient avec vous tous! » (2 Corinthiens 13:14) Dans ce contexte, le Verbe de Dieu, c'est son Fils, exprimé par le mot Parole dans l'extrait de Jean ci-dessus.</p>
 <br>
-<p>His insistence that they baptize in the name of all three - the Father, Son and Holy Spirit - is a clear demonstration as to how you cannot come to know the One God unless you know Him as three Persons.</p>
+<p>Voyez-vous, mes frères, c'est exactement la formule que nous employons aujourd'hui et que nous avons légèrement adaptée pour le discours usuel des évêques ou des prêtres durant le service. Voici ce qu'on entend de façon générale:</p>
 <br>
-<p>And this was very clearly understood by St Paul in the very early years after the ascension of Christ where St Paul then begins to adopt a formula, that the Church uses until today, to bless the people in the name of the Trinity. St Paul teaches us and says:</p>
+<p>Que  l'amour  de  Dieu  le  Père,  la  grâce  de  son  Fils  unique,  notre  Seigneur  Dieu  et  Sauveur Jésus-Christ, ainsi que le don et la faveur du Saint-Esprit soient avec vous tous! Amen.</p>
 <br>
-<p>2 Corinthians 13: 14</p>
+<p>Un  autre  passage  bien  connu  des  Écritures  vient  supporter  la thèse de la  Sainte  Trinité:  il s'agit du  baptême  de  Notre-Seigneur  Jésus-Christ. Il  est  intéressant  de  constater  que  cette fête  de  l'Église  ait  reçu  le  nom  de théophanie,  ce  qui  signifie révélation  de  Dieu ou  encore mieux, apparition  de  Dieu.  Pourquoi  appelons-nous  cette  fête  la  théophanie? Allons  lire ensemble le passage qui en parle, à Matthieu, chapitre 3:</p>
 <br>
-<p>“The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit <i>be</i> with you all. Amen.”</p>
+<p>« [Et] dès que Jésus eut été baptisé, il sortit de l'eau. Et voici, les cieux s'ouvrirent, et il vit l'Esprit de Dieu descendre comme une colombe et venir sur lui.</p>
 <br>
-<p>Which today, has been slightly modified and is commonly spoken by the Bishop or Priest and is said: The Love of God the Father, the grace of His only-begotten Son, Our Lord God and Savior Jesus Christ, and the gift and communion of the Holy Spirit Be with you all. Amen</p>
+<p>Et  voici,  une  voix  fit  entendre  des  cieux  ces  paroles:  Celui-ci  est  mon  Fils  bien- aimé, en qui j'ai mis toute mon affection. » (Matthieu 3:16-17) Mes  frères, il  semble  que  ce  soit  très  clair.  Regardez  l'icône  qui  apparaît  à  l'écran. Il  est intéressant  de constater que  même  les  icônes  de  l'Église  tentent  de  nous  faire  voir  le Dieu trinitaire. Sur cette image, le faisceau de lumière qui descend du ciel et vient rejoindre la tête du  Christ  représente  Dieu  qui  se  manifeste  à  lui,  ce  qui  traduit  l'idée  de  la voix  qui  se  fit entendre des cieux dont il est question dans l'extrait ci-dessus.</p>
 <br>
-<p>Another well known scriptural passage in support of the doctrine of the Trinity is that of the baptism of Our Lord Jesus Christ. Interestingly, this feast is appropriately called in the Church the “Theophany” meaning the revelation of God, or better yet the appearance of God. Why do we call this moment Theophany? Let’s read the passage together:</p>
+<p>On  y  voit  également  le  Fils  incarné,  Notre-Seigneur  Jésus-Christ,  debout  dans  les  eaux  du Jourdain.  Le  Saint-Esprit  est  là  aussi, descendant  sur  notre  Seigneur  sous la forme  d'une colombe. Nous avons donc, encore une fois, la Sainte Trinité présente dans toute sa gloire: le Père, le Fils et le Saint-Esprit. Ce passage des Écritures, si éloquent quant à l'existence de la Sainte Trinité, fut commenté par saint Augustin comme ceci:</p>
 <br>
-<p><i>Matthew 3</i></p>
+<p>«  La  Trinité  est  clairement  présentée  dans  ce  passage:  la  voix  représente  le  Père, l'homme  représente  le  Fils, [et] la  colombe  représente  le  Saint-Esprit. Il  est  presque inutile  de  le  mentionner  tellement  c'est  évident  pour  tout  le  monde.  La  Trinité  est  si facile à reconnaître dans cet extrait qu'il est quasi impossible d'en douter ou d'hésiter. » (Saint Augustin d'Hippone, sermon 2.1) - [traduction libre] Mes bien chers frères, ce que nous avons ici est d'une beauté absolue. Si quelqu'un tente de vous  dire  que  la  Trinité  est  absente  des  Écritures,  dites-lui  de  regarder  de  nouveau  et  de regarder attentivement, et il verra Dieu tel qu'il s'est révélé à nous dans les Écritures.</p>
 <br>
-<p><i> </i><i>“</i><b><i>16 </i></b><i>When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him. </i><b><i>17 </i></b><i>And suddenly a voice </i><i>came</i><i> from heaven, saying, “This is My beloved Son, in whom I am well pleased.”</i></p>
+<p>N'oubliez pas:</p>
 <br>
-<p>Take a look at the icon on the screen. Notice how even in the icon the Church attempts to show us the revelation of God the Trinity. We see that God is revealed because in this passage we have the Father present through the voice that was Heard, depicted on the icon as the beam and ray coming down from Heaven upon the head of Christ. We also clearly see the Son Incarnate, Our Lord Jesus Christ standing in the waters of the Jordan. And we also see the Holy Spirit, which is present in the form of the dove, descending upon Our Lord. So here again we have the Holy Trinity, present in all Glory - the Father, the Son and the Holy Spirit.</p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p>This passage was understood as such a clear sign of the Trinity the St Augustine says:</p>
-<br>
-<p><i>“Here then we have the Trinity presented in a clear way: the Father in the voice, the Son in the man, the Holy Spirit in the dove. This only needs to be barely mentioned, for it is so obvious for anyone to see. Here the recognition of the Trinity is conveyed to us so plainly that it hardly leaves any room for doubt or hesitation. [Augustine of Hippo - Sermon 2.1] </i></p>
-<br>
-<p>Therefore my beloved, if anyone tries to tell you that the Trinity is not scriptural, tell them to look again closely, and they will see God as He would have himself reveled to us.</p>
-<br>
-<p>Remember,  Know your faith, live your faith, and teach your faith.</p>
-<br>
-<p>And to God be the Glory, now and forever, and unto the ages of all ages. Amen.</p>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

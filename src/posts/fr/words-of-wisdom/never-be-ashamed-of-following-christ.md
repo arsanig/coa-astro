@@ -6,7 +6,7 @@ lang: fr
 title: "Never be ashamed of following Christ"
 pubDate: 2022-10-08T09:57:55
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

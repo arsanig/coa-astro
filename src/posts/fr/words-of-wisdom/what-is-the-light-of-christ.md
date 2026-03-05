@@ -6,7 +6,7 @@ lang: fr
 title: "What is the Light of Christ"
 pubDate: 2023-06-16T12:00:48
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

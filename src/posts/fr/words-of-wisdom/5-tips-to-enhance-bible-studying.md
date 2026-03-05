@@ -6,7 +6,7 @@ lang: fr
 title: "5 tips to enhance Bible studying"
 pubDate: 2023-06-09T12:00:02
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

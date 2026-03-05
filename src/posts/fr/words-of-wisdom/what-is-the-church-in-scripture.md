@@ -6,7 +6,7 @@ lang: fr
 title: "What is the Church in scripture?"
 pubDate: 2021-01-21T21:04:04
 tags: ["wow"]
-author: "Fr. John Boutros"
+author: "Père John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

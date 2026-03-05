@@ -3,7 +3,7 @@ wp_id: 1945
 videoId: "4I9U4nnKgco"
 imgSrc: /assets/thumbnails/4I9U4nnKgco.webp
 lang: fr
-title: "Be kind to others&#8230; you do not know their circumstances!"
+title: "Be kind to others... you do not know their circumstances!"
 pubDate: 2020-01-10T12:00:13
 tags: ["wow"]
 author: "HG Bishop Basil"

@@ -6,7 +6,7 @@ lang: fr
 title: "How to TRULY accomplish Gods' will for your life?"
 pubDate: 2019-11-22T13:43:25
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

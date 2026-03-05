@@ -6,7 +6,7 @@ lang: fr
 title: "Don't be shy to confess to a priest!"
 pubDate: 2020-02-07T12:00:34
 tags: ["wow"]
-author: "Fr. Abraham Wassef"
+author: "Père Abraham Wassef"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

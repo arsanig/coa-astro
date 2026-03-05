@@ -6,7 +6,7 @@ lang: fr
 title: "Putting God first"
 pubDate: 2023-07-07T16:00:04Z
 tags: ["wow"]
-author: "Fr. Anthony Paul"
+author: "Père Anthony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

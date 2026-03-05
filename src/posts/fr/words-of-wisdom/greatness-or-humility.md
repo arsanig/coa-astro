@@ -6,7 +6,7 @@ lang: fr
 title: "Greatness or Humility?"
 pubDate: 2022-01-20T22:09:24
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

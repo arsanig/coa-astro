@@ -3,10 +3,10 @@ wp_id: 07382
 videoId: "lYxZiX4iKKQ"
 imgSrc: /assets/thumbnails/lYxZiX4iKKQ.webp
 lang: fr
-title: "Archive - Remember God's work in your life. Build your faith on them."
+title: "Remember God's work in your life. Build your faith on them."
 pubDate: 2020-02-20T21:29:57Z
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

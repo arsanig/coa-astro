@@ -3,10 +3,10 @@ wp_id: 4404
 videoId: "lAArhVOaAPk"
 imgSrc: /assets/thumbnails/lAArhVOaAPk.webp
 lang: fr
-title: "Prepare yourself for prayer"
-pubDate: 2024-02-23T12:00:52
+title: "COA Live Lecture and Q&A - Prayer, Communion, and Intimacy"
+pubDate: 2020-04-26T12:00:52
 tags: ["aa"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Do everything in the name of Jesus"
 pubDate: 2022-07-08T09:11:39
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Petition in prayer"
 pubDate: 2021-11-30T14:25:13
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

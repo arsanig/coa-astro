@@ -3,10 +3,10 @@ wp_id: 2512
 videoId: "Yiz5VshtxwQ"
 imgSrc: /assets/thumbnails/Yiz5VshtxwQ.webp
 lang: fr
-title: "Be patient in your ministry&#8230;"
+title: "Be patient in your ministry..."
 pubDate: 2020-12-01T21:24:18
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
