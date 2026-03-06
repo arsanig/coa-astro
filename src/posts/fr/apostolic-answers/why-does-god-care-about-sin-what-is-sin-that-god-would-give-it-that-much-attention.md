@@ -3,14 +3,54 @@ wp_id: 1181
 videoId: "yiDRtPCHz34"
 imgSrc: /assets/thumbnails/yiDRtPCHz34.webp
 lang: fr
-title: "Why does God care about sin? What is sin that God would give it that much attention?"
-pubDate: 2018-11-28T12:43:31
+title: "Pourquoi Dieu se préoccupe-t-il du péché?"
+pubDate: 2018-11-28T12:43:31.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Why does God care about sin? What is sin in the first place that God would give it that much attention? Some sins are obviously hurtful to others and it therefore makes sense that God, the Lover of mankind, would care about them. But others don’t seem to hurt anyone and some might even seem pleasurable. What is the problem with those? Also, why did God put those specific commandments in place? What criteria did God use to select the commandments? For example, why is adultery, fornication or masturbation a sin? Why is judging a sin even if the person is actually guilty of the offense? We can shed light on all those questions when we properly define what sin is. The word sin in Greek is ‘Hamartia,’ which as we know means ‘missing the mark.’ But what does that mean? Which mark are we missing? The word ‘hamartia’ can be divided into two parts: ‘Ha’ and ‘Martia.’ ‘Martia’ comes from the word ‘matyria’ which means ‘to witness.’ So as a Christian I am supposed to witness for my God through my faithful good deeds. And these good deeds are possible since we are created in God’s image. In other words, since I am created in God’s image, I can witness to Him through my deeds. The ‘Ha’ in ‘hamartia’, however, is a negation of the ‘martia.’ So ‘hamartia’ is a negation of my witness to God. Meaning, it is falling short of being in God’s image. It is to miss the mark, to err, to be imperfect. St. Athanasius says: “There he who had been ‘in the image and likeness’ was changed into something imperfect…” So, we are meant to encounter God, glorify God, witness to God through His Image within us. But sin keeps us from witnessing. So God’s commandments are not chosen haphazardly. They are chosen that we may be granted life through them because sin makes me unlike God and therefore outside of God who is the Source of Life. Sin, in a sense, is spiritual poison. Judging is failure to love. I fail to be like God who is Love. I therefore miss the mark. Adultery, fornication and masturbation are also outside of God. We have already explained why these sins are outside of God in a couple of videos to which you can find the links in the description below.</p>
+<p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Since the creation of humanity, God’s image took a serious hit, if you will. This is pretty obvious during the time of Noah and throughout the Old Testament. But, of course, God didn’t want to leave humanity erring and separated from Him. So after fulfilling His salvific work, God asks us to be renewed through baptism and receiving once more the Holy Spirit. In these sacraments, He recreates us. In regards to baptism, in John 3, Christ talks about us being born again through water and Spirit (being recreated). In Titus 3, St. Paul says that we are saved through the washing of regeneration and renewing of the Holy Spirit. So we are regenerated. In Acts 22:16, St. Peter talks about baptism having the power to wash away sins. St. Paul also in Romans 6, in discussing baptism, he says: “…that our old man was crucified with Him [in baptism], that the body of sin might be done away with, that we should no longer be slaves of sin.” This is why in the Creed, we confess one baptism for the remission of sins, because we are renewed through baptism. It is a renewal of the corruption within us. Now, it is time to be perfect as our Father in heaven is Perfect; it is time to be retransformed by being once more in God’s image and likeness. That is what St. Paul says in 2 Corinthians 3:18 that we are beholding the glory of the Lord in a mirror and are being transformed, through His Spirit, into His image from glory to glory. St. Cyril agrees, he says: “He [God] desires,  then,  the  nature  of  humanity  to  be renewed and  reshaped  into  its  original  image  by  communion  with  the  Spirit so  that,  by  being  clothed  with  that  original  grace  and  being  shaped  again  in conformity  with  him,  we  may  be  found  superior  to  and  more  powerful  than sin,  which  reigns  in  this  world,  and  we  may  devote  ourselves  only  to  the love  of  God.” So why does God care about sin? Because, sin is something unlike Him, because it distorts God’s image in us and therefore separates us from Him. It is a spiritual poison that separates us from the Source of Life. Its wages therefore lead to death. But, God wants us to live. He created us for immortal life. He therefore gave us the sacramental life of the Church that we may be retransformed and abide in Him once more. Remember know your faith, live your faith and teach your faith and glory be to God forever, amen.</p>
+<p>Pourquoi Dieu se préoccupe-t-il du péché? Et au fait, qu'y a-t-il dans le péché pour que Dieu y accorde tant d'importance? Certains péchés causent manifestement du tort à autrui. Dans ces cas-là, on peut comprendre que Dieu, l'amoureux du genre humain, s'en soucie. Mais il y a  des  péchés  qui  ne  font  de  mal  à personne et  qui  vont  même  jusqu'à  procurer un  certain plaisir. Alors où est le problème?</p>
+<br>
+<p>Quant  aux  commandements,  pourquoi  Dieu  a-t-il  instauré  ceux-là  en  particulier?  Sur  quoi s'est-il basé pour arrêter son choix? Par exemple, pourquoi avoir déterminé que l'adultère, la fornication  et  la  masturbation  sont  des  péchés? Pourquoi  le fait  de juger  quelqu'un  est-il  un péché, même lorsque la personne est coupable du délit dont elle est accusée? Nous serons en  mesure  de faire  la  lumière  sur  tout  ceci dès  que  nous  aurons  formulé une  définition  en bonne et due forme de ce que représente le péché.</p>
+<br>
+<p>Le mot grec mis pour péché est αμαρτία (amartía), ce qui signifie rater la cible. Mais qu'est-ce que  ça  veut  dire?  De  quelle  cible  parle-t-on? Le  mot amartía comprend deux  racines:  a- et -martía. La  portion -martía vient  du  mot μαρτυρία (martiría) qui  signifie témoin.  En  effet, en tant  que chrétiens, nos  actions sont  censées démontrer  notre loyauté  envers  Dieu et témoigner de sa présence. Et ces bonnes actions sont possibles, parce que nous avons été créés à l'image de Dieu. En d'autres mots, puisque nous sommes à son image, chaque geste que nous posons est un témoignage de sa présence.</p>
+<br>
+<p>En revanche, la portion -a du mot amartía exprime la négation, donc l'absence de martía. Le mot amartía évoque donc un échec à témoigner de la présence de Dieu. Nous n'avons pas su nous montrer à son image. Nous avons raté la cible. Nous nous sommes trompés. Nous avons été imparfaits. Saint Athanase exprime cette idée de la façon suivante:</p>
+<br>
+<p>«  Et  voici  que  celui  qui  était  «  à  son  image  et  à  sa  ressemblance  »  fut  changé  en quelque  chose  d'imparfait...  »  (Saint  Athanase,  Athanase  et  l'ascétisme,  Deuxième lettre aux vierges) - [traduction libre] Nous sommes censés rencontrer Dieu, le glorifier et témoigner de lui par son image qui nous habite. Mais le péché nous en empêche. Tout semble indiquer que les commandements de Dieu ne sont pas le fruit du hasard après tout. Ils furent choisis afin que, par eux, nous soyons dignes de mériter la vie. Sans eux, le péché nous rend contraires à Dieu et nous écarte de la source de vie.</p>
+<br>
+<p>Le péché est une sorte de poison spirituel. Juger, c'est ne pas savoir aimer. Et ne pas savoir aimer,  c'est  ne  pas  savoir  être  à  l'image  de  Dieu,  lui  qui  est  amour.  C'est  rater  la  cible.</p>
+<br>
+<p>L'adultère, la fornication et la masturbation sont aussi des comportements extérieurs à Dieu.</p>
+<br>
+<p>Nous en avons déjà expliqué les raisons dans nos vidéos précédentes. Les liens vous seront fournis à la fin de cette présentation.</p>
+<br>
+<p>Depuis  la  création  de  l'humanité,  l'image  de  Dieu  en  a  pris  un  coup,  si  l'on  peut  s'exprimer ainsi. Pour  s'en  convaincre,  il  suffit  d'examiner  comment  les choses  se  passaient  au  temps de  Noé  et  partout  dans  l'Ancien  Testament.  Bien  sûr,  Dieu  n'a  pas  voulu  laisser  l'humanité dans l'errance, séparée de lui. Après avoir accompli son œuvre salvatrice, il a voulu que nous soyons baptisés, afin de nous renouveler et de nous envoyer l'Esprit-Saint une seconde fois.</p>
+<br>
+<p>Ces sacrements allaient lui permettre de nous recréer.</p>
+<br>
+<p>Au  chapitre  3  de  son  Évangile,  Jean  fait  allusion  au  baptême  en rapportant  les  paroles  du Christ qui  disait  qu'il  nous  fallait  naître  de  nouveau,  naître  d'eau  et  d'Esprit,  afin  d'être recréés. Pour sa part, saint Paul, au chapitre 3 de son Épître à Tite, affirme que nous sommes sauvés par  le  baptême  de  la  régénération  et  le  renouvellement  du  Saint-Esprit. Nous sommes donc régénérés. Dans les Actes des apôtres, au chapitre 22, verset 16, saint Pierre suggère  que  le  baptême  a  le  pouvoir  de  nous  laver  de  nos  péchés.  Enfin,  dans  son  Épître aux Romains, saint Paul parle du baptême en ces termes:</p>
+<br>
+<p>« (...) que  notre  vieil  homme  a  été  crucifié  avec  lui,  afin  que le  corps  du  péché  fût détruit, pour que nous ne soyons plus esclaves du péché. » (Romains 6:6) Voilà pourquoi dans le Credo, nous reconnaissons que seul le baptême entraîne la rémission des  péchés,  car  c'est  par  lui que  nous  sommes  restaurés. Et  cette restauration  nous débarrasse  de  la  corruption  qui  nous  habite.  C'est  un  moment  où  nous  devenons  parfaits, tout  comme  notre  Père  céleste  est  parfait.  Nous  sommes  transformés  de  nouveau et retrouvons  ainsi notre  image  et  notre  ressemblance  à  Dieu.  C'est  pourquoi  à  2  Corinthiens :18, saint Paul dit que nous contemplons la gloire du Seigneur comme dans un miroir et que par son Esprit, nous sommes transformés en son image de gloire en gloire. Saint Cyrille est du même avis:</p>
+<br>
+<p>« Ainsi, [Dieu] souhaite que la  nature  humaine  soit  renouvelée  et  refaçonnée  à  son image  d'origine  par  sa  communion  avec  l'Esprit, de  manière  à  ce  que,  vêtus  de  sa grâce originelle et reconstruits conformément à sa volonté, nous en venions à détrôner le péché qui règne sur ce monde, tant par notre supériorité que par notre puissance, et que nous puissions nous consacrer uniquement à l'amour de Dieu. » (Saint Cyrille d'Alexandrie) - [traduction libre] Alors, pourquoi Dieu se préoccupe-t-il du péché? Parce le péché est contraire à ce qu'il est et qu'il déforme son image en nous, ce qui a pour effet de nous séparer de lui. C'est un poison spirituel qui  nous  coupe  de  la  source  de  vie.  Son seul but est  de  nous  conduire  à  la  mort.</p>
+<br>
+<p>Mais Dieu nous veut vivants. Il nous a créés pour que nous soyons immortels. C'est pourquoi il nous a donné les sacrements de l'Église: pour que nous soyons retransformés et que nous puissions vivre en lui une fois de plus.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>
+<br>
+<p>Autres suggestions de vidéos:</p>
+<br>
+<p>Pourquoi la fornication et l'adultère sont-ils considérés comme des péchés au sein du christianisme?</p>
+<br>
+<p>La pornographie - Partie 1: En quoi la pornographie est-elle un péché?</p>
+<br>
+<p>La pornographie - Partie 2: Est-ce que la pornographie vous fait du tort?</p>

@@ -6,5 +6,5 @@ lang: fr
 title: "COA live Q&A March. 29. 2023"
 pubDate: 2023-03-31T00:58:18
 tags: ["q&a"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---

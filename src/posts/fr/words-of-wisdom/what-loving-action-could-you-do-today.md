@@ -6,7 +6,7 @@ lang: fr
 title: "What Loving Action Could You Do Today?"
 pubDate: 2019-07-03T11:45:43
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

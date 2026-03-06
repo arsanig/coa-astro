@@ -6,7 +6,7 @@ lang: fr
 title: "Find joy regardless of your circumstances"
 pubDate: 2019-06-19T11:53:47
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

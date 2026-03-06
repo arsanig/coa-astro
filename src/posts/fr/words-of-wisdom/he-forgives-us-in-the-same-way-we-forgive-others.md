@@ -6,7 +6,7 @@ lang: fr
 title: "He forgives us in the same way we forgive others!"
 pubDate: 2021-01-04T02:14:13
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

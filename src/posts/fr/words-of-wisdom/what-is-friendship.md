@@ -6,7 +6,7 @@ lang: fr
 title: "What is friendship?"
 pubDate: 2023-03-22T09:51:50
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

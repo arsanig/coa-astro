@@ -6,7 +6,7 @@ lang: fr
 title: "Distractions in Prayer"
 pubDate: 2021-07-21T12:00:23
 tags: ["wow"]
-author: "Fr. John Boutros"
+author: "Père John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

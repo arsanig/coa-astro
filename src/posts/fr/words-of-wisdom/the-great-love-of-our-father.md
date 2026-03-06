@@ -6,7 +6,7 @@ lang: fr
 title: "The Great Love of Our Father!"
 pubDate: 2021-01-14T20:30:20
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

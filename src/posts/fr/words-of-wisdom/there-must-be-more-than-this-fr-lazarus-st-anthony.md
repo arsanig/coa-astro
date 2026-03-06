@@ -6,7 +6,7 @@ lang: fr
 title: "There Must Be More Than This!"
 pubDate: 2019-12-06T12:00:49
 tags: ["wow"]
-author: "Fr. Lazarus St. Anthony"
+author: "Père Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

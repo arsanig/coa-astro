@@ -6,7 +6,7 @@ lang: fr
 title: "Remember God's work in your life. Build your faith on them."
 pubDate: 2020-02-21T12:03:57
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

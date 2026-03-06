@@ -6,7 +6,7 @@ lang: fr
 title: "A Journey Through Liturgy"
 pubDate: 2023-05-25T19:10:38
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "True joy is found only in being crucified with Christ! (must listen)"
 pubDate: 2020-03-06T12:00:09
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <br>

@@ -6,7 +6,7 @@ lang: fr
 title: "Discerning God's Will"
 pubDate: 2023-10-13T12:00:46
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

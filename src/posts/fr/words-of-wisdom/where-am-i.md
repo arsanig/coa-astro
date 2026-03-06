@@ -6,7 +6,7 @@ lang: fr
 title: "Where am I?"
 pubDate: 2021-12-29T04:08:28
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

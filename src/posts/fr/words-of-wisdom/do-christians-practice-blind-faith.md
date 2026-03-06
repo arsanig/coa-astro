@@ -6,7 +6,7 @@ lang: fr
 title: "Do Christians practice blind faith?"
 pubDate: 2019-09-06T16:00:00Z
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "To Be Meek is to See Every Encounter as Opportunity"
 pubDate: 2020-10-23T01:32:53
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

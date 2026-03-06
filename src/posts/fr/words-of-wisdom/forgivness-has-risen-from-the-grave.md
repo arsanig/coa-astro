@@ -6,7 +6,7 @@ lang: fr
 title: "Forgivness has Risen from the Grave"
 pubDate: 2022-08-19T12:00:18
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

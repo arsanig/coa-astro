@@ -6,7 +6,7 @@ lang: fr
 title: "Wisdom of the Desert Fathers"
 pubDate: 2023-05-10T01:15:25
 tags: ["wow"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

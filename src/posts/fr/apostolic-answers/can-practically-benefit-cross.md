@@ -3,22 +3,48 @@ wp_id: 832
 videoId: "0AEZMwTyQPs"
 imgSrc: /assets/thumbnails/0AEZMwTyQPs.webp
 lang: fr
-title: "How Can I Practically Benefit From The Cross?"
-pubDate: 2017-04-11T20:25:15
+title: "Comment bénéficier de la croix sur le plan pratique"
+pubDate: 2017-04-11T20:25:15.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>The week is a very special week where we commemorate and relive every passion of our Lord Jesus Christ. <strong>Then we come to the day of Good Friday where we commemorate the pinnacle of the passion, which is the cross of our Lord.</strong> We want to take something spiritual out of this pinnacle, but what can we take from the cross and apply personally into our lives? <strong>We first have to understand that at the time of Adam and Eve, these two were created under God’s authority. However, when they sinned, this authority was transferred to the devil. Therefore, since then, there has been corruption, death, etc. Nonetheless, God did not want to leave it this way, so the Holy Trinity decided that the Son would come down on earth, would be incarnate, crucified, and resurrected. </strong></p>
+<p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Let’s analyze the crucifixion from the book of Exodus (Exodus 7:10-12) where Moses and Aaron come, with the rod of Moses, to meet Pharaoh and the magicians. As the story goes, this rod was transformed to become a serpent. <strong>The Fathers of the Church have taught us that this transformation was a symbol of our Lord’s incarnation. Why did God choose to be incarnate in the form of a serpent? We have to understand that God took exactly what was ours. Indeed, as humans, when we sinned, we became corruptede. God thus took everything that belonged to humanity, with the exception of sin. </strong>Therefore, He was incarnate in the shape of that serpent (representing corruption). Then the magicians came and did the same, hence creating <strong>a confrontation between the powers of good and evil. Then, the serpent (Moses’ rod) ate the other serpent(s). This a symbol of the cross where God has swallowed death, eaten corruption; but remained incorruptible. He lifted up our sins on the cross, yet He remained alive. The beauty of this story is that when they came to take the serpent again, it was transformed back into a rod. The Fathers explain that this (second) transformation was a symbol of the resurrection and ascension of Lord Jesus Christ. </strong></p>
+<p>En cette semaine très spéciale, nous commémorons et revivons toutes les passions de notre Seigneur  Dieu  et  Sauveur  Jésus-Christ.  Nous  arrivons  bientôt  au  Vendredi saint qui commémore le  point  culminant  de  la  passion,  soit  la  crucifixion  de  notre  Seigneur,  et nous espérons  en  tirer  quelque  chose  sur  le  plan  spirituel.  Que  pouvons-nous  retenir  de  cet événement qui soit ensuite applicable dans nos vies personnelles?</p>
 <br>
-<p>Therefore, through the cross, we have been given this authority over the powers of darkness (evil, death, corruption). In the cross, we are given the authority to live a true Christian, a pure life, but we need to believe in the cross, in that authority that has been given to us. In Matt 27:45-51, God had demonstrated in a way or another that even nature believed [in the authority of Christ], so to speak. <strong>When it came to humanity, some believed and some didn’t. The perfect example is the one of the two thieves on the cross. One believed, repented, and was saved, but the other didn’t. The good news is that both of them, in the beginning, reviled Christ, and had sinned against Him. Nevertheless, one had repented and the other not. We ought to be like this right-hand thief. As a matter of fact, no matter the extent of ours sins, we need to come back to Christ, to the sacraments, through repentance, and be given back this life of authority. </strong></p>
+<p>Il  faut  comprendre  une  chose... Au  temps  de  la  création,  Adam  et  Ève  furent  créés  sous l'autorité de  Dieu,  mais  en  commettant  le  péché  originel,  ils  ont  transféré  cette  autorité  au démon.  Depuis,  l'humanité  a  connu  la  mort,  la  corruption,  le  péché,  et  quoi  d'autre  encore!</p>
 <br>
-<p>Saint Paul says, in 1 Cor 1:18, “For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.” The cross is the power of God given to me for my personal salvation. The cross is redemption; the cross is life. The cross is the authority I should live by every single day of my life.</p>
+<p>Mais Dieu  n'a  pas  voulu  que  les  choses  en restent  ainsi.  La  Sainte  Trinité  a donc  décidé d'envoyer le Fils, afin qu'il soit incarné, crucifié et ressuscité.</p>
 <br>
-<p><strong>                                      Remember know your faith, live your faith and</strong></p>
+<p>Aujourd'hui,  j'aimerais m'arrêter  sur le récit  complet  du  salut  en  l'examinant  tel  qu'il  est raconté  au  chapitre  7  de  l'Exode, à  partir  du  moment  où Moïse  et  Aaron  se  sont présentés devant le Pharaon et ses magiciens. Ils avaient ce bâton avec eux... Vous connaissez l'histoire: le bâton fut changé en serpent. Les Pères de l'Église nous ont enseigné que cette transformation symbolisait l'incarnation de notre Seigneur. C'était un symbole, n'est-ce pas? Mais pourquoi le Christ a-t-il choisi un serpent pour s'incarner?</p>
 <br>
-<p><strong>                                                                teach your faith</strong></p>
+<p>Ce  qu'il  faut  comprendre,  c'est  qu'en  s'incarnant, Dieu  a revêtu  la  nature  humaine  en  tous points. En tant qu'humains, nous avons péché et notre nature s'est corrompue. La corruption faisait dorénavant partie de nous. Dieu a pris sur lui tous les attributs de l'humanité, sauf le péché.  Il  s'est  incarné  sous  la  forme  d'un  serpent.  Voyant  cela,  les  magiciens  ont  répété l'exploit. Dès lors, une rivalité s'installa entre les forces du bien et du mal.</p>
+<br>
+<p>Mais  le  Logos,  sous  sa  forme  incarnée  de  serpent,  avala  le  serpent  des  magiciens.  Et  ce faisant, Dieu venait d'engloutir la mort, d'engloutir la corruption. Mais il demeura incorruptible.</p>
+<br>
+<p>Il éleva nos péchés avec lui sur la croix, et tout ce qui s'ensuivit, mais il demeura bien vivant.</p>
+<br>
+<p>Et la beauté de ce récit, c'est que lorsque les magiciens se sont tournés vers le serpent, ce dernier était redevenu un bâton, ce que les Pères ont perçu comme étant un symbole de la résurrection et de l'Ascension de notre Seigneur Dieu et Sauveur Jésus-Christ.</p>
+<br>
+<p>Ainsi, grâce  à la  croix, nous avons  maintenant autorité  sur  les  forces  des  ténèbres,  sur  le mal, la mort et la corruption. Nous pouvons vivre une véritable vie chrétienne, une vie pure.</p>
+<br>
+<p>Mais il nous faut y croire: croire en la croix, en la résurrection, en cette autorité.</p>
+<br>
+<p>Au chapitre 27 de Matthieu, Dieu a démontré que, d'une certaine manière, la nature y croyait.</p>
+<br>
+<p>Il explique que de la 6 è à la 9 è heure, toute la terre était plongée dans les ténèbres. Le voile du temple se déchira en deux. Les rochers se fendirent. La terre trembla. C'est donc qu'à sa façon, la nature croyait en ce qui se passait. Quant aux humains, certains ont cru et d'autres pas. Nous en avons un parfait exemple avec les deux larrons crucifiés. Celui de droite a cru, s'est repenti, fut sauvé et mérita son paradis. Mais celui de gauche n'a pas cru.</p>
+<br>
+<p>La bonne nouvelle dans tout ça, c'est que même si au départ les deux larrons avaient injurié le Christ et avaient péché contre lui, l'un d'eux s'est repenti. Nous devrions suivre l'exemple du bon larron. Peu importe ce que nous avons fait, nous devons revenir à la croix, aux pieds du Christ, et obtenir cette vie d'autorité grâce aux sacrements. Dans sa première Épître aux Corinthiens, saint Paul disait ceci:</p>
+<br>
+<p>« Car la prédication de la croix est une folie pour ceux qui périssent; mais pour nous qui sommes sauvés, elle est une puissance de Dieu. » (1 Corinthiens 1:18) Nous sommes sauvés. La croix, c'est le pouvoir que Dieu nous a donné. C'est la rédemption.</p>
+<br>
+<p>C'est la vie. Cette croix est l'autorité qui doit nous servir et nous guider chaque jour de notre vie.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "The purpose of the Lord’s commandment"
 pubDate: 2022-05-19T23:38:07
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

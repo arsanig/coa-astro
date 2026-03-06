@@ -6,7 +6,7 @@ lang: fr
 title: "Continue to seek Christ"
 pubDate: 2022-07-13T11:50:03
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

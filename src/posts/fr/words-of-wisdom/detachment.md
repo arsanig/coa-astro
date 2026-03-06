@@ -6,7 +6,7 @@ lang: fr
 title: "Detachment"
 pubDate: 2022-09-29T11:27:54
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

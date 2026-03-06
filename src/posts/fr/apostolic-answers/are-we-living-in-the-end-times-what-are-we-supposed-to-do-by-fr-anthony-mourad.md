@@ -3,46 +3,66 @@ wp_id: 3297
 videoId: "JtaNG2Os6OY"
 imgSrc: /assets/thumbnails/JtaNG2Os6OY.webp
 lang: fr
-title: "Are we living in the end times? What are we supposed to do?"
-pubDate: 2022-02-09T00:43:08
+title: "Sommes-nous en train de vivre la fin des temps?"
+pubDate: 2022-02-09T00:43:08.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Vous  est-il  déjà  arrivé  de  regarder  autour  de  vous  et  de  penser  que  la  fin est  peut-être proche? Avez-vous vu des films ou entendu le récit de personnes qui expliquent à quoi la fin des temps pourrait ressembler? Serait-ce possible que tout ce qui se passe autour de nous converge vers la fin des temps, telle que nous la concevons? Prenons le temps d'en discuter ensemble aujourd'hui.</p>
 <br>
-<p>Have you ever looked around you and thought the end is near? Have you seen movies or heard stories of people speaking of how the end of the world will look like? Could everything that has been going on around us be pointing to the end of ages as we know it? Lets discuss some of these things together now.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Are we living in the end times? Is everything that is happening around us pointing to the end of the world as we know it? I’m sure many of us have asked this question before, and many people in history have also assumed that their own era is nearing the so called ‘end of the ages’. As a matter of fact, every generation of humans has had at least one group of people who claimed they would be the generation that would witness the so called “end of the world”. And so, it comes as no surprise, that in an exceptional time like the one we live in now, a time of pandemic, chaos, and panic, that many are also claiming that the end is near. But is it?</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Let’s begin by making something very clear - the one sure thing on this subject that Scripture spells out very clearly is that no one knows the exact time of the end. In both the gospel of Matthew and Mark the Lord makes it explicitly clear by saying:</p>
+<p>Sommes-nous en train de vivre la fin des temps? Est-ce que tout ce qui arrive autour de nous converge  vers  la  fin  du  monde, telle  que  nous  la  concevons?  Je  suis  certain  que  plusieurs d'entre  nous  se  sont  déjà  posé  la question  et que plusieurs  dans  l'histoire  ont supposé que leur  propre  ère  arriverait  bientôt  à  cette  soi-disant  «  fin  des  temps  ».  En  effet,  chaque génération  d'humain  a  connu  au  moins  un  groupe  de  personnes  qui  affirmait  que sa génération  serait  le  témoin  de  cette  soi-disant  «  fin  du  monde  ».  C'est  donc  sans  surprise que, dans  les temps  exceptionnels  que  nous  connaissons  présentement,  un  temps  de pandémie,  de  chaos, de  panique,  plusieurs  affirment  que  la  fin  approche.  Mais  est-ce vraiment le cas?</p>
 <br>
-<p><b><i>“But of that day and hour no one knows, not even the angels of heaven, but My Father only.” (Matthew 24:36) </i></b></p>
+<p>Une chose doit être bien claire dès le départ: la seule chose que les Écritures expliquent très clairement  à  ce  propos,  c'est  que  personne  ne  sait  exactement  quand  la  fin arrivera.  Dans l'Évangile selon saint Mathieu et selon saint Marc, le Seigneur est clair et explicite lorsqu'il dit:</p>
 <br>
-<p>It does not get any clearer than this - No one knows! So lets not get distracted and spend our time trying to figure out exact dates and time.</p>
+<p>« Pour ce qui est du jour et de l'heure, personne ne le sait, ni les anges des cieux, ni le Fils, mais le Père seul. » (Matthieu 24:36) On  ne saurait être  plus  clair: personne  ne  le  sait! Alors  ne  nous  laissons  pas  distraire en perdant notre temps à tenter de trouver une date et une heure précises.</p>
 <br>
-<p>What about signs of the end of the ages, and what are we to learn from the teachings of scripture. Well lets take for instance the passages spoken by the Lord himself recorded in the gospels. Lets read from the gospel of St Matthew chapter 24:</p>
+<p>Et que dire des signes qui annoncent la fin des temps? Que devons-nous retenir de ce que les Écritures nous enseignent? Prenons, par exemple, les passages de l'Évangile où le Seigneur lui-même prend la parole. Lisons cet extrait de l'Évangile selon saint Matthieu, au chapitre 24:</p>
 <br>
-<p><b><i>“3 Now as He sat on the Mount of Olives, the disciples came to Him privately, saying, “Tell us, when will these things be? And what will be the sign of Your coming, and of the end of the age?”</i></b></p>
+<p>« Il s'assit sur la montagne des oliviers. Et les disciples vinrent en particulier lui faire cette question:  Dis-nous,  quand  cela  arrivera-t-il,  et  quel  sera  le  signe  de  ton avènement et de la fin du monde?</p>
 <br>
-<p><b><i>4 And Jesus answered and said to them: “Take heed that no one deceives you. 5 For many will come in My name, saying, ‘I am the Christ,’ and will deceive many. 6 And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet. 7 For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places. 8 All these are the beginning of sorrows.” (Matthew 24: 3-8) </i></b></p>
+<p>Jésus leur répondit: Prenez garde que personne ne vous séduise.</p>
 <br>
-<p>The Lord describes a reality of chaos and violence and deception. He also specifies that although we will witness all these things, the Lord insists <b><i>“…but the end is not yet.” </i></b>He explains that this will only be the beginning of sorrows - the beginning of the trouble that believers will face. The Lord continues this passage by giving greater detail on what will happen, and then ends with an important message for all of us. You see, He answers the question which was not posed by his disciples. All they wanted to know was WHEN these things will take place and WHAT will happen. However, the Lord is more concerned with HOW we ought to prepare ourselves. Pay attention to the Lord’s teaching:</p>
+<p>Car  plusieurs  viendront  sous  mon  nom,  disant:  C'est  moi  qui  suis  le  Christ.  Et  ils séduiront beaucoup de gens.</p>
 <br>
-<p><b><i>“…as the days of Noah were, so also will the coming of the Son of Man be. 38 For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark, 39 and did not know until the flood came and took them all away, so also will the coming of the Son of Man be. 40 Then two men will be in the field: one will be taken and the other left. 41 Two women will be grinding at the mill: one will be taken and the other left. 42 Watch therefore, for you do not know what hour your Lord is coming. 43 But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into. 44 Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.” (Matthew 24: 37-44)</i></b></p>
+<p>Vous  entendrez  parler  de  guerres  et  de  bruits  de  guerres:  gardez-vous  d'être troublés, car il faut que ces choses arrivent. Mais ce ne sera pas encore la fin.</p>
 <br>
-<p>Our Lord is calling all of us to a state of watchfulness and readiness. Calling us to a state of sobriety that we may always be ready to recognize the master in His coming. The question then should not be “are these the end times?” - the question should be “are we prepared?”</p>
+<p>Une  nation  s'élèvera  contre  une  nation,  et  un  royaume  contre  un  royaume,  et  il  y aura, en divers lieux, des famines et des tremblements de terre.</p>
 <br>
-<p>The Lord counsels all of us to be prepared for His coming. He tells us to be careful that we should not be caught off guard when our time comes. That we should not be careless and distracted when in reality we should be sober and vigilant waiting in expectation for our time. It is for this reason that the Lord is more concerned with communicating to us the importance of being watchful and prepared then He is in trying to communicate the finite details of WHAT and WHEN things will happen.</p>
+<p>Tout cela ne sera que le commencement des douleurs. » (Matthieu 24:3-8) Tout  cela  ne  sera  que  le  commencement  des douleurs,  dit-il. Le  Seigneur  décrit  une réalité de  chaos,  de  violence  et  de  tromperie. Le  Seigneur précise  également  que nous  serons témoins  de  toutes  ces  choses, mais  il insiste: «...ce  ne  sera  pas  encore  la  fin.  » Il explique que ce ne sera que le début des douleurs - le début des difficultés que les croyants rencontreront. Le Seigneur continue ce passage en donnant de plus amples détails sur ce qui va se produire, puis il termine avec un important message qui s'adresse à nous tous. Voyez- vous, il répond à la question que les disciples n'ont pas posée. Tout ce qu'ils voulaient savoir, c'est quand ces  choses arriveraient et qu'est-ce qui arriverait.  Cependant,  le  Seigneur  est davantage préoccupé par comment nous devrions nous y préparer. Soyez attentifs à ce que le Seigneur enseigne:</p>
 <br>
-<p>St John Chrysostom in his commentary on the Gospel of Matthew says that in reality the Lord in these passages does not imply that He Himself does not know the time, but rather that we do not, nor ought we know. St John even says that this is done intentionally by the Lord so that we may be encouraged to always be in a state of preparedness and that by being on out toes, we may constantly pursue repentance. Listen to St John’s explanation:</p>
+<p>« Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme.</p>
 <br>
-<p><b><i>“Those who care about their house and do not want their possessions stolen take measures against the thief. They watch; they are prepared for the thief. So it is with you. You do not know when he will come. But you know assuredly that he will come. If you do not continue to watch, you will not be ready on that day. You will be unprepared. Destruction will come in your sleep. If the person had known when the thief was coming, he would have been prepared. So be like the one who is prepared at all times, so you will escape free.” [St John Chrysostom - THE GOSPEL OF MATTHEW, HOMILY 77.2-3] </i></b></p>
+<p>Car, dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, jusqu'au jour où Noé entra dans l'arche; et ils ne se doutèrent de rien, jusqu'à ce que le déluge vînt et les emportât tous: il en sera de même à l'avènement du Fils de l'homme.</p>
 <br>
-<p>Beloved we are therefore asked in these difficult times we live in to be watchful, sober, vigilant, and most importantly, to be prepared. So much around us can serve as a distraction to take our eyes off of Christ and His kingdom. The world is fighting to pull us away from God, claiming that it has something more important for us, something more entertaining, more promising…and all of these are examples of Anti-Christ. They want to replace and even take over the the position that Our Lord Jesus Christ holds in our hearts and in our minds. You see Anti Christ doesn’t just mean against Christ, it means “instead of” Christ.</p>
+<p>Alors, de deux hommes qui seront dans un champ, l'un sera pris et l'autre laissé; de deux femmes qui moudront à la meule, l'une sera prise et l'autre laissée.</p>
 <br>
-<p>So, Preparation for the end times, regardless of when that will be, requires for me to ask myself, am I focused on Him? Am I recognizing the temptations and distractions that would otherwise have me take my eyes and my heart off of the Lord?</p>
+<p>Veillez donc, puisque vous ne savez pas quel jour votre Seigneur viendra.</p>
 <br>
-<p>Truth be told, no one for sure can say if we are in the end times - even thought it would seem that we are indeed approaching those days. What is sure, however, is that we are all called to repent, to keep our eyes on the Lord, and to be prepared at all times.</p>
+<p>Sachez-le  bien,  si  le  maître  de  la  maison  savait  à  quelle  veille  de  la  nuit  le  voleur doit venir, il veillerait et ne laisserait pas percer sa maison.</p>
 <br>
-<p><strong>Remember, know your faith, live your faith, and teach your faith.</strong></p>
+<p>C'est  pourquoi,  vous  aussi,  tenez-vous  prêts,  car  le  Fils  de  l'homme  viendra  à l'heure où vous n'y penserez pas. » (Matthieu 24:37-44) Notre Seigneur  nous  invite  tous  à  la  vigilance  et  à nous tenir  prêts. Il  nous  appelle à demeurer  sensés, afin  que  nous  soyons  toujours  prêts à le  reconnaître lorsqu'il  arrivera.</p>
+<br>
+<p>Ainsi,  la  question  qu'il  faudrait  se  poser  n'est  pas Est-ce  la  fin  des  temps?,  mais  plutôt Sommes-nous prêts?</p>
+<br>
+<p>Le Seigneur nous conseille de nous préparer à son avènement. Il nous dit de prendre garde, afin  éviter  d'être  pris  de  court lorsque  notre  heure  aura  sonné.  Il  nous  dit que  nous  ne devrions  pas  être  insouciants  et  distraits, et qu'en  réalité,  nous  devrions  être sensés et vigilants  en  attendant  notre  heure.  C'est  pour  cette  raison  que  le  Seigneur  se  préoccupe davantage  de  nous  communiquer  l'importance  d'être  vigilant  et  prêt,  plutôt  que  de  nous révéler les menus détails sur ce qui arrivera et quand cela arrivera.</p>
+<br>
+<p>Voyez-vous,  saint  Jean  Chrysostome,  dans  son  commentaire  sur  l'Évangile  selon saint Matthieu, affirme qu'en réalité, dans ces extraits, le Seigneur n'est pas en train d'insinuer qu'il ne connaît pas le moment lui-même, mais plutôt que nous ne le connaissons pas et que nous n'avons pas à le connaître. Saint Jean va même jusqu'à dire que c'est intentionnel de la part du Seigneur, afin de nous encourager à être toujours prêts et qu'en étant sur le qui-vive, nous demeurions constamment repentants. Écoutez l'explication de saint Jean:</p>
+<br>
+<p>«  Ceux  qui  tiennent  à  leur  maison  et  qui  ne  veulent  pas  qu'on  leur dérobe leur  biens mettent en place des mesures pour se protéger des voleurs. Ils veillent; ils sont prêts contre les voleurs. Et il en va de même pour vous. Vous ne savez pas quand il viendra.</p>
+<br>
+<p>Mais  vous  savez  pertinemment  qu'il  viendra.  Si  vous  cessez  d'être  vigilants,  vous  ne serez  pas  prêts  ce  jour-là.  Vous  ne  serez  pas  préparés.  La  destruction  vous  frappera dans  votre  sommeil.  Si  une  personne  savait quand  un  voleur  va  se  présenter,  elle  se préparerait.  Alors  faites  comme  cette  personne  qui  se  prépare  à  toute  éventualité,  et ainsi, vous serez libérés. » (Saint Jean Chrysostome) - [traduction libre] Mes  frères,  en  ces  temps  difficiles, il  nous  est  demandé de  prendre  garde, d'être  sensés, vigilants, et surtout, d'être prêts. Il y a autour de nous tellement de sources de distraction qui peuvent nous détourner du Christ et de son royaume. Le monde s'efforce de nous écarter de Dieu  en  prétextant  qu'il  nous  réserve des  choses  plus  importantes,  plus amusantes,  plus prometteuses... et  toutes  ces  choses  sont  des  manifestations  de  l'Antéchrist.  On  veut remplacer Notre-Seigneur  Jésus-Christ,  et  même  s'emparer  de  la  place  qu'il  occupe  dans nos cœurs et nos esprits. Voyez-vous, « Anté Christ » ne signifie pas seulement « contraire au Christ »; ça signifie « au lieu du Christ ».</p>
+<br>
+<p>Alors, peu importe quand la fin des temps va arriver, s'y préparer requiert que je me pose la question, à savoir, suis-je centré sur lui? Est-ce que je vois les tentations et les distractions qui, autrement, m'inciteraient à détourner mon regard et mon cœur du Seigneur?</p>
+<br>
+<p>Qu'on se dise la vérité: personne ne peut dire avec certitude que nous sommes en train de vivre  la  fin  des  temps,  même  si  tout  porte  à  croire que  ce  soit  le  cas.  Ce  qui  est  certain, cependant, c'est que nous sommes invités à nous repentir, à garder les yeux sur le Seigneur, et surtout, à être préparés en tout temps.</p>
+<br>
+<p>Merci  d'avoir  regardé  cette  vidéo.  Si  vous  l'avez  aimée,  veuillez  cliquer  sur  « like  »  et  la partager,  afin  de  répandre  la  parole  de  Dieu.  N'oubliez  pas  de  vous  abonner  et  d'activer  la fonction de notification pour ne pas manquer nos autres vidéos.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>

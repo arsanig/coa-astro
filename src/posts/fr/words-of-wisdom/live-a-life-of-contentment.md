@@ -6,7 +6,7 @@ lang: fr
 title: "Live a Life of Contentment"
 pubDate: 2024-01-10T12:00:23
 tags: ["wow"]
-author: "Fr. Elijah Iskander"
+author: "Père Elijah Iskander"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

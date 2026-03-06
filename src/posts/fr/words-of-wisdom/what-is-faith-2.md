@@ -6,7 +6,7 @@ lang: fr
 title: "What is Faith?"
 pubDate: 2024-01-19T12:00:29
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

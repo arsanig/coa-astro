@@ -6,7 +6,7 @@ lang: fr
 title: "Intimacy with God in prayer"
 pubDate: 2021-11-11T23:40:28
 tags: ["wow"]
-author: "Fr. Kyrillos Ibrahim"
+author: "Père Kyrillos Ibrahim"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

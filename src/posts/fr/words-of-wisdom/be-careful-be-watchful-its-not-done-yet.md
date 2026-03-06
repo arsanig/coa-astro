@@ -6,7 +6,7 @@ lang: fr
 title: "Be careful, be watchful, it's not done yet!"
 pubDate: 2021-07-30T12:00:21
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

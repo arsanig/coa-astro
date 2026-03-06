@@ -3,7 +3,7 @@ wp_id: 07382
 videoId: "lYxZiX4iKKQ"
 imgSrc: /assets/thumbnails/lYxZiX4iKKQ.webp
 lang: en
-title: "Archive - Remember God's work in your life. Build your faith on them."
+title: "Remember God's work in your life. Build your faith on them."
 pubDate: 2020-02-20T21:29:57Z
 tags: ["wow"]
 author: "Fr. Paul Guirguis"

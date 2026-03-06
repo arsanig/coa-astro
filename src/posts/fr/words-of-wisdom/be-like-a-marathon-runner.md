@@ -6,7 +6,7 @@ lang: fr
 title: "Be like a marathon runner"
 pubDate: 2022-02-25T19:22:33
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

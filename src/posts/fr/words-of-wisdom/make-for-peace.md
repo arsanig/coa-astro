@@ -6,7 +6,7 @@ lang: fr
 title: "Make for Peace"
 pubDate: 2021-07-09T00:09:18
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

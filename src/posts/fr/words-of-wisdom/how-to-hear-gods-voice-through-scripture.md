@@ -6,7 +6,7 @@ lang: fr
 title: "How to hear God's voice through Scripture?"
 pubDate: 2019-07-12T10:10:01
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "God is calling you!"
 pubDate: 2021-12-21T23:28:07
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

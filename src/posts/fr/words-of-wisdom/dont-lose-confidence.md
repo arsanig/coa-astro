@@ -6,7 +6,7 @@ lang: fr
 title: "Don't lose confidence"
 pubDate: 2021-11-02T22:42:05
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Be bold"
 pubDate: 2023-04-21T00:19:55
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

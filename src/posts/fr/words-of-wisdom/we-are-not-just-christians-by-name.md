@@ -6,7 +6,7 @@ lang: fr
 title: "We are not just Christians by name"
 pubDate: 2021-06-11T00:23:04
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

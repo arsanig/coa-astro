@@ -6,7 +6,7 @@ lang: fr
 title: "You store the word of God!"
 pubDate: 2022-02-02T00:22:45
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

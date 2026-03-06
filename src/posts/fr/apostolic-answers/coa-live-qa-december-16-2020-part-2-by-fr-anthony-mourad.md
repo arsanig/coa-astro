@@ -6,5 +6,5 @@ lang: fr
 title: "COA live Q&A December. 16. 2020 (Part 2)"
 pubDate: 2020-12-17T00:33:19
 tags: ["q&a"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---

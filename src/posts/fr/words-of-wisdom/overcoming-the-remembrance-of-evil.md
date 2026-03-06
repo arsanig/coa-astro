@@ -6,7 +6,7 @@ lang: fr
 title: "Overcoming the remembrance of evil"
 pubDate: 2022-04-15T11:04:56
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

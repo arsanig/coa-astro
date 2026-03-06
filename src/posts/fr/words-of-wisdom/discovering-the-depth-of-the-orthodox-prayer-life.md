@@ -3,28 +3,23 @@ wp_id: 1386
 videoId: "bjiCf_Yi8mY"
 imgSrc: /assets/thumbnails/bjiCf_Yi8mY.webp
 lang: fr
-title: "Discovering the Depth of the Orthodox Prayer Life"
+title: "Découvrons la profondeur de la vie de prière orthodoxe"
 pubDate: 2019-03-06T15:06:20
 tags: ["wow"]
-author: ""
+author: "Père Gabriel Wissa"
 ---
-
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Tandis que nous poursuivons notre aventure terrestre, notre esprit se demande parfois: Pourquoi l'orthodoxie est-elle si exigeante? Pourquoi dois-je subir ces longues prières et ces périodes de jeune encore plus longues? Est-ce que tout ça est vraiment nécessaire? Est-ce une condition à l'obtention de mon salut?</p>
 <br>
-<p><strong>As we walk through our earthly journey, sometimes our minds wonder:</strong></p>
+<p>Mais au fait, le christianisme orthodoxe est-il seulement une question de salut ou il y a plus? Une des particularités de l'orthodoxie, c'est le profond désir d'être avec Dieu, un désir que l'Église entretient auprès de ses fidèles.</p>
 <br>
-<p><strong>“Why is Orthodoxy so demanding?”</strong></p>
+<p>Saint Macaire le Grand nous dit ceci:</p>
 <br>
-<p><strong>“why do I need to endure these long prayers and even more long fasting periods?”</strong></p>
+<p>« Mais le commencement de toute bonne entreprise et la force directrice qui entraîne de bonnes actions se trouve dans la persistance à prier (...) car la personne qui chaque jour s'efforce de prier devient un brasier de passion divine et d'ardent désir engendré par son amour spirituel envers Dieu...» (Saint Macaire le Grand) - [traduction libre]</p>
 <br>
-<p><strong>“Is all of this really necessary?” “Is it needed for my salvation?”</strong></p>
+<p>On n'enseigne pas Dieu aux chrétiens orthodoxes. On leur enseigne à vivre avec Dieu, à vivre le ciel ici et maintenant. L'orthodoxie est donc centrée non seulement sur le salut de l'âme, mais également sur la volonté perpétuelle d'être en tendre communion avec Dieu. Car le véritable christianisme n'est pas une idéologie. C'est plus qu'une simple religion.</p>
 <br>
-<p>But is Orthodox Christianity merely about gaining salvation? Or is it there more to it? One special feature of Orthodoxy is the deep desire for God that the Church stimulates in Her faithful.</p>
+<p>Le christianisme orthodoxe est une vie, une vie de bonheur avec le Christ. Et nous exprimons ce bonheur par nos longues et profondes prières en église, par nos nombreuses vigiles de nuit, par nos longues périodes de jeûne, et par les fêtes que nous célébrons. Nous faisons tout ça et même plus parce que nous aimons Dieu; parce que nous voulons lui offrir notre cœur, notre âme et notre esprit.</p>
 <br>
-<p>We say with St. Macarius the Great: “But the head [beginning] of every good endeavor and the guiding force of right actions is in perseverance of prayer … for the person who daily forces himself to persevere in prayer is enflamed with divine passion and fiery desire from a spiritual love toward God…” Orthodox Christians are not taught about God but are taught to live with God… to live heaven here and now.</p>
+<p>Le saint Pape Kyrillos VI nous dit encore:</p>
 <br>
-<p>The focus of Orthodoxy is therefore not only the soul’s salvation, but is a continual willingness to be in loving communion with God. Because true Christianity is not an ideology, it is neither merely a religion… Orthodox Christianity is a life. A joyful life with Christ. And this is reflected in the Church’s long and deep prayers, it is reflected in the many all-night vigils.</p>
-<br>
-<p>It is reflected in the Church’s long fasting periods. It is reflected in the Church’s feasts! We do all of this and more because we love God. Because we want to give Him all our hearts, souls and minds.</p>
-<br>
-<p>Again, we say with St. Pope Kirellos the 6th: “By prayer your mind will be enlightened, your heart healed, and your conscience purified. By prayer your heart will be filled by holy and sublime desires, and be elevated above human nature. By prayer you will be raised above earthly things, and all your desires will be turned into spiritual ones.</p>
+<p>« Par la prière, votre esprit s'illuminera, votre cœur sera guéri et votre conscience purifiée. Par la prière, votre cœur sera rempli de désirs sacrés et sublimes, et il transcendera la nature humaine. Par la prière, vous vous élèverez au-dessus des choses matérielles et tous vos désirs seront transformés en désirs spirituels. » (Sa Sainteté, le Pape Kyrillos VI) - [traduction libre]</p>

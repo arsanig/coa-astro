@@ -6,7 +6,7 @@ lang: fr
 title: "We are His children"
 pubDate: 2022-05-13T10:42:03
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

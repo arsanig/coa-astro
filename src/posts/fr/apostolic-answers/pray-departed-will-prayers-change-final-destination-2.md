@@ -3,39 +3,46 @@ wp_id: 1081
 videoId: "yt5GYzm9tQQ"
 imgSrc: /assets/thumbnails/yt5GYzm9tQQ.webp
 lang: fr
-title: "Why do we pray for the departed? Will our prayers change their final destination?"
-pubDate: 2018-02-01T10:12:54
+title: "Pourquoi prier pour les défunts?"
+pubDate: 2018-02-01T10:12:54.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>We are happy to kick-off a new means of interacting with our viewers, where you get to vote on which question you would like an answer to.   God willing, this vote will happen on a monthly basis and will take place on our Coptic Orthodox Answers Facebook page.</p>
+<p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Today, we pray, by God’s Grace, to answer the first question you chose which is: <strong>“why does the Church pray for the departed?”</strong></p>
+<p>Nous  sommes  heureux  de  proposer  à  ceux  et  celles  qui  nous  écoutent  une  nouvelle  façon d'interagir avec nous. Vous pourrez dorénavant voter pour la question à laquelle vous aimeriez obtenir  une  réponse.  Si  Dieu  le  veut,  le  vote  se  tiendra chaque mois  sur  la page  Facebook des Réponses  coptes  orthodoxes.  Aujourd'hui,  avec  l'aide  de  Dieu,  nous  répondrons à  la première question que vous avez choisie, laquelle va comme suit: Pourquoi l'Église prie-t-elle pour  les  défunts? Pour apprécier  cette  pratique  de l'Église,  il  faut  d'abord  approfondir  notre compréhension de l'Eucharistie. Allons-y sans plus tarder.</p>
 <br>
-<p>Now, to appreciate this Church practice, we need to begin by deepening our understanding of the Eucharist.</p>
+<p>Nous  entendons  souvent  dire que  nous  sommes  les  membres  du  corps du  Christ.  En  effet, saint Paul l'a mentionné à quelques reprises, notamment à Colossiens 1:18. Puis, dans son Épître  aux  Corinthiens,  il  explique  comment  faire  partie  du  corps  du  Christ,  c'est-à-dire  de l'Église. Le voici:</p>
 <br>
-<p>Let’s jump right to it!</p>
+<p>« La coupe de bénédiction que nous bénissons, n'est-elle pas la communion au sang de Christ? Le pain que nous rompons, n'est-il pas la communion au corps de Christ?</p>
 <br>
-<p><strong>So, we hear often that we are members of the Body of Christ.</strong> <strong>St. Paul indeed mentioned it a few times including in Colossians 1:18. St. Paul, in his Epistle to the Corinthians, also explains how to be in this Body of Christ (which is the Church) where he says: “The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ? For we, though many, are one bread and one body; for we all partake of that one bread.”</strong></p>
+<p>Puisqu'il y a un seul pain, nous qui sommes plusieurs, nous formons un seul corps; car nous participons tous à un même pain. » (1 Corinthiens 10:16-17) Bref, il dit que ce pain que nous mangeons durant la liturgie est le corps du Christ et que la coupe où l'on boit est une communion au sang du Christ. Puis, il affirme que même si nous sommes plusieurs, nous formons un seul corps, car nous participons tous à un même pain.</p>
 <br>
-<p>In a nutshell, he is saying this bread that we eat in the liturgy is the Body of Christ and this cup that we drink from is the communion of the blood of Christ. Then he declares: “we, though many, are one bread and one body because we partake of that one mystical bread.  So, we are all united in Christ’s body.</p>
+<p>Ainsi, nous sommes tous réunis dans le corps du Christ. Ceci dit, on peut se demander si le corps du Christ se trouve en dehors du temps ou s'il fait partie du temps présent. Autrement dit, qui est présent dans le corps du Christ? Y trouve-ton seulement les personnes qui vivent sur  terre  en  ce moment  même? Bien  sûr  que  non! Le  corps  du  Christ  renferme  toutes  les personnes  qui  ont  été  baptisées  et  qui  ont  continué  à  prendre  part  à  l'Eucharistie,  qu'elles soient passées, présentes ou futures.</p>
 <br>
-<p><strong>Now, we need to ask ourselves, is Christ’s Body outside of time or inside of time? In other words, who is in Christ’s Body? Is it only the people that are alive on earth right now at this specific instant? Of course not!</strong>   <strong>Christ’s Body includes all those who were baptised and continued partaking of the Eucharist whether they lived in the past, are living in the present or will be living in the future! </strong></p>
+<p>C'est pourquoi, au chapitre 11 de son Épître aux Hébreux, saint Paul dresse une longue liste des saints qui ont gardé la foi, puis il ajoute que ces saints n'ont pas atteint la perfection sans nous qui continuons  de lutter sans  relâche  contre  le  péché. Il fait un  lien  entre  les  saints célestes  et ceux  qui  sont  encore  sur  terre,  précisant que  c'est  tous  ensemble  que  nous devenons parfaits. Ils ne peuvent atteindre la perfection sans nous. Ceci se confirme dans la liturgie de saint Basile, alors que nous prions ainsi:</p>
 <br>
-<p>That is why St. Paul after naming a long list of saints that kept the faith, in Hebrews 11:40 &amp; 12:1, he says that these saints should not be made perfect apart from us, who are still struggling with endurance against sin.  In here he is linking both those saints in heaven and those still on earth and says that we are perfected together. They are not made perfect apart from us.</p>
+<p>« Rends-nous tous dignes, ô notre Maître, de communier à Tes saints sacrements [au corps et au sang du Christ] pour la pureté de nos âmes, de nos corps et de nos esprits, afin que nous soyons un seul corps et un seul esprit et que nous puissions avoir part à Ton héritage avec les saints qui t’ont plu dès l’origine. » (Liturgie de saint Basile) - [traduction de la Paroisse Saint Mina et Saint Mercurious, Colombes, France] Ainsi,  les  personnes faisant partie  du  corps  du  Christ fonctionnent  en  tant  qu'unité.  Et cette unité ne dépend pas du temps. Elle est au-dessus du temps. Elle persiste entre nous et avec tous  ceux  qui  font  partie  du  Christ,  puisque  ce  dernier est  au-dessus  du  temps.  Maintenant que nous avons bien compris ceci, nous sommes prêts à répondre à la question d'aujourd'hui.</p>
 <br>
-<p><strong>This is also confirmed in the liturgy of St. Basil as we pray the following: “Make us all worthy, O our Master, to partake of Your Holies, (which are the Body and Blood) unto the purification of our souls, bodies, and spirits, that we may become one body and one spirit, and may have a share and inheritance with all the saints who have pleased You since the beginning.” So, there is a unity between the persons in the Body of Christ and this unity is independent of time.</strong> This unity is above time. It is continuous between us and them in Christ who is above time.</p>
+<p>Nous savons que grâce au Christ, nous sommes tous reliés, que nous soyons au ciel ou sur terre.  Et  si  nous  sommes reliés, nous  pouvons communiquer.  Mais  la  question  demeure:</p>
 <br>
-<p>Having understood this, now we can start answering our question.</p>
+<p>Pourquoi prier pour les défunts? Nos prières peuvent-elles changer leur destin? À ce point-ci, il  est  crucial  de  comprendre  la  prescience  de  Dieu. Puisqu'il est  en  dehors  du  temps,  il  sait d'avance ce que nous allons faire.</p>
 <br>
-<p>So now, we understand that there is a link between heaven and earth in Christ. And if there is a link, there is communication. <strong>But still, why do we pray for them? Will our prayers change their fate? </strong></p>
+<p>Laissez-moi vous donner un exemple. Imaginez quelqu'un qui dessine un triangle. Il part du point A, se rend au point B, puis au point C, et termine en revenant au point A. Pendant qu'il dessine, son frère filme tout. À présent, imaginez que vous êtes en train de regarder la vidéo pour  la  5 è fois.  Vous  connaissez  déjà  les  gestes  qui seront posés,  puisque  ça fait  déjà quelque fois que  vous repassez  la  scène.  Si  vous  la  regardiez  une fois encore,  seriez-vous capable de prédire ce que la personne va dessiner et comment? Bien entendu!</p>
 <br>
-<p>This is when the understanding of God’s foreknowledge is crucial. God is outside of time. And since He is outside of time, He knows what we will choose to do prior to us doing it.<br/>
-Let me give you an example. Imagine someone drawing a triangle.  This person starts from point A and goes to point B and C and finally to point A again. Now, while she was drawing her brother recorded her. Now imagine that you are watching this video for the 5th time. You have already seen a few times the motions she is going through. The next time you watch this video, do you know how the person will draw her triangle? Yes, you do.   In this example, the person drawing the triangle is inside of time and, in her free will, she is drawing the triangle as it pleases her. You, the one watching her video, is, in a sense, outside of time and you therefore “foreknow” what she will be doing.  In other words, none of her actions surprise you or take you off guard!</p>
+<p>Dans cet exemple, la personne qui dessine est au temps présent et ça lui plaît de dessiner un triangle, alors elle le fait. Lorsque vous repassez la scène sur vidéo, vous êtes, en quelque sorte, en dehors du temps. Vous savez d'avance ce qui va se passer, alors rien de ce que la personne va faire ne pourra vous surprendre.</p>
 <br>
-<p><strong>The prayers for the departed is understood in the same way. To us when we pray for them, we are inside of time, but God already foreknows our prayers before we even pray them. </strong>Think about it. Since God already foreknows all of our prayers for the departed, He has taken all of these prayers into account prior to committing His judgment on this person. Let me conclude with an example: Let’s say that Person X will depart tomorrow. We will meet and pray his funeral in 3 days. For simplicity’s sake, let’s say God will judge this person tomorrow when he departs.  Will God take our prayers into account when He pronounces His judgment on this person? Yes, He will because He foreknows our prayers. He doesn’t say “oh I received a new prayer now, what will I do?” That’s not how it works. This prayer is already taken into account in His judgment. <strong>Therefore, as we pray for each other here on earth that God may have mercy on us, it is a beautiful practice to continue praying for the departed as well that God may have mercy on them. </strong></p>
+<p>Lorsque nous prions pour les défunts, c'est un peu la même chose. Nous prions pour eux au temps  présent,  mais  Dieu  connaît  déjà  le détail de  nos  prières  avant  que  nous  les  ayons formulées.  Pensez-y  bien.  Puisque  Dieu  connaît d'avance nos prières,  il  en  a  déjà  tenu compte au moment de juger ces personnes.</p>
 <br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>Permettez-moi  de  conclure à  l'aide  d'un  autre  exemple.  Disons  qu'une  personne  X  décède demain. Nous  serons  aux  funérailles  dans  trois  jours,  afin  de  prier  pour elle. Pour  simplifier, imaginons que Dieu juge cette personne demain, le jour même de son décès. Pourra-t-il tenir compte  de  nos  prières  au  moment  de  prononcer  son  jugement?  Bien  sûr,  puisqu'il  connaît d'avance les prières que nous allons lui adresser.</p>
+<br>
+<p>N'allez  pas  croire  qu'il  sera  embêté à  entendre de  nouvelles  prières  quelques  jours  plus tard. Ce n'est pas comme ça que ça fonctionne. Ces nouvelles prières ont déjà été prises en compte dans son jugement. Par conséquent, comme nous avons l'habitude de prier les uns pour les autres ici sur terre afin que Dieu ait pitié de nous, c'est une belle pratique à conserver pour les défunts aussi, afin que Dieu ait pitié d'eux.</p>
+<br>
+<p>N'oubliez pas:</p>
+<br>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
+<br>
+<p>Et gloire à Dieu pour toujours. Amen.</p>

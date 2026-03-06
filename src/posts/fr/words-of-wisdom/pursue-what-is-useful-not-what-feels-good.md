@@ -6,7 +6,7 @@ lang: fr
 title: "Pursue what is useful, not what feels good!"
 pubDate: 2020-05-27T16:54:44
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

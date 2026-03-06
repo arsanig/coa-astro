@@ -6,7 +6,7 @@ lang: fr
 title: "The Life Giver!"
 pubDate: 2021-09-08T00:07:44
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

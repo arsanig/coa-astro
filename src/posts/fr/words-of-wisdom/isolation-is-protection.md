@@ -6,7 +6,7 @@ lang: fr
 title: "Isolation is protection !"
 pubDate: 2021-06-17T23:16:49
 tags: ["wow"]
-author: "Fr. Lazarus St. Anthony"
+author: "Père Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -8,49 +8,56 @@ pubDate: 2017-04-05T01:02:14
 tags: ["aa"]
 author: "Fr. Anthony Mourad"
 ---
-
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Welcome to answers from an apostolic faith.</p>
 <br>
-<p>This is a loaded question and many people will shy away from it due to the sensitivity surrounding the subject.  <strong>Sex has, unfortunately, become something that is extremely misunderstood and poorly portrayed in mainstream media.</strong>  Because of this the average Christian would rather treat the subject as an elephant in the room and act that it isn’t there.  Sex and sexuality however is a topic that needs to be addressed.</p>
+<p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
-<p><strong>We need to clarify that the Bible and the Church teach that Sexuality </strong><strong>is one of God’s blessed gifts to humanity.  </strong>We often deal with sexuality as if it is evil. In reality, when properly expressed within the mystery of marriage, sexuality becomes something beautiful and an intimate expression of the love that God has placed inside of us.</p>
+<p>Today we continue our second video on the question of What is the Coptic Orthodox Church’s view on Sex and Sexuality? In our first video, we began by explaining that the Orthodox Church says that there are mainly three purposes for the way that God designed human sexuality:</p>
 <br>
-<p><strong>The Orthodox Church clearly says that sex and sexuality serve three major purposes within the marital relationship between a husband and a wife:</strong></p>
+<p>Number 1: For husband and wife to express an intimate and passionate love for one another</p>
 <br>
-<p><strong>1) To express the intimate and passionate love to one another </strong></p>
+<p>Number 2: To help the believer fight the passions of lust that is ever so present in today’s world.</p>
 <br>
-<p><strong>2) To help the believer fight the passions of lust that we face in a very sex saturated society </strong></p>
+<p>Number 3: To allow for the great blessing of life in procreation.</p>
 <br>
-<p><strong>3) To give way to the gift of procreation</strong></p>
+<p>In the previous video, we focused on the first two of these and today we will look at how sex and sexuality is created by God in order for humanity to procreate.</p>
 <br>
-<p>In this video we will tackle the first two points and we will leave the subject of procreation to another time.</p>
+<p>Now before we continue, let's take a moment to remind our viewers that, as Orthodox Christians, our faith tells us very clearly that sex and sexuality as intended by God is a beautiful and wondrous thing. And although the world has exploited human sexuality and turned it into something that is dirty and taboo, we must, as Christians, recognize it as a gift from God that should be treated with respect and dignity, and not simply a selfish means to personal pleasure.</p>
 <br>
-<p>[It is important before going further to understand the two terms passion and lust.  The viewer needs to watch the previous videos discussing those terms, before this video.  This will help the viewer properly understand what is meant by human sexuality vs the passion of lust.]</p>
+<p>St. John Chrysostom says it best in the book On Marriage and Family Life. He explains that sex is not evil, but if it is not controlled, it can become a hindrance to someone who wants to approach God. And like in everything else in our lives, and in order to make sure that we fulfill our potential in Christ Jesus, we then should seek to understand what God has intended for us to do with this gift. And if the viewer wants to know more about what we discussed previously in regards to this, I recommend that you watch the first part of this series before moving forward. As for the rest of us, let us now move on to the subject of God’s intention for procreation.</p>
 <br>
-<p>Before we attempt to tackle the first two purposes of sex (mentioned earlier) we need to ask two questions.</p>
+<p>It is interesting to see how when God created man in His image, God wanted to share many of His unique attributes with humanity, even that of creating life. Now, it is no coincidence that the means by which God has allowed humanity to partake in creation and in the bringing forth of human life is through sexual expression. My beloved, God, as a master craftsman, intended for</p>
 <br>
-<p>Why do some people have such a negative outlook on sexuality? And if we think that sexuality is something bad and sinful, then how can God be the author of human sexuality?</p>
+<p>this same act to be filled with passionate and intimate love. Rest assured: this is no coincidence, this is divine providence.</p>
 <br>
-<p>Let us make something clear.  <strong>Everything that is created by God (specifically </strong>those<strong> attributes that relate to the image of God which all human were created on) is not just good but is <u>very good</u> </strong><strong>(Genesis 1:31</strong><strong>).</strong>  This means that when the human being uses and expresses all the God given faculties in a <strong>proper way as intended by God</strong>, <strong>in the proper time and proper place,</strong> these things lead to <strong>edification and even to salvation.  </strong>This includes the expression of love through the means of marital relations and sexuality.</p>
+<p>Now, it is through this same love, eros, that the greatest gift of love is given. And what is the perfect gift of love? It is life! This specific purpose of love giving way to life is very clearly found within the first chapters of Scripture. In Genesis, chapter 1, God not only blesses human creation, but even commands them to procreate. Let's read together this passage:</p>
 <br>
-<p>This is not where most people face a problem.  The debate really happens when we speak of sex outside of the marital covenant without any selfless acts of love or intention of eternal commitment to another person.  It is outside of that where we have an issue.  <strong>In other words when we take God’s gifts and we direct them towards the self rather than towards God, they become destructive, they develop into passions and can lead to eternal death.  This is where the Church cries out and warns us.</strong></p>
+<p>''So God created man in His own image; in the image of God He created him; male and female He created them. [And] Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that moves on the earth.'' (Genesis 1:27-28)</p>
 <br>
-<p>To make matters clear, let’s take an example<strong>.  If we were to take a big sharp chef’s knife and place it in the hands of a toddler who runs around and bumps into everything and everyone, the knife in this case is considered extremely dangerous and a hazard.  However, if we place the same knife in the hands of a world class Chef, the knife becomes a tool to create a wonderful meal.  The problem is not the knife; it is the person that will hold the knife, the context and the purpose of its use.  Extrapolating the example to the subject of sexuality we can see where the confusion comes from.  The Church does not condemn sex or say that it is bad! The Church’s stance has always been that sex outside of what God has intended for us is not just bad but destructive.  Within the boundaries of what God has intended it to be, sex is wondrous and a beautiful thing.  </strong></p>
+<p>I want you to notice how the Lord God first blesses them and then gives the command to be fruitful and multiply. Now, clearly, this passage has always been understood as a direct command to procreate. We see God do this again only eight chapters later in Genesis, chapter 9, when again He blesses Noah and his sons after the flood and commands them also to be fruitful and to multiply and to fill the earth. You see, my beloved, what this tells you and I is that sexuality as intended by God, in marital relations, is first blessed and because of this blessing, the Lord grants humanity the gift of new life in childbearing.</p>
 <br>
-<p>We read in Genesis 2:24 after God created Eve from Adam’s rib; “Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh.” <strong>Our Lord Jesus Christ quoted that very passage in his response to the Pharisees on the subject of divorce</strong><strong>: “But from the beginning of the creation God made them male and female, for this reason a man shall leave his father and mother and be joined to his wife and the two shall become one flesh; so then they are no longer two, but one flesh.  Therefore what God has joined together, let no man separate.” (Mark 10:6-9).</strong></p>
+<p>Now, some have gone as far as saying that this blessing was given before the fall, therefore it is void because of the introduction of sin. However, as Orthodox Christians, we believe that in Jesus Christ and His incarnation, all of humanity is once again restored to the first estate. And the blessing therefore that the Lord spoke on the first man and woman still very much applies today. St. Augustine explains this as follows:</p>
 <br>
-<p><strong>Some people interpret this union between man and woman (‘becoming one flesh’) as strictly allegorical but the Church has never limited it to the spiritual meaning of union.  Clearly, as per God’s design, the union of one flesh also involves the physical intimate nature of marital love.  </strong></p>
+<p>''The nuptial blessing, [he says,] however, whereby the pair, joined in marriage, were to increase and multiply and fill the earth, remained in force even when they sinned. Yet it was given before they sinned, for its purpose was to make it clear that (...) procreation of children is a part of the glory of marriage and not of the punishment of sin.'' (St Augustine, City of God 14.21.9)</p>
 <br>
-<p><strong>Our Lord Jesus Christ also adds to the text of Genesis in His own words ‘so then they are no longer two, but one flesh’.  He even highlights that it is God who has joined them together.  This reveals to us the deep and mysterious beauty of the union between husband and wife.  </strong></p>
+<p>You see, our bringing forth of children, therefore, through the sexual marital act is a blessed act that the Lord has intended not only for our good but for the good of all of mankind.</p>
 <br>
-<p><strong>There was a time in the early Church when many thought it was appropriate to attack both marriage and marital relations. In the 4<sup>th</sup> century, many believed that it was best to remain celibate and await the coming of the Lord</strong>.  It was believed that marriage may even cost a person their eternal life<strong>.  However, in 340 AD, after the first council of Nicea, a local senate assembled at Gangra (a city of modern day Turkey) and the senate of bishops there made it a point to defend the honor of marriage and marital relations and they came out with the following Canon.</strong></p>
+<p>What we have seen thus far is how the Church views the sex and sexuality as a part of a larger picture of God’s intention to bless us, unite us to one another, and to unite us to Himself. The process looks something like this:</p>
 <br>
-<p><strong>“If anyone should condemn marriage, or abominate and condemn a woman who is a believer and devout, and sleeps with her own husband, as though she could not enter the Kingdom [of Heaven] let him be anathema.”  Anathema here means ‘excommunicated”</strong> (Canon 1 of the Synod of Gangra).</p>
+<p>First: A man and woman desire to be one and wed as an expression of their love for each other. The Lord God blesses them and unites them in this great mystery of matrimony.</p>
 <br>
-<p><strong>This tells us that the Church has always seen marriage and marital relations as something that is honorable and worthy of the mystery of matrimony.</strong>  If that wasn’t the Church’s view how then would the Church tolerate its priests being married and establish families of many children.</p>
+<p>Secondly: Now that they are united in Spirit, they come together and unite physically to express the love they have for each other through sexual marital relations.</p>
 <br>
-<p>In conclusion, <strong>we should note that the Church has never been ignorant to the fact that society has turned human sexuality into something that is depraved and a source of great evil in our lives.</strong>  Tragedies like human trafficking, child abuse, addiction to pornography and addiction to a whole variety of sexual activities and sexually transmitted diseases, are all on the rise.  <strong>The church encourages everyone to realize that part of the solution to those lusts and manifestations of evil is to embrace the proper and noble understanding of what God intended for sexuality to be amongst us.   It is when we aspire to patiently endure and fight these lusts for the sake of embracing a greater gift in the future (sexuality in this case) that we can find the courage and the support of the Holy Spirit to preserve us without sin until the appointed time that is set by God.  </strong></p>
+<p>Finally: the Lord continues to bless them by granting them the gift of their love in the form of another life that they will nurture and love. And in the process, they become a new entity, a family, a church.</p>
 <br>
-<p><strong>                                Remember know your faith, live your faith and</strong></p>
+<p>If we turn to the prayers found within the liturgical rite of the Crowning marriage ceremony of the Coptic Orthodox Church, there is a passage within the first matrimonial prayer that the priest prays that perfectly describes this process that we speak of. The priest says the following:</p>
 <br>
-<p><strong>                                                          teach your faith</strong></p>
+<p>''We ask You, also, now, O our King, to join your servants (so and so) to be united to each other in one body, and to enter into the law of joy, and to abide in Your truthful teachings. Grant them a living fruit (...) of the womb so that they rejoice in the birth of children and have quiet and peaceful times. Prepare them for every good work through Christ Jesus our Lord.'' (First matrimonial prayer, Crowning Liturgy of the Coptic Orthodox Church)</p>
+<br>
+<p>Prepare them for every good work, he says. You see, ultimately what we realize from all that we have discussed, is that if the Lord God expresses a blessing before the union of man and woman, and again, He expresses another great blessing in the granting of children and procreation. And if the Lord has chosen this blessed physical union of man and woman as a means by which He will allow us to share in the process by which He creates new life, then sex and sexuality as the Lord has intended it must truly be an amazing and mysterious thing.</p>
+<br>
+<p>Remember, my beloved: Know your faith, live your faith, teach your faith. And to God be the glory now and forever. Amen.</p>
+<br>
+<p>Other suggested video:</p>
+<br>
+<p>Sex and Sexuality - Part 1: What Is the Coptic Orthodox Church's View on Sex and Sexuality?</p>

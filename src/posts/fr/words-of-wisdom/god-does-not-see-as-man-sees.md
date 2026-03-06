@@ -6,7 +6,7 @@ lang: fr
 title: "God Does Not See as Man Sees"
 pubDate: 2024-01-26T12:00:32
 tags: ["wow"]
-author: "Fr. John Boutros"
+author: "Père John Boutros"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

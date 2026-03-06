@@ -3,54 +3,54 @@ wp_id: 1208
 videoId: "TJGVBHjO9ZM"
 imgSrc: /assets/thumbnails/TJGVBHjO9ZM.webp
 lang: fr
-title: "Why did God plant the Tree of Knowledge of Good and Evil?"
-pubDate: 2018-12-13T11:54:05
+title: "Pourquoi Dieu a-t-il planté l'arbre de la connaissance du bien et du mal?"
+pubDate: 2018-12-13T11:54:05.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Today my beloved we address one of the most popular questions people have when they study the story of creation: If God did not want Adam and Eve to eat from the tree of knowledge of good and evil, then why did God plant it therel? Why place it in the garden to begin with.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Now for many, this seems like a very logical question to ask. It would seem right to most of us that if I did not want my children to do something, or to come close to something that is evil, then all I have to do is remove that evil thing and eliminate the opportunity for them to get hurt. As long as its not an option, then they can’t make any mistakes, right? Seems pretty straight forward! However, we need to investigate this further and ask some important questions:</p>
+<p>Mes  bien  chers  frères, aujourd'hui,  nous  allons  nous  pencher  sur  une  des  plus  populaires questions que les gens se posent quant au récit de la création: Si Dieu ne voulait pas qu'Adam et Ève mangent de l'arbre de la connaissance du bien et du mal, pourquoi l'a-t-il planté? Et pourquoi l'avoir placé dans le jardin?</p>
 <br>
-<p>Is the tree in and of itself something evil? What did the tree represent? What happens if God does not plant it?</p>
+<p>Pour  plusieurs,  il  semble  tout  à  fait  logique  de se poser  cette  question. Après  avoir  interdit aux enfants  de  s'approcher  d'un  objet  jugé  dangereux,  la  plupart  d'entre  nous trouveraient normal de retirer cet objet de la circulation. Si la chose n'est pas là, ils ne peuvent pas s'en approcher, n'est-ce pas? C'est la logique même.</p>
 <br>
-<p>Let’s go ahead and tackle all these questions together.</p>
+<p>Cependant, il faut pousser notre enquête un peu plus loin en nous posant certaines questions très importantes... L'arbre était-il foncièrement mauvais? Que représentait-il? Et que serait-il arrivé si Dieu ne l'avait pas planté? Voyons ce qu'on peut trouver en réponse à ces questions.</p>
 <br>
-<p>Let’s begin by addressing a common misconception. But first, lets read a few important passages from scripture:</p>
+<p>Avant de poursuivre, il faut écarter une idée fausse pourtant très répandue. Pour nous aider, nous aurons besoin de relire quelques passages importants des Écritures. Commençons par la Genèse, au chapitre 2:</p>
 <br>
-<p><strong><em>Genesis 2: </em></strong></p>
+<p>« Puis l'Éternel Dieu planta un jardin en Éden, du côté de l'orient, et il y mit l'homme qu'il avait formé.</p>
 <br>
-<p><strong><em>8 The Lord God planted a garden eastward in Eden, and there He put the man whom He had formed. 9 And out of the ground the Lord God made every tree grow that is pleasant to the sight and good for food. The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil. </em></strong></p>
+<p>L'Éternel  Dieu  fit  pousser  du  sol  des  arbres  de  toute  espèce,  agréables  à  voir  et bons à manger, et l'arbre de la vie au milieu du jardin, et l'arbre de la connaissance du bien et du mal. » (Genèse 2:8-9) Voilà pour les versets 8 et 9. Passons tout de suite aux versets 15 à 17:</p>
 <br>
-<p><strong><em>[…]</em></strong></p>
+<p>« L'Éternel  Dieu  prit [ensuite] l'homme  et  le  plaça  dans  le  jardin  d'Éden  pour qu'il le cultive et le garde.</p>
 <br>
-<p><strong><em>15 Then the Lord God took the man and put him in the garden of Eden to [e]tend and keep it. 16 And the Lord God commanded the man, saying, “Of every tree of the garden you may freely eat; 17 but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”</em></strong></p>
+<p>L'Éternel Dieu donna cet ordre à l'homme: Tu pourras manger les fruits de tous les arbres du jardin; mais  tu  ne  mangeras  pas le  fruit de  l'arbre  de  la  connaissance  du  bien  et  du  mal, car le jour où tu en mangeras, tu mourras, c'est certain. » (Genèse 2:15-17) - [Bible Segond 21] À lire ces passages, certains en arrivent à la conclusion suivante: si Dieu a ordonné à Adam de ne  pas manger  de  l'arbre  de la connaissance  du bien et du mal sans quoi il serait perdu, c'est que l'arbre devait être mauvais. Mais ça  ne peut  pas être  le  cas, mes frères, surtout  si l'on croit que le Seigneur n'est pas l'auteur du mal. D'après ce même récit de la Genèse, tout ce qui est créé par Dieu est bon. Ainsi, l'arbre ne peut être mauvais en soi.</p>
 <br>
-<p>Now some read the previous passages and they make the following assumption: if God does not want Adam to eat of the tree of knowledge of good and evil, and eating from it would lead to death, then this must mean that the tree is evil! However, this cant be the case if we believe that the Lord is not the author of evil. According to this same Genesis account, all that God creates is good - and so the tree could not possibly be intrinsically evil. The tree must then represent something greater than itself - and this is precisely what we believe. The tree here represents the choice of man reject God, and to attempt to grow in the knowledge, without the Lord who is Truth and who is Life! And so, suddenly we realize, it’s not the tree that is evil, it’s the rejection of God as the source of knowledge and life that becomes the vehicle by which death enters into the world.</p>
+<p>Il  doit  donc représenter quelque chose de plus grand que lui-même  et  c'est  précisément ce que  nous  croyons.  L'arbre  symbolise  le  libre  choix  que  Dieu  a  accordé  à  l'Homme de  le rejeter  et  d'essayer de  parfaire  ses  connaissances  par  lui-même,  sans  le  concours  du Seigneur qui est la vérité et la vie. Et soudain, on réalise que ce n'était pas l'arbre lui-même qui était mauvais: c'était le fait de rejeter Dieu comme source de connaissance et de vie, ce qui devint le vecteur par lequel la mort entra dans le monde.</p>
 <br>
-<p>This is clearly manifested in the scriptural passage of Genesis 3, where we see our mother Eve being deceived. Although she begins by defending the commandment of God, she then is lead to believe that the option of going against God could be worth considering!</p>
+<p>Ceci est clairement illustré dans un passage de la Genèse, au chapitre 3, alors qu'Ève, notre mère, fut dupée. Bien que sa première réaction eût été de vouloir respecter le commandement de Dieu, elle finit par se laisser convaincre que l'idée de s'y opposer avait du mérite. Allons lire ce que raconte le chapitre 3 de la Genèse, au verset 6:</p>
 <br>
-<p>Genesis 3:6 says <strong><em>“6 So when the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate.”</em></strong></p>
+<p>« [Dès  lors,] la  femme vit  que  l'arbre  était  bon  à  manger  et  agréable  à  la  vue,  et  qu'il était  précieux  pour  ouvrir  l'intelligence;  elle  prit  de  son  fruit,  et  en  mangea;  elle  en donna aussi à son mari, qui était auprès d'elle, et il en mangea. » (Genèse 3:6) Voyez-vous, mes frères, dans cette histoire, il n'est pas seulement question d'arbres dans un jardin et de fruits consommés. Il est aussi question de préférer les connaissances déchues et matérielles à la sagesse divine et à la grâce instructive que Dieu procure.</p>
 <br>
-<p>You see my beloved, this entire story is not just about trees in gardens and the eating of fruit, its also about choosing wordily and fallen knowledge over the divine wisdom and enlightening grace of God.</p>
+<p>À cela,  certains répondront: D'accord,  l'arbre  n'est  pas  mauvais  en  soi, compris!  Et  oui,  il symbolise le choix qui s'offrait à l'humanité. Mais pourquoi avoir offert ce choix au départ? Et c'est là que nous devons réaliser qu'en tant que chrétiens, lorsque nous osons déclarer que Dieu  est  amour,  nous le  pensons vraiment. Notre conception de  l'amour à  l'appui,  nous affirmons qu'il ne peut être donné ou reçu qu'en toute liberté. Sans liberté, il ne peut y avoir d'amour. Et qui dit liberté dit choix, le choix de pouvoir accueillir ou rejeter la personne qui est devant nous.</p>
 <br>
-<p>At this point some are saying “ok, the tree isn’t evil in and of itself! Sure! And yeah, it represents the choice that humanity had - but why offer the choice to begin with?” And this is where we must realize, that as Christians, when we make the very bold declaration that “God is love” (1 John 4:8), that we actually mean it! In our understanding of love, we define that love can only be given and received freely. Without freedom, there can be no love! And freedom requires choice; a choice to both embrace or reject the person that stands before me.</p>
+<p>En  outre, non  seulement  Dieu est  amour,  mais  tous  les  êtres  humains  ont  été  créés  à  son image et à sa ressemblance. Et le libre arbitre qu'il nous a accordé fait partie de cette image et  de  cette ressemblance. Au  bout  du  compte,  ce cadeau  de  Dieu nous  rend libres  de le vénérer et de vivre en tendre union avec lui, ou de nous détourner de lui et de nous prendre nous-mêmes pour des dieux.</p>
 <br>
-<p>Also, not only is God love, every human being is created in God’s image and likeness. Part of this image and likeness is the fact that we were granted freewill. This gift of freewill ultimately means that we can freely chose to worship God and live in loving union with Him, or to walk away from Him and be god’s unto ourselves.</p>
+<p>C'est pour ces raisons que le Seigneur a planté l'arbre de la connaissance du bien et du mal et qu'il  a  ordonné  à  Adam  et  Ève  de  ne  pas  en  manger.  C'était  pour qu'ils  aient  un  choix  à faire.  Ils  pouvaient  maintenant  choisir  d'obéir et laisser  Dieu  leur  accorder  la  vie  et  leur transmettre ses  connaissances,  ou  ils pouvaient  désobéir  et  décider  de  se procurer ces avantages par leurs propres moyens.</p>
 <br>
-<p>It is for these reasons that the Lord planted the tree of knowledge of Good and evil and commanded them to refrain from eating from it - that in so doing Adam and Eve now have options. They can now freely chose to obey so that God may grant them life and knowledge, or to disobey and become their own source of these things…</p>
+<p>Saint  Grégoire  le Théologien  pousse  l'explication  un  peu  plus  loin  dans  son  oraison  de Pâques. Il résume tout  ceci  et va jusqu'à  dire  que  l'interdiction entourant cet arbre  aurait éventuellement été levée s'ils avaient obéi au commandement du Seigneur. Voici comment il exprime cette idée:</p>
 <br>
-<p>St Gregory the theologian explains this further in his Easter Oration where he summarizes this and even goes on to explain that even this tree would have eventually been granted to them had they obeyed:</p>
+<p>« [Dieu a  imposé à  Adam] une  règle qui  lui  permette  d'exercer son  libre  arbitre. Cette règle  était  un  commandement  précisant  de  quelles  plantes  il  pouvait  profiter et à quelle  plante il  ne devait  pas toucher. Cette  dernière  était  l'arbre  de  la connaissance.</p>
 <br>
-<p><strong><em> [God gave Adam] a law as a material for his free will to act on. This law was a commandment as to what plants he might partake of and which one he might not touch. This latter was the tree of knowledge; not, however, because it was evil from the beginning when planted, nor was it forbidden because God grudged it to us—let not the enemies of God wag their tongues in that direction or imitate the serpent. But it would have been good if partaken of at the proper time. The tree was, according to my theory, contemplation, which is safe only for those who have reached maturity of habit to enter upon, but which is not good for those who are still somewhat simple and greedy, just as neither is solid food good for those who are yet tender and have need of milk. [G</em></strong><strong><em>REGORY OF </em></strong><strong><em>N</em></strong><strong><em>AZIANZUS</em></strong><strong><em>: S</em></strong><strong><em>ECOND </em></strong><strong><em>O</em></strong><strong><em>RATION ON </em></strong><strong><em>E</em></strong><strong><em>ASTER 8]</em></strong></p>
+<p>Non pas qu'il eut été mauvais une fois planté, ni que Dieu l'ait interdit. Que les ennemis de Dieu [, dit-il,] se gardent de tirer la langue en ce sens ou d'imiter le serpent! Mais il aurait été bon si l'on avait attendu le bon moment. D'après ma théorie, l'arbre était un objet  de  contemplation  qui  n'aurait  été  d'aucun  danger  pour  ceux qui avaient déjà acquis  la  maturité  de  s'y  adonner.  Mais  il  ne  convenait  pas  à ceux qui  étaient  encore trop  simplets  et  avides, tout  comme la  nourriture  solide  ne  convient pas  à  ceux  qui sont en bas âge et qui ont besoin de lait. » (Grégoire de Nazianze, Deuxième oraison de Pâques, paragraphe 8) - [traduction libre] Mes bien chers frères, ce que nous voyons ici, c'est la réponse à tant de questions: Dieu est amour. S'il nous offre un choix, c'est parce qu'il est fidèle à lui-même, parce qu'il nous aime et qu'il respecte notre libre arbitre. Il nous aime, alors il ne s'impose pas à nous. Au contraire, il nous offre la possibilité de le choisir, seulement si nous le voulons.</p>
 <br>
-<p>So you see my beloved, yet again the answer to so many of our questions is: ‘God’s love’! It is because the Lord is true to Himself, because He loves us and respects our free will that He gives us choices. He loves us and so He does not force Himself on us, but on the contrary allows us to chose Him only if we wish.</p>
+<p>Rassurez-vous, mes frères. L'arbre n'est pas une ancienne relique d'un passé lointain qui ne nous  concerne  plus.  En  fait,  c'est  une  part  essentielle  de  tous  les  choix  que  nous  faisons, même de  nos  jours. Vais-je  choisir  le  Seigneur  et  ses  commandements  comme  source  de vérité et de vie ou vais-je opter pour une sagesse déchue et matérielle, et ce faisant, m'éloigner de lui?</p>
 <br>
-<p>Rest assured my beloved, the tree is not an ancient and historical thing that does not concern us, it is the essence of every choice we make even today: will I chose the Lord and his commandments as my source of truth and life, or will I decide to chose a fallen and wordily wisdom and in the process distance myself from God.</p>
+<p>N'oubliez pas:</p>
 <br>
-<p>Remember, Know your faith, live your faith, and teach your faith.</p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p>And to God be the Glory, now and forever, and unto the ages of all ages. Amen.</p>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

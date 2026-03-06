@@ -6,7 +6,7 @@ lang: fr
 title: "Let's be a dwelling place for Christ"
 pubDate: 2022-01-04T23:47:47
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -3,80 +3,68 @@ wp_id: 1781
 videoId: "YwxVpzeiY1w"
 imgSrc: /assets/thumbnails/YwxVpzeiY1w.webp
 lang: fr
-title: "Where did Jesus say “I am God”?"
-pubDate: 2019-10-23T12:00:34
+title: "À quelle occasion Jésus a-t-il affirmé qu'il était Dieu?"
+pubDate: 2019-10-23T12:00:34.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Les  chrétiens  croient  en  la  Sainte  Trinité.  Et  nous  croyons au  fait que  Jésus soit issu de  la même essence que le Père et le Saint-Esprit. Ainsi, pour les chrétiens, Jésus est Dieu. Mais Jésus a-t-il déjà affirmé cela lui-même? Existe-il des preuves à l'effet qu'il aurait déclaré qu'il était divin? Examinons ensemble cette question et voyons de quoi il en retourne.</p>
 <br>
-<p>Some opponents of the Christian faith will challenge us with an important question, one that is worth investigating. They will say “If you believe that Jesus is God, show us where He himself makes that declaration.” And the truth of the matter is, if we search out scripture for words spoken by Jesus saying “I am God”, you simply won’t find them in the Bible! And yet, Christians have believed that He is God for as long as Christians have existed! And so, we begin by making a bold declaration - we do not need that statement to be spoken by Christ and recorded in Scripture for us to know and believe that He is indeed the Son of the Living God - who is of one Essence with God the Father and the Holy Spirit!</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Now some may here this and think this is a copout - but it isn’t. You see, Holy Scripture provides so much evidence for the fact that the Lord Christ was indeed Divine. There is also historical evidence that the early Church who was established by the apostles themselves also received the teaching that Jesus Christ is God. And so if we examine these things, we will see that our faith does not hang on to a single sentence for us to know that He is indeed the God who became man. To begin, lets take a look at what Scripture has to say.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p><b><i></i></b></p>
+<p>Certains  opposants à la  foi chrétienne soulèvent une importante question  qui  vaut  la  peine d'être  approfondie.  Voici le  défi  qu'ils  nous  lancent: Si  vous  croyez  que  Jésus  est  Dieu, montrez-vous à quelle occasion il a fait lui-même une telle déclaration. Pour être honnête, si nous cherchons à fond parmi les Écritures en espérant y trouver des paroles que Jésus aurait prononcées pour dire Je suis Dieu, nous n'en trouverons tout simplement pas. Pourtant, depuis les tout premiers débuts du christianisme, les chrétiens croient fermement qu'il est Dieu.</p>
 <br>
-<p>So what does Holy Scripture reveal to us about the person of Jesus of Nazareth. Let’s begin with what the Lord Jesus Christ says himself. Here are but a few of the many statements that the Lord declares that speak to His Divinity as God:</p>
+<p>Nous commencerons donc par y aller de tout notre courage en faisant la déclaration suivante: nous n'avons pas besoin d'une phrase énoncée par le Christ et rapportée dans les Écritures pour  savoir  et  croire  qu'il  est  effectivement  le  Fils  du  Dieu  vivant  et  qu'il  partage  la  même essence que le Père et le Saint-Esprit.</p>
 <br>
-<p>The Lord Christ declares that God is His Father. Now some may hear this and wonder why this is important. Well you see, it is of great importance because we must consider what this meant at the time of Jesus. Today, many of us, and surely all Christians, do not shy away from calling God our Father. We all call ourselves Children of God. But you see, at the time of Jesus, to even speak God’s name was inexcusable. The proof of this is the reaction that Jews Had when the Lord declared that He was the Son of God, and professed that God was His Father. Let’s read together from John chapter 5. This text is taken up immediately after the Lord heals the man who had an ailment for 38 years. The Lord heals him on the sabbath, and here is what happens next:</p>
+<p>Certains  penseront  peut-être  que  cette  déclaration  est  une  façon  de  nous  défiler,  mais  ce n'est pas le cas. Voyez-vous, les Saintes Écritures nous fournissent de nombreuses preuves que  le  Christ  notre  Seigneur est effectivement  divin.  Il  existe  également  des  preuves historiques qui furent transmises  à  l'Église  naissante  par  les apôtres  mêmes  qui  l'avaient fondée et dont l'enseignement confirme que Jésus-Christ est Dieu. Compte tenu de tout ceci, il devient clair que notre foi n'a pas besoin de s'accrocher à une phrase trouvée quelque part pour savoir qu'il est bel et bien le Dieu qui s'est fait homme. Pour débuter notre argumentation, allons voir que ce que les Écritures nous réservent.</p>
 <br>
-<p><b><i>“</i></b><b><i>For this </i></b><b><i>reason,</i></b><b><i> the Jews persecuted Jesus, and sought to kill Him, because He had done these things on the Sabbath. 17 But Jesus answered them, “My Father has been working until now, and I have been working.”</i></b></p>
+<p>Que peuvent-elles nous révéler sur la personne de Jésus de Nazareth? D'entrée de jeu, allons voir ce que le  Seigneur  Jésus-Christ disait de  lui-même. Voici quelques-uns des nombreuses déclarations que le Seigneur a faites en lien avec sa qualité divine de Dieu:</p>
 <br>
-<p><b><i>18 Therefore the Jews sought </i></b><b><i>all the more</i></b><b><i> to kill Him, because He not only broke the Sabbath, but also said that God was His Father, making Himself equal with God.</i></b><b><i>”</i></b><b><i> (John 5:16-18)</i></b></p>
+<p>Le Seigneur Jésus-Christ proclame que Dieu est son Père. À entendre ceci, certains peuvent se demander en quoi c'est important. C'est pourtant d'une importance capitale, si l'on considère le  poids qu'une  telle  déclaration pouvait  avoir à  l'époque  de  Jésus.  Aujourd'hui,  plusieurs d'entre nous (et c'est sûrement le cas de tous les chrétiens) n'ont pas peur de dire que Dieu est  notre  Père et que  nous  sommes les  enfants  de  Dieu. Mais  à  l'époque  de  Jésus,  le  seul fait de mentionner le nom de Dieu était inexcusable. On en a la preuve lorsqu'on pense à la réaction des Juifs au moment où le Seigneur a proclamé qu'il était le Fils de Dieu et que Dieu était  son  Père.  Allons  consulter  ensemble  le  chapitre  5  de  l'Évangile  selon  saint  Jean.</p>
 <br>
-<p>You see, in this very text, Scripture declares that even the people of that time understood that His claim to being the Son of God was a declaration of His divinity. As St John the evangelist clearly mentions, the jews believed that he was making himself “equal with God”. And so, whoever is equal with God, was declaring himself to be divine!</p>
+<p>L'extrait suivant se situe juste après la guérison de l'homme qui avait été paralytique pendant ans. Le Seigneur l'avait guéri durant le sabbat et voici ce qui est arrivé ensuite:</p>
 <br>
-<p>Let’s look at another example of what Jesus Says. In John chapter 10 verse 30, the Lord makes an extremely bold statement, He says: “I and my Father are One.” Again, we can understand how powerful this statement is unless we look at the reaction of the crowd around Jesus after He said it. Let’s see what scripture tells us happens next:</p>
+<p>« C'est  pourquoi  les  Juifs  poursuivaient  Jésus,  parce  qu'il  faisait  ces choses  le  jour du sabbat.</p>
 <br>
-<p><b><i>“</i></b><b><i>31 Then the Jews took up stones again to stone Him. 32 Jesus answered them, “Many good works I have shown you from My Father. For which of those works do you stone Me?”</i></b></p>
+<p>Mais Jésus leur répondit: Mon Père agit jusqu'à présent; moi aussi, j'agis.</p>
 <br>
-<p><b><i>33 The Jews answered Him, saying, “For a good work we do not stone You, but for blasphemy, and because You, being a Man, make Yourself God.”</i></b><b><i> (John 10: 31-33)</i></b></p>
+<p>À cause de cela, les Juifs cherchaient encore plus à le faire mourir, non seulement parce  qu'il  violait  le  sabbat,  mais  parce  qu'il  appelait  Dieu  son  propre  Père,  se faisant lui-même égal à Dieu. » (Jean 5:16-18) Vous  voyez,  mes frères,  dans  ce  texte,  les  Écritures  affirment que  même  les  gens  de  cette époque comprenaient que le fait que Jésus ait déclaré qu'il était le Fils de Dieu était un aveu de  sa  divinité. Comme  le  mentionne  clairement  Jean  l'évangéliste,  les Juifs  croyaient  qu'il était  en  train  d'affirmer qu'il  était égal  à  Dieu.  Et pour  eux, être  égal  à  Dieu voulait  dire être divin.</p>
 <br>
-<p>Yet again my beloved, it is obvious from this text that even the Jesus who heard Him speak did not need him to say the words “I am God”, because clearly they themselves understand that all that he was sating and doing was openly declaring that He is God.</p>
+<p>Prenons un autre exemple de ce que Jésus a affirmé. Au chapitre 10, verset 30 de l'Évangile selon saint Jean, le Seigneur fit une déclaration très osée. Il dit: mon Père et moi ne faisons qu'un. Encore ici, on peut comprendre que c'était une déclaration très percutante, juste à voir la réaction de la foule qui s'était massée autour de Jésus. Voyons ce que nous rapportent les Écritures cette fois:</p>
 <br>
-<p>Furthermore, its is clear in the life of Christ, that not only his words, but His actions manifest that He is God. This is seen very clearly in the fact that Jesus demonstrates that He has the attributes that belong to God alone!</p>
+<p>« Alors les Juifs prirent de nouveau des pierres pour le lapider.</p>
 <br>
-<p><b>Jesus </b><b>Forgiv</b><b>es</b><b> sin</b>: Matt 9:2; Mark 2:5; Luke 5:20; Luke 7:48, etc.</p>
+<p>Jésus  leur  dit:  Je  vous  ai  fait  voir  plusieurs  bonnes  œuvres  venant  de  mon  Père: pour laquelle me lapidez-vous?</p>
 <br>
-<p><b>Jesus </b><b>Heal</b><b>ed</b><b> the sick</b>: Matt 4:24; Matt 9:27; Matt 21:14; Mark 3:10; Mark 5:29; Luke 5:15; Luke 22:51; John 5:1; John 9:6</p>
+<p>Les  Juifs  lui  répondirent:  Ce  n'est  point  pour  une  bonne  œuvre  que  nous  te lapidons,  mais  pour  un  blasphème,  et  parce  que  toi,  qui  es  un  homme,  tu  te  fais Dieu. » (Jean 10:31-33) Mes  frères,  dans  cet  extrait  encore,  il  est  évident  que les  Juifs  qui avaient entendu  ces paroles  n'avaient  pas  besoin  plus  que  nous  d'entendre Je  suis  Dieu pour  comprendre  qu'il était en train de dire ouvertement qu'il était Dieu. De plus, d'après la vie que menait Jésus, il était  évident que  non  seulement  ses paroles,  mais  aussi  ses  gestes,  témoignaient  de  sa divinité. Et  on  peut  facilement  s'en  rendre  compte  en  examinant  les  œuvres  de  Jésus, lesquelles ne pouvaient être attribuables qu'à Dieu. En voici quelques exemples:</p>
 <br>
-<p><b>Jesus has </b><b>Power of nature</b><b>: </b>Matt 8:26; Mark 6:49-50; Matt 17:27</p>
+<p>JÉSUS PARDONNE LES PÉCHÉS (Matthieu 9:2; Marc 2:5; Luc 5:20; Luc 7:48) JÉSUS GUÉRIT LES MALADES (Matthieu 4:24; Matthieu 9:27; Matthieu 21:14; Marc 3:10; Marc 5:29; Luc 5:15; Luc 22:51; Jean 5:1; Jean 9:6) JÉSUS A UN POUVOIR SUR LA NATURE (Matthieu 8:26; Marc 6:49-50; Matthieu 17:27) IL EXERCE SON AUTORITÉ SUR LES DÉMONS (Matthieu 8:16; Luc 7:21; Marc 5:13) IL EST VÉNÉRÉ TANT PAR LES HOMMES QUE PAR LES ANGES (Matthieu 2:11; Marc 5:6; Matthieu 4:11) IL RESSUSCITE LES MORTS (Matthieu 9:35; Jean 11:43) IL ANÉANTIT LA MORT (Matthieu 28:6; Marc 16:6; Luc 24:6) et LE PÈRE TÉMOIGNE EN SA FAVEUR (Matthieu 3:17; Matthieu 17:5) Il est donc clair que, par ses paroles comme dans ses actes, le Seigneur Jésus-Christ manifeste sans contredit sa divinité; il est Dieu.</p>
 <br>
-<p><b>He has a</b><b>uthority over demons</b><b>:</b> Matt 8:16; Luke 7:21; Mark 5:13;</p>
+<p>Ceci dit, bien que le poids des Écritures ait son importance lorsque vient le temps de préciser ce à quoi nous croyons en tant que chrétiens, il faut également tenir compte de ce que l'Église a  traditionnellement  enseigné,  tant  à  l'oral  qu'à  l'écrit,  depuis  ses  tout premiers débuts  au siècle premier. Allons donc voir ce que l'Église naissante enseignait à propos de la divinité du Seigneur Jésus-Christ.</p>
 <br>
-<p><b>He is W</b><b>orshiped by men and angels</b><b>: </b>Matt 2:11; Mark 5:6; Matt 4:11</p>
+<p>Au  siècle  premier,  l'un  des  plus  grands et  des  plus  anciens  Pères  de  l'Église,  St.  Ignace d'Antioche,  remplissait  les  fonctions  d'évêque.  Il  a  écrit  plusieurs  épîtres  qui  sont  toujours accessibles de nos jours. Dans ses écrits, il parle du Seigneur Jésus-Christ en l'appelant Dieu.</p>
 <br>
-<p><b>Jesus gives life to the</b><b> dead</b><b>: </b>Matt 9:35; John 11:43<b> </b></p>
+<p>Par exemple, examinons l'introduction de sa lettre aux Éphésiens:</p>
 <br>
-<p><b>Jesus </b><b>Conquers death</b><b>:</b> Matt 28:6; Mark 16:6; Luke 24:6</p>
+<p>« Ignace, dit aussi Théophore, à l'Église qui est à Éphèse d'Asie et digne d'être appelée bienheureuse,  elle qui  est  bénie  en  grandeur  dans  la  plénitude  de  Dieu  le  Père, prédestinée  avant  les  siècles  à  être  en  tout  temps,  pour  une  gloire  qui  ne  passe pas,  inébranlablement  unie  et  élue  dans  la  passion  véritable  du  Christ,  par  la volonté  du  Père  et  de  Jésus-Christ notre  Dieu: salut  en  Jésus-Christ  et  dans  une  joie irréprochable. » (Lettre  aux  Éphésiens, Introduction, Ignace  d'Antioche) - [traduction française de la Paroisse Bordeaux Maritime, France] Ceci est tiré de l'épître adressée à l'Église d'Éphèse. Remarquez qu'il n'hésite pas à dire que Jésus-Christ  est  notre  Dieu.  Répétons-le:  ceci  provient  d'un  des  premiers  Pères  de  l'Église ayant vécu au siècle premier et dont la foi s'appuyait directement sur ce que les apôtres lui avaient transmis. Un autre Père de l'Église, à ses débuts, était saint Grégoire de Nazianze, lequel  était  considéré  théologien.  L'Église  copte  orthodoxe  célèbre  souvent la  liturgie divine en se servant de l'anaphore qu'il avait écrite. Écoutez bien cet extrait de la Liturgie de saint Grégoire le Théologien:</p>
 <br>
-<p><b>Jesus has the </b><b>Testimony of the Father</b><b>: </b>Matt 3:17; Matt 17:5</p>
+<p>«  Toi, l'infini,  étant  Dieu,  n'as  point regardé  comme  une  proie  à  arracher  d'être  égal à Dieu, mais tu t'es dépouillé toi-même en prenant une forme de serviteur; tu as béni ma nature en toi et accompli ta loi en mon nom. » (Liturgie de saint Grégoire le Théologien) - [traduction libre] Encore ici, Saint Grégoire, comme saint Ignace avant lui, proclame avec courage que Jésus, qui s'est abaissé et s'est fait homme, était effectivement Dieu.</p>
 <br>
-<p>And so we can clearly see, that both the words and the actions of the Lord Jesus Christ, clearly testify to the fact that he is indeed divine - HE is God.</p>
+<p>Et je présume qu'après la vie du Christ elle-même, le premier et le plus grand à témoigner de ce  à  quoi  les  chrétiens  croyaient fut  saint  Paul  Apôtre.  Après  sa  conversion,  il  a  prêché l'Évangile à de nombreuses nations. Et je crois que la déclaration la plus explicite et la plus claire quant à la divinité du Seigneur Jésus-Christ fut celle de saint Paul. Allons lire ensemble un extrait de son Épître aux Colossiens:</p>
 <br>
-<p><br/></p>
+<p>« Ainsi donc, comme vous avez reçu le Seigneur Jésus Christ, marchez en lui, étant  enracinés  et  fondés  en  lui,  et  affermis  par  la  foi,  d'après  les  instructions  qui vous ont été données, et abondez en actions de grâces.</p>
 <br>
-<p>Now while scripture is of great importance in identifying what we believe as Christians, so also we ought to turn to what the Church has been teaching in both oral and written tradition since the birth of the Church in the very first century. And so, lets take a look at what the early Church taught about the divinity of Jesus Christ.</p>
+<p>Prenez garde que personne ne fasse de vous sa proie par la philosophie et par une vaine  tromperie,  s'appuyant  sur  la  tradition  des  hommes,  sur  les  rudiments  du monde, et non sur Christ.</p>
 <br>
-<p>One of the earliest Church Fathers, St Ignatius of Antioch, served as a bishop in the first century. St Ignatius wrote many epistles of which we still have access to today. In his writings, he refers to the Lord Jesus Christ as God. For instance, let us examine how he himself opens with a greeting in a letter to the Ephesians:</p>
+<p>Car en lui habite corporellement toute la plénitude de la divinité.</p>
 <br>
-<p><b><i>“</i></b><b><i>Ignatius, who is also called </i></b><b><i>Theophorus</i></b><b><i>, to the Church which is at Ephesus, in Asia, deservedly most happy, being blessed in the greatness and fullness of God the Father, and predestinated before the ages of time, that it should be always for an enduring and unchangeable glory, being united and elected through the true </i></b><b>passion by the will of the Father, and Jesus Christ, our God</b><b><i>: Abundant happiness through Jesus Christ, and His undefiled grace.</i></b><b><i>” [</i></b><b><i>The Epistle of Ignatius to the Ephesians</i></b><b><i>]</i></b></p>
+<p>Vous  avez  tout  pleinement  en  lui,  qui  est  le  chef  de  toute  domination  et  de  toute autorité. » (Colossiens 2:6-10) Que peut-on ajouter à cela? En lui habite corporellement toute la plénitude de la divinité. Mes bien  chers  frères,  voilà  en  quoi  consiste  la  foi  des  chrétiens,  à  savoir  que  Jésus-Christ,  le Verbe  et  Fils  de  Dieu  incarné,  est  vraiment  Emmanuel,  Dieu  avec  nous.  Il  l'a  démontré  par ses  paroles,  par  ses  actions,  et  par  l'Église  qui  a  toujours  tenu  le  même  discours  depuis  le début de son ministère: Jésus-Christ est notre Seigneur, notre Dieu et notre Sauveur. Gloire à Dieu pour toujours. Amen.</p>
 <br>
-<p>Notice how he does not shy away from saying that Jesus Christ is “Our God”! And again, this is from an early church Father who lived in the very first century and received his faith from the apostles.</p>
+<p>Merci  d'avoir  regardé  cette  vidéo.  Ne manquez  pas  de  regarder  nos vidéos  précédentes  en visitant et en vous abonnant à notre chaîne. Si cette vidéo vous a été bénéfique, partagez-la avec vos ami(e)s.</p>
 <br>
-<p>Another Early Church Father and considered to be a Theologian, is St Gregory of Nazianzus. The Coptic Orthodox Church will often celebrate the Divine Liturgy by using the Anaphora that he wrote. Listen to the following excerpt that is taken from the Liturgy of St Gregory:</p>
+<p>N'oubliez pas:</p>
 <br>
-<p><b><i> </i></b><b><i>“You, the Infinite, </i></b><b>being God</b><b><i>, did not consider equality with God a thing to be grasped, but emptied Yourself and took the form of a servan</i></b><b><i>t</i></b><b><i>,</i></b><b><i> </i></b><b><i>and blessed my nature</i></b><b><i> </i></b><b><i>in Yourself,</i></b><b><i> </i></b><b><i>and fulfilled Your Law</i></b><b><i> </i></b><b><i>on my behalf.” [Liturgy of St Gregory the Theologian] </i></b></p>
-<br>
-<p>Again, St Gregory like St Ignatius before him, boldly proclaims that Jesus, who condescended and became man, was indeed God!</p>
-<br>
-<p>I suppose the earliest and greatest witness of what Christians believed after the life of Christ comes from the great apostle Paul. After his conversion, he preached the gospel to many nations, and I believe that one of the most explicit and clearest statements of the divinity of Christ was spoken by him. Let us read together from Paul’s epistle to the Colossians:</p>
-<br>
-<p><b><i>“</i></b><b><i>6 As you therefore have received Christ Jesus the Lord, so walk in Him, 7 rooted and built up in Him and established in the faith, as you have been taught, abounding in it with thanksgiving.</i></b></p>
-<br>
-<p><b><i>8 Beware lest anyone cheat you through philosophy and empty deceit, according to the tradition of men, according to the basic principles of the world, and not according to Christ. 9 For in Him dwells all the fullness of the Godhead bodily; 10 and you are complete in Him, who is the head of all principality and power.</i></b><b><i>” (Colossians 2:</i></b><b><i>6-10) </i></b></p>
-<br>
-<p>And there we have it, “In him dwells all the fullness of the Godhead bodily”!</p>
-<br>
-<p>My beloved, this is the faith of the Christian - that Jesus Christ, the Word and Son of God incarnate, is indeed Emmanuel - God with us! He proved it through His words, through His actions, and the Church has taught nothing less since the beginning her ministry. Jesus Christ is our Lord, our God, and our Savior; To Him be all Glory, Forever and Ever.</p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "What are you thirsty for?"
 pubDate: 2022-05-06T09:04:52
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

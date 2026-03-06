@@ -6,7 +6,7 @@ lang: fr
 title: "Bend your knees!"
 pubDate: 2021-04-01T23:33:00
 tags: ["wow"]
-author: "Fr. Lazarus St. Anthony"
+author: "Père Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

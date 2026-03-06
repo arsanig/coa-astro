@@ -3,96 +3,62 @@ wp_id: 1147
 videoId: "mwP0a3DEhcc"
 imgSrc: /assets/thumbnails/mwP0a3DEhcc.webp
 lang: fr
-title: "Why is Pride the most dangerous of all passions?(Passions- Part 6)"
-pubDate: 2018-09-29T14:11:19
+title: 'Les passions - Partie 6: Pourquoi l''orgueil est-il la plus dangereuse des passions?'
+pubDate: 2018-09-29T14:11:19.000Z
 tags: ["aa"]
-author: "Fr. Anthony Mourad"
+author: "Père Anthony Mourad"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Pride is the mother of all passions, but why is it the most dangerous of all passions?</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p>Before we begin, it is important to note that the passions are the movements within us that misdirect the faculties that God has given us as gifts. <b>Rather than using these faculties</b><b>, such as </b><b>the senses, our intellect, reason, emotion, creativity, compassion</b><b>, etc., </b><b>to make our way to God and to grow in the likeness of His </b><b>S</b><b>on, the passions will disorient us and lead us further away from God.</b></p>
+<p>Mes  bien chers  frères,  bienvenue  à  cette  sixième  vidéo  de  la  série  sur  les  passions. Nous discuterons aujourd'hui de  celle  qui  est  considérée  comme  étant  la  mère  de  toutes  les passions: l'orgueil. Pour ce faire, nous nous poserons la question suivante: Pourquoi l'orgueil est-il la plus dangereuse des passions?</p>
 <br>
-<p>In this case, the passion of pride will always misdirect a person to constantly focus on the self! Unfortunately, <b>many believe that pride is synonymous to being arrogant and loud, and yet, this passion can manifest itself in the most silent and reserved people. It</b><b>’</b><b>s not merely an outward expression of thinking highly of oneself combined with attention-seeking behaviour, </b><b>but</b><b> an inward movement where a person slowly begins to make himself the center of all that exists around </b><b>them.</b></p>
+<p>Avant  de  commencer,  rappelons-nous  que  les  passions  sont  des  manifestations  de  notre intérieur  qui  déroutent  les  facultés  dont  Dieu  nous  a  fait  cadeau.  Au  lieu  de  nous  servir  de toutes ces facultés (les sens, l'intellect, la raison, les émotions, la créativité, la compassion), au lieu de nous en servir pour nous joindre à Dieu et nous appliquer à ressembler à son Fils, les  passions  nous  détournent  de  Dieu  et  nous  conduisent  loin  de  lui.  Et  dans  ce  contexte, l'orgueil en particulier réussit toujours à nous dérouter, afin que nous demeurions centrés sur nous-mêmes.</p>
 <br>
-<p>Pride is often considered to be the very sin that is at the root of so much of the evil we know to exist in creation. According to Holy Tradition, the devil, before being cast out of heaven, was a Cherub who stood in the presence of God. He was adorned with all the honor and glory of all the angelic beings, yet his downfall was that he desired to be equal and greater than God. Although, the Church does not claim to have a detailed account of all that happened between this fallen angel and the Lord, the Church does formulate some of her teaching on this matter based on proper interpretation of holy scripture. For instance, let’s read together Ezekiel chapter 28: 15-17:</p>
+<p>Malheureusement, plusieurs croient que l'orgueil est synonyme d'arrogance et de ton élevé, et  pourtant,  il  peut  se manifester chez  la  personne  la plus  silencieuse  et  réservée.  Ce  n'est pas  seulement  l'expression  extravertie de  celui  qui  se  croit  important,  combinée  à  des comportements  qui  cherchent  à  attirer  l'attention. C'est  une  manifestation  interne  qui  le conduit peu à peu à devenir le point de mire de tout ce qui existe autour de lui. Pour mieux comprendre ceci, nous allons consulter les Écritures, ainsi que certaines pensées des Pères du désert. Examinons tout cela en détail.</p>
 <br>
-<p><i>Ezekiel 28: </i></p>
+<p>Tout d'abord, précisons que l'orgueil est souvent considéré comme étant le péché qui est à l'origine de nombreux maux qui existent dans la création. D'après la sainte tradition, le diable, avant d'être expulsé des cieux, était un chérubin de l'entourage de Dieu, paré de tout l'honneur et de toute la gloire  que  l'on  accordait aux  êtres  angéliques. Malgré  tout, il  a  connu  sa déchéance en voulant être égal à Dieu, et même le surpasser. Bien que l'Église ne connaisse pas le  détail  de  ce  qui  s'est  passé  entre l'ange  déchu  et  le  Seigneur,  elle  avance  tout  de même  quelques  préceptes  sur  l'événement,  en  se  basant  sur  l'interprétation formelle des Saintes Écritures. En guise d'exemple, allons lire ensemble Ézéchiel, au chapitre 28, versets à 17:</p>
 <br>
-<p><i>“15 You were blameless in your ways </i></p>
+<p>« Tu as été irréprochable dans toute ta conduite depuis le jour où tu as été créé, jusqu’à ce que le mal se soit trouvé chez toi.</p>
 <br>
-<p><i>    from the day you were created,</i></p>
+<p>Ton commerce prospère t’a entraîné à la violence qui a rempli ton cœur. Alors tu as péché,  je  t’ai  mis  au  rang  des  profanes  en  te  chassant  de  ma  montagne.  Et  le chérubin protecteur t’a expulsé du milieu de ces pierres aux feux étincelants.</p>
 <br>
-<p><i>    till iniquity was found in you.</i></p>
+<p>De ta grande beauté, tu t’es enorgueilli et tu as laissé ta splendeur pervertir ta sagesse.  Je  t’ai  précipité  à  terre,  et  te  donne  en  spectacle  aux  autres  rois.  » (Ézéchiel 28:15-17) - [Bible du Semeur 2015] Cette  idée voulant  que l'orgueil se  soit trouvé  en  lui  et  que  le  Seigneur ait été forcé  de  le donner  en  spectacle et  de  l'expulser a  été  interprétée  par l'Église  comme  une  référence  à Satan, cet ange déchu, grand arnaqueur du genre humain. Remarquez comment le texte fait état de l'orgueil qui habitait son cœur. Répétons-le: c'est en s'appuyant sur cet extrait, et sur d'autres, que l'Église a toujours enseigné que l'orgueil était le grand péché qui fut à l'origine du déclin des anges, et par conséquent, de la chute du genre humain.</p>
 <br>
-<p><i>16 In the abundance of your trade</i></p>
+<p>Nous croyons donc que l'orgueil est très souvent à l'origine de plusieurs de nos péchés, car c'est le péché dont Satan se sert souvent pour nous amener à faire précisément ce qu'il a fait lui-même: veiller à nos propres intérêts, notre confort, nos désirs et nos prestiges. C'est pour cette  raison précise  que  les  Écritures  nous  indiquent  à  quel  point  Dieu  méprise  l'orgueil  et qu'il critique ceux qui ont un cœur hautain. L'un des extraits les plus éloquents à ce propos se trouve dans le livre du Siracide, au chapitre 10. Lisons-le ensemble:</p>
 <br>
-<p><i>    you were filled with violence, and you sinned;</i></p>
+<p>« L’être humain est seulement poussière et  cendre.  Pourquoi  est-il  si  orgueilleux?</p>
 <br>
-<p><i>so</i><i> I cast you as a profane thing from the mountain of God,</i></p>
+<p>Déjà pendant sa vie, ses intestins sont remplis de pourriture.</p>
 <br>
-<p><i>    and the guardian cherub drove you out</i></p>
+<p>Une  maladie  grave  se  moque  même  du  médecin.  Celui  qui  est  roi  aujourd’hui mourra demain.</p>
 <br>
-<p><i>    from the midst of the stones of fire.</i></p>
+<p>Quand quelqu’un est mort, tout ce qui lui reste, ce sont les insectes, les bêtes sauvages et les vers.</p>
 <br>
-<p><i>17 Your heart was </i><i>proud</i><i> because of your beauty;</i></p>
+<p>Le commencement de l’orgueil, c’est l’abandon du Seigneur, l’oubli du Créateur.</p>
 <br>
-<p><i>    you corrupted your wisdom for the sake of your splendor.</i></p>
+<p>Le commencement de l’orgueil, c’est le péché. Celui qui le commet fait toutes sortes de  choses  horribles.  C’est  pourquoi  le  Seigneur  a  envoyé  aux  orgueilleux des punitions terribles et il les a complètement détruits. » (Siracide 10:9-13) - [Parole de Vie 2017] L'auteur nous prévient, vous et moi, que c'est l'orgueil qui nous éloigne de Dieu et qui nous fait oublier notre Créateur. Cet orgueil nous empêche de réaliser que la fin de tout homme est la même et que l'objectif de l'orgueil est toujours immoral. À présent, il nous faut examiner de plus près comment ce péché se manifeste en chacun de nous.</p>
 <br>
-<p><i>I cast you to the ground;</i></p>
+<p>Dans  l'Évangile, on  constate  que dans  son  ensemble, notre  foi se  résume  à aimer  Dieu  et notre  prochain.  Ceci  dit,  il  est  vraiment  intéressant  de  réaliser  que  l'orgueil,  lorsqu'il  a pleinement  pris  forme dans  l'âme  de  quelqu'un,  fait  deux  choses  clés:  il  établit  une  inimitié envers les autres et il l'établit également envers Dieu.</p>
 <br>
-<p><i>    I exposed you before kings,</i></p>
+<p>Commençons  par  l'inimitié  envers  les  autres. Nous  savons  que  l'orgueil  conduit  souvent  la personne  à  se  glorifier  et  à  penser  qu'elle  est  plus  digne,  plus  respectable  et  meilleure  que les  autres  en  général.  Et une  fois que la  notion  d'orgueil est profondément ancrée dans  le cœur de l'homme, ce dernier se met bientôt à arborer d'autres passions telles que la colère, ce qui  l'amènera à  s'offenser facilement et à se  sentir blessé dans  son  ego: des  passions telles que la peur, ce qui le rendra anxieux et inquiet de la façon dont les autres le perçoivent; des passions telles que la tristesse, ce qui lui donnera l'impression d'être peu apprécié, parce que les autres ne le traitent pas comme il croit qu'il devrait être traité. Et tout ça, c'est sans compter les autres péchés qui seront commis envers nos frères, comme le jugement, l'envie, le commérage et la calomnie.</p>
 <br>
-<p><i>    to feast their eyes on you.</i></p>
+<p>Les  Pères  du  désert nous  enseignent  que  la  solution  face  à  l'orgueil  est  de  ramener  son cœur vers Dieu et  vers  les  autres  en  posant  des  gestes  d'humilité.  Ce  n'est  qu'en  pensant aux autres plus qu'à soi-même qu'on peut vaincre le péché. Et on peut y parvenir en obéissant aux commandements de notre Seigneur et Dieu, Jésus-Christ. Écoutez bien ce récit, tiré des Apophtegmes des pères du désert. Abba Daniel nous enseigne ce qui suit:</p>
 <br>
-<p>The Church has interpreted this text as referring to Satan, that fallen angel and great deceiver of mankind. Notice how the text refers to how pride filled his heart. Again, it is because of this passage and others like it that the Church has always taught pride as that great sin that led to the fall of angels and led to the fall of mankind! We therefore believe that pride is very often at the root of many of our sin because this is the one sin that <b>Satan will often utilize to have us do precisely what he did</b><b>: </b><b>to seek out our own interests, comforts, desires, and glories. </b>It is for this very reason that scripture warns us of how much God despises pride and rebukes those who have a proud heart. One of the more powerful passages on this very subject is found in Sirach chapter 10:</p>
+<p>«  À  Babylone,  la  fille  d'un  homme  important  était possédée par  un démon.  Un  moine pour lequel le père avait une grande affection vint les visiter à la maison. [Et] lorsque le moine arriva, la femme possédée du démon s'approcha et le gifla. Mais il lui présenta l'autre  joue,  suivant  le [commandement  du] Seigneur [que l'on  peut  trouver  à  Matthieu :39]. Le démon, qui s'en vit torturé, s'écria: « Quelle violence! Le commandement de Jésus me chasse. » [Et] aussitôt, la femme fut purifiée. [Et] c'est ainsi que l'orgueil du démon fut rabaissé: par  l'humilité  du  commandement du  Christ.  »  (Les apophtegmes des Pères du désert, Abba Daniel) - [traduction libre] Vous  trouverez  ce  récit dans Les apophtegmes des pères  du  désert,  plus précisément dans la  section réservée  à Abba  Daniel. Cet  extrait  illustre  comment  l'obéissance  aux commandements et  l'acceptation  volontaire  de  l'humilité  dans  nos  vies  peut  nous  amener  à vaincre l'orgueil et les maux qui y en découlent, à tel point qu'il devient facile de mettre le mal en échec grâce à cette humilité.</p>
 <br>
-<p><i>Sirach 10: </i></p>
+<p>L'autre aspect que j'aimerais aborder est l'inimitié envers Dieu. Ce fut précisément l'erreur de nos  premiers  ancêtres, Adam  et  Ève.  Au  lieu  de  s'affairer  à  acquérir  des  connaissances  en obéissant  et en se  soumettant  à  Dieu, nos  deux  premiers sujets nourrissaient  l'espoir  de devenir égal à Dieu en déterminant eux-mêmes ce qui est bien ou mal, sans lui. Ils se sont élevés jusqu'à vouloir être égal à Dieu, ce qui, au bout du compte, leur a valu d'être séparés de lui et d'être expulsés du jardin céleste.</p>
 <br>
-<p><i>9 How can he who is dust and ashes be proud?</i></p>
+<p>Encore ici, on constate que lorsqu'une personne se glorifie et cherche les honneurs, elle finit par vouloir vivre selon sa propre volonté au lieu de se soumettre à celle de Dieu. L'orgueil est donc le péché qui nous éloigne tous de la présence de Dieu, et dès lors, nous commençons à nous admirer devant le miroir. Dans ce cas précis, nous remplaçons Dieu par notre propre image.  Nous  commençons  à  croire  que  nous  méritons  d'être  satisfaits,  que  nos  désirs doivent être comblés, que nous devons à tout prix trouver satisfaction et confort. Répétons-le: c'est à ce moment que les autres passions liées au plaisir sont susceptibles de se développer; des passions telles que la luxure, la cupidité et la gourmandise.</p>
 <br>
-<p><i>    for even in life his bowels decay.</i></p>
+<p>Toujours selon les pères du désert, il nous semble approprié de citer le grand saint Antoine, le père de tous les pères. Ce dernier nous enseigne que le Seigneur déteste l'orgueil et que l'humilité est la véritable clé qui permet de vaincre cette vilaine passion. Écoutez ce qu'il dit:</p>
 <br>
-<p><i>10 A long illness baffles the physician;</i></p>
+<p>« Apprenez à aimer l'humilité, car elle couvrira tous vos péchés. Tous les péchés sont répugnants devant Dieu, mais l'orgueil du cœur est le plus répugnant de tous. Ne vous prenez pas pour des gens éduqués et sages, sinon tous vos efforts seront anéantis et vous atteindrez le port les mains vides. [Et] si vous disposez d'une grande autorité, ne faites à personne des menaces de mort. Sachez que, d'après les lois de la nature, vous aussi  êtes  sujets  à mourir  et que votre  corps  sera  le  dernier  vêtement  que  votre  âme laissera derrière elle. » (Saint Antoine le Grand) - [traduction libre] Saint Antoine nous apprend que nous connaîtrons tous la même fin. Mes frères, il est évident pour  nous  tous  que  l'orgueil  est  la  passion  qui  peut conduire chacun  de  nous  à  la  mort spirituelle. Il  engendre  les  conflits  entre  moi  et  mon  prochain,  tout  en  nous  séparant  de l'amour de Dieu. Faisons donc preuve d'humilité et suivons l'exemple du Seigneur Christ lui- même, afin d'éliminer toute trace d'orgueil dans notre esprit.</p>
 <br>
-<p><i>    the king of today will die tomorrow.</i></p>
+<p>N'oubliez pas, mes frères:</p>
 <br>
-<p><i>11 For when a man is dead,</i></p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p><i>    he will inherit creeping things, and wild beasts, and worms.</i></p>
-<br>
-<p><i>12 The beginning of man’s pride is to depart from the Lord;</i></p>
-<br>
-<p><i>    his heart has forsaken his Maker.</i></p>
-<br>
-<p><i>13 For the beginning of pride is sin,</i></p>
-<br>
-<p><i>    and the man who clings to it pours out abominations.</i></p>
-<br>
-<p><i>Therefore</i><i> the Lord brought upon them extraordinary afflictions,</i></p>
-<br>
-<p><i>    and destroyed them utterly. </i><i> </i><i>  </i></p>
-<br>
-<p>The author warns you and me that it is pride that tears us away from God and makes us forsake our Creator. It blinds us from realizing that the end of all men is the same and that its end is always sinful. But how does this sin manifest itself in the each of us?</p>
-<br>
-<p>In the Gospels, we see that the summary of all our faith is to love our God and our neighbour. <b>W</b><b>hat</b><b> i</b><b>s interesting is to realize that pride, when fully developed in the soul of a person, does two key things</b><b>:</b><b> it creates enmity between the person and others around </b><b>them</b><b>, and enmity between that person and God. </b></p>
-<br>
-<p>Let’s begin with the idea of enmity with others. We know that pride will often lead a person to exalt themselves and to think of themselves more worthy, honorable, and generally better than others. When this thought of pride is found hidden deep within the heart of a man, we see in the person the manifestation of other passions, such as anger, in which we are easily offended and our egos are easily bruised; fear, in which we begin to grow anxious and worrisome of how others will perceive us; and sadness, in which we feel underappreciated because others don’t treat us as what we believe they should. Not to mention that we see the formation of other sins against our brothers, such as judgement, envy, gossip, and slander.</p>
-<br>
-<p>The desert fathers would teach us that the solution to pride is to direct the heart back towards God and others through acts of humility. <b>Only in thinking of others more than ourselves can we conquer this sin</b><b>. T</b><b>his can be practiced through obedience to the commandments of God.</b> Listen carefully to this story that is recounted in the sayings of the desert fathers - Abba Daniel taught the following:</p>
-<br>
-<p><i>“At Babylon the daughter of an important person was possessed by a devil. A monk for whom her father had a great affection came to the house. When the monk arrived, the woman possessed with the devil came and slapped him. But he only turned the other cheek, according to the Lord's command </i><i>(</i><i>M</i><i>at</i><i>t 5:39). The devil, tortured by this, cried out, ‘What violence! The commandment of Jesus drives me out.' Immediately the woman was cleansed. This is how the pride of the devil is brought low, through the </i><i>humility</i><i> of the commandment of Christ.” </i>[From Abba Daniel - The Sayings of the Desert Fathers]</p>
-<br>
-<p>What we see depicted in this story is how obedience to the commandments, and the willing acceptance of humility in our lives can lead to the conquering of pride and all its evils, even to the point where the devil is easily defeated through the adoption of humility.</p>
-<br>
-<p>The other aspect we must consider is how pride leads to enmity with God. This is precisely the error of our first ancestors Adam and Eve. Rather than allowing themselves to acquire knowledge through obedience and submission to God, the first man and woman allowed themselves to want to be equal to God by knowing good and evil on their own without Him. They elevated themselves and wanted equality with God. This finally led to them being separated from God and being cast out of the garden. Hence, <b>when a person exalts themselves and seeks their own honor, this can ultimately lead to the</b><b>m </b><b>seeking their own will rather than submitting to God’s. Pride therefore is the sin that makes every one of us leave the presence of God and begin to worship in front of a mirror. We have replaced God in this case with a picture of ourselves. We begin to think that we ‘deserve’ to be pleased, our desires ought to be fulfilled, our satisfaction and comfort should be pursued at all costs…</b> It is here that we see the potential for other passions to develop that all have to do with our pleasing and passions, such as lust, greed, and gluttony.</p>
-<br>
-<p>As mentioned earlier, in accordance with the desert fathers, it is befitting for us to quote the great St. Anthony, the father of all desert Fathers. He teaches us that the Lord hates pride and that humility is the key to fighting against this vile passion:</p>
-<br>
-<p><i>“Learn to love humility, for it will cover all your sins.  All sins are repulsive before God, but the most repulsive of all is pride of the heart.  Do not consider yourself learned and wise; otherwise, all your efforts will be destroyed, and your boat will reach the harbor empty.  If you have great authority, do not threaten anyone with death.  Know that, according to nature, you too are susceptible to death, and that every soul sheds its body as its final garment.”</i> [St. Anthony the Great]</p>
-<br>
-<p>Finally, pride is the passion that can lead each of us to spiritual death. It introduces strife between me and my neighbour, as well as separation between the love of God and me. We therefore should acquire humility and be like the Lord Christ Himself, so that we may eradicate all traces of pride from our souls.</p>
-<br>
-<p>Remember my beloved, know your faith, live your faith, and teach your faith.</p>
+<p>Et gloire à Dieu maintenant et toujours et pour les siècles des siècles. Amen.</p>

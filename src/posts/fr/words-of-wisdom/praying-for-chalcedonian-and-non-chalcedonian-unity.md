@@ -6,7 +6,7 @@ lang: fr
 title: "Praying for Chalcedonian and non-Chalcedonian unity!"
 pubDate: 2019-12-13T12:02:54
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

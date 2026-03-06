@@ -6,7 +6,7 @@ lang: fr
 title: "The Spiritual Death of the Christian Sacramental Life! (must listen)"
 pubDate: 2020-10-22T00:47:01
 tags: ["wow"]
-author: "Fr. Daniel Habib"
+author: "Père Daniel Habib"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "Obedience leads to illumination"
 pubDate: 2022-09-08T22:41:12
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

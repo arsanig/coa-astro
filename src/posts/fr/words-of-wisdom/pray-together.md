@@ -6,7 +6,7 @@ lang: fr
 title: "Pray Together"
 pubDate: 2024-02-07T12:00:40
 tags: ["wow"]
-author: "Fr. Mark Basily"
+author: "Père Mark Basily"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

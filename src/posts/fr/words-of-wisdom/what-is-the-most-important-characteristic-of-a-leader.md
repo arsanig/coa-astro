@@ -6,7 +6,7 @@ lang: fr
 title: "What is the most important characteristic of a leader?"
 pubDate: 2019-05-17T10:57:14
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

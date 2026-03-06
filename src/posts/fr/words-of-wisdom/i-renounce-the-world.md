@@ -6,7 +6,7 @@ lang: fr
 title: "I renounce the world"
 pubDate: 2022-03-25T10:25:57
 tags: ["wow"]
-author: "Fr. Paul Guirguis"
+author: "Père Paul Guirguis"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

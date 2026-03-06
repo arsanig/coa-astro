@@ -6,7 +6,7 @@ lang: fr
 title: "You think you have no purpose? Think again!"
 pubDate: 2024-03-08T17:00:42Z
 tags: ["wow"]
-author: "Fr. Mark Basily"
+author: "Père Mark Basily"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -6,7 +6,7 @@ lang: fr
 title: "The work of The Holy Spirit"
 pubDate: 2021-08-26T23:59:41
 tags: ["wow"]
-author: "Fr. Antony Paul"
+author: "Père Antony Paul"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

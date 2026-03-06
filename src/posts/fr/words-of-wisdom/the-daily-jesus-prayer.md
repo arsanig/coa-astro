@@ -6,7 +6,7 @@ lang: fr
 title: "The Daily Jesus Prayer"
 pubDate: 2022-06-08T10:09:21
 tags: ["wow"]
-author: "Fr. Lazarus St. Anthony"
+author: "Père Lazarus St. Anthony"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

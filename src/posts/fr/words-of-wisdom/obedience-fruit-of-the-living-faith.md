@@ -6,7 +6,7 @@ lang: fr
 title: "Obedience: Fruit of the Living Faith"
 pubDate: 2023-01-13T11:34:40
 tags: ["wow"]
-author: "Fr. Michael Sorial"
+author: "Père Michael Sorial"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

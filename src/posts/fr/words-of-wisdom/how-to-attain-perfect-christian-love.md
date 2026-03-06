@@ -6,7 +6,7 @@ lang: fr
 title: "How to Attain Perfect Christian Love?"
 pubDate: 2020-05-06T14:45:38
 tags: ["wow"]
-author: "Fr. Peter Saad"
+author: "Père Peter Saad"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

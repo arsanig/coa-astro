@@ -6,7 +6,7 @@ lang: fr
 title: "He must increase, I must decrease"
 pubDate: 2023-04-28T11:36:09
 tags: ["wow"]
-author: "Fr. Daniel Fanous"
+author: "Père Daniel Fanous"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>

@@ -3,64 +3,58 @@ wp_id: 991
 videoId: "EDpulPI1gH8"
 imgSrc: /assets/thumbnails/EDpulPI1gH8.webp
 lang: fr
-title: "Is pornography harmful for you? What are the harms of pornography?- Part 2"
-pubDate: 2017-10-25T00:09:05
+title: "La pornographie - Partie 2"
+pubDate: 2017-10-25T00:09:05.000Z
 tags: ["aa"]
-author: "Fr. Gabriel Wissa"
+author: "Père Gabriel Wissa"
 ---
 
-<p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
+<p>Bienvenue aux réponses d'une foi apostolique.</p>
 <br>
-<p>Today, we continue to answer the courageous question received about the subject of pornography. We saw in the previous video called “why is pornography a sin” the theological reasons that make pornography evil and something that separates people from God.</p>
+<p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
-<p><strong>In this video, we will examine if there is real harm in watching pornographic material or not.</strong></p>
+<p>Aujourd'hui, nous continuons de répondre à la question courageuse que nous avons reçue à propos de la pornographie. Dans la vidéo précédente, intitulée En quoi la pornographie est- elle un péché?, nous avons présenté les arguments théologiques qui expliquent pourquoi la pornographie  est  un  mal  qui  détourne  les  gens  de  Dieu.  Dans  la  présente  vidéo,  nous chercherons  à savoir  si  le  fait  de  regarder  du  matériel  pornographique peut vraiment être nocif.</p>
 <br>
-<p>Unfortunately, many youths have heard from their teachers and even from random TV shows that pornography and masturbation is something healthy. But that is not what science says. I will present to you in this video some simplified scientific data, and we will see how science goes hand in hand with Christian theology.</p>
+<p>Malheureusement, les jeunes se sont fait dire par leurs enseignants à l'école, et même par le biais de programmes de télévision, que la pornographie et la masturbation sont des activités qui sont saines. Pourtant, ce n'est pas ce que la science nous dit. Dans cette vidéo, je vais présenter  des données  scientifiques  simplifiées  et  vous  serez  à  même  de  constater  que  la science et la théologie chrétienne vont de pair.</p>
 <br>
-<p>Before starting, we need to be familiar with the term “dopamine.” <strong>Dopamine, in a nutshell, is a chemical in the brain that produces reward-motivated pleasure.</strong></p>
+<p>Avant de commencer, il importe de vous familiariser avec le terme dopamine. En un mot, la dopamine est un composé chimique du cerveau qui procure une sensation de plaisir que l'on perçoit  comme  une  récompense.  Comme dans  le  cas  des drogues,  une  hausse  de  la consommation  de  pornographie  entraîne  une  production  plus  élevée  de  dopamine  dans  le cerveau, ce qui procure de l'excitation. Durant ce temps, la personne devient surexcitée. Au fur  et  à  mesure  que  ce  comportement  est  maintenu  jusqu'à  devenir  une  dépendance,  le cerveau  comprend  qu'il  doit  produire  des  quantités  excessives  de  dopamine  pour  s'adapter au  rythme  de  consommation. Il  réagit  donc  à cette  demande  accrue  en  ralentissant  tout  le reste, afin de réserver la dopamine pour les moments où la personne regarde son porno.</p>
 <br>
-<p><strong>Like drugs, when there is a rise in pornography viewing, the brain increases the production of dopamine which causes excitement and the person is overexcited, during this time.</strong> <strong>As this behavior progresses and becomes an addiction, the brain realizes that it needs to produce an excessive amount of dopamine, because of all the watching, and the brain starts it to react to this extra demand by slowing things down and reserving the dopamine for when the person is watching porn. </strong></p>
+<p>Qu'est-ce qui en résulte? Puisque la dopamine est réservée pour les moments où la personne regarde  du  porno,  la  vie  ordinaire,  c'est-à-dire  la  vie  sans  porno,  devient  plutôt  ennuyeuse.</p>
 <br>
-<p>What does this entail? <strong>Since this dopamine is reserved for the time that the person watches porn, the “normal” (meaning life without porn) becomes quite tedious.</strong> In other words, the addict doesn’t find happiness in his or her normal life anymore; because there is no dopamine production. Anything other than porn becomes uninteresting. <strong>This leads the addict to the need to go back to the sin to regulate his emotional life because pornography has become his “new normal.”</strong></p>
+<p>Autrement dit, la personne qui a développé une dépendance ne trouve plus de plaisir à sa vie habituelle,  puisqu'elle  ne  lui  procure  pas  de  dopamine,  n'est-ce  pas?  Ainsi,  la  personne  ne trouve plus rien d'intéressant en dehors du porno. Elle ressent alors le besoin de revenir au péché, afin de réguler son état émotif, car la pornographie est devenue sa nouvelle norme de vie. Allons consulter un article du journal The Guardian, afin de voir ce qu'on dit à ce sujet:</p>
 <br>
-<p>Let’s see what an article in the Guardian newspaper says:</p>
+<p>«  Une  neuropsychiatre  de  l'Université  Cambridge,  Dr.  Valerie  Voon,  a  récemment démontré  que  les  hommes  qui  se disent dépendants  du porno  (et qui  ont  perdu  des amis  à  cause  de leur  dépendance)  finissent  par  présenter  des  changements  dans  la même zone cervicale, soit le centre du plaisir, que les personnes qui ont une dépendance à la drogue. » (Dr. Valerie Voon, Université Cambridge) - [traduction libre] Elle  parle  des  effets  d'une  surproduction  de  dopamine,  n'est-ce  pas?  Une  autre  recherche avance ce qui suit:</p>
 <br>
-<p><strong>“The Cambridge University neuropsychiatrist Dr Valerie Voon has recently shown that men who describe themselves as addicted to porn (and who lost relationships because of it) develop changes in the same brain area - the reward center - that changes in drug addicts.”   She is discussing here the effects of the change of dopamine production on the brain and comparing it to drug addiction as the brain damage is very similar in both cases. </strong></p>
+<p>« (...) la dépendance qui  semblait  s'être  développée  à la  pornographie  sur  Internet présageait un niveau de détresse psychologique bien au-delà de celui que l'on associe à la consommation de pornographie elle-même, ainsi qu'à d'autres variables pertinentes. » (Bowling Green State University, Youngstown State University, Département de psychologie) - [traduction libre] Ces deux études, comme plusieurs autres, convergent vers une même conclusion, à savoir que la pornographie est effectivement quelque chose de nocif.</p>
 <br>
-<p>Another research says: <strong>“perceived addiction to Internet pornography predicted psychological distress above and beyond pornography use itself and other relevant variables.”</strong> These two studies and many others converge to the same conclusion; that pornography is indeed harmful.</p>
+<p>Le problème, c'est que la détresse psychologique que subit la personne dépendante entraîne chez  elle  d'autres  effets  néfastes.  Puisque  la  vie  est  devenue  moche,  elle  a  besoin  de  sa dose  de  dopamine,  alors  elle  se  retire  de  la  vie  sociale,  afin  de  regarder du porno  ou pour mener une double vie, selon le cas. Une partie d'elle interagit normalement avec les autres et l'autre  partie  mène  une  vie  secrète  le  soir  ou  loin  des  regards.  De  toute  évidence,  ce  n'est pas  ce  que  Dieu  a  voulu  pour  les  humains,  puisqu'il  nous  a  créés comme  des êtres relationnels qui aspirent à donner un sens à leur vie.</p>
 <br>
-<p><strong>The problem is that this psychological distress caused in the addict leads to other life detrimental effects.</strong>  <strong>Since life has become dull, the addict seeks their dose of dopamine so they are lead to isolate themselves from the world (to be able to watch)</strong>. <strong>Or in other cases, to lead a double-life: part of their life is normal as they interact with people, and the other part is a secret life at night-time or when no one is watching. </strong>This is, of course, not how God intended us to live as He created us as relational beings that are meant to live a purposeful life.</p>
+<p>Et  les  choses  peuvent  aller  encore  plus  loin.  Dans  des  cas  extrêmes,  la  dépendance  peut mener à la dépression, et on le comprend, puisque la personne dépendante perd la capacité de tirer satisfaction du travail accompli chaque jour.</p>
 <br>
-<p><strong>In extreme cases, this addiction leads to depression. </strong>This is very understandable since the addict loses his sense of pleasure-reward in achieving the “normal” day-to-day task.</p>
+<p>Puisque la personne dépendante est prête à sacrifier tout ce qui lui est  cher pour maintenir son  comportement  malsain  et  l'entretenir,  la  vie  familiale  se  met  à  en  souffrir  et  bientôt  la grogne  s'installe.  Dans  le  cas  où  la  personne  est  mariée, les  relations  sexuelles  avec  le conjoint ne parviennent plus à satisfaire. Le don de Dieu conçu pour vivre dans l'intimité avec le  conjoint  au  sein  du  mariage  devient  un  prétexte  pour  le  rejeter,  puisqu'il  n'est  pas  aussi parfait que ce que le matériel pornographique nous propose. C'est sans surprise que d'autres études mentionnent les partenaires sexuels multiples comme faisant partie des conséquences de  la  dépendance  à  la  pornographie.  C'est  un  péché  vraiment  dangereux  qui  peut  détruire une vie.</p>
 <br>
-<p><strong>As the addict is willing to sacrifice what he/she cherishes most, in order to, preserve and continue their unhealthy behavior, the family-life takes a hit.</strong> There is also discontent or dissatisfaction in the sexual relationship with the spouse (if there is a spouse). We find that this God-given-gift that should be used for experiencing intimacy with the spouse, in holy matrimony, has been, ironically, transformed into the reason the addict rejects the spouse, since he or she is not as “perfect” as what is being seen in the pornographic material. <strong>It is not a surprise then that we see in another study that additional consequence to porn addiction is multiple sexual partners.</strong></p>
+<p>Une  autre  étude  a mené à  des  résultats  très  intéressants.  Des  religieux  ont  été  mis  à contribution  dans  le  but  d'établir  une  corrélation  entre  leur  consommation  de  matériel pornographique et la fréquence de leurs prières et de leur participation au service religieux.</p>
 <br>
-<p>It is a truly a dangerous sin that can destroy a precious life. The result of this next study is very special. <strong>They examined religious people and the relation between watching pornographic material and the frequency of their prayers and service attendance. They observed that their behavior at 2 different times which we will call T1 and T2. They discovered that the people that watched pornography at time T1 and continued till time T2, reported more religious doubt, and lower prayer frequency at T2 compared to those who never viewed porn. </strong></p>
+<p>On a observé leur comportement à deux moments distincts que nous appellerons T1 et T2.</p>
 <br>
-<p>This makes sense and shows the effect sin has on the person.</p>
+<p>L'étude a révélé que ceux qui regardaient du porno du temps T1 au temps T2 avaient plus de doutes  face  à  la  religion  et  qu'ils  priaient  moins  souvent  au  temps  T2,  comparé  à  ceux  qui n'avaient pas consommé de porno. C'est logique, n'est-ce pas?</p>
 <br>
-<p>However, it doesn’t stop there! At the higher level of pornography viewing (so the people that watched a lot), they found a sudden change in behavior. The service attendance and prayer that once decline started to increase again.  <strong>The high porn viewers found a need to go back to their religious affiliation. </strong>This study can be explained from a spiritual perspective where in the beginning of the study, as the person started feeling the rush of dopamine and the associated pleasure of sin, he turned toward the sin more frequently and naturally slowly phased out from his practiced religion (which is what happened between T1 and T2). However, as the corruption increased inside the person, and he became a slave to this sin and life started becoming more and more miserable, the study shows a tendency for these people to go back to their original religious beliefs. This demonstrates that this sin doesn’t fulfill the person; it is quite the opposite, it destroys him.</p>
+<p>Les répercussions du péché sur la personne sont donc évidentes, mais ça ne s'arrête pas là.</p>
 <br>
-<p><strong>Although this study refers to people from different religions, and each one of them most probably went back to what he originally practiced, the true freedom is found in Christ alone.</strong> <strong>The harms of pornography are great and we have to be extremely careful with this rapid-growing addiction.</strong></p>
+<p>Dans les cas où les sujets à l'étude consommaient beaucoup de pornographie, on a noté un changement de comportement: la pratique du service religieux et des prières a repris de plus belle.  Ainsi,  ceux  qui  regardaient  souvent  du  porno  ont  ressenti  le  besoin  de  revenir à  leur affiliation religieuse.</p>
 <br>
-<p>For the viewers that might have already fallen in this sin, again, I want to remind you that there is hope. Many have repented and have overcome. Even some that today we consider saints in the Church. Although they fell, through their repentance, their lives were metamorphosed.</p>
+<p>Cette  étude  peut  s'expliquer  du  point  de  vue  spirituel.  Au  début  de  l'étude,  le  sujet  a commencé à ressentir la montée de la dopamine et le plaisir associé au péché. Il s'est donc adonné au péché plus fréquemment et naturellement, graduellement, il s'est mis à négliger la pratique de sa religion. C'est ce qui s'est produit entre les temps T1 et T2. Par contre, au fur et à mesure que la corruption s'installait en lui, il est devenu esclave du péché et sa vie est devenue de  plus  en  plus  misérable.  Puisque  l'étude a  démontré que  les  sujets avaient tendance à revenir à leur croyances religieuses d'origine, il devient évident que le péché ne pouvait les satisfaire. Au contraire, il les détruisait.</p>
 <br>
-<p>I will conclude this video with a beautiful quote from St. Ephraim the Syrian really worth listening to: <strong>“The princes of evil have blinded me with their passions and by their cunningness they have robbed me of the beauty of my youth. What can I do, now that I have lost my purity? I will cry out to Christ, that He might return my beauty to me- and then will the evil ones be ashamed. My Savior cries out to me, to His disciple: do not despair of the salvation; I will restore you and forgive you your sins. I have found you and I will not leave you; for I have redeemed you with my very own Blood. Cry out, O sinner, with all your might, and spare not your throat; for your Lord is merciful and loves those who repent. As soon as you return, your Father will come out beforehand to meet you. He will slaughter the fatted calf, clothe you in a fine robe, and rejoice in you.”</strong></p>
+<p>Bien que l'étude ait été menée sur des sujets appartenant à diverses religions et que chacun a fort probablement décidé de revenir à sa pratique originale, la véritable liberté n'existe qu'à travers le Christ. La pornographie peut avoir de graves conséquences et nous devons nous montrer extrêmement prudents devant cette dépendance grandissante.</p>
 <br>
-<p>Truly we ought to never forget that there is always hope with God. Never give up.</p>
+<p>Pour ceux qui nous écoutent et qui seraient déjà tombés dans le panneau, répétons-le: il y a de l'espoir. Plusieurs se sont repentis. Plusieurs sont gagné la bataille. Il y en a même certains parmi eux que l'Église considère aujourd'hui comme étant des saints. Certes, ils sont tombés, mais grâce à leur repentir, leur vie s'est métamorphosée. Je vais donc conclure cette vidéo avec une très belle citation de saint Éphrem le Syrien. Écoutez bien, ça en vaut la peine:</p>
 <br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>« Les princes du mal m'ont aveuglé avec leurs passions et grâce à leurs subterfuges, ils m'ont volé la beauté de ma jeunesse. Que puis-je faire, maintenant que j'ai perdu ma pureté? Je  vais crier  de  toutes mes  forces pour  que  le Christ me  rende  ma  beauté  et que les méchants se couvrent de honte. Mon Sauveur me dit haut et fort, moi qui suis son disciple: Ne désespère pas d'obtenir ton salut; je vais te restaurer et te pardonner tes  fautes.  Je  t'ai  trouvé  et  je  ne  te  laisserai  pas  tomber, car  je t'ai  racheté par mon propre  sang.  Crie,  ô  pécheur,  à  pleins  poumons,  et  ne  ménage  pas  ta  gorge, car  ton Seigneur  est  miséricorde  et  il  aime  ceux  qui  se  repentent.  Dès  ton  retour,  ton  Père sortira d'avance pour t'accueillir. Il tuera le veau gras, t'habillera d'une belle robe et se réjouira avec toi. » (Saint Éphrem le Syrien) - [traduction libre] En toute vérité, n'oublions jamais qu'il y a toujours de l'espoir avec Dieu. N'abandonnez jamais.</p>
 <br>
-<p>References used in this video:</p>
+<p>Et n'oubliez pas:</p>
 <br>
-<p>1)https://www.ncbi.nlm.nih.gov/pubmed/26372200</p>
+<p>Connaissez votre foi, vivez votre foi et enseignez votre foi.</p>
 <br>
-<p>2)https://www.ncbi.nlm.nih.gov/pubmed/25587721</p>
+<p>Et gloire à Dieu pour toujours. Amen.</p>
 <br>
-<p>3)https://www.ncbi.nlm.nih.gov/pubmed/27049348</p>
-<br>
-<p>4)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4600144/</p>
-<br>
-<p>5)https://www.theguardian.com/commentisfree/2013/sep/26/brain-scans-porn-addicts-sexual-tastes</p>
-<br>
-<p><strong>Remember know your faith, live your faith and teach your faith</strong></p>
+<p>Références mentionnées dans cette vidéo: ) https://www.ncbi.nlm.nih.gov/pubmed/26372200 ) https://www.ncbi.nlm.nih.gov/pubmed/25587721 ) https://www.ncbi.nlm.nih.gov/pubmed/27049348 ) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4600144/ ) https://www.theguardian.com/commentisfree/2013/sep/26/brain-scans-porn-addicts- sexual-tastes</p>

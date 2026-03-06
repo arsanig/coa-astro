@@ -6,7 +6,7 @@ lang: fr
 title: "An opportunity in silence"
 pubDate: 2020-11-05T14:20:50
 tags: ["wow"]
-author: "Fr. Peter Farrington"
+author: "Père Peter Farrington"
 ---
 
 <p>In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.</p>
