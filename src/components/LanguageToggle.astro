@@ -1,6 +1,8 @@
 ---
+import { getLocale } from "@paraglide/runtime";
+
 const currentPath = Astro.url.pathname.replace(/\.html$/, "");
-const currentLang = currentPath.startsWith("/fr") ? "fr" : "en";
+const currentLang = getLocale();
 const otherLang = currentLang === "en" ? "fr" : "en";
 const otherLangPath = otherLang === "en" ? currentPath.replace(/^\/fr/, "") || "/" : `/fr${currentPath}`;
 ---

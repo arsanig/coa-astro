@@ -2,6 +2,7 @@
 import Main from "@layouts/Main.astro";
 import * as m from "@paraglide/messages.js";
 import { localizePathname } from "@utils/linking";
+import { getLocale } from "@paraglide/runtime";
 
 const videoTypes = [
     {
@@ -35,7 +36,7 @@ const videoTypes = [
         path: "/words-of-wisdom",
     },
 ];
-const lang = Astro.url.pathname.startsWith("/fr") ? "fr" : "en";
+const lang = getLocale();
 const videoTypesData = videoTypes.map((t) => ({
     label: t.label(),
     description: t.description(),

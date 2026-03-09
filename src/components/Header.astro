@@ -7,9 +7,9 @@ import { Image } from "astro:assets";
 import coaLogo from "/public/assets/images/coa-logo-coloured.svg";
 import Socials from "./Socials.astro";
 import { localizePathname } from "@utils/linking";
+import { getLocale } from "@paraglide/runtime";
 
-const locale = Astro.url.pathname.startsWith("/fr") ? "fr" : "en";
-const homeLink = localizePathname("/", locale);
+const homeLink = localizePathname("/", getLocale());
 ---
 
 <header data-pagefind-ignore>

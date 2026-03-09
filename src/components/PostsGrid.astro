@@ -17,7 +17,7 @@ type Post = {
 >
     {
         posts.map((post: Post, i: number) => (
-            <a class="group block" href={`/${post.id.replace(/^(en|fr)\//, "").replace(/\/[^/]+$/, "")}/${post.data.videoId}`}>
+            <a class="group block" href={`${post.data.lang === "fr" ? "/fr" : ""}/${post.id.replace(/^(en|fr)\//, "").replace(/\/[^/]+$/, "")}/${post.data.videoId}`}>
                 {post.data.imgSrc && (
                     <div class="aspect-video overflow-hidden rounded-lg">
                         <Image
