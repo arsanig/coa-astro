@@ -2,10 +2,10 @@
 import { Image } from "astro:assets";
 import Head from "@components/Head.astro";
 import * as m from "@paraglide/messages.js";
-import { languageTag } from "@paraglide/runtime";
+const locale = Astro.url.pathname.startsWith("/fr") ? "fr" : "en";
 ---
 
-<html lang={languageTag()} class="h-full">
+<html lang={locale} class="h-full">
     <head>
         <Head title={`${m.notFoundTitle()} | ${m.siteName()}`} />
     </head>

@@ -4,7 +4,7 @@ import PostsGrid from "@components/PostsGrid.astro";
 import Pagination from "@components/Pagination.astro";
 
 const { posts, page, title, description, image, hidePagination, bgColor = "bg-gray" } = Astro.props;
-const currentPath = new URL(Astro.request.url).pathname;
+const currentPath = Astro.url.pathname;
 const baseUrl = currentPath.replace(/\/\d+$/, "");
 const hasCustomGrid = Astro.slots.has("default");
 ---
