@@ -1,6 +1,5 @@
 import { defineConfig } from "astro/config";
 import { paraglideVitePlugin } from "@inlang/paraglide-js";
-import node from "@astrojs/node";
 import tailwindcss from "@tailwindcss/vite";
 import pagefind from "astro-pagefind";
 
@@ -15,7 +14,6 @@ export default defineConfig({
         ],
     },
     output: "static",
-    adapter: node({ mode: "standalone" }),
     i18n: {
         locales: ["en", "fr"],
         defaultLocale: "en",
