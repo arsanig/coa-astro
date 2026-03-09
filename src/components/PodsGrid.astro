@@ -17,7 +17,7 @@ const { podcasts } = Astro.props;
 >
     {
         podcasts?.map((podcast, i) => (
-            <a class="group block" href={`/podcasts/${podcast.slug}`}>
+            <a class="group block" href={`/podcasts/${podcast.id}`}>
                 <div class="aspect-video overflow-hidden rounded-lg">
                     <Image
                         src={podcast.thumbnail}

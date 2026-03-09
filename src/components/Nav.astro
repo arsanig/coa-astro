@@ -2,20 +2,20 @@
 import NavLink from "./NavLink.astro";
 import Socials from "./Socials.astro";
 import { localizePathname } from "@utils/linking";
-import { languageTag } from "@paraglide/runtime";
+import { getLocale } from "@paraglide/runtime";
 import * as m from "@paraglide/messages.js";
-const rawPathname = new URL(Astro.request.url).pathname;
+const rawPathname = Astro.url.pathname;
 const pathname = rawPathname === "/" ? "/" : rawPathname.replace(/\/$/, "");
 
-const homeLocalized = localizePathname("/", languageTag());
-const wowLocalized = localizePathname("/words-of-wisdom", languageTag());
-const aaLocalized = localizePathname("/apostolic-answers", languageTag());
-const ddLocalized = localizePathname("/deep-dive", languageTag());
-const podLocalized = localizePathname("/podcasts", languageTag());
-const shortsLocalized = localizePathname("/shorts", languageTag());
-const faithLocalized = localizePathname("/faith", languageTag());
-const contactLocalized = localizePathname("/contact", languageTag());
-const shopLocalized = localizePathname("/shop", languageTag());
+const homeLocalized = localizePathname("/", getLocale());
+const wowLocalized = localizePathname("/words-of-wisdom", getLocale());
+const aaLocalized = localizePathname("/apostolic-answers", getLocale());
+const ddLocalized = localizePathname("/deep-dive", getLocale());
+const podLocalized = localizePathname("/podcasts", getLocale());
+const shortsLocalized = localizePathname("/shorts", getLocale());
+const faithLocalized = localizePathname("/faith", getLocale());
+const contactLocalized = localizePathname("/contact", getLocale());
+const shopLocalized = localizePathname("/shop", getLocale());
 ---
 
 <nav class="w-full">

@@ -8,9 +8,9 @@ export const prerender = true;
 export async function getStaticPaths() {
     const allPosts = await getCollection("posts");
     return allPosts
-        .filter((post) => post.id.startsWith("fr/deep-dive/"))
+        .filter((post) => post.id.startsWith("fr/deep-dive/") && post.data.videoId)
         .map((post) => ({
-            params: { slug: post.id.replace("fr/deep-dive/", "") },
+            params: { slug: post.data.videoId },
             props: post,
         }));
 }
