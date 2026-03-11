@@ -44,6 +44,14 @@ jobs:
           echo "Timed out waiting for build."
           exit 1
 
+      - name: Cancel Cloudflare deployment
+        if: cancelled()
+        run: |
+          DEPLOYMENT_ID="${{ steps.trigger.outputs.deployment_id }}"
+          curl -s -X DELETE \
+            -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID"
+
       - name: Fetch Cloudflare build logs
         if: always()
         run: |
@@ -52,4 +60,4 @@ jobs:
           curl -s \
             -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
             "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID/history/logs" \
-            | jq -r '.result.logs[] | "\(.ts) [\(.level)] \(.line)"'
+            | jq -r '(.result.data // []) | .[] | "\(.ts) \(.line)"'
