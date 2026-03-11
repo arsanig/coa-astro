@@ -10,4 +10,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Cloudflare Pages deploy
-        run: curl -X POST ${{ secrets.CF_DEPLOY_HOOK_URL }}
+        id: trigger
+        run: |
+          RESPONSE=$(curl -s -X POST ${{ secrets.CF_DEPLOY_HOOK_URL }})
+          echo "response=$RESPONSE"
+          DEPLOYMENT_ID=$(echo "$RESPONSE" | jq -r '.result.id')
+          echo "deployment_id=$DEPLOYMENT_ID" >> $GITHUB_OUTPUT
+
+      - name: Wait for Cloudflare build to complete
+        run: |
+          DEPLOYMENT_ID="${{ steps.trigger.outputs.deployment_id }}"
+          echo "Waiting for deployment: $DEPLOYMENT_ID"
+
+          for i in $(seq 1 30); do
+            STATUS=$(curl -s \
+              -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+              "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID" \
+              | jq -r '.result.latest_stage.status')
+
+            echo "Attempt $i: status=$STATUS"
+
+            if [ "$STATUS" = "success" ]; then
+              echo "Build succeeded."
+              exit 0
+            elif [ "$STATUS" = "failure" ] || [ "$STATUS" = "canceled" ]; then
+              echo "Build failed with status: $STATUS"
+              exit 1
+            fi
+
+            sleep 30
+          done
+
+          echo "Timed out waiting for build."
+          exit 1
+
+      - name: Fetch Cloudflare build logs
+        if: always()
+        run: |
+          DEPLOYMENT_ID="${{ steps.trigger.outputs.deployment_id }}"
+          echo "=== Cloudflare Build Logs ==="
+          curl -s \
+            -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID/history/logs" \
+            | jq -r '.result.logs[] | "\(.ts) [\(.level)] \(.line)"'
