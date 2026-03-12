@@ -6,32 +6,32 @@ import { getLocale } from "@paraglide/runtime";
 
 const videoTypes = [
     {
-        label: () => m.podcastsLabel(),
-        description: () => m.podcastsBannerDesc(),
+        label: () => m.NAV_PODCASTS(),
+        description: () => m.PODCASTS_BANNER_DESC(),
         image: "/assets/images/podcast-banner.webp",
         path: "/podcasts",
     },
     {
-        label: () => m.shortsLabel(),
-        description: () => m.shortsBannerDesc(),
+        label: () => m.NAV_SHORTS(),
+        description: () => m.SHORTS_BANNER_DESC(),
         image: "/assets/images/shorts-banner.webp",
         path: "/shorts",
     },
     {
-        label: () => m.aaLabel(),
-        description: () => m.aaBannerDesc(),
+        label: () => m.NAV_APOSTOLIC_ANSWERS(),
+        description: () => m.APOSTOLIC_ANSWERS_BANNER_DESC(),
         image: "/assets/images/aa-banner.webp",
         path: "/apostolic-answers",
     },
     {
-        label: () => m.ddLabel(),
-        description: () => m.ddBannerDesc(),
+        label: () => m.NAV_DEEP_DIVE(),
+        description: () => m.DEEP_DIVE_BANNER_DESC(),
         image: "/assets/images/dd-banner.webp",
         path: "/deep-dive",
     },
     {
-        label: () => m.wowLabel(),
-        description: () => m.wowBannerDesc(),
+        label: () => m.NAV_WORDS_OF_WISDOM(),
+        description: () => m.WORDS_OF_WISDOM_BANNER_DESC(),
         image: "/assets/images/wow-banner.webp",
         path: "/words-of-wisdom",
     },
@@ -45,7 +45,7 @@ const videoTypesData = videoTypes.map((t) => ({
 }));
 ---
 
-<Main title={m.siteName()} description={m.homePageDescription()} image="/assets/images/generic-banner.webp">
+<Main title={m.GLOBAL_SITE_NAME()} description={m.HOME_PAGE_DESCRIPTION()} image="/assets/images/generic-banner.webp">
     <!-- Hidden SVG clipPath for wavy separators -->
     <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -68,14 +68,14 @@ const videoTypesData = videoTypes.map((t) => ({
                 <h3
                     class="font-marcellus text-center text-jonquil p-4 sm:p-6 md:p-8 lg:p-14 text-xl md:text-2xl lg:text-3xl xl:text-5xl"
                 >
-                    {m.homePageTitle()}
+                    {m.HOME_PAGE_TITLE()}
                 </h3>
             </div>
             <div class="bg-white/80 flex items-center justify-center md:min-h-[20vh]">
                 <p
                     class="font-marcellus text-center align-middle w-[80vw] lg:w-[90vw] text-black px-4 sm:px-8 md:px-16 lg:px-[20%] py-4 sm:py-6 md:py-10 lg:py-14 text-sm sm:text-base md:text-lg lg:text-xl xl:text-3xl"
                 >
-                    {m.homePageDescription()}
+                    {m.HOME_PAGE_DESCRIPTION()}
                 </p>
             </div>
         </div>
@@ -85,12 +85,12 @@ const videoTypesData = videoTypes.map((t) => ({
             <h4
                 class="font-marcellus text-pearl text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-4 sm:mb-6 md:mb-8"
             >
-                {m.homeInfoTitle()}
+                {m.HOME_INFO_TITLE()}
             </h4>
             <p
                 class="font-marcellus text-pearl text-lg sm:text-xl md:text-2xl lg:text-3xl text-center mb-8 sm:mb-12 md:mb-16"
             >
-                {m.homeInfoSubtitle()}
+                {m.HOME_INFO_SUBTITLE()}
             </p>
             <div class="video-carousel">
                 {
@@ -157,10 +157,10 @@ const videoTypesData = videoTypes.map((t) => ({
                 </div>
                 <div class="w-full md:w-2/3 text-center md:text-left">
                     <h4 class="font-marcellus text-gray text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">
-                        {m.docTitle()}
+                        {m.HOME_DOC_TITLE()}
                     </h4>
                     <p class="font-marcellus text-gray/90 text-base sm:text-lg md:text-xl leading-relaxed">
-                        {m.docDescription()}
+                        {m.HOME_DOC_DESCRIPTION()}
                     </p>
                 </div>
             </div>
@@ -183,7 +183,7 @@ const videoTypesData = videoTypes.map((t) => ({
             <h4
                 class="font-marcellus text-pearl text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-8 sm:mb-12"
             >
-                {m.podcastExcerptTitle()}
+                {m.HOME_PODCAST_EXCERPT_TITLE()}
             </h4>
             <div class="max-w-3xl mx-auto aspect-video rounded-lg overflow-hidden shadow-xl">
                 <iframe

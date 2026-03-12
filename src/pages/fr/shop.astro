@@ -33,18 +33,18 @@ const products = [
 ];
 ---
 
-<Main title={`${m.shopLabel()} | ${m.siteName()}`} description={m.shopBannerDesc()} image="/assets/images/shop-banner.webp">
-    <Banner image="/assets/images/shop-banner.webp" bgColor="bg-madder-dark" description={m.shopBannerDesc()} />
+<Main title={`${m.NAV_SHOP()} | ${m.GLOBAL_SITE_NAME()}`} description={m.SHOP_BANNER_DESC()} image="/assets/images/shop-banner.webp">
+    <Banner image="/assets/images/shop-banner.webp" bgColor="bg-madder-dark" description={m.SHOP_BANNER_DESC()} />
 
     <section class="bg-gray min-h-[66vh] overflow-hidden">
         <div class="px-4 sm:px-8 lg:px-12 py-16 sm:py-20 lg:py-28">
             <!-- CTA headline -->
             <div class="text-center mb-12 sm:mb-16 lg:mb-20 shop-reveal">
                 <h2 class="font-marcellus text-3xl sm:text-4xl lg:text-5xl xl:text-6xl text-pearl mb-4 sm:mb-6">
-                    {m.shopCTA()}
+                    {m.SHOP_CTA()}
                 </h2>
                 <p class="font-barlow text-sm sm:text-base lg:text-lg text-pearl/70 max-w-xl mx-auto">
-                    {m.shopCTASub()}
+                    {m.SHOP_CTA_SUB()}
                 </p>
             </div>
 
@@ -90,7 +90,7 @@ const products = [
                     rel="noopener noreferrer"
                     class="inline-flex items-center gap-2 px-8 py-3 sm:px-10 sm:py-4 rounded-md bg-madder-dark text-pearl font-barlow text-base sm:text-lg font-semibold hover:bg-madder-dark transition-colors"
                 >
-                    {m.visitStore()}
+                    {m.SHOP_VISIT_STORE()}
                 </a>
             </div>
         </div>

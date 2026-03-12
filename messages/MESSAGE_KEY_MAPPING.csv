@@ -1,0 +1,56 @@
+Section,Old Name,New Name
+Global,siteName,GLOBAL_SITE_NAME
+Global,slogan,GLOBAL_SLOGAN
+Global,searchPlaceholder,GLOBAL_SEARCH_PLACEHOLDER
+Footer,copyright,FOOTER_COPYRIGHT
+Footer,dioceseCredit,FOOTER_DIOCESE_CREDIT
+Footer,dioceseName,FOOTER_DIOCESE_NAME
+Navigation,homeLabel,NAV_HOME
+Navigation,libraryLabel,NAV_LIBRARY
+Navigation,podcastsLabel,NAV_PODCASTS
+Navigation,shortsLabel,NAV_SHORTS
+Navigation,faithLabel,NAV_FAITH
+Navigation,contactLabel,NAV_CONTACT
+Navigation,aaLabel,NAV_APOSTOLIC_ANSWERS
+Navigation,ddLabel,NAV_DEEP_DIVE
+Navigation,wowLabel,NAV_WORDS_OF_WISDOM
+Navigation,shopLabel,NAV_SHOP
+Home,homePageTitle,HOME_PAGE_TITLE
+Home,homePageDescription,HOME_PAGE_DESCRIPTION
+Home,homeInfoTitle,HOME_INFO_TITLE
+Home,homeInfoSubtitle,HOME_INFO_SUBTITLE
+Home,homeCelebrationTitle,HOME_CELEBRATION_TITLE
+Home,docTitle,HOME_DOC_TITLE
+Home,docDescription,HOME_DOC_DESCRIPTION
+Home,podcastExcerptTitle,HOME_PODCAST_EXCERPT_TITLE
+Apostolic Answers,aaBannerDesc,APOSTOLIC_ANSWERS_BANNER_DESC
+Deep Dive,ddBannerDesc,DEEP_DIVE_BANNER_DESC
+Words of Wisdom,wowBannerDesc,WORDS_OF_WISDOM_BANNER_DESC
+Podcasts,podcastsBannerDesc,PODCASTS_BANNER_DESC
+Shorts,shortsBannerDesc,SHORTS_BANNER_DESC
+Shorts,watchMoreOn,SHORTS_WATCH_MORE
+Search,searchMeta,SEARCH_META
+Search,searchResultsLabel,SEARCH_RESULTS_LABEL
+Search,noResultsFound,SEARCH_NO_RESULTS
+Search,perPageLabel,SEARCH_PER_PAGE
+Search,filterLabel,SEARCH_FILTER
+Search,filterAll,SEARCH_FILTER_ALL
+Search,searchingLabel,SEARCH_SEARCHING
+Contact,contactMeta,CONTACT_META
+Contact,contactActionCall,CONTACT_ACTION_CALL
+Contact,contactWelcome,CONTACT_WELCOME
+Shop,shopBannerDesc,SHOP_BANNER_DESC
+Shop,visitStore,SHOP_VISIT_STORE
+Shop,shopCTA,SHOP_CTA
+Shop,shopCTASub,SHOP_CTA_SUB
+Not Found,notFoundTitle,NOT_FOUND_TITLE
+Not Found,notFoundMessage,NOT_FOUND_MESSAGE
+Not Found,notFoundAction,NOT_FOUND_ACTION
+Not Found,notFoundRedirect,NOT_FOUND_REDIRECT
+Faith,faithMeta,FAITH_META
+Faith,faithTitle1,FAITH_TITLE_1
+Faith,faithBody1,FAITH_BODY_1
+Faith,faithTitle2,FAITH_TITLE_2
+Faith,faithBody2,FAITH_BODY_2
+Faith,faithTitle3,FAITH_TITLE_3
+Faith,faithBody3,FAITH_BODY_3

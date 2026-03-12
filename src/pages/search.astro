@@ -4,31 +4,31 @@ import * as m from "@paraglide/messages.js";
 import synonyms from "@utils/synonyms.json";
 ---
 
-<Main title={`${m.searchResultsLabel()} | ${m.siteName()}`} description={m.searchMeta()} image="/assets/images/generic-banner.webp">
+<Main title={`${m.SEARCH_RESULTS_LABEL()} | ${m.GLOBAL_SITE_NAME()}`} description={m.SEARCH_META()} image="/assets/images/generic-banner.webp">
     <div data-pagefind-ignore class="bg-gray min-h-[66vh] px-4 sm:px-8 lg:px-12 xl:px-19 py-8 sm:py-12 lg:py-16">
         <div id="search-results" class="space-y-6">
             <div id="search-header" class="hidden">
                 <h3 class="font-noto text-2xl sm:text-3xl text-pearl mb-4 sm:mb-6">
-                    {m.searchResultsLabel()}: <span id="search-query" class="text-jonquil"></span>
+                    {m.SEARCH_RESULTS_LABEL()}: <span id="search-query" class="text-jonquil"></span>
                 </h3>
                 <div class="flex flex-row items-center justify-between gap-2 mt-2">
                     <p id="search-count" class="font-barlow text-sm sm:text-base text-pearl/70 order-2 sm:order-1"></p>
                     <div class="flex flex-wrap items-center gap-x-4 gap-y-2 order-1 sm:order-2">
                         <div class="flex items-center gap-2">
-                            <label for="filter" class="font-barlow text-sm text-pearl/70">{m.filterLabel()}</label>
+                            <label for="filter" class="font-barlow text-sm text-pearl/70">{m.SEARCH_FILTER()}</label>
                             <select
                                 id="filter"
                                 class="appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-1 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat"
                             >
-                                <option value="">{m.filterAll()}</option>
-                                <option value="podcasts">{m.podcastsLabel()}</option>
-                                <option value="apostolic-answers">{m.aaLabel()}</option>
-                                <option value="deep-dive">{m.ddLabel()}</option>
-                                <option value="words-of-wisdom">{m.wowLabel()}</option>
+                                <option value="">{m.SEARCH_FILTER_ALL()}</option>
+                                <option value="podcasts">{m.NAV_PODCASTS()}</option>
+                                <option value="apostolic-answers">{m.NAV_APOSTOLIC_ANSWERS()}</option>
+                                <option value="deep-dive">{m.NAV_DEEP_DIVE()}</option>
+                                <option value="words-of-wisdom">{m.NAV_WORDS_OF_WISDOM()}</option>
                             </select>
                         </div>
                         <div class="hidden sm:flex items-center gap-2">
-                            <label for="per-page" class="font-barlow text-sm text-pearl/70">{m.perPageLabel()}</label>
+                            <label for="per-page" class="font-barlow text-sm text-pearl/70">{m.SEARCH_PER_PAGE()}</label>
                             <select
                                 id="per-page"
                                 class="appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-1 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat"
@@ -46,7 +46,7 @@ import synonyms from "@utils/synonyms.json";
                 </div>
             </div>
             <div id="search-empty" class="hidden text-center py-12">
-                <span class="font-barlow text-lg text-pearl">{m.noResultsFound()}</span>
+                <span class="font-barlow text-lg text-pearl">{m.SEARCH_NO_RESULTS()}</span>
             </div>
             <div id="results-list" class="grid grid-cols-1 gap-6"></div>
             <div id="pagination" class="hidden"></div>

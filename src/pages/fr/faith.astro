@@ -4,17 +4,17 @@ import * as m from "@paraglide/messages.js";
 ---
 
 <Main
-    title={`${m.faithLabel()} | ${m.siteName()}`}
-    description={m.faithMeta()}
+    title={`${m.NAV_FAITH()} | ${m.GLOBAL_SITE_NAME()}`}
+    description={m.FAITH_META()}
     image="/assets/images/generic-banner.webp"
 >
     <div class="flex flex-col gap-px bg-white border border-white">
         <!-- Row 1: Image first on mobile | Text | Image on desktop -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
             <div class="flex flex-col justify-center bg-madder-dark px-8 py-16 md:px-12 md:py-36 order-2 md:order-1">
-                <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.faithTitle1()}</h3>
+                <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.FAITH_TITLE_1()}</h3>
                 <p class="font-barlow text-white text-lg md:text-xl leading-relaxed text-justify">
-                    {m.faithBody1()}
+                    {m.FAITH_BODY_1()}
                 </p>
             </div>
             <div
@@ -27,9 +27,9 @@ import * as m from "@paraglide/messages.js";
         <!-- Row 2: Image | Text -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
             <div class="flex flex-col justify-center bg-pearl px-8 py-16 md:px-12 md:py-36 order-2">
-                <h3 class="font-noto text-red-950 text-2xl md:text-3xl mb-4">{m.faithTitle2()}</h3>
+                <h3 class="font-noto text-red-950 text-2xl md:text-3xl mb-4">{m.FAITH_TITLE_2()}</h3>
                 <p class="font-barlow text-black text-lg md:text-xl leading-relaxed text-justify">
-                    {m.faithBody2()}
+                    {m.FAITH_BODY_2()}
                 </p>
             </div>
             <div
@@ -42,9 +42,9 @@ import * as m from "@paraglide/messages.js";
         <!-- Row 3: Image first on mobile | Text | Image on desktop -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-px">
             <div class="flex flex-col justify-center bg-madder-dark px-8 py-16 md:px-12 md:py-36 order-2 md:order-1">
-                <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.faithTitle3()}</h3>
+                <h3 class="font-noto text-jonquil text-2xl md:text-3xl mb-4">{m.FAITH_TITLE_3()}</h3>
                 <p class="font-barlow text-white text-lg md:text-xl leading-relaxed text-justify">
-                    {m.faithBody3()}
+                    {m.FAITH_BODY_3()}
                 </p>
             </div>
             <div

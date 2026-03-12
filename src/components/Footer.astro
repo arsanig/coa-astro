@@ -12,8 +12,8 @@ const year = new Date().getFullYear();
 >
     <div class="flex flex-row justify-between items-start">
         <div class="flex flex-col gap-2 sm:gap-4">
-            <span class="font-noto text-pearl text-2xl sm:text-3xl lg:text-4xl">{m.siteName()}</span>
-            <span class="font-barlow text-jonquil text-lg sm:text-xl lg:text-2xl">{m.slogan()}</span>
+            <span class="font-noto text-pearl text-2xl sm:text-3xl lg:text-4xl">{m.GLOBAL_SITE_NAME()}</span>
+            <span class="font-barlow text-jonquil text-lg sm:text-xl lg:text-2xl">{m.GLOBAL_SLOGAN()}</span>
         </div>
         <a href="/" class="hidden sm:block mr-4 sm:mr-8 lg:mr-16">
             <Image src={coaLogo} alt="Coptic Orthodox Answers" class="sm:w-20 lg:w-28 h-auto" />
@@ -23,11 +23,11 @@ const year = new Date().getFullYear();
         <Socials class="flex flex-row gap-4" dark />
         <hr class="text-pearl w-full" />
         <div class="flex flex-col sm:flex-row sm:justify-between gap-1">
-            <span class="text-pearl text-x-tiny lg:text-sm font-barlow">{m.copyright({ year })}</span>
+            <span class="text-pearl text-x-tiny lg:text-sm font-barlow">{m.FOOTER_COPYRIGHT({ year })}</span>
             <span class="text-pearl text-x-tiny lg:text-sm font-barlow text-left sm:text-right">
-                {m.dioceseCredit()}
+                {m.FOOTER_DIOCESE_CREDIT()}
                 <a href="https://eccopts.ca" target="_blank" rel="noopener noreferrer" class="hover:underline">
-                    {m.dioceseName()}
+                    {m.FOOTER_DIOCESE_NAME()}
                 </a>
             </span>
         </div>

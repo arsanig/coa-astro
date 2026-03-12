@@ -20,12 +20,12 @@ const { page } = Astro.props;
 
 <Catalog
     page={page}
-    title={`${m.wowLabel()} | ${m.siteName()}`}
-    description={m.wowBannerDesc()}
+    title={`${m.NAV_WORDS_OF_WISDOM()} | ${m.GLOBAL_SITE_NAME()}`}
+    description={m.WORDS_OF_WISDOM_BANNER_DESC()}
     image="/assets/images/wow-banner.webp"
     bgColor="bg-gray"
 >
-    <Banner image="/assets/images/wow-banner.webp" description={m.wowBannerDesc()} bgColor="bg-wow-green" />
+    <Banner image="/assets/images/wow-banner.webp" description={m.WORDS_OF_WISDOM_BANNER_DESC()} bgColor="bg-wow-green" />
     <TranslationTooltip bgColor="bg-wow-green-bg" />
     <PostsGrid posts={page.data} />
 </Catalog>

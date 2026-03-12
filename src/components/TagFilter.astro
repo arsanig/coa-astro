@@ -30,11 +30,11 @@ const selectClass =
             {/* Mobile: dropdown with label on same line */}
             <div class="sm:hidden flex items-center gap-2">
                 <label for="tag-filter-select" class="font-barlow text-sm text-pearl/70 shrink-0">
-                    {m.filterLabel()}
+                    {m.SEARCH_FILTER()}
                 </label>
-                <select id="tag-filter-select" class={selectClass} aria-label={m.filterLabel()} data-base-url={baseUrl}>
+                <select id="tag-filter-select" class={selectClass} aria-label={m.SEARCH_FILTER()} data-base-url={baseUrl}>
                     <option value={baseUrl} selected={!activeTag}>
-                        {m.filterAll()}
+                        {m.SEARCH_FILTER_ALL()}
                     </option>
                     {tags.map((tag) => (
                         <option value={`${baseUrl}/tag/${tag}`} selected={tag === activeTag}>
@@ -55,7 +55,7 @@ const selectClass =
                         !activeTag && segmentBg === "dd-blue-bg" && "bg-dd-blue-bg",
                     ]}
                 >
-                    {m.filterAll()}
+                    {m.SEARCH_FILTER_ALL()}
                 </a>
                 {tags.map((tag) => (
                     <a

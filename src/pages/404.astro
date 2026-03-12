@@ -7,27 +7,27 @@ import { getLocale } from "@paraglide/runtime";
 
 <html lang={getLocale()} class="h-full">
     <head>
-        <Head title={`${m.notFoundTitle()} | ${m.siteName()}`} />
+        <Head title={`${m.NOT_FOUND_TITLE()} | ${m.GLOBAL_SITE_NAME()}`} />
     </head>
     <body class="m-0 p-0 h-full flex flex-col justify-center items-center text-center gap-4 bg-black px-6">
         <Image
             src="/assets/images/coa-logo-coloured.svg"
-            alt={m.siteName()}
+            alt={m.GLOBAL_SITE_NAME()}
             width={56}
             height={91}
             class="w-16 sm:w-20 h-auto"
             loading="eager"
         />
-        <h1 class="font-marcellus text-jonquil text-[2rem] leading-none mb-4">{`404 ${m.notFoundTitle()}`}</h1>
-        <p class="font-barlow text-pearl text-lg">{m.notFoundMessage()}</p>
+        <h1 class="font-marcellus text-jonquil text-[2rem] leading-none mb-4">{`404 ${m.NOT_FOUND_TITLE()}`}</h1>
+        <p class="font-barlow text-pearl text-lg">{m.NOT_FOUND_MESSAGE()}</p>
         <p id="countdown" class="font-barlow text-pearl/60 text-lg"></p>
         <a id="fallback" href="/" class="font-barlow text-pearl hover:underline hover:underline-offset-6 hidden">
-            {m.notFoundAction()}
+            {m.NOT_FOUND_ACTION()}
         </a>
     </body>
 </html>
 
-<script is:inline define:vars={{ redirectTemplate: m.notFoundRedirect({ seconds: "__SEC__" }) }}>
+<script is:inline define:vars={{ redirectTemplate: m.NOT_FOUND_REDIRECT({ seconds: "__SEC__" }) }}>
     const el = document.getElementById("countdown");
     const fallback = document.getElementById("fallback");
     let seconds = 5;

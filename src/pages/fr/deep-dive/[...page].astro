@@ -22,12 +22,12 @@ const { page, allTags } = Astro.props;
 
 <Catalog
     page={page}
-    title={`${m.ddLabel()} | ${m.siteName()}`}
-    description={m.ddBannerDesc()}
+    title={`${m.NAV_DEEP_DIVE()} | ${m.GLOBAL_SITE_NAME()}`}
+    description={m.DEEP_DIVE_BANNER_DESC()}
     image="/assets/images/dd-banner.webp"
     bgColor="bg-gray"
 >
-    <Banner image="/assets/images/dd-banner.webp" description={m.ddBannerDesc()} bgColor="bg-dd-blue" />
+    <Banner image="/assets/images/dd-banner.webp" description={m.DEEP_DIVE_BANNER_DESC()} bgColor="bg-dd-blue" />
     <TranslationTooltip bgColor="bg-dd-blue-bg" />
     <TagFilter tags={allTags} baseUrl="/fr/deep-dive" segmentBg="dd-blue-bg" />
     <PostsGrid posts={page.data} hasTagFilter />

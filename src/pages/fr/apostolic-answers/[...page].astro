@@ -22,12 +22,12 @@ const { page, allTags } = Astro.props;
 
 <Catalog
     page={page}
-    title={`${m.aaLabel()} | ${m.siteName()}`}
-    description={m.aaBannerDesc()}
+    title={`${m.NAV_APOSTOLIC_ANSWERS()} | ${m.GLOBAL_SITE_NAME()}`}
+    description={m.APOSTOLIC_ANSWERS_BANNER_DESC()}
     image="/assets/images/aa-banner.webp"
     bgColor="bg-gray"
 >
-    <Banner image="/assets/images/aa-banner.webp" description={m.aaBannerDesc()} bgColor="bg-aa-purple" />
+    <Banner image="/assets/images/aa-banner.webp" description={m.APOSTOLIC_ANSWERS_BANNER_DESC()} bgColor="bg-aa-purple" />
     <TranslationTooltip bgColor="bg-aa-purple-bg" />
     <TagFilter tags={allTags} baseUrl="/fr/apostolic-answers" segmentBg="aa-purple-bg" />
     <PostsGrid posts={page.data} hasTagFilter />

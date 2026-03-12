@@ -56,8 +56,21 @@ jobs:
         if: always()
         run: |
           DEPLOYMENT_ID="${{ steps.trigger.outputs.deployment_id }}"
-          echo "=== Cloudflare Build Logs ==="
           curl -s \
             -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
             "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID/history/logs" \
-            | jq -r '(.result.data // []) | .[] | "\(.ts) \(.line)"'
+            | jq -r '(.result.data // []) | .[] | "\(.ts) \(.line)"' > /tmp/cf-build-logs.txt
+          echo "=== Cloudflare Build Logs ($(wc -l < /tmp/cf-build-logs.txt) lines) ==="
+          cat /tmp/cf-build-logs.txt
+          echo '### Cloudflare Build Logs' >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat /tmp/cf-build-logs.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Upload build logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cloudflare-build-logs
+          path: /tmp/cf-build-logs.txt
+          retention-days: 7
