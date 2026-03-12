@@ -53,35 +53,22 @@ jobs:
             "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID"
 
       - name: Fetch Cloudflare build logs
-        if: always()
+        if: failure()
         run: |
           DEPLOYMENT_ID="${{ steps.trigger.outputs.deployment_id }}"
           sleep 10
+          BASE_URL="https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID/history/logs"
+
           RESPONSE=$(curl -s \
             -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
-            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_NAME }}/deployments/$DEPLOYMENT_ID/history/logs")
-
-          CROPPED=$(echo "$RESPONSE" | jq -r '.result.includes_cropped_lines')
-          TOTAL=$(echo "$RESPONSE" | jq -r '.result.total')
-          echo "Total log lines: $TOTAL, Cropped: $CROPPED"
+            "$BASE_URL")
 
           echo "$RESPONSE" | jq -r '(.result.data // []) | .[] | "\(.ts) \(.line)"' > /tmp/cf-build-logs.txt
+
           echo "=== Cloudflare Build Logs ($(wc -l < /tmp/cf-build-logs.txt) lines) ==="
           cat /tmp/cf-build-logs.txt
-
-          if [ "$CROPPED" = "true" ]; then
-            echo "::warning::Build logs were truncated by Cloudflare"
-          fi
 
           echo '### Cloudflare Build Logs' >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
           cat /tmp/cf-build-logs.txt >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
-
-      - name: Upload build logs
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: cloudflare-build-logs
-          path: /tmp/cf-build-logs.txt
-          retention-days: 7
