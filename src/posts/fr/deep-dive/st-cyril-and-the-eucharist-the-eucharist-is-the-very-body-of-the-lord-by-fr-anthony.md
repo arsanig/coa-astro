@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/nHBqwYumtpg.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 3, Partie 3: L'eucharistie est vraiment le corps du Christ"
 pubDate: 2021-02-28T20:55:43
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, bienvenue à la troisième partie du troisième volet de notre analyse détaillée de la façon dont saint Cyrille d'Alexandrie conçoit la Sainte Eucharistie. Si vous nous avez suivis durant ce troisième volet, nous avons commencé par parler de la christologie de saint Cyrille. Nous nous sommes demandé Qui est Jésus-Christ? Puis, nous avons poursuivi notre analyse en cherchant à comprendre comment le corps du Seigneur Jésus-Christ pouvait être celui du Verbe incarné, et non celui d'un autre.</p>

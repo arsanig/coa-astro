@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/7JyiCMuAmOc.webp
 lang: fr
 title: "Comment les orthodoxes conçoivent-ils la notion de rançon?"
 pubDate: 2022-04-20T10:11:11.000Z
-tags: ["aa"]
+tags: ["aa", "the-cross", "soteriology", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

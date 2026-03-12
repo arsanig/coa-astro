@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vtoGhTWFVm0.webp
 lang: fr
 title: "Quelle est la mystérieuse signification du miracle de la multiplication des pains?"
 pubDate: 2020-05-01T15:26:22
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

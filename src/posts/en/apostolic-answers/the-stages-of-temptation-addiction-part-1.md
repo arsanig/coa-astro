@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Mod_rXtCeHw.webp
 lang: en
 title: "The Stages of Temptation & Addiction: Part 1"
 pubDate: 2019-03-20T12:00:01
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>The Church often teaches us that within our spiritual life, there will be warfare. And if warfare, then there must be an enemy. And if an enemy, then we are under attack. And if you have ever wondered what these attacks look like and how we are tempted to sin, then stick around and let’s look at the six stages that lead to temptation, sin and addiction.</p>

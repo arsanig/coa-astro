@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JcOzLdSvBDA.webp
 lang: fr
 title: "Au plan spirituel, quelle signification peut-on donner à l'onction des pieds du Christ par Marie?"
 pubDate: 2021-01-07T19:10:09
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kk9GXFspvME.webp
 lang: fr
 title: "Comment savoir quelle est la volonté de Dieu envers ma vie?"
 pubDate: 2019-03-27T11:07:37.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Gabriel Wissa"
 ---
 

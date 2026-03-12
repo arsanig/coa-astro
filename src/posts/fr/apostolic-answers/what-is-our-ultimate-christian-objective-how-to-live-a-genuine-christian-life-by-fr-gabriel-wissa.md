@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/s2RN5aGqrhs.webp
 lang: fr
 title: "Quel est l'ultime objectif des chrétiens?"
 pubDate: 2020-06-03T12:00:13.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "orthodox-spirituality", "on-the-holy-trinity"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Rx-uVSz_1UM.webp
 lang: fr
 title: 'Le jeûne - Partie 3: Pourquoi faire un jeûne végétalien?'
 pubDate: 2021-03-03T11:09:37.000Z
-tags: ["aa"]
+tags: ["aa", "fasting", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

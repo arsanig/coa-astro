@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MX2hNk8P-YU.webp
 lang: en
 title: "Should I use Psalms in prayer?"
 pubDate: 2017-02-22T11:14:36
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IBpsqg7EGSs.webp
 lang: en
 title: "What really happened during the cleansing of the temple? Was Christ angry?"
 pubDate: 2019-10-28T12:00:04
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>(...) where we dive deeper into the Gospel of John together. Last time around, we finished John chapter 2, verses 1 to 11 and we saw that beautiful symbolism in the story of the wedding of Cana of Galilee. So, without wasting any more time, we will jump into verse 12 right now.</p>

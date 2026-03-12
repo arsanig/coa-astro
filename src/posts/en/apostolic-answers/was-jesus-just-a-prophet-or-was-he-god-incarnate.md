@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kxRwQO6f4vE.webp
 lang: en
 title: "Was Jesus Just a Prophet or Was He God Incarnate"
 pubDate: 2024-03-13T16:00:37
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Father Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dScCCP1FnzA.webp
 lang: fr
 title: 'Retour aux sources - Partie 4: En quoi l''amour est-il si important?'
 pubDate: 2020-03-11T10:12:22.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IHAblgZy_EI.webp
 lang: fr
 title: "Pourquoi sainte Marie est-elle un personnage si important"
 pubDate: 2018-05-01T01:21:51.000Z
-tags: ["aa"]
+tags: ["aa", "intercession-of-saints", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

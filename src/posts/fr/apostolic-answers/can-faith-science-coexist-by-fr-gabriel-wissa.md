@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/0aQ4CDEkmYk.webp
 lang: fr
 title: "Le christianisme et la science - Partie 3: Quelle était l'attitude des Pères face à la science?"
 pubDate: 2021-02-17T05:56:17.000Z
-tags: ["aa"]
+tags: ["aa", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

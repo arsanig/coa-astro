@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hamGyawoTWw.webp
 lang: en
 title: "Have we become ashamed of Christ?"
 pubDate: 2022-06-01T10:30:13
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

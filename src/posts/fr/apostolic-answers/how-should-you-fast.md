@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/O0rt1HOq15k.webp
 lang: fr
 title: 'Le jeûne - Partie 2: Comment devrait-t-on pratiquer le jeûne?'
 pubDate: 2019-04-10T11:30:46.000Z
-tags: ["aa"]
+tags: ["aa", "fasting", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

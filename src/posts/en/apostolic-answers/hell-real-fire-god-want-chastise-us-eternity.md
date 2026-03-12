@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/xow9tcKZzFE.webp
 lang: en
 title: "Is hell a real fire? Does God want to chastise us for eternity?"
 pubDate: 2017-11-22T10:37:23
-tags: ["aa"]
+tags: ["aa", "apologetics", "on-hell"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Wecome to answers from an apostolic faith.</p>

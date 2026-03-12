@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JnhqCn-jAiM.webp
 lang: fr
 title: "Le Fils et le Père sont-ils des égaux?"
 pubDate: 2022-10-05T10:36:26
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

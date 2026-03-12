@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/slC6wAmkFyE.webp
 lang: fr
 title: "Dieu a-t-il créé le mal?"
 pubDate: 2017-02-14T21:02:02.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

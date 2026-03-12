@@ -5,6 +5,6 @@ imgSrc: /assets/thumbnails/sloZygKM_Y4.webp
 lang: fr
 title: "COA Live Q&A February 13, 2019"
 pubDate: 2019-02-13T14:56:55
-tags: ["q&a"]
+tags: ["q&a", "live-q-a"]
 author: ""
 ---

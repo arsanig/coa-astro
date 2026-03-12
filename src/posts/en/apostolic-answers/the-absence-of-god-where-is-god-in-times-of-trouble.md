@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vASCpRvA8UE.webp
 lang: en
 title: "The Absence of God: Where is God in times of trouble?"
 pubDate: 2019-07-10T11:10:20
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Each of us has experienced low points in our lives where we felt like we were walking a very difficult path on our own. And often when this happens, we are tempted to wonder: Where is God in all of this? Does God abandon us? Is He absent as we sometimes believe him to be? Well let's investigate this and take a closer look together.</p>

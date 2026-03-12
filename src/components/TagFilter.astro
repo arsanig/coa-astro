@@ -1,0 +1,86 @@
+---
+import * as m from "@paraglide/messages.js";
+
+type SegmentBg = "aa-purple-bg" | "dd-blue-bg";
+
+interface Props {
+    tags: string[];
+    baseUrl: string;
+    activeTag?: string;
+    segmentBg: SegmentBg;
+}
+
+const { tags, baseUrl, activeTag, segmentBg } = Astro.props;
+
+function toDisplayTag(tag: string): string {
+    return `#${tag.toLowerCase()}`;
+}
+
+const pillBase =
+    "inline-block rounded-full px-3 py-1.5 text-sm sm:text-base font-barlow transition-colors border border-transparent";
+const pillInactive = "text-pearl/70 hover:text-pearl hover:bg-pearl/10 border-pearl/20";
+
+const selectClass =
+    "appearance-none bg-black/30 text-pearl font-barlow text-sm rounded-md pl-3 pr-10 py-2 border border-pearl/20 focus:outline-none focus:ring-1 focus:ring-jonquil bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%23e8e4d9%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.23%207.21a.75.75%200%20011.06.02L10%2011.168l3.71-3.938a.75.75%200%20111.08%201.04l-4.25%204.5a.75.75%200%2001-1.08%200l-4.25-4.5a.75.75%200%2001.02-1.06z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E')] bg-[length:1.25rem] bg-[position:right_0.5rem_center] bg-no-repeat w-full max-w-xs";
+---
+
+{
+    tags.length > 0 && (
+        <div class="px-4 py-6 sm:px-8 lg:px-12 xl:px-19">
+            {/* Mobile: dropdown with label on same line */}
+            <div class="sm:hidden flex items-center gap-2">
+                <label for="tag-filter-select" class="font-barlow text-sm text-pearl/70 shrink-0">
+                    {m.filterLabel()}
+                </label>
+                <select id="tag-filter-select" class={selectClass} aria-label={m.filterLabel()} data-base-url={baseUrl}>
+                    <option value={baseUrl} selected={!activeTag}>
+                        {m.filterAll()}
+                    </option>
+                    {tags.map((tag) => (
+                        <option value={`${baseUrl}/tag/${tag}`} selected={tag === activeTag}>
+                            {toDisplayTag(tag)}
+                        </option>
+                    ))}
+                </select>
+            </div>
+
+            {/* Desktop: pill links with label on same line */}
+            <div class="hidden sm:flex flex-wrap items-center gap-2">
+                <a
+                    href={baseUrl}
+                    class:list={[
+                        pillBase,
+                        !activeTag ? "text-pearl font-semibold border-pearl/20" : pillInactive,
+                        !activeTag && segmentBg === "aa-purple-bg" && "bg-aa-purple-bg",
+                        !activeTag && segmentBg === "dd-blue-bg" && "bg-dd-blue-bg",
+                    ]}
+                >
+                    {m.filterAll()}
+                </a>
+                {tags.map((tag) => (
+                    <a
+                        href={`${baseUrl}/tag/${tag}`}
+                        class:list={[
+                            pillBase,
+                            tag === activeTag ? "text-pearl font-semibold border-pearl/20" : pillInactive,
+                            tag === activeTag && segmentBg === "aa-purple-bg" && "bg-aa-purple-bg",
+                            tag === activeTag && segmentBg === "dd-blue-bg" && "bg-dd-blue-bg",
+                        ]}
+                    >
+                        {toDisplayTag(tag)}
+                    </a>
+                ))}
+            </div>
+        </div>
+    )
+}
+
+<script>
+    document.querySelectorAll<HTMLSelectElement>("#tag-filter-select").forEach((select) => {
+        const baseUrl = select.dataset.baseUrl ?? "";
+        select.addEventListener("change", () => {
+            const value = select.value;
+            if (value && value.startsWith("/")) window.location.href = value;
+        });
+    });
+</script>

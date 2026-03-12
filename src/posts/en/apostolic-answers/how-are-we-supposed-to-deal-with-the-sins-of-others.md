@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vxKCOrm9f_E.webp
 lang: en
 title: "How are we supposed to deal with the sins of others?"
 pubDate: 2019-10-02T11:10:15
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>In our day to day lives, we are often put in situations where we have to deal with the failings of others within our families, our friendships, and even our communities. So how do we deal with those situations? How am I expected to act as a Christian when faced with the sins of another? Let's discuss all of this together.</p>

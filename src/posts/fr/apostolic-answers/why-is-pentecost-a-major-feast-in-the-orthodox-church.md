@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PPfUFOoxtY8.webp
 lang: fr
 title: "Pourquoi la Pentecôte est-elle une fête si importante au sein de l'Église orthodoxe?"
 pubDate: 2019-06-12T12:00:24.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

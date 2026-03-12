@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/OiOrMDA3UrQ.webp
 lang: fr
 title: 'Doit-on se confesser à Dieu, à un prêtre ou entre nous?'
 pubDate: 2023-10-18T12:00:47.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments", "repentance-and-confession"]
 author: "Père Gabriel Wissa"
 ---
 

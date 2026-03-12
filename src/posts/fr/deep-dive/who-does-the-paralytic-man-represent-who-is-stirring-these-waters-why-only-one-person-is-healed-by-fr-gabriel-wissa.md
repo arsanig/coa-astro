@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/CoRcqMJA9XA.webp
 lang: fr
 title: "Qui a-t-on voulu personnifier sous le couvert de l'homme paralytique?"
 pubDate: 2020-02-24T12:00:51
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

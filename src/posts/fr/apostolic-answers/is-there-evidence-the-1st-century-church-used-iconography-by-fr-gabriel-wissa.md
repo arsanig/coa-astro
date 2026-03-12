@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kmATf28ODBo.webp
 lang: fr
 title: "Existe-t-il des preuves que l'Église du siècle premier faisait usage d'icônes?"
 pubDate: 2020-11-25T11:27:41.000Z
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

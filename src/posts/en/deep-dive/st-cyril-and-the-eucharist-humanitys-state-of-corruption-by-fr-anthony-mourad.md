@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/bg3a6HaLoxQ.webp
 lang: en
 title: "St Cyril and the Eucharist: Humanity's State of Corruption."
 pubDate: 2021-03-16T21:37:37
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome once again to our video series where we are attempting to do a deep dive into the Eucharist and its understanding in the mindset of St. Cyril of Alexandria. Now if you have been attending with us, you have... are fully already aware of the fact that what we are trying to do is to try to understand what is the richness and the wealth and the beauty of the Eucharist in the mindset of St. Cyril of Alexandria and that we are attempting to try to do this by studying very specific aspects of how St. Cyril speaks of the Eucharist.</p>

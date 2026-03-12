@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/l3OetVPVkXg.webp
 lang: fr
 title: "En quoi l'Ascension du Christ est-elle si importante?"
 pubDate: 2017-05-23T21:37:35.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

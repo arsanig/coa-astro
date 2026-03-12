@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/CoRcqMJA9XA.webp
 lang: en
 title: "Who does the paralytic man represent? Who is stirring these waters? Why only one person is healed?"
 pubDate: 2020-02-24T12:00:51
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

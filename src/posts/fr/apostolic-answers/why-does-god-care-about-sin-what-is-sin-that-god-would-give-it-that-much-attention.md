@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yiDRtPCHz34.webp
 lang: fr
 title: "Pourquoi Dieu se préoccupe-t-il du péché?"
 pubDate: 2018-11-28T12:43:31.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

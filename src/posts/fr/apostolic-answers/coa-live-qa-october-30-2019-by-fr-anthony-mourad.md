@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/w8ZdRMglBuE.webp
 lang: fr
 title: "COA Live Q&A"
 pubDate: 2019-10-30T07:33:55
-tags: ["q&a"]
+tags: ["q&a", "live-q-a"]
 author: "Père Anthony Mourad"
 ---
 

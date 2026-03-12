@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/5w9bdKBJZT0.webp
 lang: en
 title: "Why are Repentance and Confession so crucial in our lives? - Part 1"
 pubDate: 2017-06-07T12:47:10
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

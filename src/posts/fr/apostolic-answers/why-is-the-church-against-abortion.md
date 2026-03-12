@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/cK4nb8xCHgc.webp
 lang: fr
 title: "Pourquoi l'Église s'oppose-t-elle à l'avortement?"
 pubDate: 2017-02-05T12:58:57.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PwzR0NopFnE.webp
 lang: fr
 title: 'Les icônes orthodoxes - Partie 1: Nos icônes font-elles l''objet d''un culte idolâtre?'
 pubDate: 2019-05-08T11:44:20.000Z
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

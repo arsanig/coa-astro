@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/K7WXi0l7amU.webp
 lang: fr
 title: "Qu'est-ce que la Prière de Jésus?"
 pubDate: 2018-05-08T10:19:41.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Père Anthony Mourad"
 ---
 

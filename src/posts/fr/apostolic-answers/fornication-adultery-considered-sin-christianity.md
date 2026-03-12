@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/g_e66QhQydw.webp
 lang: fr
 title: "Pourquoi la fornication et l'adultère sont-ils considérés comme des péchés au sein du christianisme?"
 pubDate: 2017-11-11T10:39:00.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Gabriel Wissa"
 ---
 

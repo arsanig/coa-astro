@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/_UQ3FRfh7bk.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 5, Partie 2: Son corps et son sang nous donnent la vie"
 pubDate: 2021-05-16T23:24:59
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue à la deuxième partie du cinquième volet sur l'Eucharistie. Si vous étiez des nôtres durant les différentes parties du quatrième volet, nous avons longuement expliqué que l'Eucharistie nous permet vraiment de revenir à un état non corrompu, laissant derrière la corruption qui nous habitait. L'Eucharistie, si on veut, est l'outil par excellence qui nous aide à atteindre cet état d'incorruptibilité.</p>

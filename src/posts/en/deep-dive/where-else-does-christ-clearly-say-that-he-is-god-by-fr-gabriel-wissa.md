@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dUFLuzQrFoc.webp
 lang: en
 title: "Where else does Christ CLEARLY say that HE IS GOD?"
 pubDate: 2020-07-10T12:00:44
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

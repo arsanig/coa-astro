@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zoz170ynjsQ.webp
 lang: fr
 title: 'Le sexe et la sexualité - Partie 1: Quel est le point de vue de l''Église copte orthodoxe en matière de sexe et de sexualité?'
 pubDate: 2017-04-05T01:02:14.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

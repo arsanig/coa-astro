@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/RstA8PeN6Ow.webp
 lang: en
 title: "Why women cannot become priests? Is the Church sexist?"
 pubDate: 2019-01-24T16:23:52
-tags: ["aa"]
+tags: ["aa", "male-and-female", "the-sacraments"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

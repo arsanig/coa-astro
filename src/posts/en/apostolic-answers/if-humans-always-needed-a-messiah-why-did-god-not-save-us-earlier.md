@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/l5r2cRtdFeE.webp
 lang: en
 title: "If humans always needed a Messiah, why did God not save us earlier?"
 pubDate: 2019-10-16T12:00:14
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Why was Christ incarnate on earth only 2000 years ago? Humanity, prior to the incarnation, was in desperate need of a saviour. Humans were corrupt and times were dark. So, why did He not come to save humanity earlier? Why wait till then? Today, we aim to answer these questions.</p>

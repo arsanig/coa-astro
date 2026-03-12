@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/x73i3FDNq8E.webp
 lang: en
 title: "How can God love unconditionally and still condemn people?"
 pubDate: 2019-12-09T12:00:49
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of Father and Son, the Holy Spirit, One God. Amen.</p>

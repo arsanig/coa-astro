@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/sXqWvyjSAJs.webp
 lang: fr
 title: "Quelle est la position du christianisme en matière de célibat?"
 pubDate: 2024-06-19T16:00:47
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Anthony Mourad"
 ---
 

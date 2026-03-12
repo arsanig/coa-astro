@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/7BLl1a33z9M.webp
 lang: fr
 title: "Comprendre la Pâque juive et ce qui est arrivé à Judas"
 pubDate: 2021-11-19T15:50:04
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

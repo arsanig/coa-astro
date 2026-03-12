@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/XRS26wlh5Ew.webp
 lang: en
 title: "What is the underlying meaning of Christ’s Palm Sunday entrance and the grain of wheat parable?"
 pubDate: 2021-02-23T11:25:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In Father and Son, the Holy Spirit, One God. Amen.</p>

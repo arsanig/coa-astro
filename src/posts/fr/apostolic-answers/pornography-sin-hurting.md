@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/fz_k9p_KrkI.webp
 lang: fr
 title: 'La pornographie - Partie 1: En quoi la pornographie est-elle un péché?'
 pubDate: 2017-08-16T00:07:15.000Z
-tags: ["aa"]
+tags: ["aa", "social", "pornography"]
 author: "Père Gabriel Wissa"
 ---
 

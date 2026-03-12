@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uP2uyWMY4-E.webp
 lang: fr
 title: "Explication du récit de la femme adultère"
 pubDate: 2020-06-26T16:38:33
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

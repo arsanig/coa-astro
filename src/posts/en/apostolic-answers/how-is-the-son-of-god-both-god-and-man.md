@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/GeRDL1rbxNY.webp
 lang: en
 title: "How is the Son of God both God and man?"
 pubDate: 2019-09-11T20:56:27
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>How can Christ raise the dead yet die Himself? How can He heal the sick and cast out demons yet weeps and sleeps? Who is He? God or man or both? And if both, how? Today's video discusses what the Coptic Orthodox Church believes in terms of Christology and how are these two natures found in the one person of Jesus Christ. This issue has been the center of controversy for centuries and hopefully this video can help shed some light on the matter.</p>

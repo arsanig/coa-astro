@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dJz_zkzGVD0.webp
 lang: fr
 title: "Pourquoi les Juifs voulaient-ils lapider le Christ?"
 pubDate: 2020-11-10T20:26:24
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Rx-uVSz_1UM.webp
 lang: en
 title: "Why a Vegan Fast? Why sometimes allow fish?"
 pubDate: 2021-03-03T11:09:37
-tags: ["aa"]
+tags: ["aa", "fasting", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>We have seen in our previous two videos on fasting why fasting is essential for a Christian. We have also seen how fasting must be both a spiritual and a bodily exercise. Today, we dive into the question of why the Orthodox Church practices a vegan fast. Why can’t each one simply chooses to abstain from foods we enjoy?</p>

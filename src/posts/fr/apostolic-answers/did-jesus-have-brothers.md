@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/aARWunaXdtE.webp
 lang: fr
 title: "Jésus avait-il des frères?"
 pubDate: 2024-01-17T12:00:31.000Z
-tags: ["aa"]
+tags: ["aa", "comparative-theology"]
 author: "Père Gabriel Wissa"
 ---
 

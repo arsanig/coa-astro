@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/17k0Kgb7SW4.webp
 lang: fr
 title: "Quelle est la signification du baptême offert par Jean?"
 pubDate: 2019-09-23T18:42:51
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

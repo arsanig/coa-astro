@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zcbQE3G9Sik.webp
 lang: en
 title: "What do I do if I am afraid to confess my sin to a priest?"
 pubDate: 2023-03-15T07:20:34
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "social"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever felt very anxious before a confession, wondering if the priest will judge you or be disappointed in you? Have you ever been tempted to think maybe it's better not to confess, because you were afraid that the priest might reveal your sin? Well, this video is done especially for you.</p>

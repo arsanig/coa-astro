@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1TMfquPeG1I.webp
 lang: fr
 title: "Pourquoi Dieu permet-il que des catastrophes naturelles se produisent?"
 pubDate: 2020-05-19T14:30:55.000Z
-tags: ["aa"]
+tags: ["aa", "why-pain-and-suffering", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

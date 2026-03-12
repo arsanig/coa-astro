@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kyBpL_t1OEc.webp
 lang: en
 title: "What were the Pharisees attempting by questioning the man born blind? Why were his parents afraid?"
 pubDate: 2020-10-04T21:14:54
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/_w3cEB1rOAI.webp
 lang: en
 title: "Why Should I Forgive When the Sin Committed Against Me Is So Great"
 pubDate: 2020-07-22T16:17:36
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Father Anthony Mourad"
 ---
 

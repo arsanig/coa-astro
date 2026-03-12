@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/481HLeZQgwg.webp
 lang: fr
 title: 'La Sainte Trinité - Partie 2: Où peut-on trouver des preuves de l''existence de la Sainte Trinité dans la Bible?'
 pubDate: 2018-03-07T11:08:26.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Père Anthony Mourad"
 ---
 

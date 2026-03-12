@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/p9MNfUmTo0U.webp
 lang: en
 title: "Is Christ preparing literal mansions in Heaven? How come I pray in His Name and He doesn’t answer?"
 pubDate: 2022-05-04T12:34:55
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PaT37XB9eXQ.webp
 lang: fr
 title: "Les héros de la foi orthodoxe - Partie 2: Saint Éphrem le Syrien"
 pubDate: 2018-10-10T16:00:05
-tags: ["aa"]
+tags: ["aa", "church-history-fathers", "heroes-of-orthodoxy"]
 author: "Père Anthony Mourad"
 ---
 

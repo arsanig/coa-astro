@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yrFQ9e9n-_g.webp
 lang: en
 title: "What is my role in being saved?"
 pubDate: 2018-11-07T12:39:32
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

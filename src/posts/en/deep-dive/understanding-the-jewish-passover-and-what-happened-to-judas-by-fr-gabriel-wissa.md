@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/7BLl1a33z9M.webp
 lang: en
 title: "Understanding the Jewish Passover and what happened to Judas."
 pubDate: 2021-11-19T15:50:04
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

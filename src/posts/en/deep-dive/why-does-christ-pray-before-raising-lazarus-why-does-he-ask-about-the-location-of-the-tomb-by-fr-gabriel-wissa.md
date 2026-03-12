@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/QrsaCorjTok.webp
 lang: en
 title: "Why does Christ pray before raising Lazarus? Why does He ask about the location of the tomb?"
 pubDate: 2020-12-21T14:08:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name Father and Son, the Holy Spirit, One God. Amen.</p>

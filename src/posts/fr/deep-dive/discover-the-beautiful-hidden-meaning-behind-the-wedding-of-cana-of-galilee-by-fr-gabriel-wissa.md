@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/i52fmnZhLpQ.webp
 lang: fr
 title: "Découvrez la belle symbolique inhérente aux noces de Cana en Galilée"
 pubDate: 2019-10-14T11:24:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

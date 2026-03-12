@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TJGVBHjO9ZM.webp
 lang: fr
 title: "Pourquoi Dieu a-t-il planté l'arbre de la connaissance du bien et du mal?"
 pubDate: 2018-12-13T11:54:05.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

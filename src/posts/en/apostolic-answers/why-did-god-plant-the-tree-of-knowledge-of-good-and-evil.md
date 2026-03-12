@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TJGVBHjO9ZM.webp
 lang: en
 title: "Why did God plant the Tree of Knowledge of Good and Evil?"
 pubDate: 2018-12-13T11:54:05
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

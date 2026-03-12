@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bqLNVVKceow.webp
 lang: fr
 title: "En quoi le baptême est-il si essentiel à mon salut?"
 pubDate: 2017-06-27T23:32:52.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments"]
 author: "Père Gabriel Wissa"
 ---
 

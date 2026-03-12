@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/i5-C92IjgV0.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 2, Partie 2: Les répercussions de la chute"
 pubDate: 2020-12-28T00:02:52
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue à cette deuxième partie du second volet de notre analyse détaillée de la Sainte Eucharistie, d'après la pensée de saint Cyrille d'Alexandrie. Si vous avez visionné la première partie de cette présentation, vous savez ce qu'on veut dire quand on dit que la mort est entrée dans le monde. Maintenant qu'on en est conscients, il est important de creuser un peu plus loin, afin de comprendre quelles ont été les répercussions de la chute sur l'être humain. Allons voir ensemble.</p>

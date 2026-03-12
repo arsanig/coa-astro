@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uV_1tjzAaeQ.webp
 lang: fr
 title: "Dieu peut-il se mettre en colère?"
 pubDate: 2018-10-31T15:38:04.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

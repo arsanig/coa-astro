@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/16GRHkPzXDs.webp
 lang: fr
 title: 'La vaccination, le passeport et les décrets gouvernementaux: Comment composer avec tout cela'
 pubDate: 2021-09-29T10:00:57.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

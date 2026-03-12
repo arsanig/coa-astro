@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/idBDBRQjBF8.webp
 lang: en
 title: "What is confession? - Part 2"
 pubDate: 2017-07-05T00:10:10
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Fr. Anthony Mourad"
 ---
 

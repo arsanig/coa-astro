@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/0aQ4CDEkmYk.webp
 lang: en
 title: "How FATHERS approached Science?"
 pubDate: 2021-02-17T05:56:17
-tags: ["aa"]
+tags: ["aa", "christianity-and-science", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Today, we continue our exploration on the topic of Christianity and Science. We have tackled so far in this series how a Christian should approach science. We have also discussed the Big Bang theory and how to approach the first chapter of Genesis. In the last two videos on Genesis 1, we have explored a recent Ancient Near Eastern approach to the text. Therefore, some have wondered how this interpretation fits with the Church Fathers’ understanding of Genesis 1. Are these two approaches compatible or not?</p>

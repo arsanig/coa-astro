@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uP2uyWMY4-E.webp
 lang: en
 title: "The adulterous woman’s story explained. Why does Christ write on the ground?"
 pubDate: 2020-06-26T16:38:33
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the name the Father and Son, the Holy Spirit, One God. Amen.</p>

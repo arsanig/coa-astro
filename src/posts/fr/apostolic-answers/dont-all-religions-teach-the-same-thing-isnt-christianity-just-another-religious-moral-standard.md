@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/SYUUG5QYatE.webp
 lang: fr
 title: "Les religions n'enseignent-elles pas toutes la même chose?"
 pubDate: 2021-01-27T11:46:32.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

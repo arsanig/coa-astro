@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Bdw4ckRMOaw.webp
 lang: fr
 title: "En quoi l'Eucharistie est-elle importante pour mon salut?"
 pubDate: 2017-02-14T21:12:57.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments"]
 author: "Père Gabriel Wissa"
 ---
 

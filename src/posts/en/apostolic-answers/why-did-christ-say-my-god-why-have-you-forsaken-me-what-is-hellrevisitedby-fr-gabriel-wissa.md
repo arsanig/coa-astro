@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/-_EsBs8ziFI.webp
 lang: en
 title: "Why did Christ say “My God, why have You forsaken Me?” What is hell?(revisited)"
 pubDate: 2021-11-10T11:27:33
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-hell"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Today, I am attempting, God willing, to answer 2 vital questions at the same time. These questions are: Why did Christ say on the cross My God, My God, why have you forsaken Me? and the second question is What is the principal characteristic of hell? In the process, we will have to define the meaning of two terms: the term life and the term death. We will answer these questions through the teachings of St. Athanasius, St. Gregory the Theologian and of St. Cyril of Alexandria—these are considered three of the most important theologians by the entire Christendom.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kxRwQO6f4vE.webp
 lang: fr
 title: "Jésus était-il un simple prophète ou le Dieu incarné?"
 pubDate: 2024-03-13T16:00:37
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Anthony Mourad"
 ---
 

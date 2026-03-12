@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BU_1693pSUo.webp
 lang: fr
 title: 'Comprendre le récit de la création - Partie 6: Le jardin d''Éden n''est pas ce que vous croyez'
 pubDate: 2024-03-06T12:00:46.000Z
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account"]
 author: "Père Gabriel Wissa"
 ---
 

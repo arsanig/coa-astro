@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/oU2n87dWrYE.webp
 lang: en
 title: "How Do I Handle Great Temptations and Difficulties During Troublesome Times"
 pubDate: 2020-09-09T19:57:22
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Father Anthony Mourad"
 ---
 

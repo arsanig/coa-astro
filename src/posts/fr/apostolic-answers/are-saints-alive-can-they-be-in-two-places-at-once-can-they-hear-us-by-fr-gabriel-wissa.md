@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/spxCFyG9qHU.webp
 lang: fr
 title: "À propos des saints"
 pubDate: 2022-04-06T09:39:40
-tags: ["aa"]
+tags: ["aa", "intercession-of-saints", "soteriology", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

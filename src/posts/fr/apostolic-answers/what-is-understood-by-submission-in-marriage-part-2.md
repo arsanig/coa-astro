@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/8LgBzU4qq7Q.webp
 lang: fr
 title: 'La soumission dans le mariage - Partie 2: Qu''est-ce que la soumission implique dans le mariage d''aujourd''hui?'
 pubDate: 2017-02-14T21:53:28.000Z
-tags: ["aa"]
+tags: ["aa", "social", "male-and-female", "submission-in-marriage"]
 author: "Père Anthony Mourad"
 ---
 

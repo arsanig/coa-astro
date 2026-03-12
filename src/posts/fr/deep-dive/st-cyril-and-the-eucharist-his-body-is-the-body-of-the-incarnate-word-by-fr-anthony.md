@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/sttcQ1-XhOg.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 3, Partie 2: Son corps est le celui du Verbe incarné"
 pubDate: 2021-02-15T11:21:57
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, soyez les bienvenus à cette deuxième partie du troisième volet de notre analyse détaillée qui a pour but de comprendre l'Eucharistie d'après la pensée de notre père parmi les saints, saint Cyrille d'Alexandrie. Si vous avez porté attention à la première partie de la présentation 3, nous avons parlé de la christologie de saint Cyrille et la raison qui nous a poussés à le faire, soit de nous demander comment il conçoit Jésus-Christ, c'est qu'il croit que, sur le plan théologique, le Seigneur Jésus-Christ incarné est étroitement lié à l'Eucharistie.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PPfUFOoxtY8.webp
 lang: en
 title: "Why is Pentecost a major feast in the Orthodox Church?"
 pubDate: 2019-06-12T12:00:24
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>So we have just spent 40 days celebrating the feast of the Resurrection. And just recently, we celebrated the feast of the Ascension. Now, just 10 days later, we're about to celebrate yet another feast called Pentecost. And if you've ever wondered why Pentecost is a major feast in the Orthodox Church, stick around and we'll look at it together.</p>

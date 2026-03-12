@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Nbjr7lxaDpM.webp
 lang: en
 title: "What is the meaning of Christ being the door by which the sheep enter?"
 pubDate: 2020-10-19T13:13:16
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

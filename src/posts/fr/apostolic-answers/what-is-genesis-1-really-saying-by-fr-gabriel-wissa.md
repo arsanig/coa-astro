@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bIu0ZxQj2RY.webp
 lang: fr
 title: 'Comprendre le récit de la création - Partie 2: Quel est le vrai message que véhicule le chapitre 1 de la Genèse?'
 pubDate: 2020-02-26T12:00:30.000Z
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yrFQ9e9n-_g.webp
 lang: fr
 title: "Quel rôle dois-je jouer dans l'obtention de mon salut?"
 pubDate: 2018-11-07T12:39:32.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

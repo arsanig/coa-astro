@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Uz2IJTG-PLE.webp
 lang: en
 title: "Did God harden the Jews’ hearts and then judged them? Why was Christ crucified rather than stoned?"
 pubDate: 2021-03-08T11:59:00
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, one God. Amen.</p>

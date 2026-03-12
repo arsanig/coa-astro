@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bjR_MY7fURA.webp
 lang: en
 title: "Why is the Bible, the story of salvation & love, filled with violence? (Violence in the OT - part 2)"
 pubDate: 2017-07-31T12:40:51
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

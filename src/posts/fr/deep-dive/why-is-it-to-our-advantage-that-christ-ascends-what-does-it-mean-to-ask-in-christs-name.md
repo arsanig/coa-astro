@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lBKcSpu0ag0.webp
 lang: fr
 title: "Pourquoi est-il dans notre intérêt que le Christ monte au ciel?"
 pubDate: 2023-11-06T12:00:02
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

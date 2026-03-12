@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TTS9REPmHb4.webp
 lang: en
 title: "Who are the heroes of Orthodoxy? - St. Athanasius of Alexandria"
 pubDate: 2017-03-01T11:51:55
-tags: ["aa"]
+tags: ["aa", "church-history-fathers", "heroes-of-orthodoxy"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

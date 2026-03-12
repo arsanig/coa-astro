@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lq0dNAFvYeA.webp
 lang: fr
 title: "Pourquoi le Christ s'est-il fait baptiser et a-t-il reçu l'Esprit Saint?"
 pubDate: 2018-11-14T12:22:23.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

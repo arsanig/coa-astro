@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/pDjXYGYJZlU.webp
 lang: fr
 title: "Puis-je rechercher la vérité et continuer de suivre les humains?"
 pubDate: 2020-06-12T12:00:15
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

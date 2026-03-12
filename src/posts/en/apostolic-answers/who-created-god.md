@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/w_O8Npf8_gA.webp
 lang: en
 title: "Who Created God?"
 pubDate: 2017-03-07T22:04:17
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

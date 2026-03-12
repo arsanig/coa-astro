@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lBKcSpu0ag0.webp
 lang: en
 title: "Why is it to our advantage that Christ ascends? What does it mean to ask in Christ’s name?"
 pubDate: 2023-11-06T12:00:02
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

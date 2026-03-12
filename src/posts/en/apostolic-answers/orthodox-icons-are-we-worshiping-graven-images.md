@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PwzR0NopFnE.webp
 lang: en
 title: "Orthodox Icons: Are we worshiping graven images?"
 pubDate: 2019-05-08T11:44:20
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever walked into an Orthodox church before? Have you ever seen how the church is filled with icons all around? Now, are these icons examples of graven images that the Lord commands us to stay away from in His book of Exodus? Certainly not! Let's investigate together and see what the Church really believes about icons and iconography.</p>

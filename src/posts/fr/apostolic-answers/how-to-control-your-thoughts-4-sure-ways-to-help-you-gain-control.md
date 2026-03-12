@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hbBQSxhSaug.webp
 lang: fr
 title: "Comment contrôler vos pensées"
 pubDate: 2019-02-20T12:00:39.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/0AEZMwTyQPs.webp
 lang: fr
 title: "Comment bénéficier de la croix sur le plan pratique"
 pubDate: 2017-04-11T20:25:15.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

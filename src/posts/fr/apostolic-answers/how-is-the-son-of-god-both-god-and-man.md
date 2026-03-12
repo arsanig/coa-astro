@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/GeRDL1rbxNY.webp
 lang: fr
 title: "Comment le Fils de Dieu peut-il être à la fois divin et humain?"
 pubDate: 2019-09-11T20:56:27.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/yB5k4fxJ8q4.webp
 lang: en
 title: "St Cyril and the Eucharist: Created for Union and Incorruption"
 pubDate: 2020-11-15T21:19:51
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to what is the second part of the first lecture of our deep dive into the understanding of the Holy Eucharist through the mindset of St. Cyril of Alexandria. If you've attended the first part with us, you have heard us speak about the importance of understanding what God's intention was for the human being and so we spoke about the primordial man and how it is that God created us with very specific intentions for us.</p>

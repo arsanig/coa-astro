@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bIu0ZxQj2RY.webp
 lang: en
 title: "What is Genesis 1 REALLY saying?"
 pubDate: 2020-02-26T12:00:30
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Since the Enlightment period and its associated scientific discoveries, way too many people have spent countless hours comparing the Bible with contemporary science or today’s science. Many books have been written on this subject. Some aim at reconciling between Scripture and science, while others attempt to refute either side. Today, many Christians still repeatedly pin the two against each other in their search for truths regarding vital issues like the Big Bang, evolution theories, etc. And of course, Genesis 1 is at the heart of this battle. But is this the correct approach to Genesis 1?</p>

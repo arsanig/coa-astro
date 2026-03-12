@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/9MeGNJU0iyk.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 6: Dieu souhaitait-il la guerre dans l''Ancien Testament?'
 pubDate: 2019-05-15T11:30:56.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

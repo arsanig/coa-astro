@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/5CV-0v7LKv4.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as a Means of Healing."
 pubDate: 2021-03-28T22:36:12
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome to the second part of our fourth lecture on our deep dive into the understanding of the Eucharist through the mindset and through the mind and teaching of St. Cyril of Alexandria. In this lecture, what we've been discussing is the subject of corruptibility. And so, so far, we've had the discussion regarding humanity's state of corruption and what it has done to us and how it is that we've inherited corruption and death. Today, in this second part of the fourth lecture, we will be speaking specifically as to the point of how the Eucharist is really a means of healing to the state of corruption that we are in. Let's go ahead and deep dive together.</p>

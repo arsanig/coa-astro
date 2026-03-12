@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Mod_rXtCeHw.webp
 lang: fr
 title: 'Les stades de la tentation et de la dépendance - Partie 1: La provocation, la perturbation et le couplage'
 pubDate: 2019-03-20T12:00:01.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

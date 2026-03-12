@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bZ3CyErWCOo.webp
 lang: en
 title: "Is sin leading you to despair? Restore your hope with God."
 pubDate: 2018-12-30T12:56:00
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

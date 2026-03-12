@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/qDyzmbcfzIM.webp
 lang: en
 title: "How do I live a life of resurrection?"
 pubDate: 2017-04-18T23:21:26
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

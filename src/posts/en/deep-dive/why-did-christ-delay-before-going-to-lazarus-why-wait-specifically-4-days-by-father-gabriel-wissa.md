@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EtmFO8zc1Tg.webp
 lang: en
 title: "Why did Christ delay before going to Lazarus? Why wait specifically 4 days?"
 pubDate: 2020-12-09T08:29:37
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

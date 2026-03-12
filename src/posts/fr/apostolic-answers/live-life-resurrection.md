@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/qDyzmbcfzIM.webp
 lang: fr
 title: "Comment puis-je vivre une vie de résurrection?"
 pubDate: 2017-04-18T23:21:26.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

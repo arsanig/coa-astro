@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/nHBqwYumtpg.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Very Body of the Lord."
 pubDate: 2021-02-28T20:55:43
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome to a third part of the third lecture in our deep dive of St. Cyril of Alexandria's understanding of the Holy Eucharist. If you've been paying attention with us on this third lecture, we began by discussing St. Cyril's Christology. We asked the question of Who is Jesus Christ? We then moved on to try to understand how it is that the body of the Lord Jesus Christ is the very body of the Word incarnate; it was not somebody else's body.</p>

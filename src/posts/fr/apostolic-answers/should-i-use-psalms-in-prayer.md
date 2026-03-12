@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MX2hNk8P-YU.webp
 lang: fr
 title: "Les psaumes peuvent-ils servir de prières?"
 pubDate: 2017-02-22T11:14:36.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Père Gabriel Wissa"
 ---
 

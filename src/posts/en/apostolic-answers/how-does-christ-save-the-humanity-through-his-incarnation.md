@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/pv3Gal6qbCY.webp
 lang: en
 title: "How does Christ save the humanity through His Incarnation?"
 pubDate: 2021-11-24T11:44:27
-tags: ["aa"]
+tags: ["aa", "soteriology", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>In our previous video, we examined how the Orthodox Church understands and approaches the discussion of Soteriology, which is the theology surrounding salvation. In today's video, we discuss how the different events of the ministry of Our Lord Jesus Christ each contribute to the salvation of all human beings. Let's take a look together.</p>

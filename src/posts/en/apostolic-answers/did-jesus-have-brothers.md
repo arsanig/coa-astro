@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/aARWunaXdtE.webp
 lang: en
 title: "Did Jesus have brothers?"
 pubDate: 2024-01-17T12:00:31
-tags: ["aa"]
+tags: ["aa", "comparative-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Did Jesus have biological brothers? In Matthew 1:25, it is written that:</p>

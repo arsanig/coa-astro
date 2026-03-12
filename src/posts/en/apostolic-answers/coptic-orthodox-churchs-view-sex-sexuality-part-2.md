@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JuKVOL1Am-M.webp
 lang: en
 title: "What is the Coptic Orthodox Church’s view on Sex and Sexuality?- Part 2"
 pubDate: 2017-04-25T17:33:05
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Fr. Anthony Mourad"
 ---
 

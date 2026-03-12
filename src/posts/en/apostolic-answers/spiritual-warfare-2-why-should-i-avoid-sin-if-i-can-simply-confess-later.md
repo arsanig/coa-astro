@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zcbQE3G9Sik.webp
 lang: en
 title: "Spiritual Warfare 2 - Why Should I Avoid Sin If I Can Simply Confess Later"
 pubDate: 2023-03-15T16:00:43
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "social"]
 author: "Father Gabriel Wissa"
 ---
 

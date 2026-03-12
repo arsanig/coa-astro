@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IfFbLaj1suc.webp
 lang: fr
 title: 'Les passions - Partie 4: Que sont la cupidité et l''avarice?'
 pubDate: 2017-08-23T14:11:20.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

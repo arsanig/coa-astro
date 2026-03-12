@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/APIds8Ls1i0.webp
 lang: fr
 title: "Comment l'Eucharistie introduit-elle la vie en nous?"
 pubDate: 2020-05-22T16:45:59
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

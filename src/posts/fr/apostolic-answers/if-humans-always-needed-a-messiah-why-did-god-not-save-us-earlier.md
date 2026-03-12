@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/l5r2cRtdFeE.webp
 lang: fr
 title: 'Si l''humanité a toujours eu besoin d''un messie, pourquoi Dieu ne nous a-t-il pas sauvés plus tôt?'
 pubDate: 2019-10-16T12:00:14.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

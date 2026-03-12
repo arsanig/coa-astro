@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/7JyiCMuAmOc.webp
 lang: en
 title: "What is the ORTHODOX understanding of the RANSOM?"
 pubDate: 2022-04-20T10:11:11
-tags: ["aa"]
+tags: ["aa", "the-cross", "soteriology", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Do we believe in a ransom? Did the Father pour his wrath on the Son? Is God literally wrathful? Did he turn his face away from the Son because of sin? These are all vital questions and unfortunately, there are too many diverse and irreconcilable answers out there. so which one is it?</p>

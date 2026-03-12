@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kyBpL_t1OEc.webp
 lang: fr
 title: "Qu'est-ce les pharisiens essayaient de faire en interrogeant l'homme qui était aveugle de naissance?"
 pubDate: 2020-10-04T21:14:54
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

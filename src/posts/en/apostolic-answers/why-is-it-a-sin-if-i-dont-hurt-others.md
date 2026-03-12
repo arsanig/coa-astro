@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/CeT0uNF8LB0.webp
 lang: en
 title: "WHY is it a SIN if I don’t HURT OTHERS?"
 pubDate: 2022-11-29T12:32:26
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kY_ccYUspeM.webp
 lang: fr
 title: 'Si Dieu sait d''avance ce qui va se passer, pourquoi créer des gens qui iront en enfer?'
 pubDate: 2017-08-30T00:35:50.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "on-hell"]
 author: "Père Gabriel Wissa"
 ---
 

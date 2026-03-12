@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bjR_MY7fURA.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 2: Pourquoi la Bible, histoire du salut et de l''amour, est-elle remplie de violence?'
 pubDate: 2017-07-31T12:40:51.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

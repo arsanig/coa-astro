@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ngdjg3tfzx0.webp
 lang: en
 title: "How can I be a faithful Christian in such a “politically correct” society?"
 pubDate: 2017-11-15T13:47:10
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

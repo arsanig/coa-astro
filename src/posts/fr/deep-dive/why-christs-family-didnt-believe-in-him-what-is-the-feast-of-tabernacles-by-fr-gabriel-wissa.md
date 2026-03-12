@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/2NX5wR1aKCo.webp
 lang: fr
 title: "Découvrons pourquoi la famille du Christ ne croyait pas en lui"
 pubDate: 2020-06-04T21:38:21
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

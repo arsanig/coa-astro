@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/s2RN5aGqrhs.webp
 lang: en
 title: "What is our ultimate Christian objective? How to live a genuine Christian life?"
 pubDate: 2020-06-03T12:00:13
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "orthodox-spirituality", "on-the-holy-trinity"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>What is our ultimate Christian objective? Is it heaven? But what is heaven? Is it spending time in prayer or is it good deeds? Not really. Our ultimate objective is much greater. Understanding it will transform the life of any serious Christian.</p>

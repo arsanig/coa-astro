@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/i5-C92IjgV0.webp
 lang: en
 title: "St Cyril and the Eucharist: The Effects of the Fall"
 pubDate: 2020-12-28T00:02:52
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome to what is now the second part of the second lecture in our deep dive of St. Cyril of Alexandria's understanding of the Holy Eucharist. Now if you've watched the first part of this second lecture, you're aware of what it is that we mean when we say that death has entered into the world. Now that we understand that death has entered into the world, it's important for us to be able to deep dive and to understand what were the actual effects of the fall on the human being. So let's go ahead and take a look at that together.</p>

@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/I8QdtuC1LEI.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist as Life Giving."
 pubDate: 2021-04-26T08:29:04
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to the fifth part of our lectures on the series of the Holy Eucharist in the mind of St. Cyril of Alexandria. We have been attempting to do a deep dive now into the understanding and the mystery, the beauty and the wealth of the Holy Eucharist through the lens and the understanding and the teachings of our holy father among the saints, St. Cyril of Alexandria.</p>

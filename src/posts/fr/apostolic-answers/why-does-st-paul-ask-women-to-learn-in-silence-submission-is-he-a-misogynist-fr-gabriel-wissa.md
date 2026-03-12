@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/GEAP-8K77zQ.webp
 lang: fr
 title: "Pourquoi saint Paul demande-t-il aux femmes d'apprendre dans le silence et la soumission?"
 pubDate: 2020-06-17T16:44:07.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "male-and-female"]
 author: "Père Gabriel Wissa"
 ---
 

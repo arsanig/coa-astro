@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/jHbKMzLmZ4k.webp
 lang: en
 title: "Has the Church Become Woke"
 pubDate: 2024-04-24T16:00:36
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Father Gabriel Wissa"
 ---
 

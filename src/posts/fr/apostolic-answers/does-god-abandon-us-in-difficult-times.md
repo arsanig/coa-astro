@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yC3NjlVyUXc.webp
 lang: fr
 title: "Dieu nous abandonne-t-il dans les moments difficiles?"
 pubDate: 2022-11-23T12:13:07.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

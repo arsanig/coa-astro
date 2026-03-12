@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/XRS26wlh5Ew.webp
 lang: fr
 title: "Quelle signification peut-on donner à la parabole du grain de blé et à l'arrivée du Christ lors du Dimanche des Rameaux?"
 pubDate: 2021-02-23T11:25:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

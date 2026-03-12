@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/sJq40Yo_QGM.webp
 lang: fr
 title: 'On dit que la femme est l''aide de l''homme, mais qu''est-ce que ça signifie au juste?'
 pubDate: 2019-01-23T12:00:05.000Z
-tags: ["aa"]
+tags: ["aa", "male-and-female"]
 author: "Père Gabriel Wissa"
 ---
 

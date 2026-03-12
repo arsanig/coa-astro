@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/eDCraw1O08U.webp
 lang: fr
 title: "Quelqu'un confesse un meurtre: Quel est le devoir du prêtre en pareil cas?"
 pubDate: 2025-04-25T16:14:16
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Père Gabriel Wissa"
 ---
 

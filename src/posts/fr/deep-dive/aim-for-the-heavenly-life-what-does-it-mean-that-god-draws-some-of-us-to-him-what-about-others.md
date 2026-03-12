@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/GxjRJfiej7Y.webp
 lang: fr
 title: "Aspirez à la vie céleste"
 pubDate: 2020-05-15T13:05:57
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

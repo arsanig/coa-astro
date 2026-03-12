@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/jLndZqUhPss.webp
 lang: fr
 title: "Comment peut-on réellement servir les autres?"
 pubDate: 2020-02-10T12:00:57
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

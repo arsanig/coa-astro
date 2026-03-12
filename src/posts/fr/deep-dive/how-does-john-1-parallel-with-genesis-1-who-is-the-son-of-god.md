@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZZFTkG_Tklo.webp
 lang: fr
 title: "En quoi le chapitre 1 de Jean se compare-t-il au chapitre 1 de la Genèse?"
 pubDate: 2019-09-10T11:45:27
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

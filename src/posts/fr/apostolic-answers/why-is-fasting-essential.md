@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4IG5UuuI0w8.webp
 lang: fr
 title: "Pourquoi est-il essentiel de pratiquer le jeûne?"
 pubDate: 2017-02-14T21:46:30.000Z
-tags: ["aa"]
+tags: ["aa", "fasting", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

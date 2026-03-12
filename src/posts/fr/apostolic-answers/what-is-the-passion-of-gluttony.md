@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vob1Ik9_Wc4.webp
 lang: fr
 title: 'Les passions - Partie 3: Qu''est-ce que la gourmandise?'
 pubDate: 2017-05-10T00:45:09.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

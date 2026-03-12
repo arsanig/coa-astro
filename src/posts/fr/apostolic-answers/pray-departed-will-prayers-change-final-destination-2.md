@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yt5GYzm9tQQ.webp
 lang: fr
 title: "Pourquoi prier pour les défunts?"
 pubDate: 2018-02-01T10:12:54.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

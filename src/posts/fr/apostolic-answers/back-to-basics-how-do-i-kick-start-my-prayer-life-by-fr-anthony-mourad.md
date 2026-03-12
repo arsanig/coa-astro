@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EuljDKJO-As.webp
 lang: fr
 title: 'Retour aux sources - Partie 1: Comment donner le coup d''envoi à ma vie de prière?'
 pubDate: 2019-11-13T12:00:58.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

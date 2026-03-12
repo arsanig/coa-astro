@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/72IbuVNkDtg.webp
 lang: fr
 title: "Comment devrait-on composer avec un pécheur?"
 pubDate: 2020-01-27T12:00:17
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

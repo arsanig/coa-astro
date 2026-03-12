@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BMqxlegakc0.webp
 lang: fr
 title: 'Les passions - Partie 8: Comment composer avec cette passion de l''esprit que l''on appelle l''acédie?'
 pubDate: 2023-07-11T23:04:16.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Anthony Mourad"
 ---
 

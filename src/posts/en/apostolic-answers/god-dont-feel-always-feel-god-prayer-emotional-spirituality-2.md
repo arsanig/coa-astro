@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MtnFd5SoZuM.webp
 lang: en
 title: "God, where are you? I don’t feel you! Should I always feel God in prayer? What is emotional spirituality?"
 pubDate: 2018-01-16T23:16:21
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

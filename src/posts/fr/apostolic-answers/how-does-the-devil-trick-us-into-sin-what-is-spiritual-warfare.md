@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ulDATE0vJlQ.webp
 lang: fr
 title: 'La guerre spirituelle - Partie 1: Comment le diable s''y prend-il pour nous entraîner dans le péché?'
 pubDate: 2018-05-16T01:08:55.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

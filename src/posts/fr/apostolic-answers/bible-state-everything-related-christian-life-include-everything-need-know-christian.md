@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kQG8u-CBgxs.webp
 lang: fr
 title: "Est-ce que la Bible fait état de tout ce qui se rapporte à la vie chrétienne?"
 pubDate: 2017-09-27T12:21:52.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-bible"]
 author: "Père Gabriel Wissa"
 ---
 

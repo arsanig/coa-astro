@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/YPOz4TZWYS0.webp
 lang: fr
 title: "Nos préoccupations matérielles nous éloignent-elles vraiment de Dieu?"
 pubDate: 2020-04-24T15:26:12
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>

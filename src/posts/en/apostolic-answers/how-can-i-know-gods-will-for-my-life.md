@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kk9GXFspvME.webp
 lang: en
 title: "How can I know God’s will for my life?"
 pubDate: 2019-03-27T11:07:37
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>How can I know God’s will for my life? Why is God’s will so difficult to understand and how do I recognize it? Am I supposed to feel something? It is true that the will of God is sometimes difficult to understand, but is that because He doesn’t want to reveal it to us? He does want to reveal it! The problem is in our incorrect approach in understanding God’s will. In this video, I will explain what is it that most people do wrong and how we can redirect our approach.</p>

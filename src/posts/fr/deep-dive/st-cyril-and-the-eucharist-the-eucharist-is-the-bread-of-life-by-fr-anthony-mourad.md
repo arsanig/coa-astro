@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/dR-PL1wzEiA.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 5, Partie 3: L'Eucharistie est le pain de vie"
 pubDate: 2021-05-30T23:31:52
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, bienvenue à la troisième partie du cinquième volet de cette série. Jusqu'à maintenant, nous avons beaucoup centré notre attention sur le fait que l'Eucharistie constitue le remède à de nombreuses maladies spirituelles et qu'elle vient ramener l'être humain à ce qu'il devrait être. Nous avons également vu que l'Eucharistie nous rend incorruptibles et qu'elle nous donne la vie.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/B1g-opRB4nc.webp
 lang: en
 title: "A Call for Christian Denominations to Love One Another"
 pubDate: 2024-04-13T16:00:06
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Fr. Gabriel Wissa"
 ---
 

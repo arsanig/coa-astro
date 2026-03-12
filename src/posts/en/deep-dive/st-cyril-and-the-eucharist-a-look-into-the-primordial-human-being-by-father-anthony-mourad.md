@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/clywSNhPLFw.webp
 lang: en
 title: "St Cyril and the Eucharist: A look into the Primordial Human being!"
 pubDate: 2020-11-02T10:08:26
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, it is a blessing for me to be with you here today. If you are joining in, it is because you know that this is going to be the very first lecture in a new series of lectures where we will begin to investigate together and deep dive into the mystery of the Eucharist.</p>

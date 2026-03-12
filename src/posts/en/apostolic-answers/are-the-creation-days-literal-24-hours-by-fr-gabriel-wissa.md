@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1DSA37J3Pwo.webp
 lang: en
 title: "Are the creation days literal 24 hours?"
 pubDate: 2020-02-12T12:00:22
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Should the seven days of creation in Genesis 1 be considered literal 24-hour days? Is the earth young, meaning only a few thousand years old? How does all of this fit with the Big Bang theory?</p>

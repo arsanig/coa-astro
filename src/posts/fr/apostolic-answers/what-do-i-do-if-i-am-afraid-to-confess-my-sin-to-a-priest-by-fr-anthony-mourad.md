@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zcbQE3G9Sik.webp
 lang: fr
 title: "Que faire si je crains de me confesser à un prêtre?"
 pubDate: 2023-03-15T07:20:34.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "social"]
 author: "Père Anthony Mourad"
 ---
 

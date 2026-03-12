@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bGtVZKvpShU.webp
 lang: fr
 title: 'La résurrection du Christ - Partie 1: La résurrection du Christ est-elle un fait réel?'
 pubDate: 2017-05-16T22:20:03.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "evidence-of-the-resurrection-of-christ"]
 author: "Père Gabriel Wissa"
 ---
 

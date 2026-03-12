@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hpwR2mVwK-Y.webp
 lang: fr
 title: "Le changement de nom de Simon et Nathanaël au pied de l'arbre"
 pubDate: 2019-09-30T18:48:33
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/j-cKk0FWid4.webp
 lang: fr
 title: "Pourquoi le Christ dit: « Le Père m'a enseigné »"
 pubDate: 2020-07-03T12:00:47
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

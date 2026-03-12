@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZyVFEE_BOnQ.webp
 lang: en
 title: "As Christians, how ought we to deal with today’s society’s moral decline?"
 pubDate: 2018-03-14T11:19:02
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

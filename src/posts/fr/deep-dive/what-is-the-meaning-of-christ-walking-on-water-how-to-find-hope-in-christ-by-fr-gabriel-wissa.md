@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/VAfvS1FtYGU.webp
 lang: fr
 title: "Quelle signification peut-on donner au fait que Christ ait marché sur l'eau?"
 pubDate: 2020-05-08T15:26:20
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

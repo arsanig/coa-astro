@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vXejyinn-jc.webp
 lang: en
 title: "Why does God order war in the Old Testament? What about His command not to murder?"
 pubDate: 2020-01-29T12:00:15
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Why does God order war in the Old Testament? Doesn’t that contradict His command not to murder? Why did He order the annihilation of certain nations? Why did He choose to kill them by the sword? In this video, we will attempt to answer these questions and touch on others.</p>

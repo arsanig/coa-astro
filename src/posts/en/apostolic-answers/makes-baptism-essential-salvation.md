@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bqLNVVKceow.webp
 lang: en
 title: "What makes Baptism so essential for my salvation?"
 pubDate: 2017-06-27T23:32:52
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

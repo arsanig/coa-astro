@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/5EThvmKSGc4.webp
 lang: fr
 title: "Comment le monachisme est-il apparu?"
 pubDate: 2017-02-14T21:31:14.000Z
-tags: ["aa"]
+tags: ["aa", "church-history-fathers"]
 author: "Père Anthony Mourad"
 ---
 

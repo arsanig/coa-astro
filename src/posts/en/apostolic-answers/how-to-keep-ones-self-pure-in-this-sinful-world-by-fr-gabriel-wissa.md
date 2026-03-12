@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/WEPJuym_tpc.webp
 lang: en
 title: "How to keep one’s self pure in this sinful world?"
 pubDate: 2021-03-30T18:38:52
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>It is generally no easy task to be a Christian in this world. And, in this last decade, it has become increasingly more difficult. Humanity has been giving in to oblivious ideas and the morality level is rapidly declining, causing many to stumble and giving in to their passions. As Christians, we are not surprised; Scripture does warn us of this eventuality. Matthew 24 says:</p>

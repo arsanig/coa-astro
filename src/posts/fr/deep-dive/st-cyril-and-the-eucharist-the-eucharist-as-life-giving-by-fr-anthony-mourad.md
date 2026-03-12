@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/I8QdtuC1LEI.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 5, Partie 1: L'Eucharistie et sa nature vivifiante"
 pubDate: 2021-04-26T08:29:04
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, soyez les bienvenus au cinquième volet de la série consacrée à la sainte Eucharistie d'après la pensée de Saint Cyrille d'Alexandrie. Dans cette série, nous avons entrepris d'effectuer une analyse détaillée de la façon de concevoir le mystère, la beauté et la richesse de la sainte Eucharistie, en nous basant sur l'interprétation, la compréhension et l'enseignement que nous a transmis saint Cyrille d'Alexandrie, notre saint père parmi les saints.</p>

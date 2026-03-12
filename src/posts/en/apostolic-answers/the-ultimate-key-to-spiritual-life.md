@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/OjRjXKKC8aY.webp
 lang: en
 title: "The Ultimate Key to Spiritual Life"
 pubDate: 2020-09-16T16:00:06
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Father Gabriel Wissa"
 ---
 

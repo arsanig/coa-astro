@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Jv26SORdVew.webp
 lang: fr
 title: 'Back to Basics: How do I build a connection with Holy Scripture?'
 pubDate: 2019-12-11T12:00:47.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

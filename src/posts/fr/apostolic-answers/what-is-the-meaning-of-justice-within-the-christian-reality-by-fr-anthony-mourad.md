@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Sz5S1nkFTxA.webp
 lang: fr
 title: 'La justice sociale - Partie 2: Que représente la justice au sein de la vie chrétienne?'
 pubDate: 2021-06-09T00:28:50.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

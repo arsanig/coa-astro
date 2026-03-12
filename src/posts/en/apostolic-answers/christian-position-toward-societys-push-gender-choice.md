@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ywCKQvuhips.webp
 lang: en
 title: "What should be our Christian position toward society’s push for gender choice?"
 pubDate: 2018-02-14T15:08:53
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "male-and-female"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

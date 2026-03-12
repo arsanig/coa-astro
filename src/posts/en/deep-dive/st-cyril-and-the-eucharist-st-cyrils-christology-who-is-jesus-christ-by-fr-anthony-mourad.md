@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/ilt74TK6M1k.webp
 lang: en
 title: "St Cyril and the Eucharist: St Cyril's Christology - Who is Jesus Christ?"
 pubDate: 2021-01-31T02:47:20
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome to the third part of this series entitled The Eucharist in the mind of St. Cyril of Alexandria. Now, if you've attended the last couple of lectures, you are fully aware of what it is that we are trying to do here. You have seen how it is that it is important for us to speak first and foremost of the understanding of the Eucharistic theology in the mind of St. Cyril by first understanding what the human condition was. And we spoke about this; we spoke about how it is that the Lord had a very specific intention for the human being when He created us in His image and in His likeness.</p>

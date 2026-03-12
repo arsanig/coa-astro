@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/UwxDQRIkh1c.webp
 lang: fr
 title: "Les martyrs de Libye: Le récit inspirant d'un triomphe, et non d'une tragédie"
 pubDate: 2025-02-19T16:07:31
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BU_1693pSUo.webp
 lang: en
 title: "The Garden of Eden is NOT What You Think It is"
 pubDate: 2024-03-06T12:00:46
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

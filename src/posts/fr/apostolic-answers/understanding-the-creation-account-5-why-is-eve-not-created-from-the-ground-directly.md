@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/mZu-3SI9dU4.webp
 lang: fr
 title: "Comprendre le récit de la création - Partie 5: Pourquoi Ève n'a-t-elle pas été créée directement à partir de la poussière?"
 pubDate: 2023-03-24T16:00:29
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

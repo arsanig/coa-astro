@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/B6Rx7EqslRk.webp
 lang: fr
 title: "Un parallèle intéressant à faire entre la Fête des Tabernacles et le Christ"
 pubDate: 2020-06-19T20:56:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>

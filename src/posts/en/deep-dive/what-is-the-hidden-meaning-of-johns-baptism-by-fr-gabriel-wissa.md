@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/17k0Kgb7SW4.webp
 lang: en
 title: "What is the hidden meaning of John’s baptism?"
 pubDate: 2019-09-23T18:42:51
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

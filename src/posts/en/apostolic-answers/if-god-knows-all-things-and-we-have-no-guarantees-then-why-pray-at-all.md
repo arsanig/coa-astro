@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/8u93I49hmyg.webp
 lang: en
 title: "If God knows all things, and we have no guarantees, then why pray at all?"
 pubDate: 2020-11-04T12:08:50
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>It seems to me like God doesn’t always come through when I pray. Some things I pray for, things that are good, and yet even then there's no guarantee that He will make them happen. So what’s the point? And doesn’t He already know what I need ahead of time? If you’ve ever had these kinds of thoughts cross your mind before, then stick around and let's see what the Church offers as an answer.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Uz2IJTG-PLE.webp
 lang: fr
 title: "Dieu a-t-il endurci le cœur des Juifs pour ensuite les juger?"
 pubDate: 2021-03-08T11:59:00
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

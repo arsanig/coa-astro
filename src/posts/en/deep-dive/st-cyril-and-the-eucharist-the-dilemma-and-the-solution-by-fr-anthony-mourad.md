@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/fcAgv1T8Y9M.webp
 lang: en
 title: "St Cyril and the Eucharist: The Dilemma and the Solution"
 pubDate: 2021-01-18T09:14:48
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome to the third part of the second lecture on our deep dive into the understanding of the Eucharist through the mind of St. Cyril of Alexandria. If you've paid attention to the last couple of parts, you've seen us speak about how it is that death has entered into the world through the envy of the devil and how it is that sin has taken over. We've also spoken about the effects of the fall on humanity.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hysC83ezxQg.webp
 lang: en
 title: "Why confess to a priest and how ought it be done? - Part 3"
 pubDate: 2017-08-08T23:23:53
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/SYUUG5QYatE.webp
 lang: en
 title: "Don’t all religions teach the same thing? Isn’t Christianity just another religious moral standard?"
 pubDate: 2021-01-27T11:46:32
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Ever heard someone argue that all religions basically teach the same thing, that all of them are expressing the same calling to a good moral life, they just express it differently? What did you have to answer to that? Is that really what Christianity's purpose is? Well, let's take a look together at what our Orthodox faith would have us answer.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ln8CBRGeCSI.webp
 lang: fr
 title: "À quelle occasion Jésus a-t-il affirmé qu'il était Dieu?"
 pubDate: 2020-04-09T14:41:07
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

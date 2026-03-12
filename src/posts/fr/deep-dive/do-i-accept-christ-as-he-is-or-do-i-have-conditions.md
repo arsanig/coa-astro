@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1pgzy5A81k8.webp
 lang: fr
 title: "Dois-je prendre le Christ tel qu'il est ou le chercher en me fiant à mes propres critères?"
 pubDate: 2019-09-16T12:00:34
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

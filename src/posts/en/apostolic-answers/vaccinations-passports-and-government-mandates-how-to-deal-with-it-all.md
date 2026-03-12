@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/16GRHkPzXDs.webp
 lang: en
 title: "Vaccinations, passports and government mandates: how to deal with it all?"
 pubDate: 2021-09-29T10:00:57
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In recent history, I personally have not seen a more divisive topic than COVID. Even within each Christian tradition, we see lack of peace and division regarding the virus, vaccinations and the mandated passports. In this video, I will reluctantly share my thoughts, which are based on Scripture, with the hopes that, as Christians, we are able to peacefully dialogue. I believe everyone is entitled to their own opinions and, as a clergy member, I am not an exception. Though, for me, it is more than a question of opinion; it is also a responsibility in front of God. I pray that this video does not allow the devil to steal your inner peace. Let us pray together to our One Trinitarian God to bring peace into this broken world.</p>

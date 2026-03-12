@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Bdw4ckRMOaw.webp
 lang: en
 title: "Why is the Eucharist important for my salvation?"
 pubDate: 2017-02-14T21:12:57
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

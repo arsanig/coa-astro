@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/YwxVpzeiY1w.webp
 lang: en
 title: "Where did Jesus say “I am God”?"
 pubDate: 2019-10-23T12:00:34
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Anthony Mourad"
 ---
 <p>So, Christians believe in the Holy Trinity. And we believe that Jesus Christ is one in essence with the Father and the Holy Spirit. And so, to Christians, Jesus is God. But did Jesus ever say that about Himself? Is there any evidence that He made the claim that He was divine? Let's tackle this issue together and take a look.</p>

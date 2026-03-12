@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/yOFE1iuvO3Q.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 6, Partie 2: Unis à Dieu par son corps"
 pubDate: 2021-06-28T02:17:58
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue à la deuxième partie du sixième et dernier volet de cette série. Pour ceux qui étaient des nôtres, nous avons discuté de l'Eucharistie dans les moindres détails en analysant la théologie eucharistique de saint Cyrille d'Alexandrie. Jusqu'à présent, nous avons traité de sujets tels le souhait du Seigneur de nous faire passer de notre état corrompu à un état sans corruption. Nous avons mentionné avoir perdu la notion de ce que c'est que d'être vivant après nous être éloignés et séparés de Dieu. Et maintenant, le Seigneur veut nous restaurer, afin que nous puissions de nouveau avoir la vie en nous.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vvKrHNSSO7I.webp
 lang: en
 title: "What is the meaning of being born again? Why did Nicodemus failed to understand it?"
 pubDate: 2019-11-11T12:00:35
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/YwxVpzeiY1w.webp
 lang: fr
 title: "À quelle occasion Jésus a-t-il affirmé qu'il était Dieu?"
 pubDate: 2019-10-23T12:00:34.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Anthony Mourad"
 ---
 

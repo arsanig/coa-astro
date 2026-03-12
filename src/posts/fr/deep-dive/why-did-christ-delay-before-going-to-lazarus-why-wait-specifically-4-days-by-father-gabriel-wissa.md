@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EtmFO8zc1Tg.webp
 lang: fr
 title: "Pourquoi le Christ a-t-il tardé à se rendre au chevet de Lazare?"
 pubDate: 2020-12-09T08:29:37
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

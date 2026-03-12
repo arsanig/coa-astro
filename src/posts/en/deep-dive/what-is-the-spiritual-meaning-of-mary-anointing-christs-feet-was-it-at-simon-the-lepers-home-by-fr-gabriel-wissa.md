@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JcOzLdSvBDA.webp
 lang: en
 title: "What is the spiritual meaning of Mary anointing Christ’s feet? Was it at Simon the leper’s home?"
 pubDate: 2021-01-07T19:10:09
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

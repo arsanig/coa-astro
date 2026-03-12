@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EuljDKJO-As.webp
 lang: en
 title: "Back to Basics: How do I kick-start my Prayer Life?"
 pubDate: 2019-11-13T12:00:58
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Many want to start a sincere relationship with God and we all know we should pray, but how do we go about it? Is there a right way or a wrong way to pray? Well, let's go back to the basics and let's start with how to pray.</p>

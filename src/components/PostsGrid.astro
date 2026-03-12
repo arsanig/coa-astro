@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import { type InferEntrySchema, type RenderedContent } from "astro:content";
-const { posts } = Astro.props;
+const { posts, hasTagFilter = false } = Astro.props;
 type Post = {
     id: string;
     body?: string;
@@ -13,11 +13,17 @@ type Post = {
 ---
 
 <div
-    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 lg:gap-8 px-4 pt-10 sm:px-8 sm:pt-8 lg:px-12 lg:pt-12 xl:px-19 xl:pt-19"
+    class:list={[
+        "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 sm:gap-8 px-4 sm:px-8 lg:px-12 xl:px-19",
+        hasTagFilter ? "pb-8 lg:pb-17" : "py-8 lg:py-17",
+    ]}
 >
     {
         posts.map((post: Post, i: number) => (
-            <a class="group block" href={`${post.data.lang === "fr" ? "/fr" : ""}/${post.id.replace(/^(en|fr)\//, "").replace(/\/[^/]+$/, "")}/${post.data.videoId}`}>
+            <a
+                class="group block"
+                href={`${post.data.lang === "fr" ? "/fr" : ""}/${post.id.replace(/^(en|fr)\//, "").replace(/\/[^/]+$/, "")}/${post.data.videoId}`}
+            >
                 {post.data.imgSrc && (
                     <div class="aspect-video overflow-hidden rounded-lg">
                         <Image

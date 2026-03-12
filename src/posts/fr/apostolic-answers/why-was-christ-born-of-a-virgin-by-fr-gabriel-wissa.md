@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Yu42UBRLJ7s.webp
 lang: fr
 title: "Pourquoi le Christ est-il né d'une vierge?"
 pubDate: 2019-12-04T12:00:04.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

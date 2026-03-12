@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/-04ee_y6PKI.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 4, Partie 3: L'Eucharistie rétablit l'incorruptibilité"
 pubDate: 2021-04-11T21:35:23
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, nous en sommes maintenant à la troisième partie du quatrième volet de notre analyse détaillée portant sur la théologie eucharistique de saint Cyrille d'Alexandrie. Soyez les bienvenus. Jusqu'à maintenant, mes frères, cette présentation a principalement traité de corruption. Nous avons d'abord examiné l'état dans lequel l'humanité s'est retrouvée, puis dans la deuxième partie, nous avons expliqué que l'Eucharistie pouvait être un moyen de guérison. Aujourd'hui, l'objectif ultime sera de réaliser qu'en fait, l'Eucharistie vient nous ramener à l'état d'incorruptibilité que Dieu avait prévu pour nous à l'origine. Allons voir tout de suite comment c'est possible.</p>

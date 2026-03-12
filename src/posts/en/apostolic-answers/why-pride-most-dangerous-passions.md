@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/mwP0a3DEhcc.webp
 lang: en
 title: "Why is Pride the most dangerous of all passions?(Passions- Part 6)"
 pubDate: 2018-09-29T14:11:19
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

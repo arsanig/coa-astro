@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/sXqWvyjSAJs.webp
 lang: en
 title: "What Does Christianity Have to Say About Celibacy"
 pubDate: 2024-06-19T16:00:47
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Father Anthony Mourad"
 ---
 

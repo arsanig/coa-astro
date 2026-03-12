@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/mZu-3SI9dU4.webp
 lang: en
 title: "Why is ADAM created from DUST? Is humanity meant to ABUSE NATURE?"
 pubDate: 2023-03-24T11:13:13
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>How should we read the story of the creation in Genesis 2 and 3? What is meant by Adam being created from the dust and God blowing into him? How should we understand Eve being created from Adam? What is the garden of Eden and what is the river in it and the tree of life and the tree of the knowledge of good and evil? In this series on Genesis 2 and 3, we will be tackling all of those questions and more.</p>

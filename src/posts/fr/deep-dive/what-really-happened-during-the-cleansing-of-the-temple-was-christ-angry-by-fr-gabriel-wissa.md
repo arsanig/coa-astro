@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IBpsqg7EGSs.webp
 lang: fr
 title: "Que s'est-il vraiment passé durant la purification du temple?"
 pubDate: 2019-10-28T12:00:04
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>(...) alors que nous procédons ensemble à une analyse approfondie de l'Évangile selon saint Jean. La dernière fois, nous avions terminé l'analyse du chapitre 2, versets 1 à 11 et nous avions vu la belle symbolique liée aux noces de Cana, en Galilée. Sans plus tarder, passons tout de suite au chapitre 12.</p>

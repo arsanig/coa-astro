@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/HNq0QJRD1Ak.webp
 lang: en
 title: "Why did Jesus Christ have to die on the cross?"
 pubDate: 2024-05-02T18:56:11
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Many of us know that our Lord Jesus Christ died in order to redeem us. But do you know why He had to die the death of the cross? Couldn't it have been a different kind of death? A less shameful and less painful death? Well, if you've ever posed these kinds of questions before, then this video is for you.</p>

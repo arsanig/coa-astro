@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/UE_wYhekFb4.webp
 lang: en
 title: "Why is it vital to keep the commandments? Is true love founded on emotions?"
 pubDate: 2023-03-08T01:48:37
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of Father and Son, the Holy Spirit, One God. Amen.</p>

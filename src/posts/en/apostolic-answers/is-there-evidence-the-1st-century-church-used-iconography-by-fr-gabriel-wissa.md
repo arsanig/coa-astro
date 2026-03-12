@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kmATf28ODBo.webp
 lang: en
 title: "Is there EVIDENCE the 1st century Church used ICONOGRAPHY?"
 pubDate: 2020-11-25T11:27:41
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Is there evidence the early Church used iconography or is iconography an innovation? If there is evidence, how early is it? How do these questions fit with the commandment of not making carved images found in Exodus 20? These are the questions we're hoping to answer today.</p>

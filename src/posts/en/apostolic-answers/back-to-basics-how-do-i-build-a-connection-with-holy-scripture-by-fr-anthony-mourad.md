@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Jv26SORdVew.webp
 lang: en
 title: "Back to Basics: How do I build a connection with Holy Scripture?"
 pubDate: 2019-12-11T12:00:47
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>We’ve all been told a thousand times in church and Sunday school: say your prayers, read your Bible. But have you ever grappled with trying to read Scripture consistently? Or do you struggle to understand what you read? Then this video is for you. Let’s take a look at this together.</p>

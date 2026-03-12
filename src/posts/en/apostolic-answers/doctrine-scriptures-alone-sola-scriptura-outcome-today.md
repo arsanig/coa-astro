@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4z95mUdimmo.webp
 lang: en
 title: "What is the doctrine of scriptures alone (sola scriptura)? What is its outcome today?"
 pubDate: 2017-12-06T00:40:57
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-bible"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

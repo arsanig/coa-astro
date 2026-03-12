@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZPuLzbIh6nI.webp
 lang: fr
 title: "Découvrez ce qui se cache derrière la guérison de l'homme qui était aveugle de naissance"
 pubDate: 2020-10-22T00:20:33
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

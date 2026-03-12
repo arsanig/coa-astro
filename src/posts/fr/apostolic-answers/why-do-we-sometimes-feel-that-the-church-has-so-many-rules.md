@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Kn3Q7EfJSRc.webp
 lang: fr
 title: 'Le jeûne - Partie 1: Pourquoi avons-nous parfois l''impression que l''Église impose trop de règles?'
 pubDate: 2018-02-28T14:21:41.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

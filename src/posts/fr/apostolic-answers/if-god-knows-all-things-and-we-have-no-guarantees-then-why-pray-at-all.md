@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/8u93I49hmyg.webp
 lang: fr
 title: 'Si Dieu sait tout et que nous n''avons aucune garantie, à quoi bon prier?'
 pubDate: 2020-11-04T12:08:50.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

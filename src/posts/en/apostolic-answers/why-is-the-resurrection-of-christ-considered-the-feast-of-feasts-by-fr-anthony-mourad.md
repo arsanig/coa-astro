@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ktoYdRXFFU0.webp
 lang: en
 title: "Why is the Resurrection of Christ considered the feast of feasts?"
 pubDate: 2020-05-13T15:43:08
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>There are many feasts in the liturgical calendar of the Coptic Orthodox Church. But there is one that holds the title of the feast of feasts; the holy and glorious Feast of the Resurrection. Stay tuned to find out why this feast is a big deal to all Christians.</p>

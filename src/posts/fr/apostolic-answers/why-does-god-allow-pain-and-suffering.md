@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/sWhEe8ZbZ9M.webp
 lang: fr
 title: "Pourquoi Dieu permet-il à la douleur et à la souffrance d'exister?"
 pubDate: 2018-06-05T09:05:05.000Z
-tags: ["aa"]
+tags: ["aa", "why-pain-and-suffering", "apologetics"]
 author: "Père Anthony Mourad"
 ---
 

@@ -2,6 +2,7 @@
 import Catalog from "@layouts/Catalog.astro";
 import PostsGrid from "@components/PostsGrid.astro";
 import Banner from "@components/Banner.astro";
+import TagFilter from "@components/TagFilter.astro";
 import { getCollection } from "astro:content";
 import type { GetStaticPathsOptions } from "astro";
 import * as m from "@paraglide/messages.js";
@@ -12,12 +13,14 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
             return post.data.lang === "en" && post.data.tags?.includes("dd");
         })
         .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
-    return paginate(ddEnglishPosts, { pageSize: 20 });
+    const allTags = [...new Set(ddEnglishPosts.flatMap((p) => p.data.tags ?? []).filter((t) => t !== "dd"))].sort();
+    return paginate(ddEnglishPosts, { pageSize: 20, props: { allTags } });
 }
-const { page } = Astro.props;
+const { page, allTags } = Astro.props;
 ---
 
 <Catalog page={page} title={`${m.ddLabel()} | ${m.siteName()}`} description={m.ddBannerDesc()} image="/assets/images/dd-banner.webp" bgColor="bg-gray">
     <Banner image="/assets/images/dd-banner.webp" description={m.ddBannerDesc()} bgColor="bg-dd-blue" />
-    <PostsGrid posts={page.data} />
+    <TagFilter tags={allTags} baseUrl="/deep-dive" segmentBg="dd-blue-bg" />
+    <PostsGrid posts={page.data} hasTagFilter />
 </Catalog>

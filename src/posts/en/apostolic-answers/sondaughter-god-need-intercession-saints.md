@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/gYn2tB2qSSQ.webp
 lang: en
 title: "If I am the son/daughter of God, why do I need the intercession of the saints?"
 pubDate: 2017-07-19T11:43:46
-tags: ["aa"]
+tags: ["aa", "intercession-of-saints", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

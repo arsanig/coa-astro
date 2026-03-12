@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JtaNG2Os6OY.webp
 lang: en
 title: "Are we living in the end times? What are we supposed to do?"
 pubDate: 2022-02-09T00:43:08
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "social"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever looked around you and thought the end may be near? Have you seen movies or heard stories of people speaking of how the end of the world will look like? Could everything that has been going on around us be pointing to the end of the ages as we know it? Let's discuss some of these things now, together.</p>

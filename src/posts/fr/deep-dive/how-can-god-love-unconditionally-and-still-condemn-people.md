@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/x73i3FDNq8E.webp
 lang: fr
 title: "Comment Dieu peut-il aimer de façon inconditionnelle et continuer de condamner les gens?"
 pubDate: 2019-12-09T12:00:49
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

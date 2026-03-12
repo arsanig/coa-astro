@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yC3NjlVyUXc.webp
 lang: en
 title: "Does God abandon us in difficult times?"
 pubDate: 2022-11-23T12:13:07
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Fr. Anthony Mourad"
 ---
 <p>In some of our most difficult times, we're often tempted to think that God is not present with us. We feel like He is absent and even has maybe even forsaken us. But is this true? Can we really believe what is said to us in Scripture and also believe that God has abandoned us? Stick around and let's investigate this together.</p>

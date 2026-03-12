@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/-04ee_y6PKI.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist Restores Incorruptibility."
 pubDate: 2021-04-11T21:35:23
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to the third part of our fourth lecture on the subject of deep diving into the Eucharistic theology of St. Cyril of Alexandria. So, my beloved, so far, this entire lecture has been focused on the subject of corruption. We've seen the state that humanity has found itself in. And in the second part of the fourth lecture, what we've discussed is the idea of how it is that the Eucharist can be a means of healing, but today, ultimately, the purpose is to realize that the Eucharist actually restores incorruptibility. It brings us back to that original state that God had intended for us. Let's go ahead and see how it does that.</p>

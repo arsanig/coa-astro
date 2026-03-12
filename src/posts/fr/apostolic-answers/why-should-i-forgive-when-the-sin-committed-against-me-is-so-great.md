@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/_w3cEB1rOAI.webp
 lang: fr
 title: "Pourquoi devrais-je pardonner quand la faute commise à mon endroit est si grave?"
 pubDate: 2020-07-22T16:17:36
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

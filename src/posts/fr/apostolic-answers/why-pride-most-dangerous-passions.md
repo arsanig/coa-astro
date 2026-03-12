@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/mwP0a3DEhcc.webp
 lang: fr
 title: 'Les passions - Partie 6: Pourquoi l''orgueil est-il la plus dangereuse des passions?'
 pubDate: 2018-09-29T14:11:19.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

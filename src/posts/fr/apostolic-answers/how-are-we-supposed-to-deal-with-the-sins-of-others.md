@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vxKCOrm9f_E.webp
 lang: fr
 title: "Comment composer avec les péchés d'autrui?"
 pubDate: 2019-10-02T11:10:15.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

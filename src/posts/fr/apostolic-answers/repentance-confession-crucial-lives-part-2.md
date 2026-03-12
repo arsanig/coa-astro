@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/idBDBRQjBF8.webp
 lang: fr
 title: 'La confession - Partie 2: Qu''est-ce que ça signifie de se confesser?'
 pubDate: 2017-07-05T00:10:10.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/YPOz4TZWYS0.webp
 lang: en
 title: "Do our earthly cares really distance us from God? How important is Scripture?"
 pubDate: 2020-04-24T15:26:12
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

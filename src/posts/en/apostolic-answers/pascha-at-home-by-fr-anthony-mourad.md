@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/aw62HTBqrtM.webp
 lang: en
 title: "Pascha at HOME"
 pubDate: 2021-04-21T12:00:41
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>We are now placed in yet another situation where, because of circumstances and because of the global pandemic, we're obliged to spend this holy period of Pascha at home. How do we deal with this? How do we benefit from the prayers of the Holy Pascha when we desire so badly to be at church? Is there a way for us to benefit while being at home? Let's go ahead and listen in together and see how we can truly maximize the potential and the benefit of the prayers of the Holy Pascha even while being at home.</p>

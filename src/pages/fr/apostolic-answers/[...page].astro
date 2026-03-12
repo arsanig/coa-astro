@@ -2,6 +2,7 @@
 import Catalog from "@layouts/Catalog.astro";
 import PostsGrid from "@components/PostsGrid.astro";
 import Banner from "@components/Banner.astro";
+import TagFilter from "@components/TagFilter.astro";
 import TranslationTooltip from "@components/TranslationTooltip.astro";
 import { getCollection } from "astro:content";
 import { type GetStaticPathsOptions } from "astro";
@@ -13,9 +14,10 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
             return post.data.lang === "fr" && post.data.tags?.includes("aa");
         })
         .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
-    return paginate(aaFrenchPosts, { pageSize: 20 });
+    const allTags = [...new Set(aaFrenchPosts.flatMap((p) => p.data.tags ?? []).filter((t) => t !== "aa"))].sort();
+    return paginate(aaFrenchPosts, { pageSize: 20, props: { allTags } });
 }
-const { page } = Astro.props;
+const { page, allTags } = Astro.props;
 ---
 
 <Catalog
@@ -27,5 +29,6 @@ const { page } = Astro.props;
 >
     <Banner image="/assets/images/aa-banner.webp" description={m.aaBannerDesc()} bgColor="bg-aa-purple" />
     <TranslationTooltip bgColor="bg-aa-purple-bg" />
-    <PostsGrid posts={page.data} />
+    <TagFilter tags={allTags} baseUrl="/fr/apostolic-answers" segmentBg="aa-purple-bg" />
+    <PostsGrid posts={page.data} hasTagFilter />
 </Catalog>

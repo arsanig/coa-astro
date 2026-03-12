@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uzUk-3R7ZkA.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 3: Si Dieu est amour, pourquoi a-t-il inondé la terre?'
 pubDate: 2017-10-11T09:30:54.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

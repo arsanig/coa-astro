@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4z95mUdimmo.webp
 lang: fr
 title: "En quoi consiste le principe de la Sola Scriptura?"
 pubDate: 2017-12-06T00:40:57.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-bible"]
 author: "Père Gabriel Wissa"
 ---
 

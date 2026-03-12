@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/4IG5UuuI0w8.webp
 lang: en
 title: "Why is fasting essential?"
 pubDate: 2017-02-14T21:46:30
-tags: ["aa"]
+tags: ["aa", "fasting", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

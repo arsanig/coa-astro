@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/fcAgv1T8Y9M.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 2, Partie 3: Le dilemme et la solution"
 pubDate: 2021-01-18T09:14:48
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue à la troisième partie du second volet de notre analyse détaillée de l'Eucharistie d'après la pensée de saint Cyrille d'Alexandrie. Si vous avez porté attention aux deux parties précédentes, vous nous avez entendus parler de la mort qui est entrée dans le monde par l'envie du diable et du péché qui a pris les commandes. Nous avons également parlé des effets de la chute sur l'humanité.</p>

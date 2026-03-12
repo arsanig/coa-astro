@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MFHOsdN-cWs.webp
 lang: fr
 title: 'Retour aux sources - Partie 3: Comment me repentir au quotidien?'
 pubDate: 2020-02-05T12:00:29.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

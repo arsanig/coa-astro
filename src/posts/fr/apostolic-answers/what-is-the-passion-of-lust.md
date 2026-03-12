@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ae9wCOTPIpc.webp
 lang: fr
 title: 'Les passions - Partie 2: Qu''est-ce que la luxure?'
 pubDate: 2017-03-28T19:21:20.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

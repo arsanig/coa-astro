@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hTE5pY9NHzE.webp
 lang: fr
 title: "Comment devrais-je prier?"
 pubDate: 2017-02-11T21:57:11.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Père Gabriel Wissa"
 ---
 

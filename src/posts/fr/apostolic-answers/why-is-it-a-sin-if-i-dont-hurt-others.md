@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/CeT0uNF8LB0.webp
 lang: fr
 title: "Pourquoi est-ce un péché si je ne fais de mal à personne?"
 pubDate: 2022-11-29T12:32:26.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Gabriel Wissa"
 ---
 

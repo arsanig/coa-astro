@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zhbe851Uito.webp
 lang: fr
 title: 'Le salut - Partie 1: Comment obtient-on le salut, selon l''orthodoxie?'
 pubDate: 2021-08-11T10:22:03.000Z
-tags: ["aa"]
+tags: ["aa", "soteriology", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/fOat0w-yUCg.webp
 lang: fr
 title: "Le fait de croire à la Sainte Trinité tient-il du polythéisme?"
 pubDate: 2023-09-06T12:00:31.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Père Gabriel Wissa"
 ---
 

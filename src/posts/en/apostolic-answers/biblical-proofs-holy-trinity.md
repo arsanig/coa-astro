@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/481HLeZQgwg.webp
 lang: en
 title: "What are the Biblical proofs for the Holy Trinity?"
 pubDate: 2018-03-07T11:08:26
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

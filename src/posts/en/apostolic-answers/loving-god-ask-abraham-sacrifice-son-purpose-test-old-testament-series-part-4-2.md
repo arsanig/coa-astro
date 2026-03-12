@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/C-YSSHcwsdc.webp
 lang: en
 title: "Why would a Loving God ask Abraham to sacrifice his son? What is the purpose of such a test? (Violence in the OT - part 4)"
 pubDate: 2018-01-16T23:25:02
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

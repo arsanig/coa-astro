@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ulDATE0vJlQ.webp
 lang: en
 title: "How does the devil trick us into sin? What is spiritual warfare?"
 pubDate: 2018-05-16T01:08:55
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

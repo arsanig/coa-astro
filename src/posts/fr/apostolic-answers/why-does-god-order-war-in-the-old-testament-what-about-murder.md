@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vXejyinn-jc.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 7: Pourquoi Dieu ordonnait-il parfois de faire la guerre dans l''Ancien Testament?'
 pubDate: 2020-01-29T12:00:15.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

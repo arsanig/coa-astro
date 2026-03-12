@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1DSA37J3Pwo.webp
 lang: fr
 title: 'Comprendre le récit de la création - Partie 1: Les jours de la création ont-ils une durée de 24 heures au sens strict?'
 pubDate: 2020-02-12T12:00:22.000Z
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

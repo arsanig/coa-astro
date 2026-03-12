@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/yOFE1iuvO3Q.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God through His Flesh"
 pubDate: 2021-06-28T02:17:58
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>Welcome again, my beloved, now to the second part of the sixth and final lecture. If you have been following with us, we’ve been discussing the Eucharist in a great amount of detail by deep-diving into the Eucharistic theology of St. Cyril of Alexandria. So far, we have been discussing things like how it is that the Lord desires for us to go from a state of corruption to a state of incorruption. We've been speaking about how it is that we lost what it means to be truly alive, because of our alienation and separation from God. And now the Lord wants to restore us back so that we can have life within us.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/j-cKk0FWid4.webp
 lang: en
 title: "Why Christ says ‘My Father taught Me?’ Is the Son not equal to the Father?"
 pubDate: 2020-07-03T12:00:47
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name the Father and Son, the Holy Spirit, One God. Amen.</p>

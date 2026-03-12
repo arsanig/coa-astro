@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/QrsaCorjTok.webp
 lang: fr
 title: "Pourquoi le Christ fait-il une prière avant de ressusciter Lazare?"
 pubDate: 2020-12-21T14:08:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

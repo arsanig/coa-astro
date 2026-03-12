@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Y90MOlCvXnY.webp
 lang: en
 title: "Should you address a priest as ‘father’?"
 pubDate: 2019-06-05T14:41:55
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Occasionally, you might find yourself conversing with someone that disagrees to address a priest with the term father. Sometimes those who hold this opinion even refuse to call their own dads father. These people are usually very quick to point out that we should not call anyone on earth father, as it says in Matthew, chapter 23. But both the Orthodox and Catholic traditions have been using the term father to address priests and biological parents for centuries. So, is it appropriate for us to use the term father? And if yes, why?</p>

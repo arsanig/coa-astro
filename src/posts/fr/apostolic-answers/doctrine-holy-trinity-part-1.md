@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JLCzWmg0RSE.webp
 lang: fr
 title: 'La Sainte Trinité - Partie 1: En quoi consiste la doctrine sur la Sainte Trinité?'
 pubDate: 2017-10-31T22:17:57.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Père Anthony Mourad"
 ---
 

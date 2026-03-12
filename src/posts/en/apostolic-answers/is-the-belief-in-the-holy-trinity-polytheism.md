@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/fOat0w-yUCg.webp
 lang: en
 title: "Is the belief in the Holy Trinity POLYTHEISM?"
 pubDate: 2023-09-06T12:00:31
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Are Christians polytheistic? Often, the Christian faith about the Holy Trinity is misunderstood as polytheism, the belief in many gods. But is that really the case? No, not really. But how can we believe in three divine persons and yet claim monotheism?</p>

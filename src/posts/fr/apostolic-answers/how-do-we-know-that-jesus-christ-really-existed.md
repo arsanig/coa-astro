@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Z0xl8v-BGEM.webp
 lang: fr
 title: "Qu'est-ce qui nous dit que Jésus-Christ a vraiment existé?"
 pubDate: 2019-02-01T21:20:56.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Anthony Mourad"
 ---
 

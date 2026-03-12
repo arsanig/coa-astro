@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/mZu-3SI9dU4.webp
 lang: en
 title: "Understanding the Creation Account 5 - Why Is Eve Not Created from the Ground Directly"
 pubDate: 2023-03-24T16:00:29
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "faith-sacraments-theology"]
 author: "Father Gabriel Wissa"
 ---
 

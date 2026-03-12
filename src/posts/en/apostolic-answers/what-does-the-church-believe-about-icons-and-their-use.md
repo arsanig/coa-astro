@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/O13ZbYA9v88.webp
 lang: en
 title: "What does the Church believe about icons and their use?"
 pubDate: 2019-05-22T10:27:18
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Let’s talk about icons again. Have you ever noticed the faithful walking up to icons, kissing them, lighting a candle in the front of them, or even the priest censing them? Are we worshiping these man-made images? What does it all mean? Let's take a closer look as to the purpose and the meaning behind icons.</p>

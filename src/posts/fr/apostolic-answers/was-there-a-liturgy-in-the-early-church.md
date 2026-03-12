@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MTs6XD53V9g.webp
 lang: fr
 title: "Existait-il une forme de liturgie dans les débuts de l'Église?"
 pubDate: 2017-02-14T21:38:53.000Z
-tags: ["aa"]
+tags: ["aa", "church-history-fathers"]
 author: "Père Gabriel Wissa"
 ---
 

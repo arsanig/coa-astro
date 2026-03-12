@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/mpcNIEQbg3Y.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 6, Partie 3: Unis à Dieu et les uns aux autres"
 pubDate: 2021-07-12T00:00:36
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, bienvenue à la troisième et dernière partie du sixième volet de cette série consacrée à l'analyse approfondie de ce que représente l'Eucharistie, d'après la pensée de saint Cyrille d'Alexandrie.</p>

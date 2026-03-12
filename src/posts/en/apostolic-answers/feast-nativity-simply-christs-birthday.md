@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ScPqL_oDPMk.webp
 lang: en
 title: "Is the feast of Nativity simply Christ’s birthday?"
 pubDate: 2017-12-13T01:40:04
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

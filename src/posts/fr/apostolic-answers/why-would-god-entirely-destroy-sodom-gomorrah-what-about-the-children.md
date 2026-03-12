@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lXrXP15RmvI.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 5: Pourquoi Dieu a-t-il anéanti Sodome et Gomorrhe?'
 pubDate: 2018-10-17T14:56:37.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

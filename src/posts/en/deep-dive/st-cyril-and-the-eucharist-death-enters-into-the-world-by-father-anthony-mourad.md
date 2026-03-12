@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/PI8DzyinZdI.webp
 lang: en
 title: "St Cyril and the Eucharist: Death Enters into the World"
 pubDate: 2020-12-14T08:55:08
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, again it is a wonderful blessing for me to be with you all as we continue into our deep dive in studying the Holy Eucharist, specifically through the mind of St. Cyril of Alexandria. Now if you have been following along with us, we've already had the first lecture and in that first lecture we discussed quite a few things, some very important things in regards to what the human being looked like before he fell away and fell into the state of sin.</p>

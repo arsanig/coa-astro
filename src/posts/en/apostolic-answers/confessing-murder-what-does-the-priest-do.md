@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/eDCraw1O08U.webp
 lang: en
 title: "Confessing Murder-What Does the Priest Do"
 pubDate: 2025-04-25T16:14:16
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Father Gabriel Wissa"
 ---
 

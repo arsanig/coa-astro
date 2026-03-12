@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EDpulPI1gH8.webp
 lang: fr
 title: "La pornographie - Partie 2"
 pubDate: 2017-10-25T00:09:05.000Z
-tags: ["aa"]
+tags: ["aa", "social", "pornography"]
 author: "Père Gabriel Wissa"
 ---
 

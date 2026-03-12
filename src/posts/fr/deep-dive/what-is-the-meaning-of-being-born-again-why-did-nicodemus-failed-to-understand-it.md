@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vvKrHNSSO7I.webp
 lang: fr
 title: "Qu'entend-on par « naître de nouveau »?"
 pubDate: 2019-11-11T12:00:35
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

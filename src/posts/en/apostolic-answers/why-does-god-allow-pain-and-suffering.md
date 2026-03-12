@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/sWhEe8ZbZ9M.webp
 lang: en
 title: "Why does God allow Pain and Suffering?"
 pubDate: 2018-06-05T09:05:05
-tags: ["aa"]
+tags: ["aa", "why-pain-and-suffering", "apologetics"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

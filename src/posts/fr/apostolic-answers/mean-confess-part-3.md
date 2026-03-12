@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hysC83ezxQg.webp
 lang: fr
 title: 'La confession - Partie 3: Pourquoi se confesser à un prêtre et comment le faire?'
 pubDate: 2017-08-08T23:23:53.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Père Anthony Mourad"
 ---
 

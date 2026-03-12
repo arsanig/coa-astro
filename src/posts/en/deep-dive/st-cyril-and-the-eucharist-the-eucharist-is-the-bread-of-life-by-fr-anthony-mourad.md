@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/dR-PL1wzEiA.webp
 lang: en
 title: "St Cyril and the Eucharist: The Eucharist is the Bread of Life"
 pubDate: 2021-05-30T23:31:52
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>Welcome again, my beloved, now to the third part of the fifth lecture. So far, we've been focusing very much on how it is that the Eucharist really is the remedy to so much of our spiritual ailment, what restores the human being back to what he ought to be. We've seen how it is that the Eucharist renders us incorruptible. We've spoken about how it is that the Eucharist is life-giving.</p>

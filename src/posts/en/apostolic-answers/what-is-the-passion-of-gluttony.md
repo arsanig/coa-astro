@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/vob1Ik9_Wc4.webp
 lang: en
 title: "What is the passion of Gluttony?(Passions- Part 3)"
 pubDate: 2017-05-10T00:45:09
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

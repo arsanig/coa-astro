@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/5w9bdKBJZT0.webp
 lang: fr
 title: 'La confession - Partie 1: Pourquoi le repentir et la confession sont-ils si essentiels à notre vie?'
 pubDate: 2017-06-07T12:47:10.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-sacraments", "repentance-and-confession"]
 author: "Père Anthony Mourad"
 ---
 

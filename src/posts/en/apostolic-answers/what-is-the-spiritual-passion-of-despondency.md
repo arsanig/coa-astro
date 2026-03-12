@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BAC-5LvGg4s.webp
 lang: en
 title: "What Is The Spiritual Passion Of Despondency?"
 pubDate: 2023-05-31T10:34:39
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever experienced a certain heaviness when attempting to pray or read your Bible? Has laziness or fatigue prevented you from fulfilling your spiritual tasks and services? Have you ever felt like no matter what you did, you couldn't shake off those feelings that were burdening you, preventing you from coming closer to God, almost as if there was a barrier? Well, if this is the case, you might be struggling with despondency. Let's figure out what that is.</p>

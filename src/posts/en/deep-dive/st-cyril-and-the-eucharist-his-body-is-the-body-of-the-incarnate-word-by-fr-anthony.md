@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/sttcQ1-XhOg.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body is the Body of the Incarnate Word."
 pubDate: 2021-02-15T11:21:57
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to the second part of the third lecture of our deep dive into the understanding of the Eucharist through the mind of our father among the saints, St. Cyril of Alexandria. If you paid attention to the beginning of lecture... the first part of lecture 3, we spoke about St. Cyril's Christology and the reason why we had to ask the question Who does St. Cyril believe Jesus Christ is? is because he ties in intimately who the Lord Jesus Christ is in the flesh, so his Christological theology directly ties in to his Eucharistic theology.</p>

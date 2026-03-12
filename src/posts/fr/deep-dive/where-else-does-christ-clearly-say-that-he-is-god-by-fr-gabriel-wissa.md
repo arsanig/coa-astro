@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dUFLuzQrFoc.webp
 lang: fr
 title: "À quelle autre occasion le Christ a-t-il clairement affirmé qu'il était Dieu?"
 pubDate: 2020-07-10T12:00:44
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au Père et au Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

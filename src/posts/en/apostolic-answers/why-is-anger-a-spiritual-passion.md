@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/VfLhabfeMAg.webp
 lang: en
 title: "Why is Anger a Spiritual Passion?"
 pubDate: 2018-08-13T11:07:06
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

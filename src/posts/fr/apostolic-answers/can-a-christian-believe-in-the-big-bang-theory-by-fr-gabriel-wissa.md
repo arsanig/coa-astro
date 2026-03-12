@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/iUimryj3nSE.webp
 lang: fr
 title: 'Le christianisme et la science - Partie 2: Un chrétien peut-il croire à la théorie du Big Bang?'
 pubDate: 2019-09-25T18:17:05.000Z
-tags: ["aa"]
+tags: ["aa", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

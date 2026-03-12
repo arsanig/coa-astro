@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BEOE-yn9c7o.webp
 lang: en
 title: "Is Christ’s Resurrection a REAL fact? Part-2"
 pubDate: 2017-05-31T09:11:11
-tags: ["aa"]
+tags: ["aa", "apologetics", "evidence-of-the-resurrection-of-christ"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

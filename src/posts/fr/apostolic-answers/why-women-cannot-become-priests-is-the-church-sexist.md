@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/RstA8PeN6Ow.webp
 lang: fr
 title: "Pourquoi les femmes ne peuvent accéder à la prêtrise"
 pubDate: 2019-01-24T16:23:52.000Z
-tags: ["aa"]
+tags: ["aa", "male-and-female", "the-sacraments"]
 author: "Père Gabriel Wissa"
 ---
 

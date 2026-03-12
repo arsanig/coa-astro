@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IPbf1rzN0PY.webp
 lang: fr
 title: 'La dépression, l''anxiété et autres maladies mentales sont-elles des formes de dérèglements d''ordre spirituel?'
 pubDate: 2018-04-11T22:43:52.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

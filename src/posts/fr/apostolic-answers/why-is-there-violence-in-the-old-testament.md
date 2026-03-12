@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BDIT0MMZjp4.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 1: Pourquoi toute cette violence dans l''Ancien Testament?'
 pubDate: 2017-02-14T21:23:16.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

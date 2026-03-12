@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Z0xl8v-BGEM.webp
 lang: en
 title: "How do we know that Jesus Christ really existed?"
 pubDate: 2019-02-01T21:20:56
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever wondered if Jesus really existed as a person within history? Do you have any evidence? Is there anything outside the Bible that proves he ever existed? Let’s take a look at what history has to say about the existence of the historical Jesus Christ.</p>

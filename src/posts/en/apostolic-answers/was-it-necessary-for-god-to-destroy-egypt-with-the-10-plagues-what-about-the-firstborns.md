@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/rZELpkKe878.webp
 lang: en
 title: "Was it necessary for God to destroy Egypt with the 10 plagues? What about the firstborns?"
 pubDate: 2019-02-06T13:45:22
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Was it necessary for God to destroy Egypt with the 10 plagues? Although this fantastic event freed Israel from Egyptian bondage, it leaves many difficult questions unanswered. Was Pharaoh a puppet in God’s hands? Did He really harden his heart? Why these specific plagues and not others? Why killing the first-born of each family? Stick with us as we answer all those questions in this short video.</p>

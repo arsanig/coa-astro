@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hTE5pY9NHzE.webp
 lang: en
 title: "How should I pray?"
 pubDate: 2017-02-11T21:57:11
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

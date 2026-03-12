@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uV_1tjzAaeQ.webp
 lang: en
 title: "Can God be wrathful? What is the wrath of God?"
 pubDate: 2018-10-31T15:38:04
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

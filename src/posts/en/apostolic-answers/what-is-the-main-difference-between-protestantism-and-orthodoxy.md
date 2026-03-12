@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ilvB0OyQK-s.webp
 lang: en
 title: "What is the main difference between Protestantism and Orthodoxy?"
 pubDate: 2021-10-13T09:02:17
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>What is the main difference between Protestant and Orthodox theologies? In comparing both traditions, one can easily find numerous differences. However, these could be summed up into a handful of concepts. Today’s video focuses on potentially the most important distinction between both traditions.</p>

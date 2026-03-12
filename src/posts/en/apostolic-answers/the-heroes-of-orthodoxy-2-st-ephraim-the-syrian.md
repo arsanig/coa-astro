@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/PaT37XB9eXQ.webp
 lang: en
 title: "The Heroes of Orthodoxy 2 - St. Ephraim the Syrian"
 pubDate: 2018-10-10T16:00:05
-tags: ["aa"]
+tags: ["aa", "church-history-fathers", "heroes-of-orthodoxy"]
 author: "Father Anthony Mourad"
 ---
 

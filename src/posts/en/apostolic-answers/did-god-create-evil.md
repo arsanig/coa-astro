@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/slC6wAmkFyE.webp
 lang: en
 title: "Did God Create Evil?"
 pubDate: 2017-02-14T21:02:02
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

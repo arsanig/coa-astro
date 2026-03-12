@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/PI8DzyinZdI.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 2, Partie 1: La mort s'introduit dans le monde"
 pubDate: 2020-12-14T08:55:08
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, c'est toujours une grande bénédiction de vous retrouver tous, alors que nous poursuivons notre analyse approfondie de la Sainte Eucharistie, d'après la pensée de saint Cyrille d'Alexandrie. Pour ceux qui nous ont suivis, vous savez que nous avons déjà fait notre première présentation, durant laquelle plusieurs sujets ont été discutés, des sujets très importants en lien avec ce à quoi ressemblait l'être humain avant sa chute qui l'a mené à une existence marquée par le péché. Revoyons quelques éléments dont nous avons discuté lors de cette première présentation.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kQG8u-CBgxs.webp
 lang: en
 title: "Does the Bible state everything that is related to Christian Life? Does it include everything I need to know as a Christian?"
 pubDate: 2017-09-27T12:21:52
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-bible"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

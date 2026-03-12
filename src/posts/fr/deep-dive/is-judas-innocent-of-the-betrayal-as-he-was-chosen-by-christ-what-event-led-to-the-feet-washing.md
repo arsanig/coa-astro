@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/xJU6LAULJD8.webp
 lang: fr
 title: "Judas est-il vraiment coupable de trahison si c'est le Christ qui l'a choisi?"
 pubDate: 2021-03-21T23:01:55
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Le Père et le Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

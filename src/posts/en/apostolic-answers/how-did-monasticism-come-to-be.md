@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/5EThvmKSGc4.webp
 lang: en
 title: "How did monasticism come to be?"
 pubDate: 2017-02-14T21:31:14
-tags: ["aa"]
+tags: ["aa", "church-history-fathers"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

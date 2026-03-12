@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hamGyawoTWw.webp
 lang: fr
 title: "Avons-nous honte du Christ?"
 pubDate: 2022-06-01T10:30:13.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

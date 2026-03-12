@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/clywSNhPLFw.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 1, Partie 1: Un regard sur l'être humain d'origine"
 pubDate: 2020-11-02T10:08:26
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, c'est une bénédiction d'être avec vous ici aujourd'hui. Si vous vous joignez à nous, c'est que vous savez que ce sera la toute première présentation d'une nouvelle série, au cours de laquelle nous allons examiner ensemble le mystère de l'Eucharistie, afin d'en faire une analyse détaillée.</p>

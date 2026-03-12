@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/rAL0sttGn14.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 6, Partie 1: L'Eucharistie comme source de réconciliation"
 pubDate: 2021-06-12T20:29:53
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, bienvenue au sixième volet de cette série que nous avons débutée il y a quelque temps et que nous consacrons à l'Eucharistie, d'après la pensée de notre père parmi les saints, saint Cyrille d'Alexandrie. Si vous étiez avec nous dès le départ, vous savez que nous avons fait beaucoup de chemin durant cette série. Nous avons tenté de comprendre comment l'Église conçoit la sainte Eucharistie en nous inspirant plus spécialement de la vie de saint Cyrille d'Alexandrie et de ce qu'il pouvait nous apprendre par son enseignement.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TRNMVeOOPwc.webp
 lang: en
 title: "What are the passions and how do I fight them?"
 pubDate: 2017-03-15T11:04:33
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

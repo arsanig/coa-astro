@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MTs6XD53V9g.webp
 lang: en
 title: "Was there a Liturgy in the Early Church?"
 pubDate: 2017-02-14T21:38:53
-tags: ["aa"]
+tags: ["aa", "church-history-fathers"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

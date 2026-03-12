@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ncoPmxVkz2U.webp
 lang: fr
 title: "Quelle est la position de l'Église en ce qui concerne l'euthanasie et le suicide assisté?"
 pubDate: 2017-09-20T02:03:08.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

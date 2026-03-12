@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/l3OetVPVkXg.webp
 lang: en
 title: "How important is the Ascension of Christ?"
 pubDate: 2017-05-23T21:37:35
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

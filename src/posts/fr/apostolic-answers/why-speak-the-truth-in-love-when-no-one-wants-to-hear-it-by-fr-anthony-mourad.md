@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/iuroWCMLilI.webp
 lang: fr
 title: "Pourquoi dire la vérité avec amour alors que personne ne veut l'entendre?"
 pubDate: 2020-06-24T16:50:37.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

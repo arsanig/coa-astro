@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/xaIS0AKPk_k.webp
 lang: en
 title: "St Cyril and the Eucharist: Created for Life and Immortality"
 pubDate: 2020-11-30T04:29:17
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to what is the third part of the first lecture in our deep dive of St. Cyril's understanding of the Holy Eucharist. The first two parts, we spoke about the primordial man and we've also spoken about how God's intention for us was to be created with the intention of union and to be in a state of incorruption, state of incorruptibility. Today... in today's lecture, we will hopefully take a look at what it means to be created with the intention of having life and potential of immortality. Let's go ahead and take a look together.</p>

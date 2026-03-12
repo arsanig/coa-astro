@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Kn3Q7EfJSRc.webp
 lang: en
 title: "Why do we sometimes feel that the Church has so many rules?"
 pubDate: 2018-02-28T14:21:41
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

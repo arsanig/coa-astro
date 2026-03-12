@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TRNMVeOOPwc.webp
 lang: fr
 title: "Les passions - Partie 1"
 pubDate: 2017-03-15T11:04:33.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

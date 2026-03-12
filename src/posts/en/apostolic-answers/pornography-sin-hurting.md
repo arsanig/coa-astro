@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/fz_k9p_KrkI.webp
 lang: en
 title: "Why is pornography a sin? Who am I hurting?- Part 1"
 pubDate: 2017-08-16T00:07:15
-tags: ["aa"]
+tags: ["aa", "social", "pornography"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

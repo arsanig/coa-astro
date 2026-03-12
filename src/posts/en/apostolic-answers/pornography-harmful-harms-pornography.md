@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/EDpulPI1gH8.webp
 lang: en
 title: "Is pornography harmful for you? What are the harms of pornography?- Part 2"
 pubDate: 2017-10-25T00:09:05
-tags: ["aa"]
+tags: ["aa", "social", "pornography"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

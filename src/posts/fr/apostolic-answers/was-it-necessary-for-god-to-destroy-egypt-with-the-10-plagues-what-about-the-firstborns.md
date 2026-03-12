@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/rZELpkKe878.webp
 lang: fr
 title: "Était-ce nécessaire que Dieu envoie 10 plaies sur l'Égypte?"
 pubDate: 2019-02-06T13:45:22.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

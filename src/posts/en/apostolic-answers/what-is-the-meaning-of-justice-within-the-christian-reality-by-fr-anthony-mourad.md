@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Sz5S1nkFTxA.webp
 lang: en
 title: "What is the meaning of Justice within the Christian reality?"
 pubDate: 2021-06-09T00:28:50
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>The word justice carries a significant amount of value for many people. Everyone seems to want it and demands its enforcement and seeks to have it apply to everyone alike. And yet not everyone agrees what this word actually means and implies. In today's discussion, let's take the time to understand what the actual definition of justice ought to be for the Christian believer.</p>

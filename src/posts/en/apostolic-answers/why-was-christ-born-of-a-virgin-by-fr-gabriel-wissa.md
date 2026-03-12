@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Yu42UBRLJ7s.webp
 lang: en
 title: "Why was Christ born of a Virgin?"
 pubDate: 2019-12-04T12:00:04
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Why was Christ born of the Virgin St. Mary? Why did she have to be a virgin? Is marriage dishonourable and that is why she needed to be a virgin? Or, is sexuality within marriage frowned upon? We will tackle all those questions in this video.</p>

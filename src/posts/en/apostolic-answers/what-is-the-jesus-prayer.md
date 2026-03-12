@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/K7WXi0l7amU.webp
 lang: en
 title: "What is the Jesus Prayer?"
 pubDate: 2018-05-08T10:19:41
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

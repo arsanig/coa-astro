@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/ilt74TK6M1k.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 3, Partie 1: La christologie de Saint Cyrille - Qui est Jésus-Christ?"
 pubDate: 2021-01-31T02:47:20
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue au troisième volet de cette série qui porte sur l'Eucharistie selon la pensée de saint Cyrille d'Alexandrie. Si vous avez assisté aux quelques dernières présentations, vous êtes parfaitement conscients de ce que nous essayons de faire ici. Puisqu'il importe que nous discutions de notre compréhension de la théologie eucharistique d'après la pensée de saint Cyrille, vous savez maintenant qu'il fallait commencer par comprendre dans quelle condition se trouve l'humanité. Et nous en avons parlé en expliquant que le Seigneur avait une intention précise en ce qui concerne l'être humain lorsqu'il nous a créés à son image et à sa ressemblance.</p>

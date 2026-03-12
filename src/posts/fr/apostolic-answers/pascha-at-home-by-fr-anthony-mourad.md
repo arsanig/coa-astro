@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/aw62HTBqrtM.webp
 lang: fr
 title: "Pascha at Home Passer la Semaine sainte chez soi"
 pubDate: 2021-04-21T12:00:41.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

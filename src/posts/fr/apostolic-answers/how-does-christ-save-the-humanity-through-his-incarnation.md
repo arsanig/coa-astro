@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/pv3Gal6qbCY.webp
 lang: fr
 title: 'Le salut - Partie 2: En quoi l''incarnation du Christ a-t-elle sauvé l''humanité?'
 pubDate: 2021-11-24T11:44:27.000Z
-tags: ["aa"]
+tags: ["aa", "soteriology", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

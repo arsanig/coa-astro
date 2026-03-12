@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/wVrVjDs3xnM.webp
 lang: en
 title: "Is There a Hierarchy in the Church"
 pubDate: 2024-06-28T16:01:01
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Father Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/w_O8Npf8_gA.webp
 lang: fr
 title: "Qui a créé Dieu?"
 pubDate: 2017-03-07T22:04:17.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

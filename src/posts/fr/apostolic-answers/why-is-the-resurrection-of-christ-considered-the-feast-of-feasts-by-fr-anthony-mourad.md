@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ktoYdRXFFU0.webp
 lang: fr
 title: "Pourquoi la Fête de la Résurrection est-elle considérée comme étant la fête des fêtes?"
 pubDate: 2020-05-13T15:43:08.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

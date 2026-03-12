@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BMqxlegakc0.webp
 lang: en
 title: "How do I deal with the Spiritual passion of Despondency?"
 pubDate: 2023-07-11T23:04:16
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Anthony Mourad"
 ---
 <p>In our last video, we discussed what the passion of akidía or despondency does to the person who's suffering from it; how it can completely paralyze our spiritual growth and introduce even more warfare from other passions. And now it’s time for us to ask: How do we deal with it? So, without further ado, let’s get right into it.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/CTZ0BhvDGxs.webp
 lang: en
 title: "What is keeping me from EXPERIENCING God?"
 pubDate: 2022-09-20T22:46:00
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

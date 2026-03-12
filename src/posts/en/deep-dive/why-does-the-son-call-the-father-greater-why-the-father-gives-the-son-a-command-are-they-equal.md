@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JnhqCn-jAiM.webp
 lang: en
 title: "Why does the Son call the Father greater? Why the Father gives the Son a command? Are they equal?"
 pubDate: 2022-10-05T10:36:26
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and the Son, the Holy Spirit, One God. Amen.</p>

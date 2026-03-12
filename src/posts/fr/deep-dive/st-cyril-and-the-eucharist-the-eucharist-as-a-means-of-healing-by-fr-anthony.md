@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/5CV-0v7LKv4.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 4, Partie 2: L'Eucharistie comme moyen de guérison"
 pubDate: 2021-03-28T22:36:12
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, bienvenue à la deuxième partie du quatrième volet de notre analyse détaillée de la façon dont saint Cyrille d'Alexandrie conçoit l'Eucharistie et nous l'enseigne. Durant cette présentation, nous avons jusqu'à maintenant parlé de corruptibilité, en mentionnant l'état de corruption de l'humanité et ses conséquences, sans oublier la corruption et la mort que nous avons reçues en héritage. Cette deuxième partie de la présentation sera spécialement consacrée à l'Eucharistie comme moyen de nous guérir de cet état de corruption qui nous afflige. Allons-y et examinons cela ensemble.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dJz_zkzGVD0.webp
 lang: en
 title: "Why do the Jews want to stone Christ? What is the feast of Dedication?"
 pubDate: 2020-11-10T20:26:24
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name Father and Son, the Holy Spirit, One God. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/u47Vu5i34gQ.webp
 lang: fr
 title: "Êtes-vous un vrai chrétien?"
 pubDate: 2018-04-18T10:32:42.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

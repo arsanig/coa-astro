@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/HNq0QJRD1Ak.webp
 lang: fr
 title: "Pourquoi fallait-il que Jésus-Christ meure sur la croix?"
 pubDate: 2024-05-02T18:56:11.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Anthony Mourad"
 ---
 

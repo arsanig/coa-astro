@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ln8CBRGeCSI.webp
 lang: en
 title: "Where did Jesus say that He is God?"
 pubDate: 2020-04-09T14:41:07
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

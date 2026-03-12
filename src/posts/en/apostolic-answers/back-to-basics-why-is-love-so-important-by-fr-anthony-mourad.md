@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/dScCCP1FnzA.webp
 lang: en
 title: "Back to Basics: why is love so important?"
 pubDate: 2020-03-11T10:12:22
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Most people would agree that an essential part of what it means to be human is our capacity to love. And while we may express in many forms what we consider love, is there something more there that meets the eye? Is there more to love than what we simply perceive and feel? Let’s take a closer look at why love is one of the fundamental elements of the Christian reality.</p>

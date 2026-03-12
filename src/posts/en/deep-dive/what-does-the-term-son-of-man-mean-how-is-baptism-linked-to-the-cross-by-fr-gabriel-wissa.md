@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yDDtjERUR5Y.webp
 lang: en
 title: "What does the term ‘Son of Man’ mean? How is baptism linked to the cross?"
 pubDate: 2019-11-25T12:00:16
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

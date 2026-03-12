@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/OiOrMDA3UrQ.webp
 lang: en
 title: "Confess to God, the Priest or to One Another?"
 pubDate: 2023-10-18T12:00:47
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "the-sacraments", "repentance-and-confession"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Are we supposed to confess to God directly or to confess to a priest, or to confess to one another, as it says in Epistle St. James? The purpose of this video is to clarify this matter from a biblical and historical perspective.</p>

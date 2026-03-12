@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/uzUk-3R7ZkA.webp
 lang: en
 title: "Why would a loving God FLOOD the world? (Violence in the OT - part 3)"
 pubDate: 2017-10-11T09:30:54
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

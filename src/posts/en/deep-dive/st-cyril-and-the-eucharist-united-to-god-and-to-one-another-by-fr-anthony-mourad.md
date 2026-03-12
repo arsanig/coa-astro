@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/mpcNIEQbg3Y.webp
 lang: en
 title: "St Cyril and the Eucharist: United to God and to One Another"
 pubDate: 2021-07-12T00:00:36
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>Welcome now, my beloved, to the third and final part of the final lecture, which is the sixth lecture on this series where deep dive into the understanding of the Eucharist according to St. Cyril of Alexandria.</p>

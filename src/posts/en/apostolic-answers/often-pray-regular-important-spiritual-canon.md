@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZLhwAJrDGEM.webp
 lang: en
 title: "How often should I pray? Is being regular important? What is a spiritual canon?"
 pubDate: 2017-09-27T12:06:30
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

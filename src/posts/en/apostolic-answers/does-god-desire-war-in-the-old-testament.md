@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/9MeGNJU0iyk.webp
 lang: en
 title: "Does God desire war in the Old Testament?"
 pubDate: 2019-05-15T11:30:56
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Does God desire war in the Old Testament? It is certainly undeniable that God allows and sometimes even commands war. And I will address this, God willing, in the next video in this series. But for today, the question is: Does God want these wars? Does He delight in them? The answer to today’s question will be foundational for understanding the next video on God commanding war.</p>

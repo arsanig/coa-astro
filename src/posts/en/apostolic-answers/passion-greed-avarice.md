@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IfFbLaj1suc.webp
 lang: en
 title: "What is the passion of Greed & Avarice?(Passions- Part 4)"
 pubDate: 2017-08-23T14:11:20
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

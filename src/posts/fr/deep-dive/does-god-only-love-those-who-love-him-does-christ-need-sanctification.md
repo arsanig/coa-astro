@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/n4FkemhTXmg.webp
 lang: fr
 title: "Dieu aime-t-il seulement ceux qui l'aiment?"
 pubDate: 2024-02-28T12:00:36
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

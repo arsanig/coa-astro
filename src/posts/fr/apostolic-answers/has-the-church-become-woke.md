@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/jHbKMzLmZ4k.webp
 lang: fr
 title: "L'Église serait-elle devenue woke?"
 pubDate: 2024-04-24T16:00:36
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Père Gabriel Wissa"
 ---
 

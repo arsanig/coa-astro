@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/yB5k4fxJ8q4.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 1, Partie 2: L'homme créé pour vivre uni et sans corruption"
 pubDate: 2020-11-15T21:19:51
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite la bienvenue aujourd'hui pour la deuxième partie du premier volet de notre analyse détaillée de la Sainte Eucharistie, d'après la pensée de saint Cyrille d'Alexandrie. Si vous étiez avec nous pour la première partie, vous nous avez entendus dire qu'il est important de comprendre quelle était l'intention de Dieu envers l'être humain. Nous avons donc discuté de l'homme d'origine et des intentions particulières que Dieu avait en tête lorsqu'il nous a créés.</p>

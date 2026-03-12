@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/9vsb0UwU2_4.webp
 lang: fr
 title: 'La soumission dans le mariage - Partie 1: Pourquoi Dieu a-t-il introduit la notion de soumission au départ?'
 pubDate: 2017-02-14T21:58:47.000Z
-tags: ["aa"]
+tags: ["aa", "social", "male-and-female", "submission-in-marriage"]
 author: "Père Anthony Mourad"
 ---
 

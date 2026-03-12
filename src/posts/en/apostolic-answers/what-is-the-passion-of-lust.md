@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ae9wCOTPIpc.webp
 lang: en
 title: "What is the passion of Lust?"
 pubDate: 2017-03-28T19:21:20
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

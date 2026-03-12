@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/C-YSSHcwsdc.webp
 lang: fr
 title: 'La violence dans l''Ancien Testament - Partie 4: Si Dieu est amour, pourquoi a-t-il demandé à Abraham de sacrifier son fils?'
 pubDate: 2018-01-16T23:25:02.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Père Gabriel Wissa"
 ---
 

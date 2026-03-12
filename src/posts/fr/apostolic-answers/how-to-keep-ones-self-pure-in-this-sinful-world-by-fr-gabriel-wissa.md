@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/WEPJuym_tpc.webp
 lang: fr
 title: "Comment demeurer pur dans ce monde immoral"
 pubDate: 2021-03-30T18:38:52.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Gabriel Wissa"
 ---
 

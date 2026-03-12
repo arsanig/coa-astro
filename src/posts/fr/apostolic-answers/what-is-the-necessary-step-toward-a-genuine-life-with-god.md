@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lX2HjW2DMHk.webp
 lang: fr
 title: "Que faut-il faire pour vraiment vivre avec Dieu?"
 pubDate: 2018-06-11T22:07:00.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

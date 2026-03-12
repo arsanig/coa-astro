@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1Lh_1krMQhA.webp
 lang: en
 title: "Why is Gen. 1 divided into 7 days? Why God rests on the 7th day?"
 pubDate: 2020-03-05T10:00:51
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In our last video, we discussed the real meaning of Genesis 1 and we saw how the text is part of an introduction that leads to Abraham, the father of the Jews, and that the main purpose of the text was to discuss the creation of the world, but with the purpose of demythologizing or dethroning the fake pagan gods of the time. In that video, which you can find the link to in the description below, we covered the meaning of the first five days of Genesis 1. In this video, we will discuss the last two days of this first chapter as well as briefly look into the creation’s seven-day structure.</p>

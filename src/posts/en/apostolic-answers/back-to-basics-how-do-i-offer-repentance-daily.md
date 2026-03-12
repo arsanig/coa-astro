@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/MFHOsdN-cWs.webp
 lang: en
 title: "Back to Basics: How do I offer repentance daily?"
 pubDate: 2020-02-05T12:00:29
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Repentance is one of those things that is often misunderstood. It's not an attempt at putting yourself down nor is it a specific moment in time when you're officially sin free. It's actually not so much a destination as much as it is the journey, a daily one. Let's take a deeper look at this crucial concept which moulds the life of every Christian.</p>

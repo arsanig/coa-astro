@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/rAL0sttGn14.webp
 lang: en
 title: "St Cyril and the Eucharist: Eucharist as a source of Reconciliation"
 pubDate: 2021-06-12T20:29:53
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to the sixth part of the series that we began just a little while ago on the topic of the Eucharist in the mindset of our father among the saints, Saint Cyril of Alexandria. Now, if you have been paying attention with us, we have come a long way. We have discussed quite a bit in trying to understand the Church's understanding and the Church's view on the Holy Eucharist and we decided to do this specifically through the life and teachings of Saint Cyril of Alexandria.</p>

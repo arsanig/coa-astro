@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Nbjr7lxaDpM.webp
 lang: fr
 title: "Que veut-on dire par « le Christ est la porte par laquelle entrent les moutons »?"
 pubDate: 2020-10-19T13:13:16
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

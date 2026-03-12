@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JtaNG2Os6OY.webp
 lang: fr
 title: "Sommes-nous en train de vivre la fin des temps?"
 pubDate: 2022-02-09T00:43:08.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "social"]
 author: "Père Anthony Mourad"
 ---
 

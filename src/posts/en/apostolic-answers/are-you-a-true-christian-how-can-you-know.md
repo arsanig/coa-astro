@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/u47Vu5i34gQ.webp
 lang: en
 title: "Are you a true Christian? How can you know?"
 pubDate: 2018-04-18T10:32:42
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

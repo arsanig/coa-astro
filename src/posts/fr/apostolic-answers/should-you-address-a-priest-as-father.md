@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/Y90MOlCvXnY.webp
 lang: fr
 title: "Devrait-on dire « père » en s'adressant à un prêtre?"
 pubDate: 2019-06-05T14:41:55.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ilvB0OyQK-s.webp
 lang: fr
 title: "Quelle est la principale différence entre le protestantisme et l'orthodoxie?"
 pubDate: 2021-10-13T09:02:17.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology"]
 author: "Père Gabriel Wissa"
 ---
 

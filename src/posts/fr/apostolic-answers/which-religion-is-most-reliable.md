@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/496gUm98-aY.webp
 lang: fr
 title: "Quelle religion est la plus fiable?"
 pubDate: 2024-10-03T16:00:04
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ywCKQvuhips.webp
 lang: fr
 title: "Que devrait être la position des chrétiens face au droit que certains réclament de choisir leur identité sexuelle?"
 pubDate: 2018-02-14T15:08:53.000Z
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "male-and-female"]
 author: "Père Gabriel Wissa"
 ---
 

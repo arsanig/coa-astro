@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BAC-5LvGg4s.webp
 lang: fr
 title: 'Les passions - Partie 7: Qu''est-ce que cette passion de l''esprit que l''on appelle l''acédie?'
 pubDate: 2023-05-31T10:34:39.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Anthony Mourad"
 ---
 

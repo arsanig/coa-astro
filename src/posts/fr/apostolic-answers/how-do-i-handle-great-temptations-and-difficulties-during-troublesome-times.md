@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/oU2n87dWrYE.webp
 lang: fr
 title: "Comment composer avec les tentations et les difficultés dans les périodes d'adversité?"
 pubDate: 2020-09-09T19:57:22
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

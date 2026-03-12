@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/O13ZbYA9v88.webp
 lang: fr
 title: 'Les icônes orthodoxes - Partie 2: Quelle est la position de l''Église quant aux icônes et à l''usage qu''on en fait?'
 pubDate: 2019-05-22T10:27:18.000Z
-tags: ["aa"]
+tags: ["aa", "iconography", "faith-sacraments-theology"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/bg3a6HaLoxQ.webp
 lang: fr
 title: "Saint Cyrille et l'Eucharistie - Présentation 4, Partie 1: La corruption de l'humanité"
 pubDate: 2021-03-16T21:37:37
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Père Anthony Mourad"
 ---
+
 <p>Au nom du Père et du Fils et du Saint-Esprit, le Dieu unique. Amen.</p>
 <br>
 <p>Mes bien chers frères, je vous souhaite encore une fois la bienvenue à notre série de vidéos où nous effectuons une analyse approfondie visant à comprendre l'Eucharistie d'après la pensée de saint Cyrille d'Alexandrie. Si vous étiez avec nous précédemment, vous savez déjà que nous tentons de saisir toute la richesse et la beauté de l'Eucharistie d'après saint Cyrille, en nous penchant sur des aspects très précis de sa façon d'en parler.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/0AEZMwTyQPs.webp
 lang: en
 title: "How Can I Practically Benefit From The Cross?"
 pubDate: 2017-04-11T20:25:15
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

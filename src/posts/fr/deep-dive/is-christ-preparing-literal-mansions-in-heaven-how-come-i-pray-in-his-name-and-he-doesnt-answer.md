@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/p9MNfUmTo0U.webp
 lang: fr
 title: "Le Christ construit-il de véritables demeures dans les cieux?"
 pubDate: 2022-05-04T12:34:55
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

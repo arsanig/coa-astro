@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/bZ3CyErWCOo.webp
 lang: fr
 title: 'La guerre spirituelle - Partie 3: Le péché vous pousse-t-il au désespoir?'
 pubDate: 2018-12-30T12:56:00.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Père Gabriel Wissa"
 ---
 

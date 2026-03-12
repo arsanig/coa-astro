@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yDDtjERUR5Y.webp
 lang: fr
 title: "Que signifie l'expression « Fils de l'homme »?"
 pubDate: 2019-11-25T12:00:16
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 

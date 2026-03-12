@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/JLCzWmg0RSE.webp
 lang: en
 title: "What is the doctrine of the Holy Trinity?- Part 1"
 pubDate: 2017-10-31T22:17:57
-tags: ["aa"]
+tags: ["aa", "faith-sacraments-theology", "on-the-holy-trinity"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

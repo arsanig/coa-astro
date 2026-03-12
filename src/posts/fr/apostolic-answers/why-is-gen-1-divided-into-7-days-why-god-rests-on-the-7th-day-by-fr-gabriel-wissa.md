@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1Lh_1krMQhA.webp
 lang: fr
 title: 'Comprendre le récit de la création - Partie 3: Pourquoi le récit de la création est-il réparti sur 7 jours?'
 pubDate: 2020-03-05T10:00:51.000Z
-tags: ["aa"]
+tags: ["aa", "genesis-1-3-understanding-the-creation-account", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ScPqL_oDPMk.webp
 lang: fr
 title: 'La fête de la Nativité, est-ce seulement l''anniversaire de Jésus?'
 pubDate: 2017-12-13T01:40:04.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

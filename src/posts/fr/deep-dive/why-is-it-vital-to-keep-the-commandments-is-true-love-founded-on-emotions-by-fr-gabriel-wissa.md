@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/UE_wYhekFb4.webp
 lang: fr
 title: "Pourquoi est-il essentiel de respecter les commandements?"
 pubDate: 2023-03-08T01:48:37
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et du Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ncoPmxVkz2U.webp
 lang: en
 title: "What is the Church’s stance on Euthanasia and Physician Assisted Suicide?"
 pubDate: 2017-09-20T02:03:08
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

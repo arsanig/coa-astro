@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/TTS9REPmHb4.webp
 lang: fr
 title: 'Les héros de la foi orthodoxe - Partie 1: Saint Athanase d''Alexandrie'
 pubDate: 2017-03-01T11:51:55.000Z
-tags: ["aa"]
+tags: ["aa", "church-history-fathers", "heroes-of-orthodoxy"]
 author: "Père Anthony Mourad"
 ---
 

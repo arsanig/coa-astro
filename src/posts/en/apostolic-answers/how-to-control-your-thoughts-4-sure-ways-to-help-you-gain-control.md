@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/hbBQSxhSaug.webp
 lang: en
 title: "How to control your thoughts? 4 sure ways to help you gain control."
 pubDate: 2019-02-20T12:00:39
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "orthodox-spirituality"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Controlling our thoughts and feelings can often be challenging and sometimes very frustrating, but when we gain authority over our mind, our lives flourish. We develop a winning attitude and we can successfully overcome adversity. Gaining control over our mind keeps us from falling into sin and strengthens us against negative thoughts that ruin our day. In this video, we will share with you four efficient ways, if mastered, can surely help you gain control over your mind and feeling.</p>

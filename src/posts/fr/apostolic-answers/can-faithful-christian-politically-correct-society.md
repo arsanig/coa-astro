@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ngdjg3tfzx0.webp
 lang: fr
 title: "Comment puis-je être un chrétien fidèle dans une société si « politiquement correcte »?"
 pubDate: 2017-11-15T13:47:10.000Z
-tags: ["aa"]
+tags: ["aa", "social"]
 author: "Père Anthony Mourad"
 ---
 

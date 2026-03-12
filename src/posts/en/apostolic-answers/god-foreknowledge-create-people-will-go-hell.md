@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/kY_ccYUspeM.webp
 lang: en
 title: "If God has foreknowledge, why does He CREATE people that will go to hell?"
 pubDate: 2017-08-30T00:35:50
-tags: ["aa"]
+tags: ["aa", "apologetics", "on-hell"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

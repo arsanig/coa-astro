@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/8LgBzU4qq7Q.webp
 lang: en
 title: "What is understood by submission in marriage? - Part 2"
 pubDate: 2017-02-14T21:53:28
-tags: ["aa"]
+tags: ["aa", "social", "male-and-female", "submission-in-marriage"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/b68mr77ZWVU.webp
 lang: fr
 title: "Y a-t-il vraiment des forces maléfiques et diaboliques"
 pubDate: 2022-08-31T11:39:15.000Z
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Père Anthony Mourad"
 ---
 

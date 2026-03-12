@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/b68mr77ZWVU.webp
 lang: en
 title: "Are there really dark and demonic forces around us?"
 pubDate: 2022-08-31T11:39:15
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare"]
 author: "Fr. Anthony Mourad"
 ---
 <p>As Christians, we believe that God is real. We also believe that there are dark and demonic forces that oppose God. But some people live their life as if Satan did not exist and that no forces of darkness surround us. Do they? Should we be concerned? What should be our response? Well, let’s take a deeper look into this often ignored subject.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/IHAblgZy_EI.webp
 lang: en
 title: "Why is St. Mary such an important figure in Christianity?"
 pubDate: 2018-05-01T01:21:51
-tags: ["aa"]
+tags: ["aa", "intercession-of-saints", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

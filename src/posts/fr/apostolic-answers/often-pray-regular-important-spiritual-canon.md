@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZLhwAJrDGEM.webp
 lang: fr
 title: "À quelle fréquence devrais-je prier?"
 pubDate: 2017-09-27T12:06:30.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "prayer"]
 author: "Père Gabriel Wissa"
 ---
 

@@ -5,9 +5,10 @@ imgSrc: /assets/thumbnails/_UQ3FRfh7bk.webp
 lang: en
 title: "St Cyril and the Eucharist: His Body and Blood give us Life."
 pubDate: 2021-05-16T23:24:59
-tags: ["dd"]
+tags: ["dd", "eucharist"]
 author: "Fr. Anthony Mourad"
 ---
+
 <p>In the name of the Father and the Son and the Holy Spirit, One God. Amen.</p>
 <br>
 <p>My beloved, welcome now to the second part of the fifth lecture. If you have been following along with us, we have spoken quite a bit in the last several series or in the last several parts of the fourth lecture where we spoke about how it is that the Eucharist truly is there in order for us to be able to go from a state of corruption and to be rendered back to a state of incorruption. So, the Eucharist is the very means that helps us to achieve this incorruptibility, if you wish.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/yTiwwdeUGac.webp
 lang: en
 title: "Jeremy Renner's Near-Death Encoutner and the Name He Won't Say"
 pubDate: 2025-05-20T23:48:48
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Father Gabriel Wissa"
 ---
 

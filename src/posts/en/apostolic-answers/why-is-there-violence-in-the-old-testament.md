@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BDIT0MMZjp4.webp
 lang: en
 title: "Why is there violence in the Old Testament? (Violence in the OT - Part 1)"
 pubDate: 2017-02-14T21:23:16
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

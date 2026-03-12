@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/spxCFyG9qHU.webp
 lang: en
 title: "Are saints alive? Can they be in two places at once? Can they hear us?"
 pubDate: 2022-04-06T09:39:40
-tags: ["aa"]
+tags: ["aa", "intercession-of-saints", "soteriology", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 

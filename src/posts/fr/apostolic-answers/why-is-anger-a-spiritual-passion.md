@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/VfLhabfeMAg.webp
 lang: fr
 title: 'Les passions - Partie 5: Pourquoi la colère est-elle une passion de l''esprit?'
 pubDate: 2018-08-13T11:07:06.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality", "the-passions"]
 author: "Père Anthony Mourad"
 ---
 

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zhbe851Uito.webp
 lang: en
 title: "How are we saved according to Orthodoxy?"
 pubDate: 2021-08-11T10:22:03
-tags: ["aa"]
+tags: ["aa", "soteriology", "faith-sacraments-theology"]
 author: "Fr. Anthony Mourad"
 ---
 <p>Have you ever heard people speak of what it takes to be saved? Have you ever wondered what is it that we are saved from as Christians and how God goes about saving us? Well if you have, then you're not alone. This is possibly one of the most important and most discussed topics in all of Christian history. So let’s go ahead and have the discussion together.</p>

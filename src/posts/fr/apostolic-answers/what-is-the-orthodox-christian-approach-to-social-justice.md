@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/68a3iNjt2VU.webp
 lang: fr
 title: 'La justice sociale - Partie 1: Quelle est la façon chrétienne orthodoxe d''aborder les questions de justice sociale?'
 pubDate: 2021-03-24T11:00:45.000Z
-tags: ["aa"]
+tags: ["aa", "orthodox-spirituality"]
 author: "Père Anthony Mourad"
 ---
 

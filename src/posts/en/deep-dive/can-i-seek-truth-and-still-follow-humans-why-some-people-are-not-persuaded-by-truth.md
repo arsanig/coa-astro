@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/pDjXYGYJZlU.webp
 lang: en
 title: "Can I seek Truth and still follow humans? Why some people are not persuaded by Truth?"
 pubDate: 2020-06-12T12:00:15
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In name of the Father and Son, the Holy Spirit, One God. Amen.</p>

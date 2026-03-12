@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BcSUUY4GD4g.webp
 lang: en
 title: "How will the end of the world be? What is 666?"
 pubDate: 2018-09-29T14:29:06
-tags: ["aa"]
+tags: ["aa", "church-history-fathers", "faith-sacraments-theology"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answer from an apostolic faith.</p>

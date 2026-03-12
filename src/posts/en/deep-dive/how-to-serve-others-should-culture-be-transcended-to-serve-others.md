@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/jLndZqUhPss.webp
 lang: en
 title: "How to genuinely serve others? Should culture be transcended for the sake of serving others?"
 pubDate: 2020-02-10T12:00:57
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In Father and Son, the Holy Spirit, One God. Amen.</p>

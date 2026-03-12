@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/lXrXP15RmvI.webp
 lang: en
 title: "Why Would God Entirely Destroy Sodom & Gomorrah? What About The Children?"
 pubDate: 2018-10-17T14:56:37
-tags: ["aa"]
+tags: ["aa", "apologetics", "old-testament"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

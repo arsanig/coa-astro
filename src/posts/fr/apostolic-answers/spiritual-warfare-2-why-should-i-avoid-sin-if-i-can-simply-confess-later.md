@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/zcbQE3G9Sik.webp
 lang: fr
 title: "La guerre spirituelle - Partie 2: Pourquoi éviter de pécher si l'on peut s'en confesser plus tard?"
 pubDate: 2023-03-15T16:00:43
-tags: ["aa"]
+tags: ["aa", "spiritual-warfare", "social"]
 author: "Père Gabriel Wissa"
 ---
 

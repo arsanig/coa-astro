@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/FJWP4eYcSoo.webp
 lang: fr
 title: "Quelques mots sur la structure et le contexte historique de l'Évangile selon saint Jean"
 pubDate: 2019-09-03T12:00:03
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Père Gabriel Wissa"
 ---
 <p>Au nom du Père et Fils, le Saint-Esprit, le Dieu unique. Amen.</p>

@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/BKnEXMosp2g.webp
 lang: fr
 title: 'Le christianisme et la science - Partie 1: Quelle attitude un chrétien devrait-il adopter face à la science?'
 pubDate: 2019-06-18T11:00:19.000Z
-tags: ["aa"]
+tags: ["aa", "christianity-and-science", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

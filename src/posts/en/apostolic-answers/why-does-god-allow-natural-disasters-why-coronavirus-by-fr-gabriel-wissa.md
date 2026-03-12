@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/1TMfquPeG1I.webp
 lang: en
 title: "Why does God allow NATURAL DISASTERS? Why coronavirus?"
 pubDate: 2020-05-19T14:30:55
-tags: ["aa"]
+tags: ["aa", "why-pain-and-suffering", "apologetics"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Our beloved Father Anthony Mourad explained in a previous video why God allows pain and suffering (link in the comments below), but why does God allow natural disasters? What about the current pandemic of the coronavirus? Are these distressful natural disasters an act of God as they're often attributed? Are they the outcome of God’s wrath? Let us examine this question together.</p>

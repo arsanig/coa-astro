@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/i52fmnZhLpQ.webp
 lang: en
 title: "Discover the beautiful hidden meaning behind the wedding of Cana of Galilee."
 pubDate: 2019-10-14T11:24:43
-tags: ["dd"]
+tags: ["dd", "gospel-of-john"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>In the Father and Son, the Holy Spirit, One God. Amen.</p>

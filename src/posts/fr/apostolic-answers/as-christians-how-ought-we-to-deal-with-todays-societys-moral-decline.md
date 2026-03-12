@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZyVFEE_BOnQ.webp
 lang: fr
 title: 'Comme chrétiens, comment composer avec le déclin moral de la société actuelle?'
 pubDate: 2018-03-14T11:19:02.000Z
-tags: ["aa"]
+tags: ["aa", "apologetics"]
 author: "Père Gabriel Wissa"
 ---
 

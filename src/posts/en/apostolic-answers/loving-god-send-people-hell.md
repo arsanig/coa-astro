@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/ZLjb_0PU8FA.webp
 lang: en
 title: "Why Does a Loving God Send People to Hell?"
 pubDate: 2017-05-02T17:51:53
-tags: ["aa"]
+tags: ["aa", "apologetics", "on-hell"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Welcome to answers from an apostolic faith.</p>

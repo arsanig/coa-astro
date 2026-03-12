@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/GEAP-8K77zQ.webp
 lang: en
 title: "Why does St. Paul ask women to learn in silence & submission? Is he a Misogynist?"
 pubDate: 2020-06-17T16:44:07
-tags: ["aa"]
+tags: ["aa", "apologetics", "male-and-female"]
 author: "Fr. Gabriel Wissa"
 ---
 <p>Does God prefer men over women? Christianity claims that both genders are equal, which they are. But we read in 1 Timothy that women ought to learn in silence with all submission and that they should not have authority over a man or to teach. We also find similar language in 1 Corinthians. Was St. Paul sexist then? Is the Church sexist? Even worse: Is St. Paul a misogynist? By God’s Grace, this video will answer these questions.</p>

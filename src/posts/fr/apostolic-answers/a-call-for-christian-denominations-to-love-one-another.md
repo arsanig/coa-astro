@@ -5,7 +5,7 @@ imgSrc: /assets/thumbnails/B1g-opRB4nc.webp
 lang: fr
 title: "Les confessions chrétiennes sont invitées à s'aimer entre elles"
 pubDate: 2024-04-13T16:00:06
-tags: ["aa"]
+tags: ["aa", "reactions"]
 author: "Père Gabriel Wissa"
 ---
 
